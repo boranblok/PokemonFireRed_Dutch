@@ -1,11 +1,5 @@
 /*.gba
 /*.sav
-/BPEJ.ini
-/BPGD.ini
-/BPGE.ini
-/AXVE.ini
-/BPEE.ini
 /settings.ini
 /*.exe
 /CreatePatch.cmd
-/Extensions/*.bak
