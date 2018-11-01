@@ -405,36 +405,36 @@
 1772B8| 1| 46|0|D|Silph Co. 11F                           |Halt! Do you have an appointment[br]with my BOSS?|Stop! Heb je een afspraak met[br]mijn BAAS?
 1772E7| 1| 17|0|D|Silph Co. 11F                           |Gaah![br]Demolished!|Aaah![br]Vernield!
 1772F9| 1| 49|0|D|Silph Co. 11F                           |Watch your step[...][br]My BOSS likes his POKéMON tough!|Opgepast[...][br]Mijn BAAS houd van sterke POKéMON!
-17732B| 1| 30|0|D|Pok?mon Mansion                         |The monitor has POKéMON on it!|Er staan POKéMON op het scherm!
+17732B| 1| 30|0|D|Pokémon Mansion                         |The monitor has POKéMON on it!|Er staan POKéMON op het scherm!
 17734A| 1| 25|0|D|Silph Co. 11F                           |SILPH CO. HEAD OFFICE[br]11F|SILPH CO. HOOFDKANTOOR[br]11e
-177364| 1| 44|0|D|Pok?mon Mansion                         |Who are you?[br]There shouldn't be anyone here.|Wie ben jij?[br]Hier zou niemand mogen zijn.
-177391| 1|  5|0|D|Pok?mon Mansion                         |Ouch!|Oei!
-177397| 1| 46|0|D|Pok?mon Mansion                         |A key? I don't know what you're[br]talking about.|Een sleutel? Ik weet niet waarover[br]je het hebt.
-1773C6| 1| 54|0|D|Pok?mon Mansion                         |W-w-waah! You startled me![br]I thought you were a ghost.|Waaaah! Je deed me schrikken![br]Ik dacht dat je een spook was.
-1773FD| 1| 26|0|D|Pok?mon Mansion                         |Tch![br]I can't get any wins.|Dju![br]Ik kan maar niet winnen.
-177418| 1| 71|0|D|Pok?mon Mansion                         |I was exploring here by myself,[br]but I feel spooked.[nb2]I ought to go soon.|Ik was aan het rondkijken op mijn eentje.[br]Maar ik heb de bibbers gekregen.[nb2]Ik denk dat ik maar ga.
-177460| 1| 26|0|D|Pok?mon Mansion                         |A secret switch![nb2]Press it?|Een geheime knop![nb2]Druk je er op?
-17747B| 1| 13|0|D|Pok?mon Mansion                         |Who wouldn't?|Wou zou dit niet doen?
-177489| 1| 14|0|D|Pok?mon Mansion                         |Not quite yet!|Net niet genoeg!
-177498| 1| 50|0|D|Pok?mon Mansion                         |I can't get out![br]This old place is one big puzzle.|Ik kan niet weg![br]Deze plaats is een grote puzzel.
-1774CB| 1| 23|0|D|Pok?mon Mansion                         |Oh, no![br]My bag of loot!|O, nee![br]Mijn zak met buit!
-1774E3| 1| 59|0|D|Pok?mon Mansion                         |The switches here open and close[br]alternating sets of doors.|De schakelaars hier openen en sluiten[br]afwisselende groepen deuren.
-17751F| 1| 84|0|D|Pok?mon Mansion                         |Diary: July 5[br]Guyana, South America[nb2]A new POKéMON was discovered deep[br]in the jungle.|Logboek: 5 Juli[br]Guinee, Zuid Amerika[nb2]Een nieuwe POKéMON is ontdekt[br]diep in de jungle.
-177574| 1| 63|0|D|Pok?mon Mansion                         |Diary: July 10[br]We christened the newly discovered[nb]POKéMON, MEW.|Logboek: 10 Juli[nb2]We hebben de nieuw ontdekte[br]POKéMON MEW genoemd.
-1775E7| 1| 26|0|D|Pok?mon Mansion                         |This place is, like, huge!|Deze plaats is echt gigantisch!
-177602| 1|  5|0|D|Pok?mon Mansion                         |Ayah!|Ai!
-177608| 1| 31|0|D|Pok?mon Mansion                         |I wonder where my partner went.|Ik vraag me af waar mijn partner[br]naar toe is.
-177628| 1| 26|0|D|Pok?mon Mansion                         |My mentor once lived here.|Mijn leraar leefde hier vroeger.
-177643| 1| 19|0|D|Pok?mon Mansion                         |Whew![br]Overwhelming!|Zucht![br]Overweldigend!
-177657| 1| 45|0|D|Pok?mon Mansion                         |So, you're stuck?[br]Try jumping off over there!|Dus je zit vast?[br]Probeer daar af te springen!
-177685| 1| 58|0|D|Pok?mon Mansion                         |Diary: Feb. 6[br]MEW gave birth.[nb2]We named the newborn MEWTWO.|Logboek: 6 Feb.[br]MEW heeft een kind gekregen.[nb2]We hebben de baby MEWTWO genoemd.
-1776C0| 1| 22|0|D|Pok?mon Mansion                         |Uh-oh[...][br]Where am I now?|O, o[...][br]Waar ben ik nu?
-1776D7| 1|  6|0|D|Pok?mon Mansion                         |Awooh!|Awoee!
-1776DE| 1| 65|0|D|Pok?mon Mansion                         |You can find stuff lying around.[br]The residents must've left them.|Er slingert hier vanalles rond.[br]De bewoners hebben dat waarschijnlijk[nb]achtergelaten.
-177720| 1| 54|0|D|Pok?mon Mansion                         |This place is ideal for a lab.[br]Look at all this space.|Deze plaats is perfect voor een labo.[br]Kijk eens wat een plaats ik heb.
-177757| 1| 18|0|D|Pok?mon Mansion                         |What was that for?|Waar was dat voor?
-17776A| 1| 45|0|D|Pok?mon Mansion                         |I like it here.[br]It's conducive to my studies.|Ik vindt het hier leuk.[br]Ik kan hier goed studeren.
-177798| 1| 89|0|D|Pok?mon Mansion                         |Diary: Sept. 1[br]MEWTWO is far too powerful.[nb2]We have failed to curb its vicious[br]tendencies[...]|Logboek: 1 Sept.[br]MEWTWO is veel te sterk.[nb2]We zijn er niet in geslaagd zijn[br]bloeddorstige eigenschappen[nb]in te tomen[...]
+177364| 1| 44|0|D|Pokémon Mansion                         |Who are you?[br]There shouldn't be anyone here.|Wie ben jij?[br]Hier zou niemand mogen zijn.
+177391| 1|  5|0|D|Pokémon Mansion                         |Ouch!|Oei!
+177397| 1| 46|0|D|Pokémon Mansion                         |A key? I don't know what you're[br]talking about.|Een sleutel? Ik weet niet waarover[br]je het hebt.
+1773C6| 1| 54|0|D|Pokémon Mansion                         |W-w-waah! You startled me![br]I thought you were a ghost.|Waaaah! Je deed me schrikken![br]Ik dacht dat je een spook was.
+1773FD| 1| 26|0|D|Pokémon Mansion                         |Tch![br]I can't get any wins.|Dju![br]Ik kan maar niet winnen.
+177418| 1| 71|0|D|Pokémon Mansion                         |I was exploring here by myself,[br]but I feel spooked.[nb2]I ought to go soon.|Ik was aan het rondkijken op mijn eentje.[br]Maar ik heb de bibbers gekregen.[nb2]Ik denk dat ik maar ga.
+177460| 1| 26|0|D|Pokémon Mansion                         |A secret switch![nb2]Press it?|Een geheime knop![nb2]Druk je er op?
+17747B| 1| 13|0|D|Pokémon Mansion                         |Who wouldn't?|Wou zou dit niet doen?
+177489| 1| 14|0|D|Pokémon Mansion                         |Not quite yet!|Net niet genoeg!
+177498| 1| 50|0|D|Pokémon Mansion                         |I can't get out![br]This old place is one big puzzle.|Ik kan niet weg![br]Deze plaats is een grote puzzel.
+1774CB| 1| 23|0|D|Pokémon Mansion                         |Oh, no![br]My bag of loot!|O, nee![br]Mijn zak met buit!
+1774E3| 1| 59|0|D|Pokémon Mansion                         |The switches here open and close[br]alternating sets of doors.|De schakelaars hier openen en sluiten[br]afwisselende groepen deuren.
+17751F| 1| 84|0|D|Pokémon Mansion                         |Diary: July 5[br]Guyana, South America[nb2]A new POKéMON was discovered deep[br]in the jungle.|Logboek: 5 Juli[br]Guinee, Zuid Amerika[nb2]Een nieuwe POKéMON is ontdekt[br]diep in de jungle.
+177574| 1| 63|0|D|Pokémon Mansion                         |Diary: July 10[br]We christened the newly discovered[nb]POKéMON, MEW.|Logboek: 10 Juli[nb2]We hebben de nieuw ontdekte[br]POKéMON MEW genoemd.
+1775E7| 1| 26|0|D|Pokémon Mansion                         |This place is, like, huge!|Deze plaats is echt gigantisch!
+177602| 1|  5|0|D|Pokémon Mansion                         |Ayah!|Ai!
+177608| 1| 31|0|D|Pokémon Mansion                         |I wonder where my partner went.|Ik vraag me af waar mijn partner[br]naar toe is.
+177628| 1| 26|0|D|Pokémon Mansion                         |My mentor once lived here.|Mijn leraar leefde hier vroeger.
+177643| 1| 19|0|D|Pokémon Mansion                         |Whew![br]Overwhelming!|Zucht![br]Overweldigend!
+177657| 1| 45|0|D|Pokémon Mansion                         |So, you're stuck?[br]Try jumping off over there!|Dus je zit vast?[br]Probeer daar af te springen!
+177685| 1| 58|0|D|Pokémon Mansion                         |Diary: Feb. 6[br]MEW gave birth.[nb2]We named the newborn MEWTWO.|Logboek: 6 Feb.[br]MEW heeft een kind gekregen.[nb2]We hebben de baby MEWTWO genoemd.
+1776C0| 1| 22|0|D|Pokémon Mansion                         |Uh-oh[...][br]Where am I now?|O, o[...][br]Waar ben ik nu?
+1776D7| 1|  6|0|D|Pokémon Mansion                         |Awooh!|Awoee!
+1776DE| 1| 65|0|D|Pokémon Mansion                         |You can find stuff lying around.[br]The residents must've left them.|Er slingert hier vanalles rond.[br]De bewoners hebben dat waarschijnlijk[nb]achtergelaten.
+177720| 1| 54|0|D|Pokémon Mansion                         |This place is ideal for a lab.[br]Look at all this space.|Deze plaats is perfect voor een labo.[br]Kijk eens wat een plaats ik heb.
+177757| 1| 18|0|D|Pokémon Mansion                         |What was that for?|Waar was dat voor?
+17776A| 1| 45|0|D|Pokémon Mansion                         |I like it here.[br]It's conducive to my studies.|Ik vindt het hier leuk.[br]Ik kan hier goed studeren.
+177798| 1| 89|0|D|Pokémon Mansion                         |Diary: Sept. 1[br]MEWTWO is far too powerful.[nb2]We have failed to curb its vicious[br]tendencies[...]|Logboek: 1 Sept.[br]MEWTWO is veel te sterk.[nb2]We zijn er niet in geslaagd zijn[br]bloeddorstige eigenschappen[nb]in te tomen[...]
 1777F2| 1| 10|0|D|Safari Zone Central Area                |REST HOUSE|RUST HUIS
 1777FD| 1| 49|0|D|Safari Zone Central Area                |TRAINER TIPS[nb2]Press START to check[br]remaining time.|TRAINER TIPS[nb2]Druk op START om de[br]resterende tijd te controleren.
 17782F| 1| 11|0|D|Safari Zone Central Area                |CENTER AREA|CENTRALE ZONE
@@ -544,70 +544,70 @@
 179B0A| 1| 43|0|D|Rock Tunnel                             |It might be scary to use it in this[br]tunnel[...]|Het is misschien wel akelig om[br]het in deze tunnel te gebruiken[...]
 179B36| 1| 46|0|D|Seafoam Islands                         |Hint: Boulders might change the[br]flow of water.|Tip: Rotsen kunnen de richting van[br]het water aanpassen.
 179B65| 1| 20|0|D|Seafoam Islands                         |DANGER[br]Fast current!|OPGEPAST[br]Gevaarlijke stroming!
-179B7A| 1| 61|0|D|Pok?mon Tower                           |POKéMON TOWER was erected in the[br]memory of POKéMON that died.|POKéMON TOWER is een monument[br]voor overleden POKéMON.
-179BB8| 1| 67|0|D|Pok?mon Tower                           |Did you come to pay respects?[nb2]Bless your POKéMON-loving heart,[br]son.|Kom je de POKéMON eren?[nb2]Wees gezegend jongen.
-179BFC| 1| 68|0|D|Pok?mon Tower                           |Did you come to pay respects?[nb2]Bless your POKéMON-loving heart,[br]girl.|Kom je de POKéMON eren?[nb2]Wees gezegend meisje.
-179C41| 1| 74|0|D|Pok?mon Tower                           |I came to pray for my dearly[br]departed CLEFAIRY.[nb2]Sniff![br]I'm awash in tears[...]|Ik kom bidden voor mij[br]gestorven CLEFAIRY.[nb2]Snotter![br]Ik ben aan het huilen[...]
-179C8C| 1| 30|0|D|Pok?mon Tower                           |My GROWLITHE[...][br]Why did you die?|GROWLITHE[...][br]Waarom ben je ook gestorven?
-179CAB| 1| 83|0|D|Pok?mon Tower                           |I am a CHANNELER.[nb2]There are spirits up to mischief.[br]I sense them high in the TOWER.|Ik ben een MEDIUM.[nb2]Er zijjn geesten met kwade bedoelingen.[br]Ik voel ze hoog in de TOREN.
-179CFF| 1|115|0|D|Pok?mon Tower                           |[RIVAL]: Hey, [PLAYER]![br]What brings you here?[nb]Is your POKéMON dead?[nb2]Hey! It's alive![nb2]I can at least make them faint![br]Let's go!|[RIVAL]: Hé, [PLAYER]![br]Wat brengt jou hier?[nb]Is je POKéMON dood?[nb2]Ah! Hij leeft nog![nb2]Dan kan ik er mee vechten![br]Komaan!
-179D73| 3| 46|0|D|Pok?mon Tower                           |What?[br]You stinker![nb2]I took it easy on you, too!|Wat?[br]Jij snoodaard![nb2]Ik heb mij nog ingehouden ook!
-179DD4| 1|217|0|D|Pok?mon Tower                           |How's your POKéDEX coming?[br]I just caught a CUBONE![nb2]I can't find the bigger MAROWAK.[br]Where could they be?[nb2]I bet there aren't any left![nb2]Well, I better get going.[br]I've got a lot to accomplish,[nb]unlike you.[nb2]Smell ya later!|Hoe is het met je POKéDEX?[br]Ik heb net een CUBONE gevangen![nb2]Ik kan de grotere MAROWAK wel[br]niet vinden.[nb2]Ik denk dat er geen meer bestaan![nb2]Wel, nu moet ik weg.[br]Ik heb nog veel te winnen,[nb]jij niet zo te zien.[nb2]Tot later!
-179EAE| 1| 90|0|D|Pok?mon Tower                           |Even we could not identify the[br]wayward ghosts.[nb2]A SILPH SCOPE might be able to[br]unmask them.|zelfs wij konden de verloren spoken[br]niet identificeren.[nb2]Een SILPH SCOPE kan misschien[br]helpen.
-179F09| 1| 23|0|D|Pok?mon Tower                           |Urrg[...] Awaa[...][br]Huhu[...] Graa[...]|
-179F21| 1| 15|0|D|Pok?mon Tower                           |Hwa![br]I'm saved!|Aah![br]Ik ben gered!
-179F31| 1| 48|0|D|Pok?mon Tower                           |The ghosts can be identified by[br]the SILPH SCOPE.|De spoken kunnen geïdentificeerd[br]worden met een SILPH SCOPE.
-179F62| 1| 15|0|D|Pok?mon Tower                           |Kekeke[...][br]Kwaaah!|
-179F72| 1| 21|0|D|Pok?mon Tower                           |Hmm?[br]What am I doing?|Hmm?[br]Wat ben ik aan het doen?
-179F88| 1| 23|0|D|Pok?mon Tower                           |Sorry![br]I was possessed!|Sorry![br]Ik was bezeten!
-179FA0| 1| 27|0|D|Pok?mon Tower                           |Be gone![br]Malevolent spirit!|Ga weg![br]Slechte geest!
-179FBC| 1| 22|0|D|Pok?mon Tower                           |Whew![br]The spirit left!|Zucht![br]De geest is weg!
-179FD3| 1| 48|0|D|Pok?mon Tower                           |The others above[...][br]They must have been possessed.|De anderen boven[...][br]Zijn vast en zeker bezeten.
-17A004| 1| 18|0|D|Pok?mon Tower                           |Ghost! No![br]Kwaaah!|Spoken![br]Kwaaah!
-17A017| 1| 19|0|D|Pok?mon Tower                           |Where is the ghost?|Waar is het spook?
-17A02B| 1| 26|0|D|Pok?mon Tower                           |I must have been dreaming[...]|Ik was zeker aan het dromen[...]
-17A046| 1| 26|0|D|Pok?mon Tower                           |Be cursed with me![br]Kwaaah!|Wees vervloekt![br]Kwaaah!
-17A061| 1|  5|0|D|Pok?mon Tower                           |What!|Wat!
-17A067| 1| 46|0|D|Pok?mon Tower                           |We can't determine the identity of[br]the ghosts[...]|We kunnen de identiteit van de spoken[br]niet bepalen[...]
-17A096| 1| 20|0|D|Pok?mon Tower                           |Huhuhu[...][br]Beat me not!|Huhuhu[...][br]Versla me niet!
-17A0AB| 1| 15|0|D|Pok?mon Tower                           |Huh?[br]Who? What?|Uuh?[br]Wie? Wat? Waar?
-17A0BB| 1| 39|0|D|Pok?mon Tower                           |May the departed POKéMON rest in[br]peace[...]|Dat de overleden POKéMON mogen[br]rusen in vrede[...]
-17A0E3| 1| 59|0|D|Pok?mon Tower                           |Come, child![br]I have purified this space.[nb]You can rest here.|Kom hier![br]Ik heb deze plaats gezuiverd.[nb]Je kan hier rusten.
-17A11F| 1| 18|0|D|Pok?mon Tower                           |Give[...]me[...][br]your[...]all[...]|Geef[...]mij[...][br]alles[...]
-17A132| 1|  5|0|D|Pok?mon Tower                           |Gasp!|Zucht!
-17A138| 1| 23|0|D|Pok?mon Tower                           |I was under possession.|Ik was bezeten.
-17A150| 1| 19|0|D|Pok?mon Tower                           |You[...]shall[...][br]join[...]us[...]|Jij[...]gaatl[...][br]ons[...]vervoegen[...]
-17A164| 1| 17|0|D|Pok?mon Tower                           |What a nightmare!|Wat een nachtmerrie!
-17A176| 1| 16|0|D|Pok?mon Tower                           |I was possessed.|Ik was bezeten.
-17A187| 1|  8|0|D|Pok?mon Tower                           |Zombies!|
-17A190| 1|  3|0|D|Pok?mon Tower                           |Ha?|
-17A194| 1| 21|0|D|Pok?mon Tower                           |I regained my senses.|Ik ben weer bij mijn positieven.
-17A1AA| 1| 12|0|D|Pok?mon Tower                           |Urgah[...][br]Urff[...]|
-17A1B7| 1|  5|0|D|Pok?mon Tower                           |Whoo!|
-17A1BD| 1| 60|0|D|Pok?mon Tower                           |I fell to evil spirits despite my[br]training in the mountains[...]|Ik was bezeten ondanks mijn[br]training in de bergen[...]
-17A1FA| 1| 72|0|D|Pok?mon Tower                           |Entered the purified and protected[br]zone.[nb2][PLAYER]'s POKéMON were fully[br]healed.|Je hebt de gezuiverde zone betreden.[nb2][PLAYER]'s POKéMON zijn volledig[br]genezen.
-17A243| 1| 15|0|D|Pok?mon Tower                           |Give[...]me[...][br]blood[...]|Geef[...]me[...][br]bloed[...]
-17A253| 1|  6|0|D|Pok?mon Tower                           |Groan!|Aai!
-17A25A| 1| 23|0|D|Pok?mon Tower                           |I feel anemic and weak[...]|Ik voel me wat zwakjes[...]
-17A272| 1| 12|0|D|Pok?mon Tower                           |Urff[...][br]Kwaah!|
-17A27F| 1| 19|0|D|Pok?mon Tower                           |Something fell out!|Er is iets gevallen!
-17A293| 1| 52|0|D|Pok?mon Tower                           |My hair didn't fall out![br]It was a malevolent spirit!|Mijn haar is niet uitgevallen![br]Dat was een slechte geest!
-17A2C8| 1| 19|0|D|Pok?mon Tower                           |Ke[...]ke[...]ke[...][br]ke[...]ke[...]ke!|
-17A2DC| 1|  5|0|D|Pok?mon Tower                           |Keee!|
-17A2E2| 1| 21|0|D|Pok?mon Tower                           |What's going on here?|Wat gebeurt er hier?
-17A2F8| 1| 19|0|D|Pok?mon Tower                           |Be gone[...][br]Intruders[...]|Ga weg[...][br]Indringers[...]
-17A30C| 1| 53|0|D|Pok?mon Tower                           |The ghost was the restless spirit[br]of CUBONE's mother!|Het spook was de geest van[br]CUBONE zijn moeder!
-17A342| 1| 61|0|D|Pok?mon Tower                           |The mother's spirit was calmed.[nb2]It departed to the afterlife[...]|De geest is nu gekalmeerd.[nb2]En vertrokken naar het hiernamaals[...]
-17A380| 1| 35|0|D|Pok?mon Tower                           |What do you want?[br]Why are you here?|Wat wil jij?[br]Waarom ben je hier?
-17A3A4| 1| 10|0|D|Pok?mon Tower                           |I give up!|Ik geef op!
-17A3AF| 2| 29|0|D|Pok?mon Tower                           |I'm not going to forget this!|Ik zal dit niet vergeten!
-17A3CD| 1|152|0|D|Pok?mon Tower                           |This old guy marched right up to[br]our HIDEOUT.[nb2]Then, he starts ranting about how[br]TEAM ROCKET's abusing POKéMON.[nb2]So, we're just talking it over as[br]adults.|Deze man stuikte gewoon binnen[br]in onze BASIS.[nb2]Dan begon hij te roepen dat[br]TEAM ROCKET POKéMON misbruikt.[nb2]Dus we praten wat bij als volwassen.
-17A466| 1| 16|0|D|Pok?mon Tower                           |Please![br]No more!|Alsjeblieft![br]Niet meer!
-17A477| 2| 87|0|D|Pok?mon Tower                           |POKéMON are only good for making[br]money. Why not use them?[nb2]You stay out of our business!|POKéMON zijn enkel goed om aan te[br]verdienen. Dus waarom zou je dat[nb]dan niet doen?[nb2]Moei je niet met ons zaken!
-17A4CF| 1| 30|0|D|Pok?mon Tower                           |You're not saving anyone, kid!|Daarmee help je niemand!
-17A4EE| 1| 23|0|D|Pok?mon Tower                           |Don't fight us ROCKETS!|Vecht niet tegen ons ROCKETS!
-17A506| 2| 34|0|D|Pok?mon Tower                           |You're not getting away with this!|Dat gaat je duur komen te staan!
-17A529| 1|280|0|D|Pok?mon Tower                           |MR. FUJI: Heh?[br]You came to save me?[nb2]Thank you. But, I came here of my[br]own free will.[nb2]I came to calm the spirit of[br]CUBONE's mother.[nb2]I think MAROWAK's spirit has[br]finally left us.[nb2]I must thank you for your kind[br]concern.[nb2]Follow me to my home, POKéMON[br]HOUSE, at the foot of this tower.|MR. FUJI: Ah?[br]Je kwam mij redden?[nb2]Dan je. Maar ik ben hier uit vrije wil.[nb2]Ik kwam de geest van CUBONE zijn[br]moeder kalmeren.[nb2]Ik denk dat MAROWAKs geest[br]ons eindelijk verlaten heeft.[nb2]Bedankt voor je bezorgdheid.[nb2]Volg me naar mijn huis, het[br]POKéMON HUIS vlak naast deze toren.
+179B7A| 1| 61|0|D|Pokémon Tower                           |POKéMON TOWER was erected in the[br]memory of POKéMON that died.|POKéMON TOWER is een monument[br]voor overleden POKéMON.
+179BB8| 1| 67|0|D|Pokémon Tower                           |Did you come to pay respects?[nb2]Bless your POKéMON-loving heart,[br]son.|Kom je de POKéMON eren?[nb2]Wees gezegend jongen.
+179BFC| 1| 68|0|D|Pokémon Tower                           |Did you come to pay respects?[nb2]Bless your POKéMON-loving heart,[br]girl.|Kom je de POKéMON eren?[nb2]Wees gezegend meisje.
+179C41| 1| 74|0|D|Pokémon Tower                           |I came to pray for my dearly[br]departed CLEFAIRY.[nb2]Sniff![br]I'm awash in tears[...]|Ik kom bidden voor mij[br]gestorven CLEFAIRY.[nb2]Snotter![br]Ik ben aan het huilen[...]
+179C8C| 1| 30|0|D|Pokémon Tower                           |My GROWLITHE[...][br]Why did you die?|GROWLITHE[...][br]Waarom ben je ook gestorven?
+179CAB| 1| 83|0|D|Pokémon Tower                           |I am a CHANNELER.[nb2]There are spirits up to mischief.[br]I sense them high in the TOWER.|Ik ben een MEDIUM.[nb2]Er zijjn geesten met kwade bedoelingen.[br]Ik voel ze hoog in de TOREN.
+179CFF| 1|115|0|D|Pokémon Tower                           |[RIVAL]: Hey, [PLAYER]![br]What brings you here?[nb]Is your POKéMON dead?[nb2]Hey! It's alive![nb2]I can at least make them faint![br]Let's go!|[RIVAL]: Hé, [PLAYER]![br]Wat brengt jou hier?[nb]Is je POKéMON dood?[nb2]Ah! Hij leeft nog![nb2]Dan kan ik er mee vechten![br]Komaan!
+179D73| 3| 46|0|D|Pokémon Tower                           |What?[br]You stinker![nb2]I took it easy on you, too!|Wat?[br]Jij snoodaard![nb2]Ik heb mij nog ingehouden ook!
+179DD4| 1|217|0|D|Pokémon Tower                           |How's your POKéDEX coming?[br]I just caught a CUBONE![nb2]I can't find the bigger MAROWAK.[br]Where could they be?[nb2]I bet there aren't any left![nb2]Well, I better get going.[br]I've got a lot to accomplish,[nb]unlike you.[nb2]Smell ya later!|Hoe is het met je POKéDEX?[br]Ik heb net een CUBONE gevangen![nb2]Ik kan de grotere MAROWAK wel[br]niet vinden.[nb2]Ik denk dat er geen meer bestaan![nb2]Wel, nu moet ik weg.[br]Ik heb nog veel te winnen,[nb]jij niet zo te zien.[nb2]Tot later!
+179EAE| 1| 90|0|D|Pokémon Tower                           |Even we could not identify the[br]wayward ghosts.[nb2]A SILPH SCOPE might be able to[br]unmask them.|zelfs wij konden de verloren spoken[br]niet identificeren.[nb2]Een SILPH SCOPE kan misschien[br]helpen.
+179F09| 1| 23|0|D|Pokémon Tower                           |Urrg[...] Awaa[...][br]Huhu[...] Graa[...]|
+179F21| 1| 15|0|D|Pokémon Tower                           |Hwa![br]I'm saved!|Aah![br]Ik ben gered!
+179F31| 1| 48|0|D|Pokémon Tower                           |The ghosts can be identified by[br]the SILPH SCOPE.|De spoken kunnen geïdentificeerd[br]worden met een SILPH SCOPE.
+179F62| 1| 15|0|D|Pokémon Tower                           |Kekeke[...][br]Kwaaah!|
+179F72| 1| 21|0|D|Pokémon Tower                           |Hmm?[br]What am I doing?|Hmm?[br]Wat ben ik aan het doen?
+179F88| 1| 23|0|D|Pokémon Tower                           |Sorry![br]I was possessed!|Sorry![br]Ik was bezeten!
+179FA0| 1| 27|0|D|Pokémon Tower                           |Be gone![br]Malevolent spirit!|Ga weg![br]Slechte geest!
+179FBC| 1| 22|0|D|Pokémon Tower                           |Whew![br]The spirit left!|Zucht![br]De geest is weg!
+179FD3| 1| 48|0|D|Pokémon Tower                           |The others above[...][br]They must have been possessed.|De anderen boven[...][br]Zijn vast en zeker bezeten.
+17A004| 1| 18|0|D|Pokémon Tower                           |Ghost! No![br]Kwaaah!|Spoken![br]Kwaaah!
+17A017| 1| 19|0|D|Pokémon Tower                           |Where is the ghost?|Waar is het spook?
+17A02B| 1| 26|0|D|Pokémon Tower                           |I must have been dreaming[...]|Ik was zeker aan het dromen[...]
+17A046| 1| 26|0|D|Pokémon Tower                           |Be cursed with me![br]Kwaaah!|Wees vervloekt![br]Kwaaah!
+17A061| 1|  5|0|D|Pokémon Tower                           |What!|Wat!
+17A067| 1| 46|0|D|Pokémon Tower                           |We can't determine the identity of[br]the ghosts[...]|We kunnen de identiteit van de spoken[br]niet bepalen[...]
+17A096| 1| 20|0|D|Pokémon Tower                           |Huhuhu[...][br]Beat me not!|Huhuhu[...][br]Versla me niet!
+17A0AB| 1| 15|0|D|Pokémon Tower                           |Huh?[br]Who? What?|Uuh?[br]Wie? Wat? Waar?
+17A0BB| 1| 39|0|D|Pokémon Tower                           |May the departed POKéMON rest in[br]peace[...]|Dat de overleden POKéMON mogen[br]rusen in vrede[...]
+17A0E3| 1| 59|0|D|Pokémon Tower                           |Come, child![br]I have purified this space.[nb]You can rest here.|Kom hier![br]Ik heb deze plaats gezuiverd.[nb]Je kan hier rusten.
+17A11F| 1| 18|0|D|Pokémon Tower                           |Give[...]me[...][br]your[...]all[...]|Geef[...]mij[...][br]alles[...]
+17A132| 1|  5|0|D|Pokémon Tower                           |Gasp!|Zucht!
+17A138| 1| 23|0|D|Pokémon Tower                           |I was under possession.|Ik was bezeten.
+17A150| 1| 19|0|D|Pokémon Tower                           |You[...]shall[...][br]join[...]us[...]|Jij[...]gaatl[...][br]ons[...]vervoegen[...]
+17A164| 1| 17|0|D|Pokémon Tower                           |What a nightmare!|Wat een nachtmerrie!
+17A176| 1| 16|0|D|Pokémon Tower                           |I was possessed.|Ik was bezeten.
+17A187| 1|  8|0|D|Pokémon Tower                           |Zombies!|
+17A190| 1|  3|0|D|Pokémon Tower                           |Ha?|
+17A194| 1| 21|0|D|Pokémon Tower                           |I regained my senses.|Ik ben weer bij mijn positieven.
+17A1AA| 1| 12|0|D|Pokémon Tower                           |Urgah[...][br]Urff[...]|
+17A1B7| 1|  5|0|D|Pokémon Tower                           |Whoo!|
+17A1BD| 1| 60|0|D|Pokémon Tower                           |I fell to evil spirits despite my[br]training in the mountains[...]|Ik was bezeten ondanks mijn[br]training in de bergen[...]
+17A1FA| 1| 72|0|D|Pokémon Tower                           |Entered the purified and protected[br]zone.[nb2][PLAYER]'s POKéMON were fully[br]healed.|Je hebt de gezuiverde zone betreden.[nb2][PLAYER]'s POKéMON zijn volledig[br]genezen.
+17A243| 1| 15|0|D|Pokémon Tower                           |Give[...]me[...][br]blood[...]|Geef[...]me[...][br]bloed[...]
+17A253| 1|  6|0|D|Pokémon Tower                           |Groan!|Aai!
+17A25A| 1| 23|0|D|Pokémon Tower                           |I feel anemic and weak[...]|Ik voel me wat zwakjes[...]
+17A272| 1| 12|0|D|Pokémon Tower                           |Urff[...][br]Kwaah!|
+17A27F| 1| 19|0|D|Pokémon Tower                           |Something fell out!|Er is iets gevallen!
+17A293| 1| 52|0|D|Pokémon Tower                           |My hair didn't fall out![br]It was a malevolent spirit!|Mijn haar is niet uitgevallen![br]Dat was een slechte geest!
+17A2C8| 1| 19|0|D|Pokémon Tower                           |Ke[...]ke[...]ke[...][br]ke[...]ke[...]ke!|
+17A2DC| 1|  5|0|D|Pokémon Tower                           |Keee!|
+17A2E2| 1| 21|0|D|Pokémon Tower                           |What's going on here?|Wat gebeurt er hier?
+17A2F8| 1| 19|0|D|Pokémon Tower                           |Be gone[...][br]Intruders[...]|Ga weg[...][br]Indringers[...]
+17A30C| 1| 53|0|D|Pokémon Tower                           |The ghost was the restless spirit[br]of CUBONE's mother!|Het spook was de geest van[br]CUBONE zijn moeder!
+17A342| 1| 61|0|D|Pokémon Tower                           |The mother's spirit was calmed.[nb2]It departed to the afterlife[...]|De geest is nu gekalmeerd.[nb2]En vertrokken naar het hiernamaals[...]
+17A380| 1| 35|0|D|Pokémon Tower                           |What do you want?[br]Why are you here?|Wat wil jij?[br]Waarom ben je hier?
+17A3A4| 1| 10|0|D|Pokémon Tower                           |I give up!|Ik geef op!
+17A3AF| 2| 29|0|D|Pokémon Tower                           |I'm not going to forget this!|Ik zal dit niet vergeten!
+17A3CD| 1|152|0|D|Pokémon Tower                           |This old guy marched right up to[br]our HIDEOUT.[nb2]Then, he starts ranting about how[br]TEAM ROCKET's abusing POKéMON.[nb2]So, we're just talking it over as[br]adults.|Deze man stuikte gewoon binnen[br]in onze BASIS.[nb2]Dan begon hij te roepen dat[br]TEAM ROCKET POKéMON misbruikt.[nb2]Dus we praten wat bij als volwassen.
+17A466| 1| 16|0|D|Pokémon Tower                           |Please![br]No more!|Alsjeblieft![br]Niet meer!
+17A477| 2| 87|0|D|Pokémon Tower                           |POKéMON are only good for making[br]money. Why not use them?[nb2]You stay out of our business!|POKéMON zijn enkel goed om aan te[br]verdienen. Dus waarom zou je dat[nb]dan niet doen?[nb2]Moei je niet met ons zaken!
+17A4CF| 1| 30|0|D|Pokémon Tower                           |You're not saving anyone, kid!|Daarmee help je niemand!
+17A4EE| 1| 23|0|D|Pokémon Tower                           |Don't fight us ROCKETS!|Vecht niet tegen ons ROCKETS!
+17A506| 2| 34|0|D|Pokémon Tower                           |You're not getting away with this!|Dat gaat je duur komen te staan!
+17A529| 1|280|0|D|Pokémon Tower                           |MR. FUJI: Heh?[br]You came to save me?[nb2]Thank you. But, I came here of my[br]own free will.[nb2]I came to calm the spirit of[br]CUBONE's mother.[nb2]I think MAROWAK's spirit has[br]finally left us.[nb2]I must thank you for your kind[br]concern.[nb2]Follow me to my home, POKéMON[br]HOUSE, at the foot of this tower.|MR. FUJI: Ah?[br]Je kwam mij redden?[nb2]Dan je. Maar ik ben hier uit vrije wil.[nb2]Ik kwam de geest van CUBONE zijn[br]moeder kalmeren.[nb2]Ik denk dat MAROWAKs geest[br]ons eindelijk verlaten heeft.[nb2]Bedankt voor je bezorgdheid.[nb2]Volg me naar mijn huis, het[br]POKéMON HUIS vlak naast deze toren.
 17A642| 1|170|0|D|Mt. Ember                               |Can you imagine?[br]If this volcano were to erupt?[nb2]The explosion would be the end of[br]us. How terrifying is that?[nb2]While we're terrified, would you[br]like me to teach EXPLOSION?|Kan je inbeelden?[br]Als deze vulkaan ooit uitbarst?[nb2]De ontploffing alleen al zou ons[br]doden. Hoe akelig.[nb2]Nu je toch al wat bang bent. [br]Wil je dat ik EXPLOSION leer aan[nb]een van je POKéMON?
 17A6ED| 1| 41|0|D|Mt. Ember                               |Yeah, you're right.[br]It is too terrifying.|Ja, je hebt gelijk.[br]Het is te gevaarlijk.
 17A717| 1| 62|0|D|Mt. Ember                               |You're terribly brave![nb2]Which POKéMON should I teach[br]EXPLOSION?|Je bent heel moedig![nb2]Welke POKéMON moet ik[br]EXPLOSIE leren?
@@ -2047,8 +2047,8 @@
 19009F| 1|111|0|D|Viridian school missed text             |When poisoned, a POKéMON's health[br]steadily drops.[nb2]Poison lingers after battles.[br]Use an ANTIDOTE to cure poison!|Een vergiftigde POKéMON verliest[br]langzaam gezondheid.[nb2]Vergif blijft actief na een gevecht.[br]Gebruik ANTIDOTE om vergif[nb]te genezen!
 19010F| 1|137|0|D|Viridian school missed text             |A frozen POKéMON becomes[br]helplessly immobile.[nb2]It stays frozen even after the[br]battle ends.[nb2]Use ICE HEAL to thaw out the[br]suffering POKéMON.|Een bevroren POKéMON kan niet[br]meer bewegen.[nb2]Hij blijft bevroren zelfs als het[br]gevecht afgelopen is.[nb2]Gebruik ICE HEAL om de POKéMON[br]te ontooien.
 190199| 1|128|0|D|Viridian school missed text             |Paralysis reduces SPEED and may[br]prevent the POKéMON from moving.[nb2]Paralysis remains after battles.[br]Use PARLYZ HEAL for treatment.|Verlamming verlaagt SNELHEID en[br]kan er voor zorgen dat de POKéMON[nb]stopt met bewegen.[nb2]Verlamming blijft achter na een gevecht.[br]Gebruik PARLYZ HEAL als behandeling.
-19021A| 1| 31|0|D|Pok?mon Mart                            |Hey![br]You came from PALLET TOWN?|Hé![br]Kom jij van PALLET TOWN?
-19023A| 1| 78|0|D|Pok?mon Mart                            |You know PROF. OAK, right?[nb2]His order came in.[br]Can I get you to take it to him?|Je kent PROF. OAK hé?[nb2]Zijn bestelling is toegekomen.[br]Kan jij het naar hem brengen?
+19021A| 1| 31|0|D|Pokémon Mart                            |Hey![br]You came from PALLET TOWN?|Hé![br]Kom jij van PALLET TOWN?
+19023A| 1| 78|0|D|Pokémon Mart                            |You know PROF. OAK, right?[nb2]His order came in.[br]Can I get you to take it to him?|Je kent PROF. OAK hé?[nb2]Zijn bestelling is toegekomen.[br]Kan jij het naar hem brengen?
 190289| 1| 53|0|D|Viridian mart missed text               |[PLAYER] received OAK'S PARCEL[br]from the POKéMON MART clerk.|[PLAYER] ontving OAK'S PAKJE[br]van de POKéMON MART verkoper.
 1902BF| 1| 53|0|D|Pokémon Mart                            |Okay, thanks! Please say hi to[br]PROF. OAK for me, too.|Ok, bedankt, doe PROF. OAK[br]de groeten van me.
 1902F5| 1| 54|0|D|Viridian Mart                           |This shop does good business in[br]ANTIDOTES, I've heard.|Deze winkel verkoopt[br]ANTIDOTES, heb ik gehoord.
