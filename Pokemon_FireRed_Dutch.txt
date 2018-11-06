@@ -6569,66 +6569,66 @@
 416DB3| 2| 14|0|D|                                        |[var1] learned[br][var2]!|[var1] leerde[br][var2]!
 416DC2| 2| 52|0|D|                                        |[var1] and [var2][br]are not compatible.[nb2][var2] can't be[br]learned.[pausBtn]|[var1] en [var2][br]zijn niet compatibel.[nb2][var2] kan niet[br]geleerd worden.[pausBtn]
 416DF7| 4|115|0|D|                                        |[var1] wants to learn the[br]move [var2].[nb2]However, [var1] already[br]knows four moves.[nb2]Should a move be deleted and[br]replaced with [var2]?|[var1] wil de [var2][br]techniek leren.[nb2]Echter, [var1] kent al[br]reeds vier technieken.[nb2]Moet er een verwijderd worden[br]en vervangen door [var2]?
-416E6B| 1| 24|0|D|                                        |Stop trying to teach[br][var2]?|
-416E84| 1| 31|0|D|                                        |[var1] did not learn the[br]move [var2].[pausBtn]|
-416EA4| 1| 33|0|D|                                        |Which move should be forgotten?[pausBtn]|
-416EC6| 1| 73|0|D|                                        |1, [pausTim]‘2, and[pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[music][x31] Poof![nb2][var1] forgot how to[br]use [var2].[nb2]And...[pausBtn]|
-416F10| 2| 22|0|D|                                        |[var1] already knows[br][var2].[pausBtn]|
-416F27| 3| 38|0|D|                                        |[var1]'s HP was restored[br]by [var2] point(s).[pausBtn]|
-416F4E| 1| 32|0|D|                                        |[var1] was cured of its[br]poisoning.[pausBtn]|
-416F6F| 1| 28|0|D|                                        |[var1] was cured of[br]paralysis.[pausBtn]|
-416F8C| 1| 13|0|D|                                        |[var1] woke up.[pausBtn]|
-416F9A| 1| 23|0|D|                                        |[var1]'s burn was healed.[pausBtn]|
-416FB2| 1| 20|0|D|                                        |[var1] was thawed out.[pausBtn]|
-416FC7| 1| 18|0|D|                                        |PP was restored.[pausBtn]|
-416FED| 1| 20|0|D|                                        |[var1] became healthy.[pausBtn]|
-417002| 1| 20|0|D|                                        |[var1]'s PP increased.[pausBtn]|
-417017| 1| 26|0|D|                                        |[var1] was elevated to[br]Lv. [var2].|
-417032| 1| 31|0|D|                                        |[var1]'s base [var2][br]stat was raised.[pausBtn]|
-417052| 1| 34|0|D|                                        |[var1] snapped out of its[br]confusion.[pausBtn]|
-417075| 1| 30|0|D|                                        |[var1] got over its[br]infatuation.[pausBtn]|
-417094| 1| 36|0|D|                                        |That's your only[br]POKÈMON for battle.|
-4170BC| 4| 33|0|D|                                        |That POKÈMON can't be traded[br]now.|
-4170E0| 3| 27|0|D|                                        |An EGG can't be traded now.|
-4170FC| 2| 48|0|D|                                        |The other TRAINER's POKÈMON[br]can't be traded now.|
-41718C| 1| 60|0|D|                                        |That isn't the type of POKÈMON[br]that the other TRAINER wants.|
-4171CC| 1| 18|0|D|                                        |That isn't an EGG.|
+416E6B| 1| 24|0|D|                                        |Stop trying to teach[br][var2]?|Stop met [var2][br]te leren?
+416E84| 1| 31|0|D|                                        |[var1] did not learn the[br]move [var2].[pausBtn]|[var1] heeft de [var2][br]techniek niet geleerd.[pausBtn]
+416EA4| 1| 33|0|D|                                        |Which move should be forgotten?[pausBtn]|Welke techniek moet[br]vergeten worden?[pausBtn]
+416EC6| 1| 73|0|D|                                        |1, [pausTim]‘2, and[pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[music][x31] Poof![nb2][var1] forgot how to[br]use [var2].[nb2]And...[pausBtn]|1, [pausTim]‘2, en[pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[music][x31] Poef![nb2][var1] vergat de[br][var2] techniek.[nb2]En[...][pausBtn]
+416F10| 2| 22|0|D|                                        |[var1] already knows[br][var2].[pausBtn]|[var1] kent de[br][var2] techniek al.[pausBtn]
+416F27| 3| 38|0|D|                                        |[var1]'s HP was restored[br]by [var2] point(s).[pausBtn]|[var1]'s HP was hersteld[br]met [var2] punt(en).[pausBtn]
+416F4E| 1| 32|0|D|                                        |[var1] was cured of its[br]poisoning.[pausBtn]|[var1] is genezen[br]van het vergif.[pausBtn]
+416F6F| 1| 28|0|D|                                        |[var1] was cured of[br]paralysis.[pausBtn]|[var1] was genezen[br]van verlamming.[pausBtn]
+416F8C| 1| 13|0|D|                                        |[var1] woke up.[pausBtn]|[var1] werd wakker.[pausBtn]
+416F9A| 1| 23|0|D|                                        |[var1]'s burn was healed.[pausBtn]|[var1]'s brandwonde[br]was genezen.[pausBtn]
+416FB2| 1| 20|0|D|                                        |[var1] was thawed out.[pausBtn]|[var1] was ontdooid.[pausBtn]
+416FC7| 1| 18|0|D|                                        |PP was restored.[pausBtn]|PP was hersteld.[pausBtn]
+416FED| 1| 20|0|D|                                        |[var1] became healthy.[pausBtn]|[var1] werd gezond.[pausBtn]
+417002| 1| 20|0|D|                                        |[var1]'s PP increased.[pausBtn]|[var1]'s PP verhoogde.[pausBtn]
+417017| 1| 26|0|D|                                        |[var1] was elevated to[br]Lv. [var2].|[var1] werd verhoogd[br]naar Lv. [var2].
+417032| 1| 31|0|D|                                        |[var1]'s base [var2][br]stat was raised.[pausBtn]|[var1]'s basis [var2][br]eigenschap was verhoogd.[pausBtn]
+417052| 1| 34|0|D|                                        |[var1] snapped out of its[br]confusion.[pausBtn]|[var1] schrok wakker[br]uit zijn verwarring.[pausBtn]
+417075| 1| 30|0|D|                                        |[var1] got over its[br]infatuation.[pausBtn]|[var1] raakte over[br]zijn verliefdheid heen.[pausBtn]
+417094| 1| 36|0|D|                                        |That's your only[br]POKÈMON for battle.|Dat is je enige[br]POKÈMON voor gevechten.
+4170BC| 4| 33|0|D|                                        |That POKÈMON can't be traded[br]now.|die POKÈMON kan nu[br]niet geruild worden.
+4170E0| 3| 27|0|D|                                        |An EGG can't be traded now.|Een EI kan nu[br]niet geruild worden.
+4170FC| 2| 48|0|D|                                        |The other TRAINER's POKÈMON[br]can't be traded now.|De POKÈMON van de andere TRAINER[br]kunnen nu niet geruild worden.
+41718C| 1| 60|0|D|                                        |That isn't the type of POKÈMON[br]that the other TRAINER wants.|Dat is niet het type POKÈMON[br]die de andere TRAINER wil.
+4171CC| 1| 18|0|D|                                        |That isn't an EGG.|Dat is geen EI.
 4171DF| 1| 17|0|D|                                        |Choose a POKÈMON.|Kies een POKÈMON.
 4171F1| 1| 14|0|D|                                        |Move to where?|Verplaats naar waar?
 417200| 2| 20|0|D|                                        |Teach which POKÈMON?|Leer welke POKÈMON?
 417215| 1| 21|0|D|                                        |Use on which POKÈMON?|Gebruik op welke POKÈMON?
 41722B| 1| 22|0|D|                                        |Give to which POKÈMON?|Geef aan welke POKÈMON?
 417242| 1| 21|0|D|                                        |Do what with this [pk][mn]?|Doe wat met deze [pk][mn]?
-417258| 1| 23|0|D|                                        |There's nothing to CUT.|
-417270| 1| 16|0|D|                                        |No SURFING here!|
-417281| 1| 23|0|D|                                        |You're already SURFING.|
-417299| 1| 20|0|D|                                        |Can't use that here.|
-4172AE| 1| 19|0|D|                                        |Restore which move?|
-4172C2| 1| 18|0|D|                                        |Boost PP of which?|
-4172D5| 1| 21|0|D|                                        |Do what with an item?|
-4172EB| 1| 21|0|D|                                        |No battling this way!|
+417258| 1| 23|0|D|                                        |There's nothing to CUT.|Er is niets te CUT-en
+417270| 1| 16|0|D|                                        |No SURFING here!|Geen SURFEN hier!
+417281| 1| 23|0|D|                                        |You're already SURFING.|Je bent al aan het SURFEN.
+417299| 1| 20|0|D|                                        |Can't use that here.|Kan dit hier niet gebruiken.
+4172AE| 1| 19|0|D|                                        |Restore which move?|Herstel welke techniek?
+4172C2| 1| 18|0|D|                                        |Boost PP of which?|Verhoog PP van welke techniek?
+4172D5| 1| 21|0|D|                                        |Do what with an item?|Doe wat met een item?
+4172EB| 1| 21|0|D|                                        |No battling this way!|Geen gevechten op[br]deze manier!
 417301| 1| 17|0|D|                                        |Choose a POKÈMON.|Kies een POKÈMON.
-417313| 1| 14|0|D|                                        |Not enough HP[...]|
-417322| 1| 20|0|D|                                        |Three [pk][mn] are needed.|
-417337| 1| 21|0|D|                                        |[pk][mn] can't be the same.|
-41734D| 1| 19|0|D|                                        |No same hold items!|
-417361| 1| 29|0|D|                                        |The current is much too fast!|
-41737F| 1| 22|0|D|                                        |Do what with the MAIL?|
+417313| 1| 14|0|D|                                        |Not enough HP[...]|Niet genoeg HP[...]
+417322| 1| 20|0|D|                                        |Three [pk][mn] are needed.|Drie [pk][mn] zijn nodig.
+417337| 1| 21|0|D|                                        |[pk][mn] can't be the same.|[pk][mn] moeten verschillend zijn.
+41734D| 1| 19|0|D|                                        |No same hold items!|Geen identieke items vast!
+417361| 1| 29|0|D|                                        |The current is much too fast!|De stroming is veel te snel!
+41737F| 1| 22|0|D|                                        |Do what with the MAIL?|Doe wat met de POST?
 417396| 1| 25|0|D|                                        |Choose POKÈMON or CANCEL.|Kies POKÈMON of ANNULEER
-4173B0| 1| 27|0|D|                                        |Choose POKÈMON and confirm.|
-4173CC| 1| 23|0|D|                                        |Two POKÈMON are needed.|
-4173E4| 1| 20|0|D|                                        |Let's enjoy cycling!|
-4173F9| 1| 23|0|D|                                        |This is in use already.|
-417411| 1|  7|0|D|                                        |No use.|
-417419| 1|  4|0|D|                                        |ABLE|
-41741E| 1|  5|0|D|                                        |FIRST|
-417424| 1|  6|0|D|                                        |SECOND|
-41742B| 1|  5|0|D|                                        |THIRD|
-417431| 1|  4|0|D|                                        |ABLE|
-417436| 1|  8|0|D|                                        |NOT ABLE|
-41743F| 1|  5|0|D|                                        |ABLE!|
-417445| 1|  9|0|D|                                        |NOT ABLE!|
-41744F| 1|  7|0|D|                                        |LEARNED|
+4173B0| 1| 27|0|D|                                        |Choose POKÈMON and confirm.|Kies POKÈMON en bevestig.
+4173CC| 1| 23|0|D|                                        |Two POKÈMON are needed.|Twee POKÈMON zijn nodig.
+4173E4| 1| 20|0|D|                                        |Let's enjoy cycling!|Laten we fietsen!
+4173F9| 1| 23|0|D|                                        |This is in use already.|Dit is al in gebruik.
+417411| 1|  7|0|D|                                        |No use.|Geen nut.
+417419| 1|  4|0|D|                                        |ABLE|KAN
+41741E| 1|  5|0|D|                                        |FIRST|EERSTE
+417424| 1|  6|0|D|                                        |SECOND|TWEEDE
+41742B| 1|  5|0|D|                                        |THIRD|DERDE
+417431| 1|  4|0|D|                                        |ABLE|KAN
+417436| 1|  8|0|D|                                        |NOT ABLE|KAN NIET
+41743F| 1|  5|0|D|                                        |ABLE!|KAN!
+417445| 1|  9|0|D|                                        |NOT ABLE!|KAN NIET!
+41744F| 1|  7|0|D|                                        |LEARNED|GELEERD
 417457| 1| 60|0|D|Oak's Lab                               |OAK: It's important to get to know[br]your POKÈMON thoroughly.[nb2]|OAK: Je moet je POKÈMON [br]grondig leren kennen.[nb2]
 417494| 1|158|0|D|Oak's Lab                               |This is a list of your POKÈMON,[br][PLAYER].[nb2]Open this to check the skills[br]and moves of your POKÈMON.[nb2]You also choose POKÈMON here if[br]you want to use an item on one.[pausBtn]|Hier is een lijst van je POKÈMON,[br][PLAYER].[nb2]Open dit om de vaardigheden[br]van je POKÈMON te zien.[nb2]Je kan hier ook een POKÈMON kiezen[br]om een item op te gebruiken.[pausBtn]
 417533| 1| 20|0|D|                                        |Cut a tree or grass.|
