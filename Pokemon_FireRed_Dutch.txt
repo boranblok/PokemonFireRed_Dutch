@@ -4011,7 +4011,6 @@
 1BF28E| 1|126|0|D|Pewter Center                           |Hmhm[...][nb2]Your profile really says something[br]about who you are.[nb2]Now that I know you better, it [br]makes us better friends than ever!|Hmmm[...][nb2]Je profiel zegt echt iets over[br]wie je bent.[nb2]Nu ik je beter ken maakt dit ons[br]nog dikkere vrienden!
 1BF30D| 1| 92|0|D|Profile                                 |Oh, I've heard that before[...][nb2]My cousin, who lives far away,[br]always used to say that, I think.|
 1BF36A| 1| 45|0|D|Profile                                 |Please tell me more about[br]yourself next time!|
-1BF555| 1|141|0|D|Profile                                 |I'm the DAY-CARE MAN.[nb2]I help take care of the precious[br]POKéMON of TRAINERS.[nb2]If you'd like me to raise your[br]POKéMON, have a word with my wife.|
 1BF555| 1|141|0|D|Day-care                                |I'm the DAY-CARE MAN.[nb2]I help take care of the precious[br]POKéMON of TRAINERS.[nb2]If you'd like me to raise your[br]POKéMON, have a word with my wife.|
 1BF5E3| 1|182|0|D|Day-care                                |Ah, it's you![nb2]We were raising your POKéMON, and[br]my goodness, were we surprised![nb2]Your POKéMON had an EGG![nb2]We don't know how it got there,[br]but your POKéMON had it.[nb2]You do want it, yes?|
 1BF69A| 1| 52|0|D|Day-care                                |Ah, it's you! Good to see you.[br]Your [var1]'s doing fine.|
@@ -4741,7 +4740,7 @@
 3DAC51| 1| 83|0|D|Inventory flavor text                   |A device that enables you to[br]recall what you've heard and seen[br]about famous people.|
 3DACA5| 1| 91|0|D|Inventory flavor text                   |A case that holds TMs and HMs.[br]It is attached to the BAG's[br]compartment for important items.|een doosje die TM's en HM's bevat.[br]Het hangt aan het compartiment[nb]van de ZAK voor belangerijke items.
 3DAD01| 1| 90|0|D|Inventory flavor text                   |A pouch for carrying BERRIES.[br]It is attached to the BAG's[br]compartment for important items.|Een zakje voor BESSEN.[br]Het hangt aan het compartiment[nb]van de ZAK voor belangerijke items.
-3DAD5C| 1| 81|0|D|Inventory flavor text                   |A television set that is tuned to[br]a program with useful tips for[br]novice TRAINERS.|
+3DAD5C| 1| 81|0|D|Inventory flavor text                   |A television set that is tuned to[br]a program with useful tips for[br]novice TRAINERS.|Een draagbare TV afgestemd op[br]een programma met nuttige tips[nb]voor beginnende TRAINERS.
 3DADAE| 1| 89|0|D|Inventory flavor text                   |A pass for ferries between ONE,[br]TWO, and THREE ISLAND.[br]It has a drawing of three islands.|
 3DAE08| 1| 95|0|D|Inventory flavor text                   |A pass for ferries between[br]VERMILION and the SEVII ISLANDS.[br]It features a drawing of a rainbow.|
 3DAE68| 1| 77|0|D|Inventory flavor text                   |An aromatic tea prepared by an old[br]lady. It will slake even the worst[br]thirst.|
@@ -4750,6 +4749,380 @@
 3DAF52| 1| 58|0|D|Inventory flavor text                   |A jar for storing BERRY POWDER[br]made using a BERRY CRUSHER.|
 3DAF8D| 1| 72|0|D|Inventory flavor text                   |An exquisitely beautiful gem that[br]has a red glow.[br]It symbolizes passion.|
 3DAFD6| 1| 73|0|D|Inventory flavor text                   |An exquisitely beautiful gem that[br]has a blue glow.[br]It symbolizes honesty.|
+3DB054| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MASTER BALL|
+3DB080| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ULTRA BALL|
+3DB0AC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GREAT BALL|
+3DB0D8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POKé BALL|
+3DB104| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SAFARI BALL|
+3DB130| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NET BALL|
+3DB15C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DIVE BALL|
+3DB188| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NEST BALL|
+3DB1B4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |REPEAT BALL|
+3DB1E0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TIMER BALL|
+3DB20C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LUXURY BALL|
+3DB238| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PREMIER BALL|
+3DB264| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POTION|
+3DB290| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ANTIDOTE|
+3DB2BC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BURN HEAL|
+3DB2E8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ICE HEAL|
+3DB314| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |AWAKENING|
+3DB340| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PARLYZ HEAL|
+3DB36C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FULL RESTORE|
+3DB398| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAX POTION|
+3DB3C4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HYPER POTION|
+3DB3F0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SUPER POTION|
+3DB41C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FULL HEAL|
+3DB448| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |REVIVE|
+3DB474| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAX REVIVE|
+3DB4A0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FRESH WATER|
+3DB4CC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SODA POP|
+3DB4F8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LEMONADE|
+3DB524| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MOOMOO MILK|
+3DB550| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ENERGYPOWDER|
+3DB57C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ENERGY ROOT|
+3DB5A8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HEAL POWDER|
+3DB5D4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |REVIVAL HERB|
+3DB600| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ETHER|
+3DB62C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAX ETHER|
+3DB658| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ELIXIR|
+3DB684| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAX ELIXIR|
+3DB6B0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LAVA COOKIE|
+3DB6DC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLUE FLUTE|
+3DB708| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |YELLOW FLUTE|
+3DB734| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RED FLUTE|
+3DB760| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLACK FLUTE|
+3DB78C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WHITE FLUTE|
+3DB7B8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BERRY JUICE|
+3DB7E4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SACRED ASH|
+3DB810| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SHOAL SALT|
+3DB83C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SHOAL SHELL|
+3DB868| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RED SHARD|
+3DB894| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLUE SHARD|
+3DB8C0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |YELLOW SHARD|
+3DB8EC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GREEN SHARD|
+3DB918| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DB944| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DB970| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DB99C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DB9C8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DB9F4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DBA20| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DBA4C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DBA78| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DBAA4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DBAD0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DBAFC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HP UP|
+3DBB28| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PROTEIN|
+3DBB54| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |IRON|
+3DBB80| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CARBOS|
+3DBBAC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CALCIUM|
+3DBBD8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RARE CANDY|
+3DBC04| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PP UP|
+3DBC30| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ZINC|
+3DBC5C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PP MAX|
+3DBC88| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DBCB4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GUARD SPEC.|
+3DBCE0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DIRE HIT|
+3DBD0C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |X ATTACK|
+3DBD38| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |X DEFEND|
+3DBD64| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |X SPEED|
+3DBD90| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |X ACCURACY|
+3DBDBC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |X SPECIAL|
+3DBDE8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POKé DOLL|
+3DBE14| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FLUFFY TAIL|
+3DBE40| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DBE6C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SUPER REPEL|
+3DBE98| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAX REPEL|
+3DBEC4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ESCAPE ROPE|
+3DBEF0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |REPEL|
+3DBF1C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DBF48| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DBF74| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DBFA0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DBFCC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DBFF8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DC024| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SUN STONE|
+3DC050| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MOON STONE|
+3DC07C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FIRE STONE|
+3DC0A8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |THUNDERSTONE|
+3DC0D4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WATER STONE|
+3DC100| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LEAF STONE|
+3DC12C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DC158| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DC184| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DC1B0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DC1DC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TINYMUSHROOM|
+3DC208| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BIG MUSHROOM|
+3DC234| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DC260| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PEARL|
+3DC28C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BIG PEARL|
+3DC2B8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |STARDUST|
+3DC2E4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |STAR PIECE|
+3DC310| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NUGGET|
+3DC33C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HEART SCALE|
+3DC368| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DC394| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DC3C0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DC3EC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DC418| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DC444| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DC470| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DC49C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DC4C8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DC4F4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ORANGE MAIL|
+3DC520| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HARBOR MAIL|
+3DC54C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GLITTER MAIL|
+3DC578| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MECH MAIL|
+3DC5A4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WOOD MAIL|
+3DC5D0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WAVE MAIL|
+3DC5FC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BEAD MAIL|
+3DC628| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SHADOW MAIL|
+3DC654| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TROPIC MAIL|
+3DC680| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DREAM MAIL|
+3DC6AC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FAB MAIL|
+3DC6D8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RETRO MAIL|
+3DC704| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CHERI BERRY|
+3DC730| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CHESTO BERRY|
+3DC75C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PECHA BERRY|
+3DC788| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RAWST BERRY|
+3DC7B4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ASPEAR BERRY|
+3DC7E0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LEPPA BERRY|
+3DC80C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ORAN BERRY|
+3DC838| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PERSIM BERRY|
+3DC864| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LUM BERRY|
+3DC890| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SITRUS BERRY|
+3DC8BC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FIGY BERRY|
+3DC8E8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WIKI BERRY|
+3DC914| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAGO BERRY|
+3DC940| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |AGUAV BERRY|
+3DC96C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |IAPAPA BERRY|
+3DC998| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RAZZ BERRY|
+3DC9C4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLUK BERRY|
+3DC9F0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NANAB BERRY|
+3DCA1C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WEPEAR BERRY|
+3DCA48| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PINAP BERRY|
+3DCA74| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POMEG BERRY|
+3DCAA0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |KELPSY BERRY|
+3DCACC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |QUALOT BERRY|
+3DCAF8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HONDEW BERRY|
+3DCB24| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GREPA BERRY|
+3DCB50| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TAMATO BERRY|
+3DCB7C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CORNN BERRY|
+3DCBA8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAGOST BERRY|
+3DCBD4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RABUTA BERRY|
+3DCC00| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NOMEL BERRY|
+3DCC2C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SPELON BERRY|
+3DCC58| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PAMTRE BERRY|
+3DCC84| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WATMEL BERRY|
+3DCCB0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DURIN BERRY|
+3DCCDC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BELUE BERRY|
+3DCD08| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LIECHI BERRY|
+3DCD34| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GANLON BERRY|
+3DCD60| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SALAC BERRY|
+3DCD8C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PETAYA BERRY|
+3DCDB8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |APICOT BERRY|
+3DCDE4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LANSAT BERRY|
+3DCE10| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |STARF BERRY|
+3DCE3C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ENIGMA BERRY|
+3DCE68| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DCE94| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DCEC0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DCEEC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BRIGHTPOWDER|
+3DCF18| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WHITE HERB|
+3DCF44| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MACHO BRACE|
+3DCF70| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |EXP. SHARE|
+3DCF9C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |QUICK CLAW|
+3DCFC8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SOOTHE BELL|
+3DCFF4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MENTAL HERB|
+3DD020| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CHOICE BAND|
+3DD04C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |KING'S ROCK|
+3DD078| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SILVERPOWDER|
+3DD0A4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |AMULET COIN|
+3DD0D0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CLEANSE TAG|
+3DD0FC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SOUL DEW|
+3DD128| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DEEPSEATOOTH|
+3DD154| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DEEPSEASCALE|
+3DD180| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SMOKE BALL|
+3DD1AC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |EVERSTONE|
+3DD1D8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FOCUS BAND|
+3DD204| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LUCKY EGG|
+3DD230| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SCOPE LENS|
+3DD25C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |METAL COAT|
+3DD288| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LEFTOVERS|
+3DD2B4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DRAGON SCALE|
+3DD2E0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LIGHT BALL|
+3DD30C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SOFT SAND|
+3DD338| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HARD STONE|
+3DD364| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MIRACLE SEED|
+3DD390| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLACKGLASSES|
+3DD3BC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLACK BELT|
+3DD3E8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAGNET|
+3DD414| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MYSTIC WATER|
+3DD440| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SHARP BEAK|
+3DD46C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POISON BARB|
+3DD498| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NEVERMELTICE|
+3DD4C4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SPELL TAG|
+3DD4F0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TWISTEDSPOON|
+3DD51C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CHARCOAL|
+3DD548| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DRAGON FANG|
+3DD574| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SILK SCARF|
+3DD5A0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |UP-GRADE|
+3DD5CC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SHELL BELL|
+3DD5F8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SEA INCENSE|
+3DD624| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LAX INCENSE|
+3DD650| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LUCKY PUNCH|
+3DD67C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |METAL POWDER|
+3DD6A8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |THICK CLUB|
+3DD6D4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |STICK|
+3DD700| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD72C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD758| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD784| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD7B0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD7DC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD808| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD834| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD860| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD88C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD8B8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD8E4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD910| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD93C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD968| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD994| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD9C0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DD9EC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DDA18| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DDA44| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DDA70| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DDA9C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DDAC8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DDAF4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DDB20| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DDB4C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DDB78| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DDBA4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DDBD0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RED SCARF|
+3DDBFC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLUE SCARF|
+3DDC28| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PINK SCARF|
+3DDC54| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GREEN SCARF|
+3DDC80| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |YELLOW SCARF|
+3DDCAC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MACH BIKE|
+3DDCD8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |COIN CASE|
+3DDD04| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ITEMFINDER|
+3DDD30| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |OLD ROD|
+3DDD5C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GOOD ROD|
+3DDD88| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SUPER ROD|
+3DDDB4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |S.S. TICKET|
+3DDDE0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CONTEST PASS|
+3DDE0C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DDE38| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WAILMER PAIL|
+3DDE64| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DEVON GOODS|
+3DDE90| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SOOT SACK|
+3DDEBC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BASEMENT KEY|
+3DDEE8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ACRO BIKE|
+3DDF14| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |[po][ké][bl][oc][k] CASE|
+3DDF40| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LETTER|
+3DDF6C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |EON TICKET|
+3DDF98| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RED ORB|
+3DDFC4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLUE ORB|
+3DDFF0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SCANNER|
+3DE01C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GO-GOGGLES|
+3DE048| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |METEORITE|
+3DE074| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RM. 1 KEY|
+3DE0A0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RM. 2 KEY|
+3DE0CC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RM. 4 KEY|
+3DE0F8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RM. 6 KEY|
+3DE124| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |STORAGE KEY|
+3DE150| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ROOT FOSSIL|
+3DE17C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CLAW FOSSIL|
+3DE1A8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DEVON SCOPE|
+3DE1D4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM01|
+3DE200| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM02|
+3DE22C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM03|
+3DE258| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM04|
+3DE284| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM05|
+3DE2B0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM06|
+3DE2DC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM07|
+3DE308| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM08|
+3DE334| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM09|
+3DE360| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM10|
+3DE38C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM11|
+3DE3B8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM12|
+3DE3E4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM13|
+3DE410| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM14|
+3DE43C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM15|
+3DE468| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM16|
+3DE494| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM17|
+3DE4C0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM18|
+3DE4EC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM19|
+3DE518| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM20|
+3DE544| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM21|
+3DE570| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM22|
+3DE59C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM23|
+3DE5C8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM24|
+3DE5F4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM25|
+3DE620| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM26|
+3DE64C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM27|
+3DE678| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM28|
+3DE6A4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM29|
+3DE6D0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM30|
+3DE6FC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM31|
+3DE728| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM32|
+3DE754| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM33|
+3DE780| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM34|
+3DE7AC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM35|
+3DE7D8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM36|
+3DE804| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM37|
+3DE830| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM38|
+3DE85C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM39|
+3DE888| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM40|
+3DE8B4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM41|
+3DE8E0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM42|
+3DE90C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM43|
+3DE938| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM44|
+3DE964| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM45|
+3DE990| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM46|
+3DE9BC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM47|
+3DE9E8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM48|
+3DEA14| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM49|
+3DEA40| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM50|
+3DEA6C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM01|
+3DEA98| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM02|
+3DEAC4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM03|
+3DEAF0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM04|
+3DEB1C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM05|
+3DEB48| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM06|
+3DEB74| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM07|
+3DEBA0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM08|
+3DEBCC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DEBF8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|
+3DEC24| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |OAK'S PARCEL|
+3DEC50| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POKé FLUTE|
+3DEC7C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SECRET KEY|
+3DECA8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BIKE VOUCHER|
+3DECD4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GOLD TEETH|
+3DED00| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |OLD AMBER|
+3DED2C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CARD KEY|
+3DED58| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LIFT KEY|
+3DED84| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HELIX FOSSIL|
+3DEDB0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DOME FOSSIL|
+3DEDDC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SILPH SCOPE|
+3DEE08| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BICYCLE|
+3DEE34| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TOWN MAP|
+3DEE60| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |VS SEEKER|
+3DEE8C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FAME CHECKER|
+3DEEB8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM CASE|
+3DEEE4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BERRY POUCH|
+3DEF10| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TEACHY TV|
+3DEF3C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TRI-PASS|
+3DEF68| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RAINBOW PASS|
+3DEF94| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TEA|
+3DEFC0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MYSTICTICKET|
+3DEFEC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |AURORATICKET|
+3DF018| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POWDER JAR|
+3DF044| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RUBY|
+3DF070| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SAPPHIRE|
 3E7F28| 1| 12|0|D|Profile keywords                        |I CHOOSE YOU|
 3E7F35| 1|  6|0|D|Profile keywords                        |GOTCHA|
 3E7F3C| 1|  5|0|D|Profile keywords                        |TRADE|
@@ -7504,7 +7877,6 @@
 444D1C| 1|110|0|D|Pokémon flavor text                     |There is a plant bulb on its back.[br]When it absorbs nutrients, the bulb is said[br]to blossom into a large flower.|
 444D8C| 1| 90|0|D|Pokémon flavor text                     |A bewitching aroma wafts from its flower.[br]The fragrance becalms those engaged in[br]a battle.|
 444DE8| 1|111|0|D|Pokémon flavor text                     |From the time it is born, a flame burns[br]at the tip of its tail. Its life would end[br]if the flame were to go out.|
-444DE8| 1|111|0|D|Pokémon flavor text                     |From the time it is born, a flame burns[br]at the tip of its tail. Its life would end[br]if the flame were to go out.|
 444E59| 1|107|0|D|Pokémon flavor text                     |It lashes about with its tail to knock[br]down its foe. It then tears up the fallen[br]opponent with sharp claws.|
 444EC6| 1|113|0|D|Pokémon flavor text                     |Its wings can carry this POKéMON close to[br]an altitude of 4,600 feet. It blows out[br]fire at very high temperatures.|
 444F39| 1| 88|0|D|Pokémon flavor text                     |When it retracts its long neck into its[br]shell, it squirts out water with vigorous[br]force.|
@@ -7588,7 +7960,6 @@
 446F16| 1|100|0|D|Pokémon flavor text                     |An odd species that is rarely found.[br]The three heads respectively represent[br]joy, sadness, and anger.|
 446F7C| 1|117|0|D|Pokémon flavor text                     |Covered with light blue fur, its hide is[br]thick and tough. It is active in bitter[br]cold of minus 40 degrees Fahrenheit.|
 446FF3| 1| 94|0|D|Pokémon flavor text                     |Its body is covered with a pure white[br]fur. The colder the weather, the more[br]active it becomes.|
-447053| 1| 98|0|D|Pokémon flavor text                     |Sludge exposed to X rays from the moon[br]transformed into GRIMER. It loves feeding[br]on filthy things.|
 447053| 1| 98|0|D|Pokémon flavor text                     |Sludge exposed to X rays from the moon[br]transformed into GRIMER. It loves feeding[br]on filthy things.|
 4470B7| 1|106|0|D|Pokémon flavor text                     |It is usually undetectable because it[br]blends in with the ground. Touching it can[br]cause terrible poisoning.|
 447123| 1| 97|0|D|Pokémon flavor text                     |It is encased in a shell that is harder[br]than diamond. Inside, however, it is[br]surprisingly tender.|
@@ -7674,7 +8045,6 @@
 449124| 1| 91|0|D|Pokémon flavor text                     |On the dark ocean floor, its only means[br]of communication is its constantly[br]flashing lights.|
 449181| 1| 99|0|D|Pokémon flavor text                     |It blinds prey with an intense burst of[br]light, then swallows the immobilized prey[br]in a single gulp.|
 4491E6| 1|103|0|D|Pokémon flavor text                     |Despite its small size, it can zap even[br]adult humans. However, if it does so, it[br]also surprises itself.|
-4491E6| 1|103|0|D|Pokémon flavor text                     |Despite its small size, it can zap even[br]adult humans. However, if it does so, it[br]also surprises itself.|
 44924F| 1| 87|0|D|Pokémon flavor text                     |When numerous meteors illuminate the[br]night sky, sightings of CLEFFA strangely[br]increase.|
 4492A8| 1| 88|0|D|Pokémon flavor text                     |Its extremely flexible and elastic body[br]makes it bounce continuously--anytime,[br]anywhere.|
 449302| 1| 92|0|D|Pokémon flavor text                     |A proverb claims that happiness will come[br]to anyone who can make a sleeping TOGEPI[br]stand up.|
@@ -7759,7 +8129,6 @@
 44B1C8| 1|106|0|D|Pokémon flavor text                     |The leaves on its forelegs are as sharp[br]as swords. It agilely leaps about the[br]branches of trees to strike.|
 44B234| 1| 90|0|D|Pokémon flavor text                     |It has a flame sac inside its belly that[br]perpetually burns. It feels warm if it is[br]hugged.|
 44B290| 1| 98|0|D|Pokémon flavor text                     |It boosts its concentration by emitting[br]harsh cries. Its kicks have outstanding[br]destructive power.|
-44B290| 1| 98|0|D|Pokémon flavor text                     |It boosts its concentration by emitting[br]harsh cries. Its kicks have outstanding[br]destructive power.|
 44B2F4| 1|110|0|D|Pokémon flavor text                     |When facing a tough foe, it looses flames[br]from its wrists. Its powerful legs let it[br]jump clear over buildings.|
 44B364| 1|106|0|D|Pokémon flavor text                     |Its large tail fin propels it through[br]water with powerful acceleration. It is[br]strong in spite of its size.|
 44B3D0| 1|103|0|D|Pokémon flavor text                     |It is at its best when on muddy ground[br]with poor footing. It quickly overwhelms[br]foes struggling in mud.|
@@ -7843,7 +8212,6 @@
 44D3E8| 1|111|0|D|Pokémon flavor text                     |Its health ebbs and flows with the lunar[br]cycle. It brims with power when exposed[br]to the light of the full moon.|
 44D459| 1|101|0|D|Pokémon flavor text                     |It absorbs solar energy during the day.[br]Always expressionless, it can sense what[br]its foe is thinking.|
 44D4C0| 1| 85|0|D|Pokémon flavor text                     |It probes muddy riverbeds with its two[br]long whiskers. A slimy film protects its[br]body.|
-44D517| 1|104|0|D|Pokémon flavor text                     |It makes its nest at the bottom of [br]swamps. It will eat anything - if it is[br]alive, WHISCASH will eat it.|
 44D517| 1|104|0|D|Pokémon flavor text                     |It makes its nest at the bottom of [br]swamps. It will eat anything - if it is[br]alive, WHISCASH will eat it.|
 44D581| 1|107|0|D|Pokémon flavor text                     |It came from overseas. It is a very hardy[br]creature that will quickly proliferate,[br]even in polluted streams.|
 44D5EE| 1| 94|0|D|Pokémon flavor text                     |A rough customer that wildly flails its[br]giant claws. It is said to be extremely[br]hard to raise.|
