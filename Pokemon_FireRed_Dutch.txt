@@ -43,7 +43,7 @@
 172A8F| 1|  7|0|D|Mt. Moon                                |I lost.|Ik ben Verloren.
 172A97| 1| 72|0|D|Mt. Moon                                |ZUBAT is tough![br]But if you can catch one, you'll[nb]be able to count on it.|ZUBAT is sterk![br]Maar als je een vangt ga je er[nb]op kunnen rekenen.
 172AE0| 1| 31|0|D|Mt. Moon                                |Beware![br]ZUBAT is a bloodsucker!|Opgepast![br]ZUBAT drinkt bloed!
-172B00| 1| 99|0|D|Mt. Moon                                |Hi, I'm excavating for fossils here[br]under MT. MOON.[nb2]Sometimes, BROCK of PEWTER GYM[br]lends me a hand.|Hallo, ik ben hier fossielen aan[br]het zoeken onder MT. MOON.[nb2]Soms komt helpt BROCK [br]van PEWTER GYM me helpen.
+172B00| 1| 99|0|D|Mt. Moon                                |Hi, I'm excavating for fossils here[br]under MT. MOON.[nb2]Sometimes, BROCK of PEWTER GYM[br]lends me a hand.|Hallo, ik ben hier fossielen aan[br]het zoeken onder MT. MOON.[nb2]Soms komt BROCK van[br]PEWTER GYM me helpen.
 172B64| 1| 52|0|D|Mt. Moon                                |Hey, stop![nb2]I found these fossils![br]They're both mine!|HÈ, stop![nb2]Ik heb die fossielen gevonden![br]Ze zijn allebei van mij!
 172B99| 1| 17|0|D|Mt. Moon                                |Okay![br]I'll share!|Ok![br]Ik zal delen!
 172BAB| 2| 42|0|D|Mt. Moon                                |We'll each take a fossil![br]No being greedy!|We delen ze netjes in twee![br]Je moet niet gierig zijn!
@@ -4026,7 +4026,7 @@
 1BF89F| 2| 86|0|D|Day-care                                |We can raise two of your POKÈMON.[nb2]Would you like us to raise one[br]more POKÈMON for you?|
 1BF8F6| 1| 31|0|D|Day-care                                |My husband was looking for you.|
 1BF916| 1| 27|0|D|Day-care                                |Oh, fine, then.[br]Come again.|
-1BF932| 1| 28|0|D|Day-care                                |You don't have enough money[...]|
+1BF932| 1| 28|0|D|Day-care                                |You don't have enough money[...]|Je hebt niet genoeg geld.
 1BF94F| 1| 38|0|D|Day-care                                |Will you take back the other one,[br]too?|
 1BF976| 3| 17|0|D|Day-care                                |Fine.[br]Come again.|
 1BF988| 2| 67|0|D|Day-care                                |Ah, it's you![br]Good to see you.[nb2]Your POKÈMON can only be doing[br]good!|
@@ -5108,7 +5108,7 @@
 3DED84| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HELIX FOSSIL|
 3DEDB0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DOME FOSSIL|
 3DEDDC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SILPH SCOPE|
-3DEE08| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BICYCLE|
+3DEE08| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BICYCLE|FIETS
 3DEE34| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TOWN MAP|
 3DEE60| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |VS SEEKER|
 3DEE8C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FAME CHECKER|
@@ -6501,7 +6501,7 @@
 3FCBC5| 1| 30|0|D|Battle stats                            |[FD10]'s stats won't[br]go any lower!|De eigenschappen van [FD10][br]kunnen niet verder zakken!
 3FCBE4| 1| 15|0|D|Battle 10                               |A critical hit!|Een super slag!
 3FCBF4| 1| 18|0|D|Battle 10                               |It's a one-hit KO!|Onmiddelijk KO!
-3FCC07| 1| 43|0|D|Battle 10                               |[pausTim]Ó1, [pausTim]‘2, and[pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[music][x31] Poof![nb2]|[pausTim]Ó1, [pausTim]‘2, and[pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[music][x31] Poef![nb2]
+3FCC07| 1| 43|0|D|Battle 10                               |[pausTim]Ó1, [pausTim]‘2, and[pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[music][x31] Poof![nb2]|[pausTim]Ó1, [pausTim]‘2, en[pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[music][x31] Poef![nb2]
 3FCC33| 1|  5|0|D|Battle 10                               |And[...][nb2]|En[...][nb2]
 3FCC39| 1| 33|0|D|Battle 10                               |HM moves can't be[br]forgotten now.[nb2]|HM technieken kunnen nu niet[br]vergeten worden.[nb2]
 3FCC5B| 1| 24|0|D|Battle 10                               |It's not very effective[...]|Het werkt niet zo goed[...]
@@ -6818,9 +6818,9 @@
 416181| 1|  6|0|D|                                        |BADGES|
 416188| 1|  7|0|D|                                        |POKÈDEX|
 416190| 1|  4|0|D|                                        |TIME|TIJD
-4161A0| 4|  3|0|D|                                        |USE|
-4161A4| 2|  4|0|D|                                        |TOSS|
-4161A9| 1|  8|0|D|                                        |REGISTER|
+4161A0| 4|  3|0|D|                                        |USE|GEBRUIK
+4161A4| 2|  4|0|D|                                        |TOSS|GOOI
+4161A9| 1|  8|0|D|                                        |REGISTER|REGISTR.
 4161B2| 5|  4|0|D|                                        |GIVE|GEEF
 4161BC| 1|  4|0|D|                                        |WALK|
 4161C1|18|  6|0|D|                                        |CANCEL|ANNULEER
@@ -6849,7 +6849,7 @@
 4162CD| 1|  5|0|D|                                        |ITEMS|
 4162D3| 1| 10|0|D|                                        |POKÈ BALLS|
 4162DE| 1|  9|0|D|                                        |KEY ITEMS|
-4162E8| 1| 12|0|D|                                        |DEPOSIT ITEM|
+4162E8| 1| 12|0|D|                                        |DEPOSIT ITEM|ITEM AFGEVEN
 4162F5| 1|  9|0|D|                                        |CLOSE BAG|SLUIT ZAK
 4162FF| 3| 15|0|D|                                        |[var1] is[br]selected.|[var1] is[br]gekozen.
 41630F| 3| 26|0|D|                                        |You can't write[br]MAIL here.|Je kan hier geen[br]POST schrijven.
@@ -6933,13 +6933,13 @@
 416C2A| 1| 30|0|D|                                        |[var1] was given the[br][var2] to hold.[pausBtn]|[var1] houd nu[br][var2] vast.[pausBtn]
 416C49| 1| 69|0|D|                                        |[var1] is already holding[br]one [var2].[nb2]Would you like to switch the[br]two items?|[var1] heeft al een[br][var2] vast.[nb2]Wil je de twee items[br]omwisselen?
 416C8F| 1| 28|0|D|                                        |[var1] isn't holding[br]anything.[pausBtn]|[var1] heeft niets vast.[pausBtn]
-416CAC| 1| 26|0|D|                                        |Received the [var2][br]from [var1].[pausBtn]|Received the [var2][br]from [var1].[pausBtn]
+416CAC| 1| 26|0|D|                                        |Received the [var2][br]from [var1].[pausBtn]|De [var2] gekregen[br]van [var1].[pausBtn]
 416CC7| 1| 34|0|D|                                        |MAIL was taken from the[br]POKÈMON.[pausBtn]|POST was genomen van de[br]POKÈMON.[pausBtn]
 416CEA| 1| 44|0|D|                                        |The [var2] was taken and[br]replaced with the [var1].[pausBtn]|De [var2] was weggenomen[br]en vervangen door [var1].[pausBtn]
 416D17| 1| 55|0|D|                                        |This POKÈMON is holding an[br]item. It cannot hold MAIL.[pausBtn]|Deze POKÈMON heeft een item vast.[br]Er is geen plaats voor POST.[pausBtn]
 416D4F| 1| 40|0|D|                                        |MAIL was transferred from[br]the MAILBOX.[pausBtn]|POST was verplaatst uit[br]de POSTBUS.[pausBtn]
 416D78| 1| 58|0|D|                                        |The [var1] is full. The POKÈMON's[br]item could not be removed.[pausBtn]|De [var1] zit vol. Het item van de[br]POKÈMON kon niet verwijderd worden.[pausBtn]
-416DB3| 2| 14|0|D|                                        |[var1] learned[br][var2]!|[var1] leerde[br][var2]!
+416DB3| 2| 14|0|D|                                        |[var1] learned[br][var2]!|[var1] heeft[br][var2] geleerd!
 416DC2| 2| 52|0|D|                                        |[var1] and [var2][br]are not compatible.[nb2][var2] can't be[br]learned.[pausBtn]|[var1] en [var2][br]zijn niet compatibel.[nb2][var2] kan niet[br]geleerd worden.[pausBtn]
 416DF7| 4|115|0|D|                                        |[var1] wants to learn the[br]move [var2].[nb2]However, [var1] already[br]knows four moves.[nb2]Should a move be deleted and[br]replaced with [var2]?|[var1] wil de [var2][br]techniek leren.[nb2]Echter, [var1] kent al[br]reeds vier technieken.[nb2]Moet er een verwijderd worden[br]en vervangen door [var2]?
 416E6B| 1| 24|0|D|                                        |Stop trying to teach[br][var2]?|Stop met [var2][br]te leren?
@@ -7021,18 +7021,18 @@
 41767B| 1|  7|0|D|                                        |DEFENSE|
 41768D| 1|  5|0|D|                                        |SPEED|
 417696| 1| 33|0|D|                                        |That POKÈMON can't participate.[pausBtn]|
-4176B8| 1| 21|0|D|                                        |Cancel participation?|
-4176CF| 1| 18|0|D|                                        |Cancel the battle?|
-4176E2| 1|  8|0|D|                                        |TURN OFF|
-4176F1| 1| 12|0|D|                                        |ITEM STORAGE|
-4176FE| 2|  7|0|D|                                        |MAILBOX|
-417706| 1| 12|0|D|                                        |DEPOSIT ITEM|
-417713| 1| 13|0|D|                                        |WITHDRAW ITEM|
+4176B8| 1| 21|0|D|                                        |Cancel participation?|Annuleer deelname?
+4176CF| 1| 18|0|D|                                        |Cancel the battle?|Annuleer gevecht?
+4176E2| 1|  8|0|D|                                        |TURN OFF|ZET AF
+4176F1| 1| 12|0|D|                                        |ITEM STORAGE|ITEM OPSLAG
+4176FE| 2|  7|0|D|                                        |MAILBOX|POSTBUS
+417706| 1| 12|0|D|                                        |DEPOSIT ITEM|ITEM AFGEVEN
+417713| 1| 13|0|D|                                        |WITHDRAW ITEM|ITEM OPHALEN
 41772A| 1| 22|0|D|Misc. Items                             |Store items in the PC.|Items in de PC opslaan.
 417741| 1| 27|0|D|Misc. Items                             |Take out items from the PC.|Items uit de PC halen.
 417774| 1| 21|0|D|                                        |There are no items.[pausBtn]|
 41778A| 1| 33|0|D|                                        |There is no more[br]room in the BAG.|Er is geen plaats[br]meer in de ZAK.
-4177AC| 1| 24|0|D|                                        |Withdraw how many[br][var1](s)?|
+4177AC| 1| 24|0|D|                                        |Withdraw how many[br][var1](s)?|Hoeveel [var1](en)[br]ophalen?
 4177C5| 1| 18|0|D|                                        |Withdrew [var2][br][var1](s).|
 4177D8| 1|  4|0|D|                                        |READ|
 4177DD| 1| 11|0|D|                                        |MOVE TO BAG|VERPLAATS NAAR ZAK
@@ -7042,8 +7042,8 @@
 417830| 1| 39|0|D|                                        |The message will be lost.[br]Is that okay?|
 417858| 1| 18|0|D|                                        |The BAG is full.[pausBtn]|De ZAK is vol.[pausBtn]
 41786B| 1| 59|0|D|                                        |The MAIL was returned to the BAG[br]with its message erased.[pausBtn]|De POST was teruggestuurd naar[br]de ZAK met gewiste boodschap.[pausBtn]
-4178A7| 1| 13|0|D|                                        |WITHDRAW[br]ITEM|
-4178B5| 1|  8|0|D|                                        |WITHDRAW|
+4178A7| 1| 13|0|D|                                        |WITHDRAW[br]ITEM|ITEM[br]OPHALEN
+4178B5| 1|  8|0|D|                                        |WITHDRAW|OPHALEN
 4178BE| 1| 17|0|D|                                        |Return to the PC.|
 4178D0| 1|  9|0|D|                                        |LT. SURGE|
 4178DA| 1|  4|0|D|                                        |KOGA|
@@ -7130,14 +7130,14 @@
 417C1B| 4|  8|0|D|                                        |SODA POP|
 417C24| 4|  8|0|D|                                        |LEMONADE|
 417C2D| 3|  5|0|D|                                        |COINS|
-417C33| 1| 23|0|D|                                        |BICYCLE[FC]€[x49][smllat]$1,000,000|
-417C4B| 1|  9|0|D|                                        |NO THANKS|
+417C33| 1| 23|0|D|                                        |BICYCLE[FC]€[x49][smllat]$1,000,000|FIETS[FC]€[x49][smllat]$1,000,000
+417C4B| 1|  9|0|D|                                        |NO THANKS|NEE BEDANKT
 417C55| 1| 20|0|D|                                        |ABRA[FC]€[po][smllat] 180 COINS|
 417C6A| 1| 24|0|D|                                        |CLEFAIRY[FC]€[po][smllat] 500 COINS|
 417C83| 1| 25|0|D|                                        |DRATINI[FC]€[x4B][smllat] 2,800 COINS|
 417C9D| 1| 25|0|D|                                        |SCYTHER[FC]€[x4B][smllat] 5,500 COINS|
 417CB7| 1| 25|0|D|                                        |PORYGON[FC]€[x4B][smllat] 9,999 COINS|
-417D4C| 3|  9|0|D|                                        |NO THANKS|
+417D4C| 3|  9|0|D|                                        |NO THANKS|NEE BEDANKT
 417D56| 2| 12|0|D|                                        |HELIX FOSSIL|
 417D63| 2| 11|0|D|                                        |DOME FOSSIL|
 417D6F| 3|  9|0|D|                                        |OLD AMBER|
@@ -7230,10 +7230,10 @@
 41821B| 1| 23|0|D|                                        |What do you want to do?|
 418233| 1| 20|0|D|                                        |Please pick a theme.|
 418248| 1| 19|0|D|                                        |Pick the wallpaper.|
-41825C| 2| 15|0|D|                                        |[A]  is selected.|
+41825C| 2| 15|0|D|                                        |[A]  is selected.|[A]  is gekozen.
 41826C| 1| 18|0|D|                                        |Jump to which BOX?|
-41827F| 1| 21|0|D|                                        |Deposit in which BOX?|
-418295| 1| 17|0|D|                                        |[A]  was deposited.|
+41827F| 1| 21|0|D|                                        |Deposit in which BOX?|Plaats in welke DOOS?
+418295| 1| 17|0|D|                                        |[A]  was deposited.|[A]  was afgegeven.
 4182A7| 1| 16|0|D|                                        |The BOX is full.|
 4182B8| 1| 21|0|D|                                        |Release this POKÈMON?|
 4182CE| 1| 16|0|D|                                        |[A]  was released.|
@@ -7257,7 +7257,7 @@
 418452| 1| 21|0|D|                                        |MAIL can't be stored!|
 418468| 1|  6|0|D|                                        |CANCEL|ANNULEER
 41846F| 1|  5|0|D|                                        |STORE|
-418475| 1|  8|0|D|                                        |WITHDRAW|
+418475| 1|  8|0|D|                                        |WITHDRAW|OPHALEN
 41847E| 1|  5|0|D|                                        |SHIFT|WISSEL
 418484| 1|  4|0|D|                                        |MOVE|
 418489| 1|  5|0|D|                                        |PLACE|
@@ -7292,17 +7292,17 @@
 41854A| 1| 10|0|D|                                        |POKÈCENTER|
 418555| 1|  5|0|D|                                        |TILES|
 41855B| 1|  6|0|D|                                        |SIMPLE|
-41856C| 1| 16|0|D|                                        |WITHDRAW POKÈMON|
-41857D| 1| 15|0|D|                                        |DEPOSIT POKÈMON|
-41858D| 1| 12|0|D|                                        |MOVE POKÈMON|
-41859A| 1| 10|0|D|                                        |MOVE ITEMS|
-4185A5| 1|  7|0|D|                                        |SEE YA!|
+41856C| 1| 16|0|D|                                        |WITHDRAW POKÈMON|POKÈMON OPHALEN
+41857D| 1| 15|0|D|                                        |DEPOSIT POKÈMON|POKÈMON AFGEVEN
+41858D| 1| 12|0|D|                                        |MOVE POKÈMON|VERPLAATS POKÈMON
+41859A| 1| 10|0|D|                                        |MOVE ITEMS|VERPLATS ITEMS
+4185A5| 1|  7|0|D|                                        |SEE YA!|SLUIT AF
 4185AD| 1| 52|0|D|Misc. Items                             |You can withdraw a POKÈMON if you[br]have any in a BOX.|Je kan POKÈMON afhalen[br]als je er hebt in een DOOS.
 4185E2| 1| 46|0|D|Misc. Items                             |You can deposit your party[br]POKÈMON in any BOX.|Je kan je POKÈMON opslaan[br]in een DOOS.
 418611| 1| 48|0|D|Misc. Items                             |You can move POKÈMON that are[br]stored in any BOX.|Je kan POKÈMON verplaatsen[br]die bewaard zijn in een DOOS.
 418642| 1| 62|0|D|Misc. Items                             |You can move items held by any[br]POKÈMON in a BOX or your party.|Je kan items verplaatsen tussen een[br]POKÈMON in een DOOS of je team.
 418681| 1| 14|0|D|Misc. Items                             |See you later!|Tot later!
-418690| 1| 31|0|D|                                        |Can't deposit the last POKÈMON!|
+418690| 1| 31|0|D|                                        |Can't deposit the last POKÈMON!|Kan laatste POKÈMON niet afgeven!
 4186B0| 1| 28|0|D|                                        |Can't take any more POKÈMON.|Je kan niet meer POKÈMON nemen.
 4186CD| 1|  3|0|D|                                        |BOX|
 4186D1| 2| 29|0|D|                                        |Combine four words or phrases|
@@ -7416,7 +7416,7 @@
 419CB9| 1| 32|0|D|                                        |HM moves can't be[br]forgotten now.|
 419CDA| 1|  6|0|D|                                        |NAME: |
 419CE1| 1|  5|0|D|                                        |IDNo.|
-419CE7| 3|  5|0|D|                                        |MONEY|
+419CE7| 3|  5|0|D|                                        |MONEY|GELD
 419CED| 1|  1|0|D|                                        |$|
 419CEF| 2|  7|0|D|                                        |POKÈDEX|
 419CFD| 2|  4|0|D|                                        |TIME|TIJD
@@ -7451,7 +7451,7 @@
 419E4F| 1|  2|0|D|                                        |LR|
 419E52| 1|  4|0|D|                                        |TYPE|
 419E57| 1| 26|0|D|                                        |[V][x0A]PICK [V]ŒSWITCH [V] [V]¿CANCEL|[V][x0A]NEEM [V]ŒWISSEL [V] [V]¿TERUG
-419F54| 5| 33|0|D|                                        |SAVING[...][br]DON'T TURN OFF THE POWER.|
+419F54| 5| 33|0|D|                                        |SAVING[...][br]DON'T TURN OFF THE POWER.|BEZIG MET OPSLAAN[...][br]ZET DE STROOM NIET AF.
 419F76| 1| 68|0|D|                                        |A device that records POKÈMON secrets[br]upon meeting or catching them.|
 419FBB| 1| 69|0|D|Start Menu                              |Check and organize POKÈMON that are[br]traveling with you in your party.|Bekijk en organiseer POKÈMON[br]die met je mee reizen.
 41A001| 1| 71|0|D|Start Menu                              |Equipped with pockets for storing items[br]you bought, received, or found.|Hier kan je items steken die je[br]gekocht, gekregen of gevonden hebt.
@@ -7584,7 +7584,7 @@
 41B25B| 2| 12|0|D|Locations                               |VICTORY ROAD|
 41B268| 1| 14|0|D|Locations                               |POKÈMON LEAGUE|
 41B277| 1| 13|0|D|Locations                               |CERULEAN CAVE|
-41B285| 1| 13|0|D|                                        | was used on[br]|
+41B285| 1| 13|0|D|                                        | was used on[br]| is gebruikt op[br]
 41B295| 1| 17|0|D|                                        |'s level rose to[br]|
 41B2A9| 1| 13|0|D|                                        |[smllat]MAX.[small] HP|
 41B2B7| 1|  6|0|D|                                        |ATTACK|
@@ -7599,13 +7599,13 @@
 41B2FF| 1|  6|0|D|                                        |Poof![nb2]|
 41B306| 1| 14|0|D|                                        |[A]  forgot[br][A]¿.[nb2]|
 41B315| 1|  5|0|D|                                        |And[...][nb2]|
-41B31B| 1| 13|0|D|                                        |Machine set![nb2]|
+41B31B| 1| 13|0|D|                                        |Machine set![nb2]|Machine ingesteld![nb2]
 41B329| 1|  4|0|D|                                        |Huh?|
-41B32E| 1| 14|0|D|                                        |[A]  learned[br][A]¿!|
+41B32E| 1| 14|0|D|                                        |[A]  learned[br][A]¿!|[A]  heeft[br][A]¿ geleerd!
 41B33D| 1|  5|0|D|                                        |UPPER|
 41B343| 1|  5|0|D|                                        |lower|
 41B350| 1|  7|0|D|                                        |SYMBOLS|
-41B358| 1|  8|0|D|                                        |REGISTER|
+41B358| 1|  8|0|D|                                        |REGISTER|REGISTR.
 41B361| 1|  4|0|D|                                        |EXIT|SLUITEN
 41B366| 1| 14|0|D|                                        |Quit chatting?|
 41B375| 1| 20|0|D|                                        |Register text where?|
@@ -7617,7 +7617,7 @@
 41B3FB| 1| 42|0|D|                                        |The LEADER, [A] , has[br]left, ending the chat.|
 41B426| 1| 66|0|D|                                        |The registered text has been changed.[br]Is it okay to save the game?|De geregistreerde tekst is aangepast.[br]Is het ok om het spel op te slaan?
 41B469| 1| 58|0|D|                                        |There is already a saved file.[br]Is it okay to overwrite it?|Er is reeds een bewaard spel.[br]Is het ok om dit te overschrijven?
-41B4A4| 1| 33|0|D|                                        |SAVING[...][br]DON'T TURN OFF THE POWER.|
+41B4A4| 1| 33|0|D|                                        |SAVING[...][br]DON'T TURN OFF THE POWER.|BEZIG MET OPSLAAN[...][br]ZET DE STROOM NIET AF.
 41B4C6| 1| 18|0|D|                                        |[A]  saved the game.|[A]  bewaarde het spel.
 41B4D9| 1| 54|0|D|                                        |If the LEADER leaves, the chat[br]will end. Is that okay?|
 41B510| 1|  5|0|D|                                        |HELLO|
@@ -7630,8 +7630,8 @@
 41B53B| 1|  5|0|D|                                        |YAY[<][<]|
 41B541| 1|  9|0|D|                                        |THANK YOU|
 41B54B| 1|  8|0|D|                                        |BYE-BYE!|
-41B554| 1| 97|0|D|                                        |[PLAYER] scurried to a POKÈMON CENTER,[br]protecting the exhausted and fainted[br]POKÈMON from further harm[...][nb2]|
-41B5B6| 1| 87|0|D|                                        |[PLAYER] scurried back home, protecting[br]the exhausted and fainted POKÈMON from[br]further harm[...][nb2]|
+41B554| 1| 97|0|D|                                        |[PLAYER] scurried to a POKÈMON CENTER,[br]protecting the exhausted and fainted[br]POKÈMON from further harm[...][nb2]|[PLAYER] haastte zich naar een[br]POKÈMON CENTER, met de uitgeputte en[nb]flauwgevallen POKÈMON in zijn armen[...][nb]
+41B5B6| 1| 87|0|D|                                        |[PLAYER] scurried back home, protecting[br]the exhausted and fainted POKÈMON from[br]further harm[...][nb2]|[PLAYER] haastte zich naar huis, met[br]de uitgeputte en flauwgevallen POKÈMON[nb]in zijn armen[...][nb2]
 41B60E| 1| 10|0|D|                                        |PLAYER: [A] |SPELER: [A] 
 41B619| 1|106|0|D|                                        |This document is issued in[br]recognition of your magnificent[br]achievement - the completion of[br]the [A]¿ POKÈDEX.|
 41B684| 1| 10|0|D|                                        |GAME FREAK|
@@ -7643,7 +7643,7 @@
 41B6DC| 1|  4|0|D|                                        |TIME|TIJD
 41B6E3| 1|  7|0|D|                                        |POKÈDEX|
 41B6EC| 1|  6|0|D|                                        |BADGES|
-41B6F4| 2|  8|0|D|                                        |REGISTER|
+41B6F4| 2|  8|0|D|                                        |REGISTER|REGISTR.
 41B6FD| 1| 24|0|D|                                        |[var1] hatched from the EGG!|
 41B716| 1| 48|0|D|                                        |Would you like to nickname the newly[br]hatched [var1]?|
 41B747| 1| 35|0|D|                                        |You've run out of COINS.[br]Game over!|
@@ -7686,7 +7686,7 @@
 41CBE4| 1| 24|0|D|                                        |You can't hold any more!|
 41CBFD| 1| 19|0|D|                                        |Want to play again?|
 41CC11| 1| 48|0|D|                                        |Somebody dropped out.[br]The link will be canceled.|
-41CC42| 1| 33|0|D|                                        |SAVING[...][br]DON'T TURN OFF THE POWER.|
+41CC42| 1| 33|0|D|                                        |SAVING[...][br]DON'T TURN OFF THE POWER.|BEZIG MET OPSLAAN[...][br]ZET DE STROOM NIET AF.
 41CC64| 1| 22|0|D|                                        |Communication standby[...]|
 41CC9F| 1| 28|0|D|                                        |DODRIO BERRY-PICKING RECORDS|
 41CCBC| 1| 15|0|D|                                        |BERRIES picked:|
@@ -7766,7 +7766,7 @@
 41E0C0| 1| 17|0|D|                                        |Choose a POKÈMON.|Kies een POKÈMON.
 41E0D2| 1|  7|0|D|                                        |SUMMARY|
 41E0DA| 1|  5|0|D|                                        |TRADE|
-41E0E0| 1| 13|0|D|                                        |Cancel trade?|
+41E0E0| 1| 13|0|D|                                        |Cancel trade?|Annuleer ruil?
 41E0EE| 1| 27|0|D|                                        |Press the B Button to exit.|Druk de B knop om af te sluiten.
 41E10A| 1|  7|0|D|                                        |SUMMARY|
 41E112| 1|  5|0|D|                                        |TRADE|
@@ -7796,11 +7796,11 @@
 41E3A8| 1| 58|0|D|                                        |The two prefer to play with other[br]POKÈMON than each other.|
 41E3E3| 1| 23|0|D|                                        |Teach which move to [var1]?|
 41E3FB| 1|  9|0|D|                                        |Teach [var2]?|
-41E405| 1| 14|0|D|                                        |[var1] learned[br][var2].|
+41E405| 1| 14|0|D|                                        |[var1] learned[br][var2].|[var1] heeft[br][var2] geleerd.
 41E414| 1|108|0|D|                                        |[var1] is trying to learn[br][var2].[nb2]But [var1] can't learn more[br]than four moves.[nb2]Delete an older move to make[br]room for [var2]?|
 41E481| 1| 17|0|D|                                        |Stop learning [var2]?|
 41E493| 1| 44|0|D|                                        |[pausTim]Ó1, [pausTim]‘2, and [pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[...] [pausTim]‘[music][x31] Poof![nb2]|
-41E4C0| 1| 33|0|D|                                        |[var1] forgot [var3].[nb2]And[...][nb2][var1][br]learned [var2].|
+41E4C0| 1| 33|0|D|                                        |[var1] forgot [var3].[nb2]And[...][nb2][var1][br]learned [var2].|[var1] vergat [var3].[nb2]en[...][nb2][var1] heeft[br][var2] geleerd.
 41E4E2| 2| 41|0|D|                                        |Give up trying to teach a new[br]move to [var1]?|Geef het op de nieuwe techniek[br]te leren aan [var1]?
 41E50C| 1| 32|0|D|                                        |Which move should be forgotten?[nb2]|
 41E538| 1| 57|0|D|                                        |Communication standby[...][br]Awaiting another player to choose.|
@@ -8512,360 +8512,360 @@
 480608| 1| 11|0|D|Wireless Club                           |Ô   SNORLAX|
 480618| 9|  5|0|D|Wireless Club                           |KADEN|
 480870| 1|  7|0|D|Wireless Club                           |PERSIAN|
-482834| 1| 63|0|D|Move Descriptions                       |A physical attack[br]delivered with a[br]long tail or a[br]foreleg, etc.|
-482874| 1| 72|0|D|Move Descriptions                       |The foe is attacked[br]with a sharp chop.[br]It has a high[br]critical-hit ratio.|
-4828BD| 1| 65|0|D|Move Descriptions                       |The foe is slapped[br]repeatedly, back[br]and forth, two to[br]five times.|
-4828FF| 1| 70|0|D|Move Descriptions                       |The foe is hit with[br]a flurry of punches[br]that strike two to[br]five times.|
-482946| 1| 62|0|D|Move Descriptions                       |The foe is slugged[br]by a punch thrown[br]with muscle-packed[br]power.|
-482985| 1| 67|0|D|Move Descriptions                       |Numerous coins are[br]hurled at the foe.[br]Money is earned[br]after battle.|
-4829C9| 1| 71|0|D|Move Descriptions                       |The foe is punched[br]with a fiery fist.[br]It may leave the[br]foe with a burn.|
-482A11| 1| 65|0|D|Move Descriptions                       |The foe is punched[br]with an icy fist.[br]It may leave the[br]foe frozen.|
-482A53| 1| 76|0|D|Move Descriptions                       |The foe is punched[br]with an electrified[br]fist. It may leave[br]the foe paralyzed.|
-482AA0| 1| 44|0|D|Move Descriptions                       |Hard, pointed, and[br]sharp claws rake[br]the foe.|
-482ACD| 1| 50|0|D|Move Descriptions                       |Huge, impressive[br]pincers grip and[br]squeeze the foe.|
-482B00| 1| 69|0|D|Move Descriptions                       |A vicious tearing[br]attack with pincers.[br]The foe will faint[br]if it hits.|
-482B46| 1| 77|0|D|Move Descriptions                       |Blades of wind hit[br]the foe on the 2nd[br]turn. It has a high[br]critical-hit ratio.|
-482B94| 1| 64|0|D|Move Descriptions                       |A frenetic dance of[br]fighting. It sharply[br]raises the ATTACK[br]stat.|
-482BD5| 2| 64|0|D|Move Descriptions                       |A basic attack.[br]It can be used to[br]cut down thin trees[br]and grass.|
-482C16| 1| 56|0|D|Move Descriptions                       |Strikes the foe[br]with a gust of wind[br]whipped up by[br]wings.|
-482C4F| 1| 57|0|D|Move Descriptions                       |The foe is struck[br]with large, imposing[br]wings spread wide.|
-482C89| 1| 73|0|D|Move Descriptions                       |The foe is made to[br]switch out with an[br]ally. In the wild,[br]the battle ends.|
-482CD3| 2| 73|0|D|Move Descriptions                       |A 2-turn move that[br]hits on the 2nd[br]turn. Use it to fly[br]to any known town.|
-482D1D| 1| 72|0|D|Move Descriptions                       |A long body or[br]tentacles are used[br]to bind the foe for[br]two to five turns.|
-482D66| 1| 47|0|D|Move Descriptions                       |The foe is struck[br]with a long tail,[br]vines, etc.|
-482D96| 1| 49|0|D|Move Descriptions                       |The foe is struck[br]with slender, whip-[br]like vines.|
-482DC8| 1| 63|0|D|Move Descriptions                       |The foe is stomped[br]with a big foot.[br]It may make the[br]foe flinch.|
-482E08| 1| 60|0|D|Move Descriptions                       |Two legs are used[br]to quickly kick the[br]foe twice in one[br]turn.|
-482E45| 1| 61|0|D|Move Descriptions                       |The foe is attacked[br]by a kick fired[br]with muscle-packed[br]power.|
-482E83| 1| 72|0|D|Move Descriptions                       |The user jumps up[br]high, then kicks.[br]If it misses, the[br]user hurts itself.|
-482ECC| 1| 61|0|D|Move Descriptions                       |A quick kick from a[br]rolling spin.[br]It may make the[br]foe flinch.|
-482F0A| 1| 65|0|D|Move Descriptions                       |A lot of sand is[br]hurled in the foe's[br]face, reducing its[br]accuracy.|
-482F4C| 1| 66|0|D|Move Descriptions                       |The user sticks its[br]head out and rams.[br]It may make the[br]foe flinch.|
-482F8F| 1| 64|0|D|Move Descriptions                       |The foe is jabbed[br]with a sharply[br]pointed horn to[br]inflict damage.|
-482FD0| 1| 67|0|D|Move Descriptions                       |The foe is jabbed[br]repeatedly with a[br]horn or beak two to[br]five times.|
-483014| 1| 71|0|D|Move Descriptions                       |The horn is rotated[br]like a drill to ram.[br]The foe will faint[br]if it hits.|
-48305C| 1| 69|0|D|Move Descriptions                       |A physical attack[br]in which the user[br]charges, full body,[br]into the foe.|
-4830A2| 1| 72|0|D|Move Descriptions                       |The user drops its[br]full body on the[br]foe. It may leave[br]the foe paralyzed.|
-4830EB| 1| 68|0|D|Move Descriptions                       |A long body or[br]vines are used to[br]wrap the foe for[br]two to five turns.|
-483130| 1| 71|0|D|Move Descriptions                       |A reckless, full-[br]body charge attack[br]that also hurts the[br]user a little.|
-483178| 1| 70|0|D|Move Descriptions                       |The user rampages[br]about for two to[br]three turns, then[br]becomes confused.|
-4831BF| 1| 67|0|D|Move Descriptions                       |A reckless, life-[br]risking tackle that[br]also hurts the user[br]a little.|
-483203| 1| 69|0|D|Move Descriptions                       |The user wags its[br]tail cutely, making[br]the foe lower its[br]DEFENSE stat.|
-483249| 1| 65|0|D|Move Descriptions                       |The foe is stabbed[br]with a toxic barb,[br]etc. It may poison[br]the foe.|
-48328B| 1| 70|0|D|Move Descriptions                       |The foe is stabbed[br]twice with foreleg[br]stingers. It may[br]poison the foe.|
-4832D2| 1| 65|0|D|Move Descriptions                       |Sharp pins are shot[br]at the foe and hit[br]two to five times[br]at once.|
-483314| 1| 67|0|D|Move Descriptions                       |The foe is given an[br]intimidating look[br]that lowers its[br]DEFENSE stat.|
-483358| 1| 62|0|D|Move Descriptions                       |The user bites with[br]vicious fangs.[br]It may make the[br]foe flinch.|
-483397| 1| 68|0|D|Move Descriptions                       |The user growls in[br]a cute way, making[br]the foe lower its[br]ATTACK stat.|
-4833DC| 2| 73|0|D|Move Descriptions                       |The foe is made to[br]switch out with an[br]ally. In the wild,[br]the battle ends.|
-483426| 1| 69|0|D|Move Descriptions                       |A soothing song[br]in a calming voice[br]lulls the foe into[br]a deep slumber.|
-48346C| 1| 59|0|D|Move Descriptions                       |The user generates[br]odd sound waves.[br]It may confuse the[br]foe.|
-4834A8| 1| 68|0|D|Move Descriptions                       |The foe is hit with[br]a shock wave that[br]always inflicts 20-[br]HP damage.|
-4834ED| 1| 70|0|D|Move Descriptions                       |For a few turns,[br]it prevents the foe[br]from using the move[br]it last used.|
-483534| 1| 75|0|D|Move Descriptions                       |The foe is sprayed[br]with a harsh, hide-[br]melting acid that[br]may lower DEFENSE.|
-483580| 1| 65|0|D|Move Descriptions                       |The foe is attacked[br]with small flames.[br]The foe may suffer[br]a burn.|
-4835C2| 2| 67|0|D|Move Descriptions                       |The foe is scorched[br]with intense flames.[br]The foe may suffer[br]a burn.|
-483606| 1| 68|0|D|Move Descriptions                       |The ally party is[br]protected by a[br]mist that prevents[br]stat reductions.|
-48364B| 1| 71|0|D|Move Descriptions                       |The foe is struck[br]with a lot of water[br]expelled forcibly[br]from the mouth.|
-483693| 1| 66|0|D|Move Descriptions                       |A high volume of[br]water is blasted at[br]the foe under great[br]pressure.|
-4836D6| 2| 72|0|D|Move Descriptions                       |A big wave crashes[br]down on the foe.[br]Can also be used[br]for crossing water.|
-48371F| 2| 64|0|D|Move Descriptions                       |The foe is struck[br]with an icy beam.[br]It may freeze the[br]foe solid.|
-483760| 2| 64|0|D|Move Descriptions                       |The foe is blasted[br]with a blizzard.[br]It may freeze the[br]foe solid.|
-4837A1| 1| 65|0|D|Move Descriptions                       |A peculiar ray is[br]shot at the foe.[br]It may leave the[br]foe confused.|
-4837E3| 1| 70|0|D|Move Descriptions                       |A spray of bubbles[br]strikes the foe.[br]It may lower the[br]foe's SPEED stat.|
-48382A| 1| 66|0|D|Move Descriptions                       |A rainbow-colored[br]attack beam.[br]It may lower the[br]foe's ATTACK stat.|
-48386D| 2| 69|0|D|Move Descriptions                       |A severely damaging[br]attack that makes[br]the user rest on[br]the next turn.|
-4838B3| 1| 54|0|D|Move Descriptions                       |The foe is jabbed[br]with a sharply[br]pointed beak or[br]horn.|
-4838EA| 1| 60|0|D|Move Descriptions                       |A corkscrewing[br]attack with the[br]sharp beak acting[br]as a drill.|
-483927| 1| 70|0|D|Move Descriptions                       |A reckless, full-[br]body throw attack[br]that also hurts the[br]user a little.|
-48396E| 1| 63|0|D|Move Descriptions                       |A low, tripping kick[br]that inflicts more[br]damage on heavier[br]foes.|
-4839AE| 1| 73|0|D|Move Descriptions                       |A retaliation move[br]that counters any[br]physical hit with[br]double the damage.|
-4839F8| 1| 65|0|D|Move Descriptions                       |A gravity-fed throw[br]that causes damage[br]matching the user's[br]level.|
-483A3A| 2| 71|0|D|Move Descriptions                       |The foe is slugged[br]at maximum power.[br]Can also be used[br]to move boulders.|
-483A82| 1| 66|0|D|Move Descriptions                       |An attack that[br]absorbs half the[br]damage it inflicted[br]to restore HP.|
-483AC5| 1| 70|0|D|Move Descriptions                       |A tough attack that[br]drains half the[br]damage it inflicted[br]to restore HP.|
-483B0C| 1| 74|0|D|Move Descriptions                       |A seed is planted[br]on the foe to steal[br]some HP for the [br]user on every turn.|
-483B57| 1| 60|0|D|Move Descriptions                       |The user's body is[br]forced to grow,[br]raising the SP.[br]ATK stat.|
-483B94| 1| 69|0|D|Move Descriptions                       |The foe is hit with[br]a cutting leaf.[br]It has a high[br]critical-hit ratio.|
-483BDA| 2| 71|0|D|Move Descriptions                       |A 2-turn move that[br]blasts the foe with[br]absorbed energy in[br]the 2nd turn.|
-483C22| 1| 58|0|D|Move Descriptions                       |A cloud of toxic[br]dust is scattered.[br]It may poison the[br]foe.|
-483C5D| 1| 61|0|D|Move Descriptions                       |Paralyzing dust is[br]scattered wildly.[br]It may paralyze[br]the foe.|
-483C9B| 1| 63|0|D|Move Descriptions                       |A sleep-inducing[br]dust is scattered[br]in high volume[br]around a foe.|
-483CDB| 1| 72|0|D|Move Descriptions                       |The user attacks[br]with petals for two[br]to three turns,[br]then gets confused.|
-483D24| 1| 70|0|D|Move Descriptions                       |The foe is bound[br]with strings shot[br]from the mouth to[br]reduce its SPEED.|
-483D6B| 1| 68|0|D|Move Descriptions                       |The foe is hit with[br]a shock wave that[br]always inflicts 40-[br]HP damage.|
-483DB0| 1| 77|0|D|Move Descriptions                       |The foe is trapped[br]in an intense spiral[br]of fire that rages[br]two to five turns.|
-483DFE| 1| 63|0|D|Move Descriptions                       |An electric shock[br]attack that may[br]also leave the foe[br]paralyzed.|
-483E3E| 2| 65|0|D|Move Descriptions                       |A strong electrical[br]attack that may[br]also leave the foe[br]paralyzed.|
-483E80| 1| 65|0|D|Move Descriptions                       |A weak electric[br]shock that is sure[br]to cause paralysis[br]if it hits.|
-483EC2| 2| 64|0|D|Move Descriptions                       |A brutal lightning[br]attack that may[br]also leave the foe[br]paralyzed.|
-483F03| 1| 64|0|D|Move Descriptions                       |The foe is attacked[br]with a shower of[br]small, easily[br]thrown rocks.|
-483F44| 2| 68|0|D|Move Descriptions                       |An earthquake that[br]strikes all POKÈMON[br]in battle excluding[br]the user.|
-483F89| 1| 61|0|D|Move Descriptions                       |The foe is dropped[br]into a fissure.[br]The foe faints if it[br]hits.|
-483FC7| 2| 71|0|D|Move Descriptions                       |An attack that hits[br]on the 2nd turn.[br]Can also be used[br]to exit dungeons.|
-48400F| 2| 72|0|D|Move Descriptions                       |A move that badly[br]poisons the foe.[br]Its poison damage[br]worsens every turn.|
-484058| 1| 63|0|D|Move Descriptions                       |A weak telekinetic[br]attack that may[br]also leave the foe[br]confused.|
-484098| 2| 70|0|D|Move Descriptions                       |A strong telekinetic[br]attack. It may also[br]lower the foe's[br]SP. DEF stat.|
-4840DF| 1| 67|0|D|Move Descriptions                       |Hypnotic suggestion[br]is used to make the[br]foe fall into a[br]deep sleep.|
-484123| 1| 65|0|D|Move Descriptions                       |The user meditates[br]to awaken its power[br]and raise its[br]ATTACK stat.|
-484165| 1| 66|0|D|Move Descriptions                       |The user relaxes[br]and lightens its[br]body to sharply[br]boost its SPEED.|
-4841A8| 1| 64|0|D|Move Descriptions                       |An almost invisibly[br]fast attack that[br]is certain to strike[br]first.|
-4841E9| 1| 68|0|D|Move Descriptions                       |An attack that[br]becomes stronger[br]each time the user[br]is hit in battle.|
-48422E| 1| 73|0|D|Move Descriptions                       |Use it to flee from[br]any wild POKÈMON.[br]Also warps to the[br]last POKÈ CENTER.|
-484278| 1| 71|0|D|Move Descriptions                       |An attack with a[br]mirage that inflicts[br]damage matching[br]the user's level.|
-4842C0| 1| 73|0|D|Move Descriptions                       |The user copies the[br]move last used by[br]the foe for the[br]rest of the battle.|
-48430A| 1| 72|0|D|Move Descriptions                       |An ear-splitting[br]screech is emitted[br]to sharply reduce[br]the foe's DEFENSE.|
-484353| 2| 68|0|D|Move Descriptions                       |The user creates[br]illusory copies of[br]itself to raise its[br]evasiveness.|
-484398| 1| 76|0|D|Move Descriptions                       |A self-healing move[br]that restores HP by[br]up to half of the[br]user's maximum HP.|
-4843E5| 1| 72|0|D|Move Descriptions                       |The user stiffens[br]all the muscles in[br]its body to raise[br]its DEFENSE stat.|
-48442E| 1| 71|0|D|Move Descriptions                       |The user compresses[br]all the cells in its[br]body to raise its[br]evasiveness.|
-484476| 1| 62|0|D|Move Descriptions                       |An obscuring cloud[br]of smoke or ink[br]reduces the foe's[br]accuracy.|
-4844B5| 1| 61|0|D|Move Descriptions                       |The foe is exposed[br]to a sinister ray[br]that triggers[br]confusion.|
-4844F3| 1| 72|0|D|Move Descriptions                       |The user withdraws[br]its body in its hard[br]shell, raising its[br]DEFENSE stat.|
-48453C| 1| 67|0|D|Move Descriptions                       |The user curls up[br]to conceal weak[br]spots and raise its[br]DEFENSE stat.|
-484580| 1| 68|0|D|Move Descriptions                       |The user creates a[br]sturdy wall that[br]sharply raises its[br]DEFENSE stat.|
-4845C5| 2| 64|0|D|Move Descriptions                       |A wall of light[br]cuts damage from[br]SP. ATK attacks[br]for five turns.|
-484606| 1| 64|0|D|Move Descriptions                       |Eliminates all stat[br]changes among all[br]POKÈMON engaged in[br]battle.|
-484647| 2| 65|0|D|Move Descriptions                       |A wall of light[br]cuts damage from[br]physical attacks[br]for five turns.|
-484689| 1| 73|0|D|Move Descriptions                       |The user takes a[br]deep breath and[br]focuses to raise its[br]critical-hit ratio.|
-4846D3| 1| 65|0|D|Move Descriptions                       |The user endures[br]attacks for two[br]turns, then strikes[br]back double.|
-484715| 1| 72|0|D|Move Descriptions                       |Waggles a finger[br]and stimulates the[br]brain into using any[br]move at random.|
-48475E| 1| 67|0|D|Move Descriptions                       |The user counters[br]the move last used[br]by the foe with the[br]same move.|
-4847A2| 1| 69|0|D|Move Descriptions                       |The user blows up[br]to inflict severe[br]damage, even[br]making itself faint.|
-4847E8| 1| 68|0|D|Move Descriptions                       |A large egg is[br]hurled with great[br]force at the foe to[br]inflict damage.|
-48482D| 1| 67|0|D|Move Descriptions                       |The foe is licked[br]and hit with a long[br]tongue. It may[br]also paralyze.|
-484871| 1| 67|0|D|Move Descriptions                       |The foe is attacked[br]with exhaust gases.[br]It may also poison[br]the foe.|
-4848B5| 1| 60|0|D|Move Descriptions                       |Toxic sludge is[br]hurled at the foe.[br]It may poison the[br]target.|
-4848F2| 1| 72|0|D|Move Descriptions                       |The foe is clubbed[br]with a bone held in[br]hand. It may make[br]the foe flinch.|
-48493B| 2| 74|0|D|Move Descriptions                       |The foe is hit with[br]an intense flame.[br]It may leave the[br]target with a burn.|
-484986| 2| 67|0|D|Move Descriptions                       |A powerful charge[br]attack. It can also[br]be used to climb[br]a waterfall.|
-4849CA| 1| 74|0|D|Move Descriptions                       |The foe is clamped[br]and squeezed by[br]the user's shell for[br]two to five turns.|
-484A15| 1| 65|0|D|Move Descriptions                       |Star-shaped rays[br]that never miss are[br]fired at all foes in[br]battle.|
-484A57| 1| 74|0|D|Move Descriptions                       |The user raises its[br]DEFENSE in the 1st[br]turn, then attacks[br]in the 2nd turn.|
-484AA2| 1| 62|0|D|Move Descriptions                       |Sharp spikes are[br]fired at the foe to[br]strike two to five[br]times.|
-484AE1| 1| 69|0|D|Move Descriptions                       |The foe is attacked[br]with long tentacles[br]or vines. It may[br]lower SPEED.|
-484B27| 1| 51|0|D|Move Descriptions                       |Forgets about[br]something and[br]sharply raises[br]SP. DEF.|
-484B5B| 1| 69|0|D|Move Descriptions                       |The user distracts[br]the foe by bending[br]a spoon. It may[br]lower accuracy.|
-484BA1| 1| 73|0|D|Move Descriptions                       |Heals the user by[br]up to half its full[br]HP. It can be used[br]to heal an ally.|
-484BEB| 1| 59|0|D|Move Descriptions                       |A strong jumping[br]knee kick. If it[br]misses, the user is[br]hurt.|
-484C27| 1| 77|0|D|Move Descriptions                       |The user intimidates[br]the foe with the[br]design on its belly[br]to cause paralysis.|
-484C75| 1| 69|0|D|Move Descriptions                       |Absorbs half the[br]damage it inflicted[br]on a sleeping foe[br]to restore HP.|
-484CBB| 1| 69|0|D|Move Descriptions                       |The foe is sprayed[br]with a cloud of[br]toxic gas that may[br]poison the foe.|
-484D01| 1| 64|0|D|Move Descriptions                       |Round objects are[br]hurled at the foe[br]to strike two to[br]five times.|
-484D42| 1| 66|0|D|Move Descriptions                       |An attack that[br]absorbs half the[br]damage it inflicted[br]to restore HP.|
-484D85| 1| 71|0|D|Move Descriptions                       |The user forces a[br]kiss on the foe[br]with a scary face[br]that induces sleep.|
-484DCD| 1| 74|0|D|Move Descriptions                       |A 2nd-turn attack[br]move with a high[br]critical-hit ratio.[br]The foe may flinch.|
-484E18| 1| 71|0|D|Move Descriptions                       |The user transforms[br]into a copy of the[br]foe with even the[br]same move set.|
-484E60| 1| 67|0|D|Move Descriptions                       |A spray of bubbles[br]hits the foe.[br]It may lower the[br]foe's SPEED stat.|
-484EA4| 1| 64|0|D|Move Descriptions                       |The foe is hit with[br]a rhythmic punch[br]that may leave it[br]confused.|
-484EE5| 1| 58|0|D|Move Descriptions                       |The user scatters[br]bursts of fine[br]spores that induce[br]sleep.|
-484F20| 2| 73|0|D|Move Descriptions                       |A blast of light[br]that cuts the foe's[br]accuracy. It also[br]illuminates caves.|
-484F6A| 1| 74|0|D|Move Descriptions                       |The foe is attacked[br]with an odd, hot[br]energy wave that[br]varies in intensity.|
-484FB5| 1| 66|0|D|Move Descriptions                       |The user just flops[br]and splashes around[br]without having any[br]effect.|
-484FF8| 1| 70|0|D|Move Descriptions                       |The user alters its[br]cells to liquefy[br]itself and sharply[br]raise DEFENSE.|
-48503F| 1| 75|0|D|Move Descriptions                       |A large pincer is[br]used to hammer the[br]foe. It has a high[br]critical-hit ratio.|
-48508B| 1| 72|0|D|Move Descriptions                       |The user explodes[br]to inflict terrible[br]damage even while[br]fainting itself.|
-4850D4| 1| 63|0|D|Move Descriptions                       |The foe is raked[br]with sharp claws or[br]scythes two to five[br]times.|
-485114| 1| 73|0|D|Move Descriptions                       |The user throws a[br]bone that hits the[br]foe once, then once[br]again on return.|
-48515E| 2| 78|0|D|Move Descriptions                       |The user sleeps for[br]two turns to fully[br]restore HP and heal[br]any status problem.|
-4851AD| 1| 65|0|D|Move Descriptions                       |Large boulders are[br]hurled at the foe.[br]It may make the[br]foe flinch.|
-4851EF| 1| 65|0|D|Move Descriptions                       |The foe is attacked[br]with sharp fangs.[br]It may make the[br]foe flinch.|
-485231| 1| 69|0|D|Move Descriptions                       |The user reduces[br]its polygon count[br]to sharpen edges[br]and raise ATTACK.|
-485277| 1| 64|0|D|Move Descriptions                       |The user changes[br]its type to match[br]the type of one of[br]its moves.|
-4852B8| 1| 72|0|D|Move Descriptions                       |A simultaneous[br]3-beam attack that[br]may paralyze, burn,[br]or freeze the foe.|
-485301| 1| 58|0|D|Move Descriptions                       |The user attacks[br]with sharp fangs[br]and halves the[br]foe's HP.|
-48533C| 1| 69|0|D|Move Descriptions                       |The foe is slashed[br]with claws, etc.[br]It has a high[br]critical-hit ratio.|
-485382| 1| 59|0|D|Move Descriptions                       |The user creates a[br]decoy using one-[br]quarter of its full[br]HP.|
-4853BE| 1| 70|0|D|Move Descriptions                       |An attack that is[br]used only if there[br]is no PP. It also[br]hurts the user.|
-485405| 1| 64|0|D|Move Descriptions                       |This move copies[br]the move last used[br]by the foe, then[br]disappears.|
-485446| 1| 68|0|D|Move Descriptions                       |A 3-kick attack[br]that becomes more[br]powerful with each[br]successive hit.|
-48548B| 2| 74|0|D|Move Descriptions                       |An attack that may[br]take the foe's held[br]item if the user[br]isn't holding one.|
-4854D6| 1| 70|0|D|Move Descriptions                       |Ensnares the foe [br]with sticky string[br]so it doesn't flee[br]or switch out.|
-48551D| 1| 66|0|D|Move Descriptions                       |The user predicts[br]the foe's action to[br]ensure its next[br]attack hits.|
-485560| 1| 73|0|D|Move Descriptions                       |A sleeping foe is[br]shown a nightmare[br]that inflicts some[br]damage every turn.|
-4855AA| 1| 62|0|D|Move Descriptions                       |The user makes a[br]fiery charge at the[br]foe. It may cause[br]a burn.|
-4855E9| 1| 69|0|D|Move Descriptions                       |An attack that can[br]be used only while[br]asleep. It may[br]cause flinching.|
-48562F| 1| 73|0|D|Move Descriptions                       |A move that works[br]differently for the[br]GHOST-type and all[br]the other types.|
-485679| 1| 71|0|D|Move Descriptions                       |A desperate attack[br]that becomes more[br]powerful the less[br]HP the user has.|
-4856C1| 1| 74|0|D|Move Descriptions                       |The user changes[br]type to make itself[br]resistant to the[br]last attack it took.|
-48570C| 1| 69|0|D|Move Descriptions                       |A vortex of air is[br]shot at the foe.[br]It has a high[br]critical-hit ratio.|
-485752| 1| 69|0|D|Move Descriptions                       |Cotton-like spores[br]cling to the foe,[br]sharply reducing[br]its SPEED stat.|
-485798| 1| 70|0|D|Move Descriptions                       |An all-out attack[br]that becomes more[br]powerful the less[br]HP the user has.|
-4857DF| 1| 62|0|D|Move Descriptions                       |A move that cuts[br]2 to 5 PP from the[br]move last used by[br]the foe.|
-48581E| 1| 56|0|D|Move Descriptions                       |Blasts the foe with[br]a snowy gust.[br]It may cause[br]freezing.|
-485857| 2| 73|0|D|Move Descriptions                       |Enables the user to[br]evade all attacks.[br]It may fail if used[br]in succession.|
-4858A1| 1| 64|0|D|Move Descriptions                       |A punch thrown at[br]blinding speed.[br]It is certain to[br]strike first.|
-4858E2| 1| 64|0|D|Move Descriptions                       |Frightens the foe[br]with a scary face[br]to sharply reduce[br]its SPEED.|
-485923| 1| 71|0|D|Move Descriptions                       |The user draws up[br]close to the foe[br]disarmingly, then[br]hits without fail.|
-48596B| 1| 66|0|D|Move Descriptions                       |The user kisses[br]the foe with sweet[br]cuteness that[br]causes confusion.|
-4859AE| 1| 67|0|D|Move Descriptions                       |The user maximizes[br]its ATTACK stat at[br]the cost of half[br]its full HP.|
-4859F2| 2| 61|0|D|Move Descriptions                       |Filthy sludge is[br]hurled at the foe.[br]It may poison the[br]target.|
-485A30| 1| 73|0|D|Move Descriptions                       |Mud is hurled in[br]the foe's face to[br]inflict damage and[br]lower its accuracy.|
-485A7A| 1| 70|0|D|Move Descriptions                       |Ink is blasted in[br]the foe's face or[br]eyes to damage and[br]lower accuracy.|
-485AC1| 1| 74|0|D|Move Descriptions                       |A trap of spikes is[br]laid around the[br]foe's party to hurt[br]foes switching in.|
-485B0C| 1| 72|0|D|Move Descriptions                       |An electric blast is[br]fired like a cannon[br]to inflict damage[br]and paralyze.|
-485B55| 1| 70|0|D|Move Descriptions                       |Completely negates[br]the foe's efforts to[br]heighten its ability[br]to evade.|
-485B9C| 1| 65|0|D|Move Descriptions                       |If the user faints,[br]the foe delivering[br]the final hit also[br]faints.|
-485BDE| 1| 69|0|D|Move Descriptions                       |Any battler that[br]hears this faints[br]in three turns[br]unless it switches.|
-485C24| 1| 65|0|D|Move Descriptions                       |A chilling wind is[br]used to attack.[br]It also lowers the[br]SPEED stat.|
-485C66| 1| 73|0|D|Move Descriptions                       |Enables the user to[br]evade all attacks.[br]It may fail if used[br]in succession.|
-485CB0| 1| 63|0|D|Move Descriptions                       |The user strikes[br]the foe with a bone[br]in hand two to five[br]times.|
-485CF0| 1| 63|0|D|Move Descriptions                       |The user locks on[br]to the foe, making[br]the next move sure[br]to hit.|
-485D30| 1| 70|0|D|Move Descriptions                       |The user thrashes[br]about for two to[br]three turns, then[br]becomes confused.|
-485D77| 2| 73|0|D|Move Descriptions                       |A 5-turn sandstorm[br]that damages all[br]types except ROCK,[br]GROUND, and STEEL.|
-485DC1| 2| 71|0|D|Move Descriptions                       |A harsh attack that[br]absorbs half the[br]damage it inflicted[br]to restore HP.|
-485E09| 1| 75|0|D|Move Descriptions                       |The user endures[br]any hit with 1 HP[br]left. It may fail if[br]used in succession.|
-485E55| 1| 74|0|D|Move Descriptions                       |The foe is charmed[br]by the user's cute[br]appeals, sharply[br]cutting its ATTACK.|
-485EA0| 1| 64|0|D|Move Descriptions                       |A 5-turn rolling[br]attack that becomes[br]stronger each time[br]it hits.|
-485EE1| 1| 66|0|D|Move Descriptions                       |A restrained attack[br]that always leaves[br]the foe with at[br]least 1 HP.|
-485F24| 1| 71|0|D|Move Descriptions                       |A move that makes[br]the foe confused,[br]but also sharply[br]raises its ATTACK.|
-485F6C| 1| 73|0|D|Move Descriptions                       |Heals the user by[br]up to half its full[br]HP. It can be used[br]to heal an ally.|
-485FB6| 1| 62|0|D|Move Descriptions                       |An electrically[br]charged tackle that[br]may also paralyze[br]the foe.|
-485FF5| 1| 53|0|D|Move Descriptions                       |An attack that[br]grows stronger on[br]each successive[br]hit.|
-48602B| 2| 73|0|D|Move Descriptions                       |The foe is hit with[br]wings of steel.[br]It may also raise[br]the user's DEFENSE.|
-486075| 1| 65|0|D|Move Descriptions                       |The foe is fixed[br]with a mean look[br]that prevents it[br]from escaping.|
-4860B7| 2| 77|0|D|Move Descriptions                       |If it is the other[br]gender, the foe is[br]made infatuated and[br]unlikely to attack.|
-486105| 1| 63|0|D|Move Descriptions                       |While asleep, the[br]user randomly uses[br]one of the moves it[br]knows.|
-486145| 1| 65|0|D|Move Descriptions                       |A soothing bell[br]chimes to heal the[br]status problems of[br]all allies.|
-486187| 2| 73|0|D|Move Descriptions                       |This attack move[br]grows more powerful[br]the more the user[br]likes its TRAINER.|
-4861D1| 1| 73|0|D|Move Descriptions                       |The foe is given a[br]booby-trapped gift.[br]It restores HP[br]sometimes, however.|
-48621B| 2| 73|0|D|Move Descriptions                       |This attack move[br]grows more powerful[br]the less the user[br]likes its TRAINER.|
-486265| 2| 69|0|D|Move Descriptions                       |It protects the[br]user's party from[br]all status problems[br]for five turns.|
-4862AB| 1| 71|0|D|Move Descriptions                       |The user adds its[br]HP to the foe's HP,[br]then equally shares[br]the total HP.|
-4862F3| 1| 60|0|D|Move Descriptions                       |A mystical and[br]powerful fire[br]attack that may[br]inflict a burn.|
-486330| 1| 71|0|D|Move Descriptions                       |A ground-shaking[br]attack against all[br]standing POKÈMON.[br]Its power varies.|
-486378| 1| 78|0|D|Move Descriptions                       |The foe is punched[br]with the user's full[br]power. It confuses[br]the foe if it hits.|
-4863C7| 1| 67|0|D|Move Descriptions                       |A brutal ramming[br]attack delivered[br]with a tough and[br]impressive horn.|
-48640B| 1| 73|0|D|Move Descriptions                       |The foe is hit with[br]an incredible blast[br]of breath that may[br]also paralyze.|
-486455| 1| 73|0|D|Move Descriptions                       |The user switches[br]out, passing along[br]any stat changes[br]to the new battler.|
-48649F| 1| 72|0|D|Move Descriptions                       |Makes the foe use[br]the move it last[br]used repeatedly for[br]two to six turns.|
-4864E8| 1| 73|0|D|Move Descriptions                       |An attack move that[br]works especially[br]well on a foe that[br]is switching out.|
-486532| 1| 70|0|D|Move Descriptions                       |An attack that[br]frees the user from[br]BIND, WRAP, LEECH[br]SEED, and SPIKES.|
-486579| 1| 69|0|D|Move Descriptions                       |Allures the foe to[br]reduce evasiveness.[br]It also attracts[br]wild POKÈMON.|
-4865BF| 2| 70|0|D|Move Descriptions                       |An attack with a[br]steel-hard tail.[br]It may lower the[br]foe's DEFENSE stat.|
-486606| 1| 74|0|D|Move Descriptions                       |The foe is attacked[br]with steel claws.[br]It may also raise[br]the user's ATTACK.|
-486651| 1| 65|0|D|Move Descriptions                       |Makes the user[br]attack after the[br]foe. In return,[br]it will not miss.|
-486693| 1| 74|0|D|Move Descriptions                       |Restores the user's[br]HP. The amount of[br]HP regained varies[br]with the weather.|
-4866DE| 1| 74|0|D|Move Descriptions                       |Restores the user's[br]HP. The amount of[br]HP regained varies[br]with the weather.|
-486729| 1| 74|0|D|Move Descriptions                       |Restores the user's[br]HP. The amount of[br]HP regained varies[br]with the weather.|
-486774| 2| 66|0|D|Move Descriptions                       |An attack that[br]varies in type and[br]intensity depending[br]on the user.|
-4867B7| 1| 67|0|D|Move Descriptions                       |The foe is hit with[br]double chops.[br]It has a high[br]critical-hit ratio.|
-4867FB| 1| 62|0|D|Move Descriptions                       |A vicious twister[br]attacks the foe.[br]It may make the[br]foe flinch.|
-48683A| 2| 65|0|D|Move Descriptions                       |A heavy rain falls[br]for five turns,[br]powering up WATER-[br]type moves.|
-48687C| 2| 59|0|D|Move Descriptions                       |The sun blazes for[br]five turns, powering[br]up FIRE-type[br]moves.|
-4868B8| 1| 69|0|D|Move Descriptions                       |The foe is crunched[br]with sharp fangs.[br]It may lower the[br]foe's SP. DEF.|
-4868FE| 1| 66|0|D|Move Descriptions                       |A retaliation move[br]that pays back the[br]foe's special attack[br]double.|
-486941| 1| 72|0|D|Move Descriptions                       |The user hypnotizes[br]itself into copying[br]any stat change[br]made by the foe.|
-48698A| 1| 68|0|D|Move Descriptions                       |A blindingly speedy[br]charge attack that[br]always goes before[br]any other.|
-4869CF| 1| 75|0|D|Move Descriptions                       |An ancient power is[br]used to attack. It[br]may also raise all[br]the user's stats.|
-486A1B| 2| 70|0|D|Move Descriptions                       |A shadowy blob is[br]hurled at the foe.[br]May also lower the[br]foe's SP. DEF.|
-486A62| 1| 67|0|D|Move Descriptions                       |Two turns after[br]this move is used,[br]the foe is attacked[br]psychically.|
-486AA6| 2| 72|0|D|Move Descriptions                       |An attack that may[br]also cut DEFENSE.[br]It can also smash[br]cracked boulders.|
-486AEF| 1| 70|0|D|Move Descriptions                       |The foe is trapped[br]in a fast, vicious[br]whirlpool for two[br]to five turns.|
-486B36| 1| 71|0|D|Move Descriptions                       |All party POKÈMON[br]join in the attack.[br]The more allies,[br]the more damage.|
-486B7E| 1| 72|0|D|Move Descriptions                       |An attack that hits[br]first and causes[br]flinching. Usable[br]only on 1st turn.|
-486BC7| 1| 72|0|D|Move Descriptions                       |The user attacks in[br]an uproar that[br]prevents sleep for[br]two to five turns.|
-486C10| 1| 68|0|D|Move Descriptions                       |The user charges[br]up power for use[br]later. It can be[br]used three times.|
-486C55| 1| 63|0|D|Move Descriptions                       |The power built[br]using STOCKPILE is[br]released at once[br]for attack.|
-486C95| 1| 62|0|D|Move Descriptions                       |The energy it built[br]using STOCKPILE is[br]absorbed to restore[br]HP.|
-486CD4| 1| 71|0|D|Move Descriptions                       |The user exhales a[br]heated breath to[br]attack. It may also[br]inflict a burn.|
-486D1C| 2| 71|0|D|Move Descriptions                       |A hailstorm lasting[br]five turns damages[br]all POKÈMON except[br]the ICE-type.|
-486D64| 2| 76|0|D|Move Descriptions                       |It enrages the foe,[br]making it incapable[br]of using the same[br]move successively.|
-486DB1| 1| 64|0|D|Move Descriptions                       |Flattery is used to[br]confuse the foe,[br]but its SP. ATK[br]also rises.|
-486DF2| 1| 68|0|D|Move Descriptions                       |A sinister, bluish[br]white flame is shot[br]at the foe to[br]inflict a burn.|
-486E37| 1| 65|0|D|Move Descriptions                       |The user faints,[br]but sharply lowers[br]the foe's ATTACK[br]and SP. ATK.|
-486E79| 2| 68|0|D|Move Descriptions                       |An attack that is[br]boosted if user is[br]burned, poisoned,[br]or paralyzed.|
-486EBE| 2| 69|0|D|Move Descriptions                       |An attack that is[br]executed last.[br]The user flinches[br]if hit beforehand.|
-486F04| 1| 75|0|D|Move Descriptions                       |Doubly effective on[br]a paralyzed foe,[br]but it also cures[br]the foe's paralysis.|
-486F50| 1| 69|0|D|Move Descriptions                       |The user draws[br]attention to itself,[br]making foes attack[br]only the user.|
-486F96| 1| 61|0|D|Move Descriptions                       |An attack that[br]changes type[br]depending on the[br]user's location.|
-486FD4| 1| 63|0|D|Move Descriptions                       |The user charges[br]power to boost the[br]ELECTRIC move it[br]uses next.|
-487014| 2| 71|0|D|Move Descriptions                       |The foe is taunted[br]into a rage that[br]allows it to use[br]only attack moves.|
-48705C| 1| 62|0|D|Move Descriptions                       |A move that boosts[br]the power of the[br]ally's attack in a[br]battle.|
-48709B| 1| 65|0|D|Move Descriptions                       |A move that tricks[br]the foe into[br]trading held items[br]with the user.|
-4870DD| 1| 64|0|D|Move Descriptions                       |The user mimics the[br]foe completely and[br]copies the foe's[br]ability.|
-48711E| 1| 68|0|D|Move Descriptions                       |A self-healing move[br]that restores half[br]the full HP on the[br]next turn.|
-487163| 1| 61|0|D|Move Descriptions                       |The user randomly[br]picks and uses a[br]move of an allied[br]POKÈMON.|
-4871A1| 1| 71|0|D|Move Descriptions                       |The user lays roots[br]that restore HP on[br]every turn.[br]It can't switch out.|
-4871E9| 1| 74|0|D|Move Descriptions                       |A powerful attack,[br]but it also lowers[br]the user's ATTACK[br]and DEFENSE stats.|
-487234| 1| 65|0|D|Move Descriptions                       |Reflects back the[br]foe's LEECH SEED[br]and any status-[br]damaging move.|
-487276| 1| 51|0|D|Move Descriptions                       |A move that[br]recycles a used[br]item for use once[br]more.|
-4872AA| 1| 71|0|D|Move Descriptions                       |An attack move that[br]gains in intensity if[br]the target has hurt[br]the user.|
-4872F2| 2| 69|0|D|Move Descriptions                       |An attack that also[br]breaks any barrier[br]like LIGHT SCREEN[br]and REFLECT.|
-487338| 1| 63|0|D|Move Descriptions                       |A huge yawn lulls[br]the foe into falling[br]asleep on the next[br]turn.|
-487378| 1| 69|0|D|Move Descriptions                       |Knocks down the[br]foe's held item to[br]prevent its use[br]during the battle.|
-4873BE| 1| 60|0|D|Move Descriptions                       |Gains power the[br]fewer HP the user[br]has compared with[br]the foe.|
-4873FB| 1| 64|0|D|Move Descriptions                       |The higher the[br]user's HP, the more[br]powerful this[br]attack becomes.|
-48743C| 2| 66|0|D|Move Descriptions                       |The user employs[br]its psychic power[br]to swap abilities[br]with the foe.|
-48747F| 1| 65|0|D|Move Descriptions                       |Prevents foes from[br]using any move[br]that is also known[br]by the user.|
-4874C1| 1| 75|0|D|Move Descriptions                       |A self-healing move[br]that cures the user[br]of a poisoning,[br]burn, or paralysis.|
-48750D| 1| 74|0|D|Move Descriptions                       |If the user faints,[br]this move deletes[br]the PP of the move[br]that finished it.|
-487558| 2| 65|0|D|Move Descriptions                       |Steals the effects[br]of the foe's[br]healing or status-[br]changing move.|
-48759A| 2| 74|0|D|Move Descriptions                       |An attack that may[br]have an additional[br]effect that varies[br]with the terrain.|
-4875E5| 2| 66|0|D|Move Descriptions                       |The user dives[br]underwater on the[br]first turn and[br]strikes next turn.|
-487628| 1| 66|0|D|Move Descriptions                       |A quick flurry of[br]straight-arm[br]punches that hit[br]two to five times.|
-48766B| 1| 59|0|D|Move Descriptions                       |Alters the user's[br]type depending on[br]the location's[br]terrain.|
-4876A7| 1| 62|0|D|Move Descriptions                       |The user flashes a[br]light that sharply[br]raises its SP. ATK[br]stat.|
-4876E6| 1| 70|0|D|Move Descriptions                       |A burst of light[br]injures the foe. It[br]may also lower the[br]foe's SP. DEF.|
-48772D| 1| 67|0|D|Move Descriptions                       |A flurry of down[br]hits the foe. It[br]may also lower the[br]foe's SP. ATK.|
-487771| 1| 73|0|D|Move Descriptions                       |The foe is covered[br]with a mass of down[br]that sharply cuts[br]the ATTACK stat.|
-4877BB| 1| 55|0|D|Move Descriptions                       |A wobbly dance[br]that confuses all[br]the POKÈMON in[br]battle.|
-4877F3| 1| 70|0|D|Move Descriptions                       |A fiery kick with a[br]high critical-hit[br]ratio. It may also[br]burn the foe.|
-48783A| 1| 63|0|D|Move Descriptions                       |Weakens ELECTRIC-[br]type attacks while[br]the user is in the[br]battle.|
-48787A| 1| 65|0|D|Move Descriptions                       |A 5-turn rolling[br]attack that becomes[br]stronger each time[br]it rolls.|
-4878BC| 1| 56|0|D|Move Descriptions                       |An attack using[br]thorny arms.[br]It may make the[br]foe flinch.|
-4878F5| 1| 60|0|D|Move Descriptions                       |The user slacks off[br]and restores its HP[br]by half its full[br]HP.|
-487932| 1| 67|0|D|Move Descriptions                       |The user lets loose[br]a horribly loud[br]shout with the[br]power to damage.|
-487976| 1| 69|0|D|Move Descriptions                       |The foe is bitten[br]with toxic fangs.[br]It may also badly[br]poison the foe.|
-4879BC| 1| 74|0|D|Move Descriptions                       |The foe is attacked[br]with sharp claws.[br]It may also lower[br]the foe's DEFENSE.|
-487A07| 1| 75|0|D|Move Descriptions                       |The foe is hit with[br]a huge explosion.[br]The user can't move[br]on the next turn.|
-487A53| 1| 74|0|D|Move Descriptions                       |The foe is hit with[br]a watery cannon.[br]The user can't move[br]on the next turn.|
-487A9E| 1| 76|0|D|Move Descriptions                       |The foe is hit with[br]a hard, fast punch.[br]It may also raise[br]the user's ATTACK.|
-487AEB| 1| 67|0|D|Move Descriptions                       |An attack using a[br]startling shout.[br]It also may make[br]the foe flinch.|
-487B2F| 1| 65|0|D|Move Descriptions                       |An attack that[br]varies in power and[br]type depending on[br]the weather.|
-487B71| 1| 77|0|D|Move Descriptions                       |A soothing scent is[br]released to heal[br]all status problems[br]in the user's party.|
-487BBF| 1| 63|0|D|Move Descriptions                       |The user feigns[br]crying to sharply[br]lower the foe's[br]SP. DEF stat.|
-487BFF| 1| 70|0|D|Move Descriptions                       |The foe is hit with[br]razor-like wind.[br]It has a high[br]critical-hit ratio.|
-487C46| 2| 68|0|D|Move Descriptions                       |An intense attack[br]that also sharply[br]reduces the user's[br]SP. ATK stat.|
-487C8B| 1| 70|0|D|Move Descriptions                       |Completely negates[br]the foe's efforts to[br]heighten its ability[br]to evade.|
-487CD2| 2| 74|0|D|Move Descriptions                       |Boulders are hurled[br]at the foe. It also[br]lowers the foe's[br]SPEED if it hits.|
-487D1D| 1| 74|0|D|Move Descriptions                       |The foe is attacked[br]with a silver dust.[br]It may raise all[br]the user's stats.|
-487D68| 1| 71|0|D|Move Descriptions                       |A horrible metallic[br]screech is used to[br]sharply lower the[br]foe's SP. DEF.|
-487DB0| 1| 62|0|D|Move Descriptions                       |A pleasant melody[br]is played to lull[br]the foe into a deep[br]sleep.|
-487DEF| 1| 64|0|D|Move Descriptions                       |The foe is made to[br]laugh, reducing its[br]ATTACK and DEFENSE[br]stats.|
-487E30| 1| 65|0|D|Move Descriptions                       |The user absorbs a[br]mystic power to[br]raise its DEFENSE[br]and SP. DEF.|
-487E72| 1| 64|0|D|Move Descriptions                       |The higher the[br]user's HP, the more[br]powerful this[br]attack becomes.|
-487EB3| 1| 66|0|D|Move Descriptions                       |The foe is hit with[br]a flashing beam[br]that may also[br]cause confusion.|
-487EF6| 1| 62|0|D|Move Descriptions                       |The user throws a[br]punch from the[br]shadows. It cannot[br]be evaded.|
-487F35| 1| 64|0|D|Move Descriptions                       |The user attacks[br]with an odd power[br]that may make the[br]foe flinch.|
-487F76| 1| 61|0|D|Move Descriptions                       |The user attacks[br]with an uppercut[br]thrown skywards[br]with force.|
-487FB4| 1| 68|0|D|Move Descriptions                       |The foe is trapped[br]inside a painful[br]sandstorm for two[br]to five turns.|
-487FF9| 1| 71|0|D|Move Descriptions                       |The foe is attacked[br]with ultimate cold[br]that causes fainting[br]if it hits.|
-488041| 1| 72|0|D|Move Descriptions                       |The user attacks[br]with muddy water.[br]It may also lower[br]the foe's accuracy.|
-48808A| 2| 69|0|D|Move Descriptions                       |The user shoots[br]seeds at the foe.[br]Two to five seeds[br]are shot at once.|
-4880D0| 2| 64|0|D|Move Descriptions                       |An extremely fast[br]attack against one[br]target. It can't be[br]evaded.|
-488111| 1| 65|0|D|Move Descriptions                       |Sharp icicles are[br]fired at the foe.[br]It strikes two to[br]five times.|
-488153| 1| 70|0|D|Move Descriptions                       |The user hardens[br]its body's surface[br]to sharply raise its[br]DEFENSE stat.|
-48819A| 1| 70|0|D|Move Descriptions                       |The user blocks the[br]foe's way with arms[br]spread wide to[br]prevent escape.|
-4881E1| 1| 61|0|D|Move Descriptions                       |The user howls to[br]raise its spirit and[br]boost its ATTACK[br]stat.|
-48821F| 2| 70|0|D|Move Descriptions                       |Sharp, huge claws[br]hook and slash the[br]foe quickly and[br]with great power.|
-488266| 1| 77|0|D|Move Descriptions                       |The foe is hit with[br]an enormous branch.[br]The user can't move[br]on the next turn.|
-4882B4| 2| 70|0|D|Move Descriptions                       |The user bulks up[br]its body to boost[br]both its ATTACK and[br]DEFENSE stats.|
-4882FB| 1| 69|0|D|Move Descriptions                       |The user bounces[br]on the foe on the[br]2nd turn. It may[br]paralyze the foe.|
-488341| 1| 65|0|D|Move Descriptions                       |The user attacks by[br]hurling mud.[br]It also reduces the[br]foe's SPEED.|
-488383| 1| 69|0|D|Move Descriptions                       |An attack with a[br]high critical-hit[br]ratio. It may also[br]poison the foe.|
-4883C9| 1| 62|0|D|Move Descriptions                       |A cutely executed[br]attack that also[br]steals the foe's[br]hold item.|
-488408| 1| 66|0|D|Move Descriptions                       |The user throws an[br]electrified tackle.[br]It hurts the user[br]a little.|
-48844B| 1| 62|0|D|Move Descriptions                       |The foe is attacked[br]with a strange leaf[br]that cannot be[br]evaded.|
-48848A| 1| 58|0|D|Move Descriptions                       |Weakens FIRE-type[br]attacks while the[br]user is in the[br]battle.|
-4884C5| 2| 65|0|D|Move Descriptions                       |The user focuses[br]its mind to raise[br]the SP. ATK and[br]SP. DEF stats.|
-488507| 1| 71|0|D|Move Descriptions                       |The foe is slashed[br]with a sharp leaf.[br]It has a high[br]critical-hit ratio.|
-48854F| 1| 71|0|D|Move Descriptions                       |A mystic, powerful[br]dance that boosts[br]the user's ATTACK[br]and SPEED stats.|
-488597| 1| 59|0|D|Move Descriptions                       |The user hurls two[br]to five hard rocks[br]at the foe to[br]attack.|
-4885D3| 2| 64|0|D|Move Descriptions                       |A rapid jolt of[br]electricity strikes[br]the foe. It can't[br]be evaded.|
-488614| 2| 69|0|D|Move Descriptions                       |An attack with a[br]pulsing blast of[br]water. It may also[br]confuse the foe.|
-48865A| 1| 70|0|D|Move Descriptions                       |A move that attacks[br]the foe with a[br]blast of light two[br]turns after use.|
-4886A1| 1| 68|0|D|Move Descriptions                       |An intense attack[br]that also sharply[br]reduces the user's[br]SP. ATK stat.|
+482834| 1| 63|0|I|Move Desc. (4 half lines)               |A physical attack[br]delivered with a[br]long tail or a[br]foreleg, etc.|
+482874| 1| 72|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with a sharp chop.[br]It has a high[br]critical-hit ratio.|
+4828BD| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is slapped[br]repeatedly, back[br]and forth, two to[br]five times.|
+4828FF| 1| 70|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a flurry of punches[br]that strike two to[br]five times.|
+482946| 1| 62|0|I|Move Desc. (4 half lines)               |The foe is slugged[br]by a punch thrown[br]with muscle-packed[br]power.|
+482985| 1| 67|0|I|Move Desc. (4 half lines)               |Numerous coins are[br]hurled at the foe.[br]Money is earned[br]after battle.|
+4829C9| 1| 71|0|I|Move Desc. (4 half lines)               |The foe is punched[br]with a fiery fist.[br]It may leave the[br]foe with a burn.|
+482A11| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is punched[br]with an icy fist.[br]It may leave the[br]foe frozen.|
+482A53| 1| 76|0|I|Move Desc. (4 half lines)               |The foe is punched[br]with an electrified[br]fist. It may leave[br]the foe paralyzed.|
+482AA0| 1| 44|0|I|Move Desc. (4 half lines)               |Hard, pointed, and[br]sharp claws rake[br]the foe.|
+482ACD| 1| 50|0|I|Move Desc. (4 half lines)               |Huge, impressive[br]pincers grip and[br]squeeze the foe.|
+482B00| 1| 69|0|I|Move Desc. (4 half lines)               |A vicious tearing[br]attack with pincers.[br]The foe will faint[br]if it hits.|
+482B46| 1| 77|0|I|Move Desc. (4 half lines)               |Blades of wind hit[br]the foe on the 2nd[br]turn. It has a high[br]critical-hit ratio.|
+482B94| 1| 64|0|I|Move Desc. (4 half lines)               |A frenetic dance of[br]fighting. It sharply[br]raises the ATTACK[br]stat.|
+482BD5| 2| 64|0|I|Move Desc. (4 half lines)               |A basic attack.[br]It can be used to[br]cut down thin trees[br]and grass.|
+482C16| 1| 56|0|I|Move Desc. (4 half lines)               |Strikes the foe[br]with a gust of wind[br]whipped up by[br]wings.|
+482C4F| 1| 57|0|I|Move Desc. (4 half lines)               |The foe is struck[br]with large, imposing[br]wings spread wide.|
+482C89| 1| 73|0|I|Move Desc. (4 half lines)               |The foe is made to[br]switch out with an[br]ally. In the wild,[br]the battle ends.|
+482CD3| 2| 73|0|I|Move Desc. (4 half lines)               |A 2-turn move that[br]hits on the 2nd[br]turn. Use it to fly[br]to any known town.|
+482D1D| 1| 72|0|I|Move Desc. (4 half lines)               |A long body or[br]tentacles are used[br]to bind the foe for[br]two to five turns.|
+482D66| 1| 47|0|I|Move Desc. (4 half lines)               |The foe is struck[br]with a long tail,[br]vines, etc.|
+482D96| 1| 49|0|I|Move Desc. (4 half lines)               |The foe is struck[br]with slender, whip-[br]like vines.|
+482DC8| 1| 63|0|I|Move Desc. (4 half lines)               |The foe is stomped[br]with a big foot.[br]It may make the[br]foe flinch.|
+482E08| 1| 60|0|I|Move Desc. (4 half lines)               |Two legs are used[br]to quickly kick the[br]foe twice in one[br]turn.|
+482E45| 1| 61|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]by a kick fired[br]with muscle-packed[br]power.|
+482E83| 1| 72|0|I|Move Desc. (4 half lines)               |The user jumps up[br]high, then kicks.[br]If it misses, the[br]user hurts itself.|
+482ECC| 1| 61|0|I|Move Desc. (4 half lines)               |A quick kick from a[br]rolling spin.[br]It may make the[br]foe flinch.|
+482F0A| 1| 65|0|I|Move Desc. (4 half lines)               |A lot of sand is[br]hurled in the foe's[br]face, reducing its[br]accuracy.|
+482F4C| 1| 66|0|I|Move Desc. (4 half lines)               |The user sticks its[br]head out and rams.[br]It may make the[br]foe flinch.|
+482F8F| 1| 64|0|I|Move Desc. (4 half lines)               |The foe is jabbed[br]with a sharply[br]pointed horn to[br]inflict damage.|
+482FD0| 1| 67|0|I|Move Desc. (4 half lines)               |The foe is jabbed[br]repeatedly with a[br]horn or beak two to[br]five times.|
+483014| 1| 71|0|I|Move Desc. (4 half lines)               |The horn is rotated[br]like a drill to ram.[br]The foe will faint[br]if it hits.|
+48305C| 1| 69|0|I|Move Desc. (4 half lines)               |A physical attack[br]in which the user[br]charges, full body,[br]into the foe.|
+4830A2| 1| 72|0|I|Move Desc. (4 half lines)               |The user drops its[br]full body on the[br]foe. It may leave[br]the foe paralyzed.|
+4830EB| 1| 68|0|I|Move Desc. (4 half lines)               |A long body or[br]vines are used to[br]wrap the foe for[br]two to five turns.|
+483130| 1| 71|0|I|Move Desc. (4 half lines)               |A reckless, full-[br]body charge attack[br]that also hurts the[br]user a little.|
+483178| 1| 70|0|I|Move Desc. (4 half lines)               |The user rampages[br]about for two to[br]three turns, then[br]becomes confused.|
+4831BF| 1| 67|0|I|Move Desc. (4 half lines)               |A reckless, life-[br]risking tackle that[br]also hurts the user[br]a little.|
+483203| 1| 69|0|I|Move Desc. (4 half lines)               |The user wags its[br]tail cutely, making[br]the foe lower its[br]DEFENSE stat.|
+483249| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is stabbed[br]with a toxic barb,[br]etc. It may poison[br]the foe.|
+48328B| 1| 70|0|I|Move Desc. (4 half lines)               |The foe is stabbed[br]twice with foreleg[br]stingers. It may[br]poison the foe.|
+4832D2| 1| 65|0|I|Move Desc. (4 half lines)               |Sharp pins are shot[br]at the foe and hit[br]two to five times[br]at once.|
+483314| 1| 67|0|I|Move Desc. (4 half lines)               |The foe is given an[br]intimidating look[br]that lowers its[br]DEFENSE stat.|
+483358| 1| 62|0|I|Move Desc. (4 half lines)               |The user bites with[br]vicious fangs.[br]It may make the[br]foe flinch.|
+483397| 1| 68|0|I|Move Desc. (4 half lines)               |The user growls in[br]a cute way, making[br]the foe lower its[br]ATTACK stat.|
+4833DC| 2| 73|0|I|Move Desc. (4 half lines)               |The foe is made to[br]switch out with an[br]ally. In the wild,[br]the battle ends.|
+483426| 1| 69|0|I|Move Desc. (4 half lines)               |A soothing song[br]in a calming voice[br]lulls the foe into[br]a deep slumber.|
+48346C| 1| 59|0|I|Move Desc. (4 half lines)               |The user generates[br]odd sound waves.[br]It may confuse the[br]foe.|
+4834A8| 1| 68|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a shock wave that[br]always inflicts 20-[br]HP damage.|
+4834ED| 1| 70|0|I|Move Desc. (4 half lines)               |For a few turns,[br]it prevents the foe[br]from using the move[br]it last used.|
+483534| 1| 75|0|I|Move Desc. (4 half lines)               |The foe is sprayed[br]with a harsh, hide-[br]melting acid that[br]may lower DEFENSE.|
+483580| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with small flames.[br]The foe may suffer[br]a burn.|
+4835C2| 2| 67|0|I|Move Desc. (4 half lines)               |The foe is scorched[br]with intense flames.[br]The foe may suffer[br]a burn.|
+483606| 1| 68|0|I|Move Desc. (4 half lines)               |The ally party is[br]protected by a[br]mist that prevents[br]stat reductions.|
+48364B| 1| 71|0|I|Move Desc. (4 half lines)               |The foe is struck[br]with a lot of water[br]expelled forcibly[br]from the mouth.|
+483693| 1| 66|0|I|Move Desc. (4 half lines)               |A high volume of[br]water is blasted at[br]the foe under great[br]pressure.|
+4836D6| 2| 72|0|I|Move Desc. (4 half lines)               |A big wave crashes[br]down on the foe.[br]Can also be used[br]for crossing water.|
+48371F| 2| 64|0|I|Move Desc. (4 half lines)               |The foe is struck[br]with an icy beam.[br]It may freeze the[br]foe solid.|
+483760| 2| 64|0|I|Move Desc. (4 half lines)               |The foe is blasted[br]with a blizzard.[br]It may freeze the[br]foe solid.|
+4837A1| 1| 65|0|I|Move Desc. (4 half lines)               |A peculiar ray is[br]shot at the foe.[br]It may leave the[br]foe confused.|
+4837E3| 1| 70|0|I|Move Desc. (4 half lines)               |A spray of bubbles[br]strikes the foe.[br]It may lower the[br]foe's SPEED stat.|
+48382A| 1| 66|0|I|Move Desc. (4 half lines)               |A rainbow-colored[br]attack beam.[br]It may lower the[br]foe's ATTACK stat.|
+48386D| 2| 69|0|I|Move Desc. (4 half lines)               |A severely damaging[br]attack that makes[br]the user rest on[br]the next turn.|
+4838B3| 1| 54|0|I|Move Desc. (4 half lines)               |The foe is jabbed[br]with a sharply[br]pointed beak or[br]horn.|
+4838EA| 1| 60|0|I|Move Desc. (4 half lines)               |A corkscrewing[br]attack with the[br]sharp beak acting[br]as a drill.|
+483927| 1| 70|0|I|Move Desc. (4 half lines)               |A reckless, full-[br]body throw attack[br]that also hurts the[br]user a little.|
+48396E| 1| 63|0|I|Move Desc. (4 half lines)               |A low, tripping kick[br]that inflicts more[br]damage on heavier[br]foes.|
+4839AE| 1| 73|0|I|Move Desc. (4 half lines)               |A retaliation move[br]that counters any[br]physical hit with[br]double the damage.|
+4839F8| 1| 65|0|I|Move Desc. (4 half lines)               |A gravity-fed throw[br]that causes damage[br]matching the user's[br]level.|
+483A3A| 2| 71|0|I|Move Desc. (4 half lines)               |The foe is slugged[br]at maximum power.[br]Can also be used[br]to move boulders.|
+483A82| 1| 66|0|I|Move Desc. (4 half lines)               |An attack that[br]absorbs half the[br]damage it inflicted[br]to restore HP.|
+483AC5| 1| 70|0|I|Move Desc. (4 half lines)               |A tough attack that[br]drains half the[br]damage it inflicted[br]to restore HP.|
+483B0C| 1| 74|0|I|Move Desc. (4 half lines)               |A seed is planted[br]on the foe to steal[br]some HP for the [br]user on every turn.|
+483B57| 1| 60|0|I|Move Desc. (4 half lines)               |The user's body is[br]forced to grow,[br]raising the SP.[br]ATK stat.|
+483B94| 1| 69|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a cutting leaf.[br]It has a high[br]critical-hit ratio.|
+483BDA| 2| 71|0|I|Move Desc. (4 half lines)               |A 2-turn move that[br]blasts the foe with[br]absorbed energy in[br]the 2nd turn.|
+483C22| 1| 58|0|I|Move Desc. (4 half lines)               |A cloud of toxic[br]dust is scattered.[br]It may poison the[br]foe.|
+483C5D| 1| 61|0|I|Move Desc. (4 half lines)               |Paralyzing dust is[br]scattered wildly.[br]It may paralyze[br]the foe.|
+483C9B| 1| 63|0|I|Move Desc. (4 half lines)               |A sleep-inducing[br]dust is scattered[br]in high volume[br]around a foe.|
+483CDB| 1| 72|0|I|Move Desc. (4 half lines)               |The user attacks[br]with petals for two[br]to three turns,[br]then gets confused.|
+483D24| 1| 70|0|I|Move Desc. (4 half lines)               |The foe is bound[br]with strings shot[br]from the mouth to[br]reduce its SPEED.|
+483D6B| 1| 68|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a shock wave that[br]always inflicts 40-[br]HP damage.|
+483DB0| 1| 77|0|I|Move Desc. (4 half lines)               |The foe is trapped[br]in an intense spiral[br]of fire that rages[br]two to five turns.|
+483DFE| 1| 63|0|I|Move Desc. (4 half lines)               |An electric shock[br]attack that may[br]also leave the foe[br]paralyzed.|
+483E3E| 2| 65|0|I|Move Desc. (4 half lines)               |A strong electrical[br]attack that may[br]also leave the foe[br]paralyzed.|
+483E80| 1| 65|0|I|Move Desc. (4 half lines)               |A weak electric[br]shock that is sure[br]to cause paralysis[br]if it hits.|
+483EC2| 2| 64|0|I|Move Desc. (4 half lines)               |A brutal lightning[br]attack that may[br]also leave the foe[br]paralyzed.|
+483F03| 1| 64|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with a shower of[br]small, easily[br]thrown rocks.|
+483F44| 2| 68|0|I|Move Desc. (4 half lines)               |An earthquake that[br]strikes all POKÈMON[br]in battle excluding[br]the user.|
+483F89| 1| 61|0|I|Move Desc. (4 half lines)               |The foe is dropped[br]into a fissure.[br]The foe faints if it[br]hits.|
+483FC7| 2| 71|0|I|Move Desc. (4 half lines)               |An attack that hits[br]on the 2nd turn.[br]Can also be used[br]to exit dungeons.|
+48400F| 2| 72|0|I|Move Desc. (4 half lines)               |A move that badly[br]poisons the foe.[br]Its poison damage[br]worsens every turn.|
+484058| 1| 63|0|I|Move Desc. (4 half lines)               |A weak telekinetic[br]attack that may[br]also leave the foe[br]confused.|
+484098| 2| 70|0|I|Move Desc. (4 half lines)               |A strong telekinetic[br]attack. It may also[br]lower the foe's[br]SP. DEF stat.|
+4840DF| 1| 67|0|I|Move Desc. (4 half lines)               |Hypnotic suggestion[br]is used to make the[br]foe fall into a[br]deep sleep.|
+484123| 1| 65|0|I|Move Desc. (4 half lines)               |The user meditates[br]to awaken its power[br]and raise its[br]ATTACK stat.|
+484165| 1| 66|0|I|Move Desc. (4 half lines)               |The user relaxes[br]and lightens its[br]body to sharply[br]boost its SPEED.|
+4841A8| 1| 64|0|I|Move Desc. (4 half lines)               |An almost invisibly[br]fast attack that[br]is certain to strike[br]first.|
+4841E9| 1| 68|0|I|Move Desc. (4 half lines)               |An attack that[br]becomes stronger[br]each time the user[br]is hit in battle.|
+48422E| 1| 73|0|I|Move Desc. (4 half lines)               |Use it to flee from[br]any wild POKÈMON.[br]Also warps to the[br]last POKÈ CENTER.|
+484278| 1| 71|0|I|Move Desc. (4 half lines)               |An attack with a[br]mirage that inflicts[br]damage matching[br]the user's level.|
+4842C0| 1| 73|0|I|Move Desc. (4 half lines)               |The user copies the[br]move last used by[br]the foe for the[br]rest of the battle.|
+48430A| 1| 72|0|I|Move Desc. (4 half lines)               |An ear-splitting[br]screech is emitted[br]to sharply reduce[br]the foe's DEFENSE.|
+484353| 2| 68|0|I|Move Desc. (4 half lines)               |The user creates[br]illusory copies of[br]itself to raise its[br]evasiveness.|
+484398| 1| 76|0|I|Move Desc. (4 half lines)               |A self-healing move[br]that restores HP by[br]up to half of the[br]user's maximum HP.|
+4843E5| 1| 72|0|I|Move Desc. (4 half lines)               |The user stiffens[br]all the muscles in[br]its body to raise[br]its DEFENSE stat.|
+48442E| 1| 71|0|I|Move Desc. (4 half lines)               |The user compresses[br]all the cells in its[br]body to raise its[br]evasiveness.|
+484476| 1| 62|0|I|Move Desc. (4 half lines)               |An obscuring cloud[br]of smoke or ink[br]reduces the foe's[br]accuracy.|
+4844B5| 1| 61|0|I|Move Desc. (4 half lines)               |The foe is exposed[br]to a sinister ray[br]that triggers[br]confusion.|
+4844F3| 1| 72|0|I|Move Desc. (4 half lines)               |The user withdraws[br]its body in its hard[br]shell, raising its[br]DEFENSE stat.|
+48453C| 1| 67|0|I|Move Desc. (4 half lines)               |The user curls up[br]to conceal weak[br]spots and raise its[br]DEFENSE stat.|
+484580| 1| 68|0|I|Move Desc. (4 half lines)               |The user creates a[br]sturdy wall that[br]sharply raises its[br]DEFENSE stat.|
+4845C5| 2| 64|0|I|Move Desc. (4 half lines)               |A wall of light[br]cuts damage from[br]SP. ATK attacks[br]for five turns.|
+484606| 1| 64|0|I|Move Desc. (4 half lines)               |Eliminates all stat[br]changes among all[br]POKÈMON engaged in[br]battle.|
+484647| 2| 65|0|I|Move Desc. (4 half lines)               |A wall of light[br]cuts damage from[br]physical attacks[br]for five turns.|
+484689| 1| 73|0|I|Move Desc. (4 half lines)               |The user takes a[br]deep breath and[br]focuses to raise its[br]critical-hit ratio.|
+4846D3| 1| 65|0|I|Move Desc. (4 half lines)               |The user endures[br]attacks for two[br]turns, then strikes[br]back double.|
+484715| 1| 72|0|I|Move Desc. (4 half lines)               |Waggles a finger[br]and stimulates the[br]brain into using any[br]move at random.|
+48475E| 1| 67|0|I|Move Desc. (4 half lines)               |The user counters[br]the move last used[br]by the foe with the[br]same move.|
+4847A2| 1| 69|0|I|Move Desc. (4 half lines)               |The user blows up[br]to inflict severe[br]damage, even[br]making itself faint.|
+4847E8| 1| 68|0|I|Move Desc. (4 half lines)               |A large egg is[br]hurled with great[br]force at the foe to[br]inflict damage.|
+48482D| 1| 67|0|I|Move Desc. (4 half lines)               |The foe is licked[br]and hit with a long[br]tongue. It may[br]also paralyze.|
+484871| 1| 67|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with exhaust gases.[br]It may also poison[br]the foe.|
+4848B5| 1| 60|0|I|Move Desc. (4 half lines)               |Toxic sludge is[br]hurled at the foe.[br]It may poison the[br]target.|
+4848F2| 1| 72|0|I|Move Desc. (4 half lines)               |The foe is clubbed[br]with a bone held in[br]hand. It may make[br]the foe flinch.|
+48493B| 2| 74|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]an intense flame.[br]It may leave the[br]target with a burn.|
+484986| 2| 67|0|I|Move Desc. (4 half lines)               |A powerful charge[br]attack. It can also[br]be used to climb[br]a waterfall.|
+4849CA| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is clamped[br]and squeezed by[br]the user's shell for[br]two to five turns.|
+484A15| 1| 65|0|I|Move Desc. (4 half lines)               |Star-shaped rays[br]that never miss are[br]fired at all foes in[br]battle.|
+484A57| 1| 74|0|I|Move Desc. (4 half lines)               |The user raises its[br]DEFENSE in the 1st[br]turn, then attacks[br]in the 2nd turn.|
+484AA2| 1| 62|0|I|Move Desc. (4 half lines)               |Sharp spikes are[br]fired at the foe to[br]strike two to five[br]times.|
+484AE1| 1| 69|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with long tentacles[br]or vines. It may[br]lower SPEED.|
+484B27| 1| 51|0|I|Move Desc. (4 half lines)               |Forgets about[br]something and[br]sharply raises[br]SP. DEF.|
+484B5B| 1| 69|0|I|Move Desc. (4 half lines)               |The user distracts[br]the foe by bending[br]a spoon. It may[br]lower accuracy.|
+484BA1| 1| 73|0|I|Move Desc. (4 half lines)               |Heals the user by[br]up to half its full[br]HP. It can be used[br]to heal an ally.|
+484BEB| 1| 59|0|I|Move Desc. (4 half lines)               |A strong jumping[br]knee kick. If it[br]misses, the user is[br]hurt.|
+484C27| 1| 77|0|I|Move Desc. (4 half lines)               |The user intimidates[br]the foe with the[br]design on its belly[br]to cause paralysis.|
+484C75| 1| 69|0|I|Move Desc. (4 half lines)               |Absorbs half the[br]damage it inflicted[br]on a sleeping foe[br]to restore HP.|
+484CBB| 1| 69|0|I|Move Desc. (4 half lines)               |The foe is sprayed[br]with a cloud of[br]toxic gas that may[br]poison the foe.|
+484D01| 1| 64|0|I|Move Desc. (4 half lines)               |Round objects are[br]hurled at the foe[br]to strike two to[br]five times.|
+484D42| 1| 66|0|I|Move Desc. (4 half lines)               |An attack that[br]absorbs half the[br]damage it inflicted[br]to restore HP.|
+484D85| 1| 71|0|I|Move Desc. (4 half lines)               |The user forces a[br]kiss on the foe[br]with a scary face[br]that induces sleep.|
+484DCD| 1| 74|0|I|Move Desc. (4 half lines)               |A 2nd-turn attack[br]move with a high[br]critical-hit ratio.[br]The foe may flinch.|
+484E18| 1| 71|0|I|Move Desc. (4 half lines)               |The user transforms[br]into a copy of the[br]foe with even the[br]same move set.|
+484E60| 1| 67|0|I|Move Desc. (4 half lines)               |A spray of bubbles[br]hits the foe.[br]It may lower the[br]foe's SPEED stat.|
+484EA4| 1| 64|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a rhythmic punch[br]that may leave it[br]confused.|
+484EE5| 1| 58|0|I|Move Desc. (4 half lines)               |The user scatters[br]bursts of fine[br]spores that induce[br]sleep.|
+484F20| 2| 73|0|I|Move Desc. (4 half lines)               |A blast of light[br]that cuts the foe's[br]accuracy. It also[br]illuminates caves.|
+484F6A| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with an odd, hot[br]energy wave that[br]varies in intensity.|
+484FB5| 1| 66|0|I|Move Desc. (4 half lines)               |The user just flops[br]and splashes around[br]without having any[br]effect.|
+484FF8| 1| 70|0|I|Move Desc. (4 half lines)               |The user alters its[br]cells to liquefy[br]itself and sharply[br]raise DEFENSE.|
+48503F| 1| 75|0|I|Move Desc. (4 half lines)               |A large pincer is[br]used to hammer the[br]foe. It has a high[br]critical-hit ratio.|
+48508B| 1| 72|0|I|Move Desc. (4 half lines)               |The user explodes[br]to inflict terrible[br]damage even while[br]fainting itself.|
+4850D4| 1| 63|0|I|Move Desc. (4 half lines)               |The foe is raked[br]with sharp claws or[br]scythes two to five[br]times.|
+485114| 1| 73|0|I|Move Desc. (4 half lines)               |The user throws a[br]bone that hits the[br]foe once, then once[br]again on return.|
+48515E| 2| 78|0|I|Move Desc. (4 half lines)               |The user sleeps for[br]two turns to fully[br]restore HP and heal[br]any status problem.|
+4851AD| 1| 65|0|I|Move Desc. (4 half lines)               |Large boulders are[br]hurled at the foe.[br]It may make the[br]foe flinch.|
+4851EF| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with sharp fangs.[br]It may make the[br]foe flinch.|
+485231| 1| 69|0|I|Move Desc. (4 half lines)               |The user reduces[br]its polygon count[br]to sharpen edges[br]and raise ATTACK.|
+485277| 1| 64|0|I|Move Desc. (4 half lines)               |The user changes[br]its type to match[br]the type of one of[br]its moves.|
+4852B8| 1| 72|0|I|Move Desc. (4 half lines)               |A simultaneous[br]3-beam attack that[br]may paralyze, burn,[br]or freeze the foe.|
+485301| 1| 58|0|I|Move Desc. (4 half lines)               |The user attacks[br]with sharp fangs[br]and halves the[br]foe's HP.|
+48533C| 1| 69|0|I|Move Desc. (4 half lines)               |The foe is slashed[br]with claws, etc.[br]It has a high[br]critical-hit ratio.|
+485382| 1| 59|0|I|Move Desc. (4 half lines)               |The user creates a[br]decoy using one-[br]quarter of its full[br]HP.|
+4853BE| 1| 70|0|I|Move Desc. (4 half lines)               |An attack that is[br]used only if there[br]is no PP. It also[br]hurts the user.|
+485405| 1| 64|0|I|Move Desc. (4 half lines)               |This move copies[br]the move last used[br]by the foe, then[br]disappears.|
+485446| 1| 68|0|I|Move Desc. (4 half lines)               |A 3-kick attack[br]that becomes more[br]powerful with each[br]successive hit.|
+48548B| 2| 74|0|I|Move Desc. (4 half lines)               |An attack that may[br]take the foe's held[br]item if the user[br]isn't holding one.|
+4854D6| 1| 70|0|I|Move Desc. (4 half lines)               |Ensnares the foe [br]with sticky string[br]so it doesn't flee[br]or switch out.|
+48551D| 1| 66|0|I|Move Desc. (4 half lines)               |The user predicts[br]the foe's action to[br]ensure its next[br]attack hits.|
+485560| 1| 73|0|I|Move Desc. (4 half lines)               |A sleeping foe is[br]shown a nightmare[br]that inflicts some[br]damage every turn.|
+4855AA| 1| 62|0|I|Move Desc. (4 half lines)               |The user makes a[br]fiery charge at the[br]foe. It may cause[br]a burn.|
+4855E9| 1| 69|0|I|Move Desc. (4 half lines)               |An attack that can[br]be used only while[br]asleep. It may[br]cause flinching.|
+48562F| 1| 73|0|I|Move Desc. (4 half lines)               |A move that works[br]differently for the[br]GHOST-type and all[br]the other types.|
+485679| 1| 71|0|I|Move Desc. (4 half lines)               |A desperate attack[br]that becomes more[br]powerful the less[br]HP the user has.|
+4856C1| 1| 74|0|I|Move Desc. (4 half lines)               |The user changes[br]type to make itself[br]resistant to the[br]last attack it took.|
+48570C| 1| 69|0|I|Move Desc. (4 half lines)               |A vortex of air is[br]shot at the foe.[br]It has a high[br]critical-hit ratio.|
+485752| 1| 69|0|I|Move Desc. (4 half lines)               |Cotton-like spores[br]cling to the foe,[br]sharply reducing[br]its SPEED stat.|
+485798| 1| 70|0|I|Move Desc. (4 half lines)               |An all-out attack[br]that becomes more[br]powerful the less[br]HP the user has.|
+4857DF| 1| 62|0|I|Move Desc. (4 half lines)               |A move that cuts[br]2 to 5 PP from the[br]move last used by[br]the foe.|
+48581E| 1| 56|0|I|Move Desc. (4 half lines)               |Blasts the foe with[br]a snowy gust.[br]It may cause[br]freezing.|
+485857| 2| 73|0|I|Move Desc. (4 half lines)               |Enables the user to[br]evade all attacks.[br]It may fail if used[br]in succession.|
+4858A1| 1| 64|0|I|Move Desc. (4 half lines)               |A punch thrown at[br]blinding speed.[br]It is certain to[br]strike first.|
+4858E2| 1| 64|0|I|Move Desc. (4 half lines)               |Frightens the foe[br]with a scary face[br]to sharply reduce[br]its SPEED.|
+485923| 1| 71|0|I|Move Desc. (4 half lines)               |The user draws up[br]close to the foe[br]disarmingly, then[br]hits without fail.|
+48596B| 1| 66|0|I|Move Desc. (4 half lines)               |The user kisses[br]the foe with sweet[br]cuteness that[br]causes confusion.|
+4859AE| 1| 67|0|I|Move Desc. (4 half lines)               |The user maximizes[br]its ATTACK stat at[br]the cost of half[br]its full HP.|
+4859F2| 2| 61|0|I|Move Desc. (4 half lines)               |Filthy sludge is[br]hurled at the foe.[br]It may poison the[br]target.|
+485A30| 1| 73|0|I|Move Desc. (4 half lines)               |Mud is hurled in[br]the foe's face to[br]inflict damage and[br]lower its accuracy.|
+485A7A| 1| 70|0|I|Move Desc. (4 half lines)               |Ink is blasted in[br]the foe's face or[br]eyes to damage and[br]lower accuracy.|
+485AC1| 1| 74|0|I|Move Desc. (4 half lines)               |A trap of spikes is[br]laid around the[br]foe's party to hurt[br]foes switching in.|
+485B0C| 1| 72|0|I|Move Desc. (4 half lines)               |An electric blast is[br]fired like a cannon[br]to inflict damage[br]and paralyze.|
+485B55| 1| 70|0|I|Move Desc. (4 half lines)               |Completely negates[br]the foe's efforts to[br]heighten its ability[br]to evade.|
+485B9C| 1| 65|0|I|Move Desc. (4 half lines)               |If the user faints,[br]the foe delivering[br]the final hit also[br]faints.|
+485BDE| 1| 69|0|I|Move Desc. (4 half lines)               |Any battler that[br]hears this faints[br]in three turns[br]unless it switches.|
+485C24| 1| 65|0|I|Move Desc. (4 half lines)               |A chilling wind is[br]used to attack.[br]It also lowers the[br]SPEED stat.|
+485C66| 1| 73|0|I|Move Desc. (4 half lines)               |Enables the user to[br]evade all attacks.[br]It may fail if used[br]in succession.|
+485CB0| 1| 63|0|I|Move Desc. (4 half lines)               |The user strikes[br]the foe with a bone[br]in hand two to five[br]times.|
+485CF0| 1| 63|0|I|Move Desc. (4 half lines)               |The user locks on[br]to the foe, making[br]the next move sure[br]to hit.|
+485D30| 1| 70|0|I|Move Desc. (4 half lines)               |The user thrashes[br]about for two to[br]three turns, then[br]becomes confused.|
+485D77| 2| 73|0|I|Move Desc. (4 half lines)               |A 5-turn sandstorm[br]that damages all[br]types except ROCK,[br]GROUND, and STEEL.|
+485DC1| 2| 71|0|I|Move Desc. (4 half lines)               |A harsh attack that[br]absorbs half the[br]damage it inflicted[br]to restore HP.|
+485E09| 1| 75|0|I|Move Desc. (4 half lines)               |The user endures[br]any hit with 1 HP[br]left. It may fail if[br]used in succession.|
+485E55| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is charmed[br]by the user's cute[br]appeals, sharply[br]cutting its ATTACK.|
+485EA0| 1| 64|0|I|Move Desc. (4 half lines)               |A 5-turn rolling[br]attack that becomes[br]stronger each time[br]it hits.|
+485EE1| 1| 66|0|I|Move Desc. (4 half lines)               |A restrained attack[br]that always leaves[br]the foe with at[br]least 1 HP.|
+485F24| 1| 71|0|I|Move Desc. (4 half lines)               |A move that makes[br]the foe confused,[br]but also sharply[br]raises its ATTACK.|
+485F6C| 1| 73|0|I|Move Desc. (4 half lines)               |Heals the user by[br]up to half its full[br]HP. It can be used[br]to heal an ally.|
+485FB6| 1| 62|0|I|Move Desc. (4 half lines)               |An electrically[br]charged tackle that[br]may also paralyze[br]the foe.|
+485FF5| 1| 53|0|I|Move Desc. (4 half lines)               |An attack that[br]grows stronger on[br]each successive[br]hit.|
+48602B| 2| 73|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]wings of steel.[br]It may also raise[br]the user's DEFENSE.|
+486075| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is fixed[br]with a mean look[br]that prevents it[br]from escaping.|
+4860B7| 2| 77|0|I|Move Desc. (4 half lines)               |If it is the other[br]gender, the foe is[br]made infatuated and[br]unlikely to attack.|
+486105| 1| 63|0|I|Move Desc. (4 half lines)               |While asleep, the[br]user randomly uses[br]one of the moves it[br]knows.|
+486145| 1| 65|0|I|Move Desc. (4 half lines)               |A soothing bell[br]chimes to heal the[br]status problems of[br]all allies.|
+486187| 2| 73|0|I|Move Desc. (4 half lines)               |This attack move[br]grows more powerful[br]the more the user[br]likes its TRAINER.|
+4861D1| 1| 73|0|I|Move Desc. (4 half lines)               |The foe is given a[br]booby-trapped gift.[br]It restores HP[br]sometimes, however.|
+48621B| 2| 73|0|I|Move Desc. (4 half lines)               |This attack move[br]grows more powerful[br]the less the user[br]likes its TRAINER.|
+486265| 2| 69|0|I|Move Desc. (4 half lines)               |It protects the[br]user's party from[br]all status problems[br]for five turns.|
+4862AB| 1| 71|0|I|Move Desc. (4 half lines)               |The user adds its[br]HP to the foe's HP,[br]then equally shares[br]the total HP.|
+4862F3| 1| 60|0|I|Move Desc. (4 half lines)               |A mystical and[br]powerful fire[br]attack that may[br]inflict a burn.|
+486330| 1| 71|0|I|Move Desc. (4 half lines)               |A ground-shaking[br]attack against all[br]standing POKÈMON.[br]Its power varies.|
+486378| 1| 78|0|I|Move Desc. (4 half lines)               |The foe is punched[br]with the user's full[br]power. It confuses[br]the foe if it hits.|
+4863C7| 1| 67|0|I|Move Desc. (4 half lines)               |A brutal ramming[br]attack delivered[br]with a tough and[br]impressive horn.|
+48640B| 1| 73|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]an incredible blast[br]of breath that may[br]also paralyze.|
+486455| 1| 73|0|I|Move Desc. (4 half lines)               |The user switches[br]out, passing along[br]any stat changes[br]to the new battler.|
+48649F| 1| 72|0|I|Move Desc. (4 half lines)               |Makes the foe use[br]the move it last[br]used repeatedly for[br]two to six turns.|
+4864E8| 1| 73|0|I|Move Desc. (4 half lines)               |An attack move that[br]works especially[br]well on a foe that[br]is switching out.|
+486532| 1| 70|0|I|Move Desc. (4 half lines)               |An attack that[br]frees the user from[br]BIND, WRAP, LEECH[br]SEED, and SPIKES.|
+486579| 1| 69|0|I|Move Desc. (4 half lines)               |Allures the foe to[br]reduce evasiveness.[br]It also attracts[br]wild POKÈMON.|
+4865BF| 2| 70|0|I|Move Desc. (4 half lines)               |An attack with a[br]steel-hard tail.[br]It may lower the[br]foe's DEFENSE stat.|
+486606| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with steel claws.[br]It may also raise[br]the user's ATTACK.|
+486651| 1| 65|0|I|Move Desc. (4 half lines)               |Makes the user[br]attack after the[br]foe. In return,[br]it will not miss.|
+486693| 1| 74|0|I|Move Desc. (4 half lines)               |Restores the user's[br]HP. The amount of[br]HP regained varies[br]with the weather.|
+4866DE| 1| 74|0|I|Move Desc. (4 half lines)               |Restores the user's[br]HP. The amount of[br]HP regained varies[br]with the weather.|
+486729| 1| 74|0|I|Move Desc. (4 half lines)               |Restores the user's[br]HP. The amount of[br]HP regained varies[br]with the weather.|
+486774| 2| 66|0|I|Move Desc. (4 half lines)               |An attack that[br]varies in type and[br]intensity depending[br]on the user.|
+4867B7| 1| 67|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]double chops.[br]It has a high[br]critical-hit ratio.|
+4867FB| 1| 62|0|I|Move Desc. (4 half lines)               |A vicious twister[br]attacks the foe.[br]It may make the[br]foe flinch.|
+48683A| 2| 65|0|I|Move Desc. (4 half lines)               |A heavy rain falls[br]for five turns,[br]powering up WATER-[br]type moves.|
+48687C| 2| 59|0|I|Move Desc. (4 half lines)               |The sun blazes for[br]five turns, powering[br]up FIRE-type[br]moves.|
+4868B8| 1| 69|0|I|Move Desc. (4 half lines)               |The foe is crunched[br]with sharp fangs.[br]It may lower the[br]foe's SP. DEF.|
+4868FE| 1| 66|0|I|Move Desc. (4 half lines)               |A retaliation move[br]that pays back the[br]foe's special attack[br]double.|
+486941| 1| 72|0|I|Move Desc. (4 half lines)               |The user hypnotizes[br]itself into copying[br]any stat change[br]made by the foe.|
+48698A| 1| 68|0|I|Move Desc. (4 half lines)               |A blindingly speedy[br]charge attack that[br]always goes before[br]any other.|
+4869CF| 1| 75|0|I|Move Desc. (4 half lines)               |An ancient power is[br]used to attack. It[br]may also raise all[br]the user's stats.|
+486A1B| 2| 70|0|I|Move Desc. (4 half lines)               |A shadowy blob is[br]hurled at the foe.[br]May also lower the[br]foe's SP. DEF.|
+486A62| 1| 67|0|I|Move Desc. (4 half lines)               |Two turns after[br]this move is used,[br]the foe is attacked[br]psychically.|
+486AA6| 2| 72|0|I|Move Desc. (4 half lines)               |An attack that may[br]also cut DEFENSE.[br]It can also smash[br]cracked boulders.|
+486AEF| 1| 70|0|I|Move Desc. (4 half lines)               |The foe is trapped[br]in a fast, vicious[br]whirlpool for two[br]to five turns.|
+486B36| 1| 71|0|I|Move Desc. (4 half lines)               |All party POKÈMON[br]join in the attack.[br]The more allies,[br]the more damage.|
+486B7E| 1| 72|0|I|Move Desc. (4 half lines)               |An attack that hits[br]first and causes[br]flinching. Usable[br]only on 1st turn.|
+486BC7| 1| 72|0|I|Move Desc. (4 half lines)               |The user attacks in[br]an uproar that[br]prevents sleep for[br]two to five turns.|
+486C10| 1| 68|0|I|Move Desc. (4 half lines)               |The user charges[br]up power for use[br]later. It can be[br]used three times.|
+486C55| 1| 63|0|I|Move Desc. (4 half lines)               |The power built[br]using STOCKPILE is[br]released at once[br]for attack.|
+486C95| 1| 62|0|I|Move Desc. (4 half lines)               |The energy it built[br]using STOCKPILE is[br]absorbed to restore[br]HP.|
+486CD4| 1| 71|0|I|Move Desc. (4 half lines)               |The user exhales a[br]heated breath to[br]attack. It may also[br]inflict a burn.|
+486D1C| 2| 71|0|I|Move Desc. (4 half lines)               |A hailstorm lasting[br]five turns damages[br]all POKÈMON except[br]the ICE-type.|
+486D64| 2| 76|0|I|Move Desc. (4 half lines)               |It enrages the foe,[br]making it incapable[br]of using the same[br]move successively.|
+486DB1| 1| 64|0|I|Move Desc. (4 half lines)               |Flattery is used to[br]confuse the foe,[br]but its SP. ATK[br]also rises.|
+486DF2| 1| 68|0|I|Move Desc. (4 half lines)               |A sinister, bluish[br]white flame is shot[br]at the foe to[br]inflict a burn.|
+486E37| 1| 65|0|I|Move Desc. (4 half lines)               |The user faints,[br]but sharply lowers[br]the foe's ATTACK[br]and SP. ATK.|
+486E79| 2| 68|0|I|Move Desc. (4 half lines)               |An attack that is[br]boosted if user is[br]burned, poisoned,[br]or paralyzed.|
+486EBE| 2| 69|0|I|Move Desc. (4 half lines)               |An attack that is[br]executed last.[br]The user flinches[br]if hit beforehand.|
+486F04| 1| 75|0|I|Move Desc. (4 half lines)               |Doubly effective on[br]a paralyzed foe,[br]but it also cures[br]the foe's paralysis.|
+486F50| 1| 69|0|I|Move Desc. (4 half lines)               |The user draws[br]attention to itself,[br]making foes attack[br]only the user.|
+486F96| 1| 61|0|I|Move Desc. (4 half lines)               |An attack that[br]changes type[br]depending on the[br]user's location.|
+486FD4| 1| 63|0|I|Move Desc. (4 half lines)               |The user charges[br]power to boost the[br]ELECTRIC move it[br]uses next.|
+487014| 2| 71|0|I|Move Desc. (4 half lines)               |The foe is taunted[br]into a rage that[br]allows it to use[br]only attack moves.|
+48705C| 1| 62|0|I|Move Desc. (4 half lines)               |A move that boosts[br]the power of the[br]ally's attack in a[br]battle.|
+48709B| 1| 65|0|I|Move Desc. (4 half lines)               |A move that tricks[br]the foe into[br]trading held items[br]with the user.|
+4870DD| 1| 64|0|I|Move Desc. (4 half lines)               |The user mimics the[br]foe completely and[br]copies the foe's[br]ability.|
+48711E| 1| 68|0|I|Move Desc. (4 half lines)               |A self-healing move[br]that restores half[br]the full HP on the[br]next turn.|
+487163| 1| 61|0|I|Move Desc. (4 half lines)               |The user randomly[br]picks and uses a[br]move of an allied[br]POKÈMON.|
+4871A1| 1| 71|0|I|Move Desc. (4 half lines)               |The user lays roots[br]that restore HP on[br]every turn.[br]It can't switch out.|
+4871E9| 1| 74|0|I|Move Desc. (4 half lines)               |A powerful attack,[br]but it also lowers[br]the user's ATTACK[br]and DEFENSE stats.|
+487234| 1| 65|0|I|Move Desc. (4 half lines)               |Reflects back the[br]foe's LEECH SEED[br]and any status-[br]damaging move.|
+487276| 1| 51|0|I|Move Desc. (4 half lines)               |A move that[br]recycles a used[br]item for use once[br]more.|
+4872AA| 1| 71|0|I|Move Desc. (4 half lines)               |An attack move that[br]gains in intensity if[br]the target has hurt[br]the user.|
+4872F2| 2| 69|0|I|Move Desc. (4 half lines)               |An attack that also[br]breaks any barrier[br]like LIGHT SCREEN[br]and REFLECT.|
+487338| 1| 63|0|I|Move Desc. (4 half lines)               |A huge yawn lulls[br]the foe into falling[br]asleep on the next[br]turn.|
+487378| 1| 69|0|I|Move Desc. (4 half lines)               |Knocks down the[br]foe's held item to[br]prevent its use[br]during the battle.|
+4873BE| 1| 60|0|I|Move Desc. (4 half lines)               |Gains power the[br]fewer HP the user[br]has compared with[br]the foe.|
+4873FB| 1| 64|0|I|Move Desc. (4 half lines)               |The higher the[br]user's HP, the more[br]powerful this[br]attack becomes.|
+48743C| 2| 66|0|I|Move Desc. (4 half lines)               |The user employs[br]its psychic power[br]to swap abilities[br]with the foe.|
+48747F| 1| 65|0|I|Move Desc. (4 half lines)               |Prevents foes from[br]using any move[br]that is also known[br]by the user.|
+4874C1| 1| 75|0|I|Move Desc. (4 half lines)               |A self-healing move[br]that cures the user[br]of a poisoning,[br]burn, or paralysis.|
+48750D| 1| 74|0|I|Move Desc. (4 half lines)               |If the user faints,[br]this move deletes[br]the PP of the move[br]that finished it.|
+487558| 2| 65|0|I|Move Desc. (4 half lines)               |Steals the effects[br]of the foe's[br]healing or status-[br]changing move.|
+48759A| 2| 74|0|I|Move Desc. (4 half lines)               |An attack that may[br]have an additional[br]effect that varies[br]with the terrain.|
+4875E5| 2| 66|0|I|Move Desc. (4 half lines)               |The user dives[br]underwater on the[br]first turn and[br]strikes next turn.|
+487628| 1| 66|0|I|Move Desc. (4 half lines)               |A quick flurry of[br]straight-arm[br]punches that hit[br]two to five times.|
+48766B| 1| 59|0|I|Move Desc. (4 half lines)               |Alters the user's[br]type depending on[br]the location's[br]terrain.|
+4876A7| 1| 62|0|I|Move Desc. (4 half lines)               |The user flashes a[br]light that sharply[br]raises its SP. ATK[br]stat.|
+4876E6| 1| 70|0|I|Move Desc. (4 half lines)               |A burst of light[br]injures the foe. It[br]may also lower the[br]foe's SP. DEF.|
+48772D| 1| 67|0|I|Move Desc. (4 half lines)               |A flurry of down[br]hits the foe. It[br]may also lower the[br]foe's SP. ATK.|
+487771| 1| 73|0|I|Move Desc. (4 half lines)               |The foe is covered[br]with a mass of down[br]that sharply cuts[br]the ATTACK stat.|
+4877BB| 1| 55|0|I|Move Desc. (4 half lines)               |A wobbly dance[br]that confuses all[br]the POKÈMON in[br]battle.|
+4877F3| 1| 70|0|I|Move Desc. (4 half lines)               |A fiery kick with a[br]high critical-hit[br]ratio. It may also[br]burn the foe.|
+48783A| 1| 63|0|I|Move Desc. (4 half lines)               |Weakens ELECTRIC-[br]type attacks while[br]the user is in the[br]battle.|
+48787A| 1| 65|0|I|Move Desc. (4 half lines)               |A 5-turn rolling[br]attack that becomes[br]stronger each time[br]it rolls.|
+4878BC| 1| 56|0|I|Move Desc. (4 half lines)               |An attack using[br]thorny arms.[br]It may make the[br]foe flinch.|
+4878F5| 1| 60|0|I|Move Desc. (4 half lines)               |The user slacks off[br]and restores its HP[br]by half its full[br]HP.|
+487932| 1| 67|0|I|Move Desc. (4 half lines)               |The user lets loose[br]a horribly loud[br]shout with the[br]power to damage.|
+487976| 1| 69|0|I|Move Desc. (4 half lines)               |The foe is bitten[br]with toxic fangs.[br]It may also badly[br]poison the foe.|
+4879BC| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with sharp claws.[br]It may also lower[br]the foe's DEFENSE.|
+487A07| 1| 75|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a huge explosion.[br]The user can't move[br]on the next turn.|
+487A53| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a watery cannon.[br]The user can't move[br]on the next turn.|
+487A9E| 1| 76|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a hard, fast punch.[br]It may also raise[br]the user's ATTACK.|
+487AEB| 1| 67|0|I|Move Desc. (4 half lines)               |An attack using a[br]startling shout.[br]It also may make[br]the foe flinch.|
+487B2F| 1| 65|0|I|Move Desc. (4 half lines)               |An attack that[br]varies in power and[br]type depending on[br]the weather.|
+487B71| 1| 77|0|I|Move Desc. (4 half lines)               |A soothing scent is[br]released to heal[br]all status problems[br]in the user's party.|
+487BBF| 1| 63|0|I|Move Desc. (4 half lines)               |The user feigns[br]crying to sharply[br]lower the foe's[br]SP. DEF stat.|
+487BFF| 1| 70|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]razor-like wind.[br]It has a high[br]critical-hit ratio.|
+487C46| 2| 68|0|I|Move Desc. (4 half lines)               |An intense attack[br]that also sharply[br]reduces the user's[br]SP. ATK stat.|
+487C8B| 1| 70|0|I|Move Desc. (4 half lines)               |Completely negates[br]the foe's efforts to[br]heighten its ability[br]to evade.|
+487CD2| 2| 74|0|I|Move Desc. (4 half lines)               |Boulders are hurled[br]at the foe. It also[br]lowers the foe's[br]SPEED if it hits.|
+487D1D| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with a silver dust.[br]It may raise all[br]the user's stats.|
+487D68| 1| 71|0|I|Move Desc. (4 half lines)               |A horrible metallic[br]screech is used to[br]sharply lower the[br]foe's SP. DEF.|
+487DB0| 1| 62|0|I|Move Desc. (4 half lines)               |A pleasant melody[br]is played to lull[br]the foe into a deep[br]sleep.|
+487DEF| 1| 64|0|I|Move Desc. (4 half lines)               |The foe is made to[br]laugh, reducing its[br]ATTACK and DEFENSE[br]stats.|
+487E30| 1| 65|0|I|Move Desc. (4 half lines)               |The user absorbs a[br]mystic power to[br]raise its DEFENSE[br]and SP. DEF.|
+487E72| 1| 64|0|I|Move Desc. (4 half lines)               |The higher the[br]user's HP, the more[br]powerful this[br]attack becomes.|
+487EB3| 1| 66|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a flashing beam[br]that may also[br]cause confusion.|
+487EF6| 1| 62|0|I|Move Desc. (4 half lines)               |The user throws a[br]punch from the[br]shadows. It cannot[br]be evaded.|
+487F35| 1| 64|0|I|Move Desc. (4 half lines)               |The user attacks[br]with an odd power[br]that may make the[br]foe flinch.|
+487F76| 1| 61|0|I|Move Desc. (4 half lines)               |The user attacks[br]with an uppercut[br]thrown skywards[br]with force.|
+487FB4| 1| 68|0|I|Move Desc. (4 half lines)               |The foe is trapped[br]inside a painful[br]sandstorm for two[br]to five turns.|
+487FF9| 1| 71|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with ultimate cold[br]that causes fainting[br]if it hits.|
+488041| 1| 72|0|I|Move Desc. (4 half lines)               |The user attacks[br]with muddy water.[br]It may also lower[br]the foe's accuracy.|
+48808A| 2| 69|0|I|Move Desc. (4 half lines)               |The user shoots[br]seeds at the foe.[br]Two to five seeds[br]are shot at once.|
+4880D0| 2| 64|0|I|Move Desc. (4 half lines)               |An extremely fast[br]attack against one[br]target. It can't be[br]evaded.|
+488111| 1| 65|0|I|Move Desc. (4 half lines)               |Sharp icicles are[br]fired at the foe.[br]It strikes two to[br]five times.|
+488153| 1| 70|0|I|Move Desc. (4 half lines)               |The user hardens[br]its body's surface[br]to sharply raise its[br]DEFENSE stat.|
+48819A| 1| 70|0|I|Move Desc. (4 half lines)               |The user blocks the[br]foe's way with arms[br]spread wide to[br]prevent escape.|
+4881E1| 1| 61|0|I|Move Desc. (4 half lines)               |The user howls to[br]raise its spirit and[br]boost its ATTACK[br]stat.|
+48821F| 2| 70|0|I|Move Desc. (4 half lines)               |Sharp, huge claws[br]hook and slash the[br]foe quickly and[br]with great power.|
+488266| 1| 77|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]an enormous branch.[br]The user can't move[br]on the next turn.|
+4882B4| 2| 70|0|I|Move Desc. (4 half lines)               |The user bulks up[br]its body to boost[br]both its ATTACK and[br]DEFENSE stats.|
+4882FB| 1| 69|0|I|Move Desc. (4 half lines)               |The user bounces[br]on the foe on the[br]2nd turn. It may[br]paralyze the foe.|
+488341| 1| 65|0|I|Move Desc. (4 half lines)               |The user attacks by[br]hurling mud.[br]It also reduces the[br]foe's SPEED.|
+488383| 1| 69|0|I|Move Desc. (4 half lines)               |An attack with a[br]high critical-hit[br]ratio. It may also[br]poison the foe.|
+4883C9| 1| 62|0|I|Move Desc. (4 half lines)               |A cutely executed[br]attack that also[br]steals the foe's[br]hold item.|
+488408| 1| 66|0|I|Move Desc. (4 half lines)               |The user throws an[br]electrified tackle.[br]It hurts the user[br]a little.|
+48844B| 1| 62|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with a strange leaf[br]that cannot be[br]evaded.|
+48848A| 1| 58|0|I|Move Desc. (4 half lines)               |Weakens FIRE-type[br]attacks while the[br]user is in the[br]battle.|
+4884C5| 2| 65|0|I|Move Desc. (4 half lines)               |The user focuses[br]its mind to raise[br]the SP. ATK and[br]SP. DEF stats.|
+488507| 1| 71|0|I|Move Desc. (4 half lines)               |The foe is slashed[br]with a sharp leaf.[br]It has a high[br]critical-hit ratio.|
+48854F| 1| 71|0|I|Move Desc. (4 half lines)               |A mystic, powerful[br]dance that boosts[br]the user's ATTACK[br]and SPEED stats.|
+488597| 1| 59|0|I|Move Desc. (4 half lines)               |The user hurls two[br]to five hard rocks[br]at the foe to[br]attack.|
+4885D3| 2| 64|0|I|Move Desc. (4 half lines)               |A rapid jolt of[br]electricity strikes[br]the foe. It can't[br]be evaded.|
+488614| 2| 69|0|I|Move Desc. (4 half lines)               |An attack with a[br]pulsing blast of[br]water. It may also[br]confuse the foe.|
+48865A| 1| 70|0|I|Move Desc. (4 half lines)               |A move that attacks[br]the foe with a[br]blast of light two[br]turns after use.|
+4886A1| 1| 68|0|I|Move Desc. (4 half lines)               |An intense attack[br]that also sharply[br]reduces the user's[br]SP. ATK stat.|
 488C70| 1| 49|0|D|                                        |Obtained a [var2] BERRY![br]Dad has it at PETALBURG GYM.|
 488CA2| 1| 43|0|D|                                        |The [var1] BERRY transformed into[br]one [var2] BERRY.|
 488CCE| 1| 39|0|D|                                        |The [var1] BERRY has already been[br]obtained.|
