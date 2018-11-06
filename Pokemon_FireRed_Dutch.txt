@@ -4044,7 +4044,7 @@
 1BFBE9| 1| 49|0|D|Safari zone announcements               |Would you like to exit the SAFARI[br]ZONE right now?|Wil je nu de SAFARI ZONE[br]reeds verlaten?
 1BFC1B| 1| 55|0|D|Safari zone announcements               |PA: Ding-dong![nb2]Time's up![nb2]PA: Your SAFARI GAME is over!|
 1BFC53| 1| 73|0|D|Safari zone announcements               |PA: Ding-dong![nb2]You are out of SAFARI BALLS![nb2]PA: Your SAFARI GAME is over!|
-1BFEAC| 1| 31|0|D|Missed text                             |Excuse me![br]Your PC BOX is full.|
+1BFEAC| 1| 31|0|D|Missed text                             |Excuse me![br]Your PC BOX is full.|Excuseer![br]Je PC DOOS is vol.
 1C0DB0| 3| 35|0|D|Misc. House Items                       |It's crammed full of POKÈMON[br]books.|Het zit propvol POKÈMON boeken.
 1C0DF1| 1| 11|0|D|misc missed text                        |A TOWN MAP.|EEN KAART.
 1C0DFD| 1| 27|0|D|PokÈmon Mart                            |Wow![br]Tons of POKÈMON stuff!|Wow![br]Heel veel POKÈMON grief!
@@ -5865,7 +5865,7 @@
 3EF224| 1|  9|0|D|Locations                               |EMBER SPA|
 3EF22E| 2| 13|0|D|Locations                               |CELADON DEPT.|
 3FB21F| 1| 18|0|D|Battle1                                 |[FD1D]: [RIVAL], come back!|[FD1D]: [RIVAL], kom terug!
-3FB235| 1| 18|0|D|Battle1                                 |[FD1D]: [FD08], come back!|
+3FB235| 1| 18|0|D|Battle1                                 |[FD1D]: [FD08], come back!|[FD1D]: [FD08], kom terug!
 3FB248| 1| 25|0|D|Battle1                                 |[FD1D]: [RIVAL] and[br][FD08], come back!|[FD1D]: [RIVAL] en[br][FD08], kom terug!
 3FB265| 1| 28|0|D|Battle1                                 |[FD00] gained[PLAYER][br][FD][x30] EXP. Points![nb2]|[FD00] kreeg[PLAYER][br][FD][x30] EXP. punten![nb2]
 3FB283| 1| 10|0|D|Battle1                                 | a boosted| een verhoogde
@@ -5960,7 +5960,7 @@
 3FBB11| 1| 29|0|D|Battle4                                 |[FD10] was trapped[br]in the vortex!|[FD10] is gevangen in[br]de waterkolk!
 3FBB2F| 1| 28|0|D|Battle4                                 |[FD10] was trapped[br]by SAND TOMB!|[FD10] is gevangen[br]door SAND TOMB!
 3FBB4C| 1| 21|0|D|Battle4                                 |[FD10] was WRAPPED by[br][FD0F]!|[FD0F] heeft [FD10][br]INGEPAKT!
-3FBB62| 1| 14|0|D|Battle4                                 |[FD0F] CLAMPED[br][FD10]!|
+3FBB62| 1| 14|0|D|Battle4                                 |[FD0F] CLAMPED[br][FD10]!|[FD0F] KLEMDE[br][FD10]!
 3FBB71| 1| 17|0|D|Battle4                                 |[FD0F] is hurt[br]by [FD00]!|[FD0F] is verwond[br]door [FD00]!
 3FBB83| 1| 21|0|D|Battle4                                 |[FD0F] was freed[br]from [FD00]!|[FD0F] was bevrijd[br]van [FD00]!
 3FBB99| 1| 26|0|D|Battle4                                 |[FD0F] kept going[br]and crashed!|[FD0F] is doorgegaan[br]en gebotst!
@@ -6005,7 +6005,7 @@
 3FBF51| 1| 17|0|D|Battle5                                 |[FD10] got[br]an ENCORE!|[FD10] kreeg[br]een ENCORE!
 3FBF63| 1| 18|0|D|Battle5                                 |[FD0F]'s ENCORE[br]ended!|[FD0F] zijn ENCORE[br]eindigde!
 3FBF76| 1| 18|0|D|Battle5                                 |[FD0F] took aim[br]at [FD10]!|[FD0F] mikte[br]op [FD10]!
-3FBF89| 1| 15|0|D|Battle5                                 |[FD0F] SKETCHED[br][FD00]!|
+3FBF89| 1| 15|0|D|Battle5                                 |[FD0F] SKETCHED[br][FD00]!|[FD0F] TEKENDE[br][FD00]!
 3FBF99| 1| 37|0|D|Battle5                                 |[FD0F] is trying[br]to take its foe with it!|[FD0F] probeert zijn[br]vijand mee te nemen!
 3FBFBF| 1| 19|0|D|Battle5                                 |[FD10] took[br][FD0F] with it!|[FD10] nam[br][FD0F] mee!
 3FBFD3| 1| 22|0|D|Battle5                                 |Reduced [FD10]'s[br][FD00] by [PLAYER]!|Verlaagde [FD10] zijn[br][FD00] door [PLAYER]!
@@ -6021,7 +6021,7 @@
 3FC0EE| 1| 29|0|D|Battle6                                 |[FD0F]'s PERISH count[br]fell to [FD00]!|[FD0F] zijn aantal PERISH[br]zakte naar [FD00]!
 3FC10C| 1| 17|0|D|Battle6                                 |[FD0F] braced[br]itself!|[FD0F] maakte zich[br]klaar!
 3FC11E| 1| 19|0|D|Battle6                                 |[FD10] ENDURED[br]the hit!|[FD10] ENDURED[br]de aanval!
-3FC132| 1| 13|0|D|Battle6                                 |MAGNITUDE [FD00]!|
+3FC132| 1| 13|0|D|Battle6                                 |MAGNITUDE [FD00]!|RICHTER SCHAAL [FD00]!
 3FC140| 1| 39|0|D|Battle6                                 |[FD0F] cut its own HP[br]and maximized ATTACK!|[FD0F] verlaagde zijn HP[br]en maximaliseerde zijn ATTACK!
 3FC168| 1| 28|0|D|Battle6                                 |[FD0F] copied[br][FD10]'s stat changes!|[FD0F] kopieerde[br][FD10] zijn status aanpassingen!
 3FC185| 1| 23|0|D|Battle6                                 |[FD0F] got free of[br][FD10]'s [FD00]!|[FD0F] geraakte uit[br][FD10] zijn [FD00]!
@@ -6047,7 +6047,7 @@
 3FC377| 1| 18|0|D|Battle7                                 |[FD0F] copied[br][FD10]'s [FD19]!|[FD0F] kopieerde[br][FD10] zijn [FD19]!
 3FC38A| 1| 15|0|D|Battle7                                 |[FD0F] made a WISH!|[FD0F] maakte een WENS!
 3FC39A| 1| 20|0|D|Battle7                                 |[FD00]'s WISH[br]came true!|[FD00] zijn WENS[br]kwam uit!
-3FC3AF| 1| 21|0|D|Battle7                                 |[FD0F] planted its roots!|
+3FC3AF| 1| 21|0|D|Battle7                                 |[FD0F] planted its roots!|[FD0F] plantte wortels!
 3FC3C5| 1| 37|0|D|Battle7                                 |[FD0F] absorbed[br]nutrients with its roots!|[FD0F] absorbeerde[br]voedingsstoffen met zijn wortels!
 3FC3EB| 1| 34|0|D|Battle7                                 |[FD10] anchored[br]itself with its roots!|[FD10] verankerde[br]zichzelf met zijn wortels.
 3FC40E| 1| 18|0|D|Battle7                                 |[FD0F] made[br][FD10] drowsy!|[FD0F] maakte[br][FD10] slaperig!
@@ -6056,7 +6056,7 @@
 3FC461| 1| 33|0|D|Battle7                                 |[FD0F] sealed the[br]opponent's move(s)!|[FD0F] verzegelde de[br]acties van de tegenstander!
 3FC483| 1| 39|0|D|Battle7                                 |[FD0F] wants the[br]opponent to bear a GRUDGE!|[FD0F] wil dat de tegenstander[br]een WROK heeft!
 3FC4AB| 1| 42|0|D|Battle7                                 |[FD0F]'s [FD00] lost[br]all its PP due to the GRUDGE!|[FD0F] zijn [FD00] verloor[br]al zijn PP wegens de WROK!
-3FC4D6| 1| 25|0|D|Battle7                                 |[FD0F] shrouded[br]itself in [FD14]!|
+3FC4D6| 1| 25|0|D|Battle7                                 |[FD0F] shrouded[br]itself in [FD14]!|[FD0F] hulde[br]zichzelf in [FD14]!
 3FC4F0| 1| 39|0|D|Battle7                                 |[FD0F]'s [FD14][br]was bounced back by MAGIC COAT!|[FD0F] zijn [FD14][br]was teruggekaatst door MAGIC COAT!
 3FC518| 1| 36|0|D|Battle7                                 |[FD0F] waits for its foe[br]to make a move!|[FD0F] wacht op zijn vijand[br]om een beweging te maken!
 3FC53D| 1| 22|0|D|Battle7                                 |[FD10] SNATCHED[br][FD13]'s move!|[FD10] heeft [FD13][br]zijn actie GESTOLEN!
@@ -6121,7 +6121,7 @@
 3FCB59| 1|  5|0|D|Battle stats                            |fell!|viel!
 3FCB5F| 1| 10|0|D|Battle stats                            |[FD0F]'s [FD00][br][PLAYER]|
 3FCB6A| 2| 10|0|D|Battle stats                            |[FD10]'s [FD00][br][PLAYER]|
-3FCB75| 1| 25|0|D|Battle stats                            |Using [FD16], the [FD00][br]of [FD13] [PLAYER]|
+3FCB75| 1| 25|0|D|Battle stats                            |Using [FD16], the [FD00][br]of [FD13] [PLAYER]|Met [FD16], de [FD00][br]of [FD13] [PLAYER]
 3FCB8F| 1| 10|0|D|Battle stats                            |[FD0F]'s [FD00][br][PLAYER]|
 3FCB9A| 1| 10|0|D|Battle stats                            |[FD10]'s [FD00][br][PLAYER]|
 3FCBA5| 1| 31|0|D|Battle stats                            |[FD0F]'s stats won't[br]go any higher!|De eigenschappen van [FD0F][br]kunnen niet hoger stijgen!
@@ -6175,7 +6175,7 @@
 3FD068| 1| 14|0|D|Battle 11                               |A bell chimed!|Er weerklinkt een bel!
 3FD077| 1| 47|0|D|Battle 11                               |All affected POKÈMON will[br]faint in three turns!|Alle getroffen POKÈMON gaan[br]flauw vallen in drie beurten!
 3FD0A7| 1| 34|0|D|Battle 11                               |There's no PP left for[br]this move![nb2]|Er is niet genoeg PP voor[br]deze actie![nb2]
-3FD0CA| 1| 38|0|D|Battle 11                               |But there was no PP left[br]for the move!|
+3FD0CA| 1| 38|0|D|Battle 11                               |But there was no PP left[br]for the move!|Maar er is geen PP meer[br]over voor de techniek!
 3FD0F1| 1| 31|0|D|Battle 11                               |[FD0F] ignored[br]orders while asleep!|[FD0F] negeerde[br]bevelen terwijl hij sliep!
 3FD111| 1| 18|0|D|Battle 11                               |[FD0F] ignored[br]orders!|[FD0F] negeerde[br]de bevelen!
 3FD124| 1| 16|0|D|Battle 11                               |[FD0F] began to nap!|[FD0F] begon een dutje!
@@ -6198,7 +6198,7 @@
 3FD2BF| 1| 25|0|D|Battle 12                               |Wild [RIVAL] and[br][FD08] appeared![nb2]|Een wilde [RIVAL] en[br][FD08] kwamen tevoorschijn![nb2]
 3FD2D9| 1| 51|0|D|Battle 12                               |The GHOST appeared![nb2]Darn![br]The GHOST can't be ID'd![nb2]|Het SPOOK kwam tevoorschijn![nb2]Jammer![br]Ik kan niet zien wie het SPOOK is![nb2]
 3FD30D| 1| 20|0|D|Battle 12                               |The GHOST appeared![nb2]|Het SPOOK kwam tevoorschijn![nb2]
-3FD322| 1| 42|0|D|Battle 12                               |SILPH SCOPE unveiled the GHOST's[br]identity!|
+3FD322| 1| 42|0|D|Battle 12                               |SILPH SCOPE unveiled the GHOST's[br]identity!|SILPH SCOPE onthulde de identiteit[br]van het SPOOK!
 3FD34D| 1| 24|0|D|Battle 12                               |The GHOST was MAROWAK![nb2][br]|Het SPOOK was MAROWAK![nb2][br]
 3FD366| 1| 28|0|D|Battle 12                               |[FD1C] [FD1D][br]would like to battle![nb2]|[FD1C] [FD1D][br]wil vechten![nb2]
 3FD383| 1| 19|0|D|Battle 12                               |[FD20][br]wants to battle!|[FD20][br]wil vechten!
@@ -6293,32 +6293,32 @@
 3FDB92| 1| 92|0|D|Oak's Lab                               |The TRAINER that makes the other[br]TRAINER's POKÈMON faint by lowering[nb]their HP to ´0,ª wins.[nb2]|De TRAINER die de andere[br]TRAINER zijn POKÈMON doet flauw[nb]vallen met ´0,ª HP wint.[nb2]
 3FDBEF| 1|104|0|D|Oak's Lab                               |But rather than talking about it,[br]you'll learn more from experience.[nb2]Try battling and see for yourself.[nb2]|Maar in de plaats dat ik er over[br]praat leer je beter uit ervaring.[nb2]Probeer eens en zie zelf.[nb2]
 3FDC58| 1| 60|0|D|Oak's Lab                               |OAK: Inflicting damage on the foe[br]is the key to any battle.[nb2]|OAK: Schade toebrengen aan de[br]tegenstander is de sleutel tot succes.[nb2]
-3FDC95| 1| 60|0|D|Oak's Lab                               |OAK: Lowering the foe's stats[br]will put you at an advantage.[nb2]|
+3FDC95| 1| 60|0|D|Oak's Lab                               |OAK: Lowering the foe's stats[br]will put you at an advantage.[nb2]|OAK: De eigenschappen van de[br]tegenstander verlagen geeft je[nb]een voordeel.
 3FDCD2| 1| 80|0|D|Oak's Lab                               |OAK: Keep your eyes on your[br]POKÈMON's HP.[nb2]It will faint if the HP drops to[br]´0.ª[nb2]|OAK: hou je POKÈMON's HP[br]in de gaten.[nb2]Hij valt flauw als de HP zakt tot[br]´0.ª[nb2]
-3FDD23| 1| 64|0|D|Oak's Lab                               |OAK: No! There's no running away[br]from a TRAINER POKÈMON battle![nb2]|
+3FDD23| 1| 64|0|D|Oak's Lab                               |OAK: No! There's no running away[br]from a TRAINER POKÈMON battle![nb2]|OAK: Nee! Je kan niet weglopen[br]van een TRAINER PKÈMON gevecht!
 3FDD64| 2|134|0|D|Oak's Lab                               |OAK: Hm! Excellent![nb2]If you win, you earn prize money,[br]and your POKÈMON will grow![nb2]Battle other TRAINERS and make[br]your POKÈMON strong![nb2]|OAK: Hm! Perfect![nb2]Als je wint krijg je prijzengeld,[br]en je POKÈMON gaan groeien![nb2]Vecht andere TRAINERS en maak[br]je POKÈMON sterk![nb2]
-3FDDEB| 2|334|0|D|Oak's Lab                               |OAK: Hm[...][br]How disappointing[...][nb2]If you win, you earn prize money,[br]and your POKÈMON grow.[nb2]But if you lose, [FD23], you end[br]up paying prize money[...][nb2]However, since you had no warning[br]this time, I'll pay for you.[nb2]But things won't be this way once[br]you step outside these doors.[nb2]That's why you must strengthen your[br]POKÈMON by battling wild POKÈMON.[nb2]|
+3FDDEB| 2|334|0|D|Oak's Lab                               |OAK: Hm[...][br]How disappointing[...][nb2]If you win, you earn prize money,[br]and your POKÈMON grow.[nb2]But if you lose, [FD23], you end[br]up paying prize money[...][nb2]However, since you had no warning[br]this time, I'll pay for you.[nb2]But things won't be this way once[br]you step outside these doors.[nb2]That's why you must strengthen your[br]POKÈMON by battling wild POKÈMON.[nb2]|OAK: Hm[...][br]Hoe teleurstellend[...][nb2]Als je wint, krijg je prijzengeld,[br]en je POKÈMON groeien.[nb2]Maar als je verliest [FD23], dan moet[br]jij prijzengeld betalen[...][nb2]Maar omdat je dit nu nog niet wist[br]zal ik deze keer voor jou betalen.[nb2]Maar eenmaal buiten deze deuren[br]zal dit niet meer zo zijn.[nb2]Dat is waarom je jouw POKÈMON[br]sterker moet maken door met[nb]wilde POKÈMON te vechten.[nb2]
 3FE672| 2| 21|0|D|Evolving                                |What?[br][var1] is evolving!|Wat?[br][var1] evolueert!
 3FE688| 2| 44|0|D|Evolving                                |Congratulations! Your [var1][br]evolved into [var2]![FC][x0A][nb2]|Gefeliciteerd! Jouw [var1][br]is geÎvolueerd in [var2]![FC][x0A][nb2]
 3FE6B5| 1| 26|0|D|Evolving                                |Huh? [var1][br]stopped evolving![nb2]|Huh? [var1][br]is gestop met evolueren![nb2]
 3FE6D5| 3| 16|0|D|Evolving                                |What will[br][FD12] do?|Wat gaat[br][FD12] doen?
 3FE6E6| 1| 19|0|D|Evolving                                |What will [FD23][br]throw?|Wat gaat [FD23][br]gooien?
 3FE6FA| 1| 25|0|D|Evolving                                |What will the[br]old man do?|Wat gaat de[br]oude man doen?
-3FE714| 1| 16|0|D|Evolving                                |[pausTim]åLink standby[...]|
+3FE714| 1| 16|0|D|Evolving                                |[pausTim]åLink standby[...]|[pausTim]åLink klaar[...]
 3FE725| 3| 33|0|D|                                        |[FC]»»[clrTH]“”‘FIGHT[FC]€[x38]BAG[br]POKÈMON[FC]€[x38]RUN|[FC]»»[clrTH]“”‘VECHT[FC]€[x38]ZAK[br]POKÈMON[FC]€[x38]LOOP
 3FE747| 1| 30|0|D|                                        |[FC]»»[clrTH]“”‘BALL[FC]€[x38]BAIT[br]ROCK[FC]€[x38]RUN|[FC]»»[clrTH]“”‘BALL[FC]€[x38]AAS[br]STEEN[FC]€[x38]LOOP
 3FE766| 1|  3|0|D|                                        |PP |
 3FE76A| 1|  5|0|D|                                        |TYPE/|
 3FE770| 2|  8|0|D|                                        |[FC]»»[clrTH]“”‘|
 3FE791| 5| 14|0|D|                                        |[FC]»»[clrTH]“”‘Yes[br]No|[FC]»»[clrTH]“”‘Ja[br]Nee
-3FE7A0| 1| 21|0|D|                                        |[FC]»»[clrTH]“”‘Switch[br]which?|
+3FE7A0| 1| 21|0|D|                                        |[FC]»»[clrTH]“”‘Switch[br]which?|[FC]»»[clrTH]“”‘Wissel[br]welk?
 3FE7C7| 1| 12|0|D|                                        |[smllat]Max[small] HP|
 3FE7D4| 1|  7|0|D|                                        |ATTACK |
 3FE7DC| 1|  7|0|D|                                        |DEFENSE|
 3FE7E4| 1|  7|0|D|                                        |SP. ATK|
 3FE7EC| 1|  7|0|D|                                        |SP. DEF|
 3FE80C| 1| 15|0|D|                                        |[clrH]¡SAFARI BALLS|
-3FE81C| 1|  9|0|D|                                        |[clrH]¡Left: |
+3FE81C| 1|  9|0|D|                                        |[clrH]¡Left: |[clrH]¡Over: 
 3FE82A| 1|  5|0|D|Status effects                          |sleep|
 3FE830| 1|  6|0|D|Status effects                          |poison|
 3FE837| 1|  4|0|D|Status effects                          |burn|
@@ -6328,10 +6328,10 @@
 3FE854| 1|  4|0|D|Status effects                          |love|
 3FE860| 1|  3|0|D|                                        | is|
 3FE864| 1|  3|0|D|                                        | is|
-3FE868| 1|  7|0|D|                                        |Bad EGG|
-3FE874| 3|  6|0|D|                                        |[clrH] Win|
-3FE87B| 3|  7|0|D|                                        |[clrH] Loss|
-3FE883| 1|  7|0|D|                                        |[clrH] Draw|
+3FE868| 1|  7|0|D|                                        |Bad EGG|Slecht EI
+3FE874| 3|  6|0|D|                                        |[clrH] Win|[clrH] Win
+3FE87B| 3|  7|0|D|                                        |[clrH] Loss|[clrH] Verlies
+3FE883| 1|  7|0|D|                                        |[clrH] Draw|[clrH] Gelijk
 3FE88B| 1|  3|0|D|                                        | is|
 3FE88F| 1|  2|0|D|                                        |'s|
 3FE892| 1| 13|0|D|Move Types                              |a NORMAL move|
@@ -6355,17 +6355,17 @@
 3FE982| 2| 10|0|D|Misc found after move types             |TIME BOARD|TIJDSBORD
 3FE98D| 0| 10|0|D|Misc found after move types             |CLEAR TIME|WIS TIJD
 3FE998| 2| 16|0|D|Misc found after move types             |[var1]MIN. [var2].[var3]SEC.|
-3FE9A9| 0|  2|0|D|Misc found after move types             |1F|
-3FE9AC| 0|  2|0|D|Misc found after move types             |2F|
-3FE9AF| 0|  2|0|D|Misc found after move types             |3F|
-3FE9B2| 0|  2|0|D|Misc found after move types             |4F|
-3FE9B5| 0|  2|0|D|Misc found after move types             |5F|
-3FE9B8| 0|  2|0|D|Misc found after move types             |6F|
-3FE9BB| 0|  2|0|D|Misc found after move types             |7F|
-3FE9BE| 0|  2|0|D|Misc found after move types             |8F|
-3FE9D4| 1| 15|0|D|                                        |[music]Ÿ [FD1C] [FD1D] fled!|
-3FE9E4| 1| 26|0|D|                                        |Player lost against[br][FD1C] [FD1D]!|
-3FE9FF| 1| 39|0|D|                                        |Player battled to a draw against[br][FD1C] [FD1D]!|
+3FE9A9| 0|  2|0|D|Misc found after move types             |1F|1e
+3FE9AC| 0|  2|0|D|Misc found after move types             |2F|2e
+3FE9AF| 0|  2|0|D|Misc found after move types             |3F|3e
+3FE9B2| 0|  2|0|D|Misc found after move types             |4F|4e
+3FE9B5| 0|  2|0|D|Misc found after move types             |5F|5e
+3FE9B8| 0|  2|0|D|Misc found after move types             |6F|6e
+3FE9BB| 0|  2|0|D|Misc found after move types             |7F|7e
+3FE9BE| 0|  2|0|D|Misc found after move types             |8F|8e
+3FE9D4| 1| 15|0|D|                                        |[music]Ÿ [FD1C] [FD1D] fled!|[music]Ÿ [FD1C] [FD1D] vluchtte!
+3FE9E4| 1| 26|0|D|                                        |Player lost against[br][FD1C] [FD1D]!|Speler verloor tegen[br][FD1C] [FD1D]!
+3FE9FF| 1| 39|0|D|                                        |Player battled to a draw against[br][FD1C] [FD1D]!|speler vocht tot gelijkspel tegen[br][FD1C] [FD1D]!
 415A2C| 1|  4|0|D|                                        |RUBY|
 415A31| 1|  4|0|D|                                        |AQUA|
 415A36| 1|  5|0|D|                                        |MAGMA|
@@ -6395,8 +6395,8 @@
 415D97| 1|  4|0|D|Intro                                   |GIRL|Meisje
 415D9C| 1| 27|0|D|                                        |POKÈDEX   TABLE OF CONTENTS|
 415DB8| 1| 11|0|D|                                        |[V][x0A]PICK [V] OK|[V][x0A]KIES [V] OK
-415DC4| 2|  5|0|D|                                        |Seen:|
-415DCA| 2|  6|0|D|                                        |Owned:|
+415DC4| 2|  5|0|D|                                        |Seen:|Gezien:
+415DCA| 2|  6|0|D|                                        |Owned:|Bezit:
 415DD1| 1|  5|0|D|                                        |KANTO|
 415DD7| 1|  8|0|D|                                        |NATIONAL|
 415DE0| 2| 22|0|D|                                        |[clrT]‘[clrShd]”POKÈMON HABITATS|
@@ -6461,7 +6461,7 @@
 4161F4| 2|  4|0|D|                                        |OPEN|
 4161F9| 1|  8|0|D|                                        |DESELECT|
 41623D| 1|  6|0|D|Shared texts                            |YES[br]NO|Ja[br]Nee
-416244| 1| 29|0|D|                                        |Go back to the[br]previous menu.|
+416244| 1| 29|0|D|                                        |Go back to the[br]previous menu.|Ga terug naar[br]het vorige menu.
 416262| 3| 26|0|D|Misc. Items                             |What would you like to do?|Wat wil je doen?
 41627D| 1|  7|0|D|                                        |POKÈDEX|
 416285| 2|  3|0|D|                                        |BAG|ZAK
@@ -6469,7 +6469,7 @@
 416291| 1|  4|0|D|                                        |SAVE|BEWAAR
 416296| 1|  6|0|D|                                        |OPTION|OPTIES
 41629D| 1|  4|0|D|                                        |EXIT|SLUITEN
-4162A2| 1|  6|0|D|                                        |RETIRE|
+4162A2| 1|  6|0|D|                                        |RETIRE|AFTREDEN
 4162A9| 1| 15|0|D|                                        |[var1]/[var2][br]BALLS  [var3]|
 4162BD| 1|  6|0|D|                                        | BERRY|
 4162C4| 2|  8|0|D|                                        |[var1] COINS|
@@ -6478,41 +6478,41 @@
 4162DE| 1|  9|0|D|                                        |KEY ITEMS|
 4162E8| 1| 12|0|D|                                        |DEPOSIT ITEM|
 4162F5| 1|  9|0|D|                                        |CLOSE BAG|SLUIT ZAK
-4162FF| 3| 15|0|D|                                        |[var1] is[br]selected.|
-41630F| 3| 26|0|D|                                        |You can't write[br]MAIL here.|
-41632A| 5| 20|0|D|                                        |There is no[br]POKÈMON.|
-41633F| 2| 30|0|D|                                        |Where should the [var1][br]be placed?|
-41635E| 2| 21|0|D|                                        |The [var1] can't be held.|
-416374| 1| 26|0|D|                                        |The [var1] can't be held[br]here.|
-41638F| 1| 23|0|D|                                        |Deposit how many[br][var1](s)?|
-4163A7| 1| 19|0|D|                                        |Deposited [var2][br][var1](s).|
-4163BB| 1| 31|0|D|                                        |There's no room to[br]store items.|
-4163DB| 2| 24|0|D|                                        |Toss out how many[br][var1](s)?|
-4163F4| 2| 20|0|D|                                        |Threw away [var2][br][var1](s).|
-416409| 2| 27|0|D|                                        |Throw away [var2] of[br]this item?|
-416425| 2| 43|0|D|                                        |OAK: [PLAYER]![br]This isn't the time to use that![pausBtn]|
-416451| 1| 36|0|D|                                        |You can't dismount your BIKE here.[pausBtn]|
-416476| 1| 71|0|D|                                        |Huh?[br]The ITEMFINDER's responding![nb2]There's an item buried around here![pausBtn]|
-4164BE| 1| 84|0|D|                                        |Oh![br]The ITEMFINDER's shaking wildly![nb2]There's an item buried underfoot![nb2][...] [...] [...] [...] [...] [...][pausBtn]|
-416513| 1| 35|0|D|                                        |[...] [...] [...] [...]Nope![br]There's no response.[pausBtn]|
-416537| 1| 16|0|D|                                        |Your COINS:[br][var1][pausBtn]|
-41658C| 1| 17|0|D|                                        |[PLAYER] used the[br][var2].[pausBtn]|
-41659E| 1| 51|0|D|                                        |But the effects of a REPEL[br]lingered from earlier.[pausBtn]|
-4165D2| 1| 45|0|D|                                        |[PLAYER] used the[br][var2].[nb2]Wild POKÈMON will be lured.[pausBtn]|
-416600| 1| 48|0|D|                                        |[PLAYER] used the[br][var2].[nb2]Wild POKÈMON will be repelled.[pausBtn]|
-416631| 1| 18|0|D|                                        |The BOX is full.[pausBtn]|
+4162FF| 3| 15|0|D|                                        |[var1] is[br]selected.|[var1] is[br]gekozen.
+41630F| 3| 26|0|D|                                        |You can't write[br]MAIL here.|Je kan hier geen[br]POST schrijven.
+41632A| 5| 20|0|D|                                        |There is no[br]POKÈMON.|Er is geen[br]POKÈMON.
+41633F| 2| 30|0|D|                                        |Where should the [var1][br]be placed?|Waar moet de [var1][br]geplaatst worden?
+41635E| 2| 21|0|D|                                        |The [var1] can't be held.|De [var1] kan niet[br]vastgehouden worden.
+416374| 1| 26|0|D|                                        |The [var1] can't be held[br]here.|De [var1] kan hier niet[br]vastgehouden worden.
+41638F| 1| 23|0|D|                                        |Deposit how many[br][var1](s)?|Geef hoeveel[br][var1](en) af?
+4163A7| 1| 19|0|D|                                        |Deposited [var2][br][var1](s).|Gaf [var2][br][var1](en) af.
+4163BB| 1| 31|0|D|                                        |There's no room to[br]store items.|Er is geen plaats[br]om items te stockeren.
+4163DB| 2| 24|0|D|                                        |Toss out how many[br][var1](s)?|Gooi hoeveel[br][var1](en) weg?
+4163F4| 2| 20|0|D|                                        |Threw away [var2][br][var1](s).|Gooide [var2][br][var1](en) weg.
+416409| 2| 27|0|D|                                        |Throw away [var2] of[br]this item?|Gooi [var2] stuk(s)[br]van dit item weg?
+416425| 2| 43|0|D|                                        |OAK: [PLAYER]![br]This isn't the time to use that![pausBtn]|OAK: [PLAYER]! Het is niet het[br]juiste moment om dat te gebruiken![pausBtn]
+416451| 1| 36|0|D|                                        |You can't dismount your BIKE here.[pausBtn]|Je kan hier niet af je fiets stappen.[pausBtn]
+416476| 1| 71|0|D|                                        |Huh?[br]The ITEMFINDER's responding![nb2]There's an item buried around here![pausBtn]|HÈ?[br]De ITEMFINDER reageert![nb2]Er is hier ergens een item begraven![pausBtn]
+4164BE| 1| 84|0|D|                                        |Oh![br]The ITEMFINDER's shaking wildly![nb2]There's an item buried underfoot![nb2][...] [...] [...] [...] [...] [...][pausBtn]|O![br]De ITEMFINDER schud wild![nb2]Er is hieronder een item begraven![nb2][...] [...] [...] [...] [...] [...][pausBtn]
+416513| 1| 35|0|D|                                        |[...] [...] [...] [...]Nope![br]There's no response.[pausBtn]|[...] [...] [...] [...]Neen![br]Er is geen reactie.[pausBtn]
+416537| 1| 16|0|D|                                        |Your COINS:[br][var1][pausBtn]|Je MUNTEN:[br][var1][pausBtn]
+41658C| 1| 17|0|D|                                        |[PLAYER] used the[br][var2].[pausBtn]|[PLAYER] gebruikte de[br][var2].[pausBtn]
+41659E| 1| 51|0|D|                                        |But the effects of a REPEL[br]lingered from earlier.[pausBtn]|Maar de effecten van een vorige[br]REPEL bleven nog actief.[pausBtn]
+4165D2| 1| 45|0|D|                                        |[PLAYER] used the[br][var2].[nb2]Wild POKÈMON will be lured.[pausBtn]|[PLAYER] gebruikte de[br][var2].[nb2]Wilde POKÈMON worden gelokt.[pausBtn]
+416600| 1| 48|0|D|                                        |[PLAYER] used the[br][var2].[nb2]Wild POKÈMON will be repelled.[pausBtn]|[PLAYER] gebruikte de[br][var2].[nb2]Wilde POKÈMON worden verjaagd.[pausBtn]
+416631| 1| 18|0|D|                                        |The BOX is full.[pausBtn]|De DOOS is vol.[pausBtn]
 416644| 1| 16|0|D|                                        |POWDER QTY: [var1][pausBtn]|
 416655| 1|  6|0|D|                                        |POWDER|
-41665C| 2| 51|0|D|                                        |Played the POKÈ FLUTE.[nb2]Now, that's a catchy tune![pausBtn]|
-416690| 2| 22|0|D|                                        |Played the POKÈ FLUTE.|
-4166A7| 2| 43|0|D|                                        |The POKÈ FLUTE awakened sleeping[br]POKÈMON.[pausBtn]|
+41665C| 2| 51|0|D|                                        |Played the POKÈ FLUTE.[nb2]Now, that's a catchy tune![pausBtn]|Speelde op de POKÈ FLUTE.[nb2]Dat is een leuk deuntje![pausBtn]
+416690| 2| 22|0|D|                                        |Played the POKÈ FLUTE.|Speelde op de POKÈ FLUTE.
+4166A7| 2| 43|0|D|                                        |The POKÈ FLUTE awakened sleeping[br]POKÈMON.[pausBtn]|De POKÈ FLUTE maakte slapende[br]POKÈMON wakker.[pausBtn]
 4166D3| 1|  7|0|D|                                        |TM CASE|
-4166DB| 2|  5|0|D|                                        |CLOSE|
-4166E1| 1| 29|0|D|                                        |The TM CASE will be[br]put away.|
+4166DB| 2|  5|0|D|                                        |CLOSE|SLUIT
+4166E1| 1| 29|0|D|                                        |The TM CASE will be[br]put away.|De TM CASE wordt[br]opgeborgen.
 4166FF| 2|  3|0|D|                                        |[smllat]|
 416703| 2|  3|0|D|                                        |[small]|
-41670A| 1| 11|0|D|                                        |BERRY POUCH|
-416716| 1| 33|0|D|                                        |The BERRY POUCH will be[br]put away.|
+41670A| 1| 11|0|D|                                        |BERRY POUCH|BESSENZAK
+416716| 1| 33|0|D|                                        |The BERRY POUCH will be[br]put away.|De BESSENZAK wordt[br]opgeborgen.
 416738| 1|  3|0|D|POKE MART                               |BUY|Koop
 41673C| 1|  4|0|D|POKE MART                               |SELL|Verkoop
 416741| 1|  7|0|D|POKE MART                               |SEE YA!|Daag!
@@ -6541,34 +6541,34 @@
 4169C5| 1|  7|0|D|                                        |SP. ATK|
 4169CD| 1|  7|0|D|                                        |SP. DEF|
 4169D5| 1|  2|0|D|                                        |OK|
-4169DC| 9| 27|0|D|                                        |It won't have any effect.[pausBtn]|
-4169F8| 1| 37|0|D|                                        |This can't be used on[br]that POKÈMON.[pausBtn]|
-416A1E| 1| 27|0|D|                                        |[var1] can't be switched[br]out![pausBtn]|
-416A3A| 1| 26|0|D|                                        |[var1] is already[br]in battle![pausBtn]|
-416A55| 1| 31|0|D|                                        |[var1] has already been[br]selected.[pausBtn]|
-416A75| 1| 34|0|D|                                        |[var1] has no energy[br]left to battle![pausBtn]|
-416A98| 1| 50|0|D|                                        |You can't switch [var1]'s[br]POKÈMON with one of yours![pausBtn]|
-416ACB| 1| 22|0|D|                                        |An EGG can't battle![pausBtn]|
-416AE2| 1| 51|0|D|                                        |This can't be used until a new[br]BADGE is obtained.[pausBtn]|
-416B16| 1| 39|0|D|                                        |No more than three POKÈMON[br]may enter.[pausBtn]|
-416B3E| 1| 37|0|D|                                        |No more than two POKÈMON[br]may enter.[pausBtn]|
-416B64| 1| 33|0|D|                                        |Send the removed MAIL to[br]your PC?|
-416B86| 1| 31|0|D|                                        |The MAIL was sent to your PC.[pausBtn]|
-416BA6| 1| 28|0|D|                                        |Your PC's MAILBOX is full.[pausBtn]|
-416BC3| 1| 55|0|D|                                        |If the MAIL is removed, the[br]message will be lost. Okay?|
-416BFB| 1| 46|0|D|                                        |MAIL must be removed before[br]holding an item.[pausBtn]|
+4169DC| 9| 27|0|D|                                        |It won't have any effect.[pausBtn]|Het gaat geen effect hebben.[pausBtn]
+4169F8| 1| 37|0|D|                                        |This can't be used on[br]that POKÈMON.[pausBtn]|Dit kan niet gebruikt worden[br]op die POKÈMON.[pausBtn]
+416A1E| 1| 27|0|D|                                        |[var1] can't be switched[br]out![pausBtn]|[var1] kan niet gewisseld[br]worden![pausBtn]
+416A3A| 1| 26|0|D|                                        |[var1] is already[br]in battle![pausBtn]|[var1] is al aan[br]het vechten![pausBtn]
+416A55| 1| 31|0|D|                                        |[var1] has already been[br]selected.[pausBtn]|[var1] is al[br]geselecteerd.[pausBtn]
+416A75| 1| 34|0|D|                                        |[var1] has no energy[br]left to battle![pausBtn]|[var1] heeft geen energie[br]meer om te vechten![pausBtn]
+416A98| 1| 50|0|D|                                        |You can't switch [var1]'s[br]POKÈMON with one of yours![pausBtn]|Je kan [var1]'s POKÈMON[br]niet wisselen met een van jou![pausBtn]
+416ACB| 1| 22|0|D|                                        |An EGG can't battle![pausBtn]|Een EI kan niet vechten![pausBtn]
+416AE2| 1| 51|0|D|                                        |This can't be used until a new[br]BADGE is obtained.[pausBtn]|Dit kan niet gebruikt worden[br]tot je een nieuwe BADGE hebt.[pausBtn]
+416B16| 1| 39|0|D|                                        |No more than three POKÈMON[br]may enter.[pausBtn]|Niet meer dan drie POKÈMON[br]mogen binnen.[pausBtn]
+416B3E| 1| 37|0|D|                                        |No more than two POKÈMON[br]may enter.[pausBtn]|Niet meer dan twee POKÈMON[br]mogen binnen.[pausBtn]
+416B64| 1| 33|0|D|                                        |Send the removed MAIL to[br]your PC?|Stuur de verwijderde POST[br]naar je PC?
+416B86| 1| 31|0|D|                                        |The MAIL was sent to your PC.[pausBtn]|De POST was gestuurd naar je PC.[pausBtn]
+416BA6| 1| 28|0|D|                                        |Your PC's MAILBOX is full.[pausBtn]|De POSTBUS op je PC zit vol.[pausBtn]
+416BC3| 1| 55|0|D|                                        |If the MAIL is removed, the[br]message will be lost. Okay?|Als de POST verwijderd wordt gaat[br]de boodschap verloren. Ok?
+416BFB| 1| 46|0|D|                                        |MAIL must be removed before[br]holding an item.[pausBtn]|POST moet verwijderd worden voor[br]een item vastgehouden kan worden.
 416C2A| 1| 30|0|D|                                        |[var1] was given the[br][var2] to hold.[pausBtn]|[var1] houd nu[br][var2] vast.[pausBtn]
-416C49| 1| 69|0|D|                                        |[var1] is already holding[br]one [var2].[nb2]Would you like to switch the[br]two items?|
-416C8F| 1| 28|0|D|                                        |[var1] isn't holding[br]anything.[pausBtn]|
+416C49| 1| 69|0|D|                                        |[var1] is already holding[br]one [var2].[nb2]Would you like to switch the[br]two items?|[var1] heeft al een[br][var2] vast.[nb2]Wil je de twee items[br]omwisselen?
+416C8F| 1| 28|0|D|                                        |[var1] isn't holding[br]anything.[pausBtn]|[var1] heeft niets vast.[pausBtn]
 416CAC| 1| 26|0|D|                                        |Received the [var2][br]from [var1].[pausBtn]|Received the [var2][br]from [var1].[pausBtn]
 416CC7| 1| 34|0|D|                                        |MAIL was taken from the[br]POKÈMON.[pausBtn]|POST was genomen van de[br]POKÈMON.[pausBtn]
 416CEA| 1| 44|0|D|                                        |The [var2] was taken and[br]replaced with the [var1].[pausBtn]|De [var2] was weggenomen[br]en vervangen door [var1].[pausBtn]
-416D17| 1| 55|0|D|                                        |This POKÈMON is holding an[br]item. It cannot hold MAIL.[pausBtn]|
-416D4F| 1| 40|0|D|                                        |MAIL was transferred from[br]the MAILBOX.[pausBtn]|
-416D78| 1| 58|0|D|                                        |The [var1] is full. The POKÈMON's[br]item could not be removed.[pausBtn]|
-416DB3| 2| 14|0|D|                                        |[var1] learned[br][var2]!|
-416DC2| 2| 52|0|D|                                        |[var1] and [var2][br]are not compatible.[nb2][var2] can't be[br]learned.[pausBtn]|
-416DF7| 4|115|0|D|                                        |[var1] wants to learn the[br]move [var2].[nb2]However, [var1] already[br]knows four moves.[nb2]Should a move be deleted and[br]replaced with [var2]?|
+416D17| 1| 55|0|D|                                        |This POKÈMON is holding an[br]item. It cannot hold MAIL.[pausBtn]|Deze POKÈMON heeft een item vast.[br]Er is geen plaats voor POST.[pausBtn]
+416D4F| 1| 40|0|D|                                        |MAIL was transferred from[br]the MAILBOX.[pausBtn]|POST was verplaatst uit[br]de POSTBUS.[pausBtn]
+416D78| 1| 58|0|D|                                        |The [var1] is full. The POKÈMON's[br]item could not be removed.[pausBtn]|De [var1] zit vol. Het item van de[br]POKÈMON kon niet verwijderd worden.[pausBtn]
+416DB3| 2| 14|0|D|                                        |[var1] learned[br][var2]!|[var1] leerde[br][var2]!
+416DC2| 2| 52|0|D|                                        |[var1] and [var2][br]are not compatible.[nb2][var2] can't be[br]learned.[pausBtn]|[var1] en [var2][br]zijn niet compatibel.[nb2][var2] kan niet[br]geleerd worden.[pausBtn]
+416DF7| 4|115|0|D|                                        |[var1] wants to learn the[br]move [var2].[nb2]However, [var1] already[br]knows four moves.[nb2]Should a move be deleted and[br]replaced with [var2]?|[var1] wil de [var2][br]techniek leren.[nb2]Echter, [var1] kent al[br]reeds vier technieken.[nb2]Moet er een verwijderd worden[br]en vervangen door [var2]?
 416E6B| 1| 24|0|D|                                        |Stop trying to teach[br][var2]?|
 416E84| 1| 31|0|D|                                        |[var1] did not learn the[br]move [var2].[pausBtn]|
 416EA4| 1| 33|0|D|                                        |Which move should be forgotten?[pausBtn]|
