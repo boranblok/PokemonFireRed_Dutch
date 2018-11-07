@@ -4498,257 +4498,257 @@
 24FABE| 1| 21|0|D|Inventory Pkmn Items                    |Blocks critical hits.|
 24FAD4| 1| 25|0|D|Inventory Pkmn Items                    |Avoids sound-based moves.|
 24FAEE| 1| 24|0|D|Inventory Pkmn Items                    |Negates weather effects.|
-3D4ECC| 1| 89|0|I|Inventory flavor text (max 3 lines)     |The best BALL with the ultimate[br]performance. It will catch any wild[br]POKÈMON without fail.|
-3D4F26| 1| 81|0|I|Inventory flavor text (max 3 lines)     |A very high-grade BALL that offers[br]a higher POKÈMON catch rate than[br]a GREAT BALL.|
-3D4F78| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A good, quality BALL that offers[br]a higher POKÈMON catch rate than[br]a standard POKÈ BALL.|
-3D4FD0| 1| 73|0|I|Inventory flavor text (max 3 lines)     |A BALL thrown to catch a wild[br]POKÈMON. It is designed in a[br]capsule style.|
-3D501A| 1| 92|0|I|Inventory flavor text (max 3 lines)     |A special BALL that is used only in[br]the SAFARI ZONE. It is finished in[br]a camouflage pattern.|
-3D5077| 1| 84|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on WATER- and[br]BUG-type POKÈMON.|
-3D50CC| 1| 80|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on POKÈMON[br]deep in the sea.|
-3D511D| 1| 71|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on weaker[br]POKÈMON.|
-3D5165| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on POKÈMON[br]caught before.|
-3D51B4| 1| 97|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]becomes progressively better the[br]more turns there are in a battle.|
-3D5216| 1| 76|0|I|Inventory flavor text (max 3 lines)     |A comfortable BALL that makes a[br]captured wild POKÈMON quickly grow[br]friendly.|
-3D5263| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A rare BALL that has been[br]specially made to commemorate an[br]event of some sort.|
-3D52B2| 1| 76|0|I|Inventory flavor text (max 3 lines)     |A spray-type wound medicine.[br]It restores the HP of one POKÈMON[br]by 20 points.|
-3D52FF| 1| 61|0|I|Inventory flavor text (max 3 lines)     |A spray-type medicine.[br]It heals one POKÈMON from a[br]poisoning.|
-3D533D| 1| 54|0|I|Inventory flavor text (max 3 lines)     |A spray-type medicine.[br]It heals one POKÈMON of a burn.|
-3D5374| 1| 52|0|I|Inventory flavor text (max 3 lines)     |A spray-type medicine.[br]It defrosts a frozen POKÈMON.|
-3D53A9| 1| 53|0|I|Inventory flavor text (max 3 lines)     |A spray-type medicine.[br]It awakens a sleeping POKÈMON.|
-3D53DF| 1| 59|0|I|Inventory flavor text (max 3 lines)     |A spray-type medicine.[br]It heals one POKÈMON from[br]paralysis.|
-3D541B| 1| 83|0|I|Inventory flavor text (max 3 lines)     |A medicine that fully restores the[br]HP and heals any status problems[br]of one POKÈMON.|
-3D546F| 1| 69|0|I|Inventory flavor text (max 3 lines)     |A spray-type wound medicine.[br]It fully restores the HP of one[br]POKÈMON.|
-3D54B5| 1| 77|0|I|Inventory flavor text (max 3 lines)     |A spray-type wound medicine.[br]It restores the HP of one POKÈMON[br]by 200 points.|
-3D5503| 1| 76|0|I|Inventory flavor text (max 3 lines)     |A spray-type wound medicine.[br]It restores the HP of one POKÈMON[br]by 50 points.|
-3D5550| 1| 71|0|I|Inventory flavor text (max 3 lines)     |A spray-type medicine.[br]It heals all the status problems of[br]one POKÈMON.|
-3D5598| 1| 83|0|I|Inventory flavor text (max 3 lines)     |A medicine that revives a fainted[br]POKÈMON, restoring HP by half the[br]maximum amount.|
-3D55EC| 1| 62|0|I|Inventory flavor text (max 3 lines)     |A medicine that revives a fainted[br]POKÈMON, restoring HP fully.|
-3D562B| 1| 82|0|I|Inventory flavor text (max 3 lines)     |Water with a high mineral content.[br]It restores the HP of one POKÈMON[br]by 50 points.|
-3D567E| 1| 67|0|I|Inventory flavor text (max 3 lines)     |A fizzy soda drink.[br]It restores the HP of one POKÈMON[br]by 60 points.|
-3D56C2| 1| 67|0|I|Inventory flavor text (max 3 lines)     |A very sweet drink.[br]It restores the HP of one POKÈMON[br]by 80 points.|
-3D5706| 1| 72|0|I|Inventory flavor text (max 3 lines)     |Highly nutritious milk.[br]It restores the HP of one POKÈMON[br]by 100 points.|
-3D574F| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A very bitter medicine powder.[br]It restores the HP of one POKÈMON[br]by 50 points.|
-3D579E| 1| 68|0|I|Inventory flavor text (max 3 lines)     |A very bitter root.[br]It restores the HP of one POKÈMON[br]by 200 points.|
-3D57E3| 1| 79|0|I|Inventory flavor text (max 3 lines)     |A very bitter medicine powder.[br]It heals all the status problems of[br]one POKÈMON.|
-3D5833| 1| 79|0|I|Inventory flavor text (max 3 lines)     |A very bitter medicinal herb.[br]It revives a fainted POKÈMON,[br]restoring HP fully.|
-3D5883| 1| 59|0|I|Inventory flavor text (max 3 lines)     |Restores a selected move's PP by[br]10 points for one POKÈMON.|
-3D58BF| 1| 52|0|I|Inventory flavor text (max 3 lines)     |Fully restores a selected move's PP[br]for one POKÈMON.|
-3D58F4| 1| 63|0|I|Inventory flavor text (max 3 lines)     |Restores the PP of all moves for[br]one POKÈMON by 10 points each.|
-3D5934| 1| 51|0|I|Inventory flavor text (max 3 lines)     |Fully restores the PP of all moves[br]for one POKÈMON.|
-3D5968| 1| 82|0|I|Inventory flavor text (max 3 lines)     |LAVARIDGE TOWN's local specialty.[br]It heals all the status problems of[br]one POKÈMON.|
-3D59BB| 1| 51|0|I|Inventory flavor text (max 3 lines)     |A blue glass flute that awakens[br]a sleeping POKÈMON.|
-3D59EF| 1| 61|0|I|Inventory flavor text (max 3 lines)     |A yellow glass flute that snaps one[br]POKÈMON out of confusion.|
-3D5A2D| 1| 60|0|I|Inventory flavor text (max 3 lines)     |A red glass flute that snaps one[br]POKÈMON out of infatuation.|
-3D5A6A| 1| 77|0|I|Inventory flavor text (max 3 lines)     |A black glass flute.[br]When blown, it makes wild POKÈMON[br]less likely to appear.|
-3D5AB8| 1| 77|0|I|Inventory flavor text (max 3 lines)     |A white glass flute.[br]When blown, it makes wild POKÈMON[br]more likely to appear.|
-3D5B06| 1| 66|0|I|Inventory flavor text (max 3 lines)     |A 100% pure juice.[br]It restores the HP of one POKÈMON[br]by 20 points.|
-3D5B49| 1| 48|0|I|Inventory flavor text (max 3 lines)     |Revives all fainted POKÈMON,[br]restoring HP fully.|
-3D5B7A| 1| 74|0|I|Inventory flavor text (max 3 lines)     |Pure salt obtained from deep inside[br]the SHOAL CAVE. It is extremely[br]salty.|
-3D5BC5| 1| 84|0|I|Inventory flavor text (max 3 lines)     |A pretty seashell found deep inside[br]the SHOAL CAVE. It is striped in[br]blue and white.|
-3D5C1A| 1| 75|0|I|Inventory flavor text (max 3 lines)     |A small red shard.[br]It appears to be from some sort of[br]a tool made long ago.|
-3D5C66| 1| 76|0|I|Inventory flavor text (max 3 lines)     |A small blue shard.[br]It appears to be from some sort of[br]a tool made long ago.|
-3D5CB3| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A small yellow shard.[br]It appears to be from some sort of[br]a tool made long ago.|
-3D5D02| 1| 77|0|I|Inventory flavor text (max 3 lines)     |A small green shard.[br]It appears to be from some sort of[br]a tool made long ago.|
-3D5D50| 1| 69|0|I|Inventory flavor text (max 3 lines)     |A nutritious drink for POKÈMON.[br]It raises the base HP of one[br]POKÈMON.|
-3D5D96| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A nutritious drink for POKÈMON.[br]It raises the base ATTACK stat of[br]one POKÈMON.|
-3D5DE5| 1| 79|0|I|Inventory flavor text (max 3 lines)     |A nutritious drink for POKÈMON.[br]It raises the base DEFENSE stat of[br]one POKÈMON.|
-3D5E35| 1| 77|0|I|Inventory flavor text (max 3 lines)     |A nutritious drink for POKÈMON.[br]It raises the base SPEED stat of[br]one POKÈMON.|
-3D5E83| 1| 79|0|I|Inventory flavor text (max 3 lines)     |A nutritious drink for POKÈMON.[br]It raises the base SP. ATK stat[br]of one POKÈMON.|
-3D5ED3| 1| 76|0|I|Inventory flavor text (max 3 lines)     |A candy that is packed with energy.[br]It raises the level of a POKÈMON[br]by one.|
-3D5F20| 1| 66|0|I|Inventory flavor text (max 3 lines)     |Slightly raises the maximum PP of[br]a selected move for one POKÈMON.|
-3D5F63| 1| 79|0|I|Inventory flavor text (max 3 lines)     |A nutritious drink for POKÈMON.[br]It raises the base SP. DEF stat[br]of one POKÈMON.|
-3D5FB3| 1| 70|0|I|Inventory flavor text (max 3 lines)     |Raises the PP of a selected move[br]to its maximum level for one[br]POKÈMON.|
-3D5FFA| 1| 82|0|I|Inventory flavor text (max 3 lines)     |An item that prevents stat reduction[br]among party POKÈMON for five turns[br]after use.|
-3D604D| 1| 90|0|I|Inventory flavor text (max 3 lines)     |Raises the critical-hit ratio of[br]POKÈMON in battle. Wears off if the[br]POKÈMON is withdrawn.|
-3D60A8| 1| 83|0|I|Inventory flavor text (max 3 lines)     |Raises the ATTACK stat of POKÈMON[br]in battle. Wears off if the POKÈMON[br]is withdrawn.|
-3D60FC| 1| 84|0|I|Inventory flavor text (max 3 lines)     |Raises the DEFENSE stat of POKÈMON[br]in battle. Wears off if the POKÈMON[br]is withdrawn.|
-3D6151| 1| 82|0|I|Inventory flavor text (max 3 lines)     |Raises the SPEED stat of POKÈMON[br]in battle. Wears off if the POKÈMON[br]is withdrawn.|
-3D61A4| 1| 85|0|I|Inventory flavor text (max 3 lines)     |Raises the accuracy stat of[br]POKÈMON in battle. Wears off if the[br]POKÈMON is withdrawn.|
-3D61FA| 1| 84|0|I|Inventory flavor text (max 3 lines)     |Raises the SP. ATK stat of[br]POKÈMON in battle. Wears off if the[br]POKÈMON is withdrawn.|
-3D624F| 1| 71|0|I|Inventory flavor text (max 3 lines)     |An attractive doll.[br]Use it to flee from any battle with[br]a wild POKÈMON.|
-3D6297| 1| 71|0|I|Inventory flavor text (max 3 lines)     |An attractive item.[br]Use it to flee from any battle with[br]a wild POKÈMON.|
-3D62DF| 1| 56|0|I|Inventory flavor text (max 3 lines)     |Prevents weak wild POKÈMON from[br]appearing for 200 steps.|
-3D6318| 1| 56|0|I|Inventory flavor text (max 3 lines)     |Prevents weak wild POKÈMON from[br]appearing for 250 steps.|
-3D6351| 1| 74|0|I|Inventory flavor text (max 3 lines)     |A long, durable rope.[br]Use it to escape instantly from a[br]cave or a dungeon.|
-3D639C| 1| 56|0|I|Inventory flavor text (max 3 lines)     |Prevents weak wild POKÈMON from[br]appearing for 100 steps.|
-3D63D5| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It is as red as the sun.|
-3D642D| 1| 95|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It is as black as the night sky.|
-3D648D| 1| 84|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It is colored orange.|
-3D64E2| 1| 92|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It has a thunderbolt pattern.|
-3D653F| 1| 88|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It is a clear light blue.|
-3D6598| 1| 85|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It has a leaf pattern.|
-3D65EE| 1| 68|0|I|Inventory flavor text (max 3 lines)     |A small and rare mushroom.[br]It is quite popular among certain[br]people.|
-3D6633| 1| 67|0|I|Inventory flavor text (max 3 lines)     |A large and rare mushroom.[br]It is very popular among certain[br]people.|
-3D6677| 1| 88|0|I|Inventory flavor text (max 3 lines)     |A relatively small pearl that[br]sparkles in a pretty silver color.[br]It can be sold cheaply.|
-3D66D0| 1| 91|0|I|Inventory flavor text (max 3 lines)     |A quite-large pearl that sparkles[br]in a pretty silver color.[br]It can be sold at a high price.|
-3D672C| 1| 75|0|I|Inventory flavor text (max 3 lines)     |A pretty red sand with a loose,[br]silky feel.[br]It can be sold at a high price.|
-3D6778| 1| 85|0|I|Inventory flavor text (max 3 lines)     |A shard of a pretty gem that[br]sparkles in a red color.[br]It can be sold at a high price.|
-3D67CE| 1| 86|0|I|Inventory flavor text (max 3 lines)     |A nugget of pure gold that gives[br]off a lustrous gleam.[br]It can be sold at a high price.|
-3D6825| 1| 97|0|I|Inventory flavor text (max 3 lines)     |A pretty, heart-shaped scale that[br]is extremely rare. It glows faintly[br]in the colors of a rainbow.|
-3D6887| 1| 80|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]ZIGZAGOON print.[br]It is to be held by a POKÈMON.|
-3D68D8| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]WINGULL print.[br]It is to be held by a POKÈMON.|
-3D6927| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]PIKACHU print.[br]It is to be held by a POKÈMON.|
-3D6976| 1| 80|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]MAGNEMITE print.[br]It is to be held by a POKÈMON.|
-3D69C7| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]SLAKOTH print.[br]It is to be held by a POKÈMON.|
-3D6A16| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]WAILMER print.[br]It is to be held by a POKÈMON.|
-3D6A65| 1| 90|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL to be held by a[br]POKÈMON. It will bear the print of[br]the POKÈMON holding it.|
-3D6AC0| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]DUSKULL print.[br]It is to be held by a POKÈMON.|
-3D6B0F| 1| 80|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]BELLOSSOM print.[br]It is to be held by a POKÈMON.|
-3D6B60| 1| 90|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL to be held by a[br]POKÈMON. It will bear the print of[br]the POKÈMON holding it.|
-3D6BBB| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a[br]gorgeous, extravagant print.[br]It is to be held by a POKÈMON.|
-3D6C13| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a print[br]of three cute POKÈMON.[br]It is to be held by a POKÈMON.|
-3D6C6B| 1| 68|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to heal paralysis.|
-3D6CB0| 1| 61|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to wake up.|
-3D6CEE| 1| 65|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to cure poison.|
-3D6D30| 1| 65|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to heal a burn.|
-3D6D72| 1| 65|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle for defrosting.|
-3D6DB4| 1| 67|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to restore 10 PP.|
-3D6DF8| 1| 67|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to restore 10 HP.|
-3D6E3C| 1| 68|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to lift confusion.|
-3D6E81| 1| 70|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to heal any problem.|
-3D6EC8| 1| 67|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to restore 30 HP.|
-3D6F0C| 1| 63|0|I|Inventory flavor text (max 3 lines)     |A hold item that restores HP but[br]may cause confusion when used.|
-3D6F4C| 1| 63|0|I|Inventory flavor text (max 3 lines)     |A hold item that restores HP but[br]may cause confusion when used.|
-3D6F8C| 1| 63|0|I|Inventory flavor text (max 3 lines)     |A hold item that restores HP but[br]may cause confusion when used.|
-3D6FCC| 1| 63|0|I|Inventory flavor text (max 3 lines)     |A hold item that restores HP but[br]may cause confusion when used.|
-3D700C| 1| 63|0|I|Inventory flavor text (max 3 lines)     |A hold item that restores HP but[br]may cause confusion when used.|
-3D704C| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D708A| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D70C8| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D7106| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D7144| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D7182| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D71C0| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D71FE| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D723C| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D727A| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D72B8| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D72F6| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D7334| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D7372| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D73B0| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D73EE| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D742C| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D746A| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D74A8| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D74E6| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D7524| 1| 61|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it raises[br]the ATTACK stat in a pinch.|
-3D7562| 1| 62|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it raises[br]the DEFENSE stat in a pinch.|
-3D75A1| 1| 60|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it raises[br]the SPEED stat in a pinch.|
-3D75DE| 1| 62|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it raises[br]the SP. ATK stat in a pinch.|
-3D761D| 1| 62|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it raises[br]the SP. DEF stat in a pinch.|
-3D765C| 1| 68|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it raises[br]the critical-hit ratio in a pinch.|
-3D76A1| 1| 62|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it sharply[br]raises one stat in a pinch.|
-3D76E0| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|
-3D771E| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It casts a tricky glare that lowers[br]the opponent's accuracy.|
-3D777C| 1| 98|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It restores any lowered stat in[br]battle. It can be used only once.|
-3D77DF| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It promotes strong growth but[br]lowers SPEED while it is held.|
-3D783D| 1| 97|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]The holder gets a share of EXP.[br]points without having to battle.|
-3D789F| 1| 96|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A light and sharp claw. The holder[br]may be able to strike first.|
-3D7900| 1|104|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A bell with a comforting chime that[br]makes the holder calm and friendly.|
-3D7969| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It snaps the holder out of[br]infatuation. It can be used once.|
-3D79C7| 1| 90|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It powers up one move, which[br]becomes the only usable one.|
-3D7A22| 1| 83|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It may cause the foe to flinch[br]upon taking damage.|
-3D7A76| 1| 95|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A shiny silver powder that boosts[br]the power of BUG-type moves.|
-3D7AD6| 1| 95|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It doubles the battle money if the[br]holding POKÈMON takes part.|
-3D7B36| 1| 92|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It repels wild POKÈMON if the[br]holder is first in the party.|
-3D7B93| 1| 81|0|I|Inventory flavor text (max 3 lines)     |An orb to be held by a LATIOS or[br]LATIAS. It raises the SP. ATK[br]and SP. DEF stats.|
-3D7BE5| 1| 95|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A fang that gleams a sharp silver.[br]It raises the SP. ATK stat.|
-3D7C45| 1| 94|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A scale that shines a faint pink.[br]It raises the SP. DEF stat.|
-3D7CA4| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]The holding POKÈMON can flee from[br]any wild POKÈMON for sure.|
-3D7D02| 1| 80|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]The holding POKÈMON is prevented[br]from evolving.|
-3D7D53| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]The holding POKÈMON may endure an[br]attack, leaving just 1 HP.|
-3D7DB1| 1|101|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]An egg filled with happiness that[br]earns extra EXP. points in battle.|
-3D7E17| 1| 98|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A lens that boosts the critical-hit[br]ratio of the holding POKÈMON.|
-3D7E7A| 1| 99|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A special metallic film that boosts[br]the power of STEEL-type moves.|
-3D7EDE| 1| 88|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]The holding POKÈMON gradually[br]regains HP during battle.|
-3D7F37| 1| 65|0|I|Inventory flavor text (max 3 lines)     |A thick and tough scale.[br]A DRAGON-type POKÈMON may be[br]holding it.|
-3D7F79| 1| 91|0|I|Inventory flavor text (max 3 lines)     |An orb to be held by a PIKACHU[br]that raises the SP. ATK stat.[br]Touching it may cause a shock.|
-3D7FD5| 1| 96|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A loose, silky sand that boosts the[br]power of GROUND-type moves.|
-3D8036| 1| 95|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]An unbreakable stone that boosts[br]the power of ROCK-type moves.|
-3D8096| 1| 99|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A seed imbued with life that boosts[br]the power of GRASS-type moves.|
-3D80FA| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A shady-looking pair of glasses[br]that boosts DARK-type moves.|
-3D8158| 1| 90|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A belt that boosts determination[br]and FIGHTING-type moves.|
-3D81B3| 1| 96|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A powerful magnet that boosts the[br]power of ELECTRIC-type moves.|
-3D8214| 1| 97|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A teardrop-shaped gem that boosts[br]the power of WATER-type moves.|
-3D8276| 1| 95|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A long, sharp beak that boosts the[br]power of FLYING-type moves.|
-3D82D6| 1|100|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A small, poisonous barb that boosts[br]the power of POISON-type moves.|
-3D833B| 1| 91|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A piece of ice that repels heat[br]and boosts ICE-type moves.|
-3D8397| 1| 84|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A sinister, eerie tag that boosts[br]GHOST-type moves.|
-3D83EC| 1| 97|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A spoon imbued with telekinetic[br]power boosts PSYCHIC-type moves.|
-3D844E| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A combustible fuel that boosts the[br]power of FIRE-type moves.|
-3D84AC| 1| 98|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A hard and sharp fang that boosts[br]the power of DRAGON-type moves.|
-3D850F| 1| 94|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A sumptuous scarf that boosts the[br]power of NORMAL-type moves.|
-3D856E| 1| 75|0|I|Inventory flavor text (max 3 lines)     |A transparent device filled with all[br]sorts of data.[br]It is made by SILPH CO.|
-3D85BA| 1| 91|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]The holding POKÈMON regains some[br]HP upon striking the foe.|
-3D8616| 1| 82|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It slightly boosts the power of[br]WATER-type moves.|
-3D8669| 1| 86|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]Its tricky aroma slightly reduces[br]the foe's accuracy.|
-3D86C0| 1| 72|0|I|Inventory flavor text (max 3 lines)     |A glove to be held by a CHANSEY.[br]It raises CHANSEY's critical-hit[br]ratio.|
-3D8709| 1| 74|0|I|Inventory flavor text (max 3 lines)     |A fine, hard powder to be held by[br]a DITTO.[br]It raises DITTO's DEFENSE stat.|
-3D8754| 1| 86|0|I|Inventory flavor text (max 3 lines)     |A hard bone of some sort to be[br]held by a CUBONE or MAROWAK.[br]It raises the ATTACK stat.|
-3D87AB| 1| 86|0|I|Inventory flavor text (max 3 lines)     |A stick of leek to be held by a[br]FARFETCH'D. It raises FARFETCH'D's[br]critical-hit ratio.|
-3D8802| 1| 92|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It boosts the holding POKÈMON's[br]COOL condition in CONTESTS.|
-3D885F| 1| 94|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It boosts the holding POKÈMON's[br]BEAUTY condition in CONTESTS.|
-3D88BE| 1| 92|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It boosts the holding POKÈMON's[br]CUTE condition in CONTESTS.|
-3D891B| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It boosts the holding POKÈMON's[br]SMART condition in CONTESTS.|
-3D8979| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It boosts the holding POKÈMON's[br]TOUGH condition in CONTESTS.|
-3D89D7| 1| 60|0|I|Inventory flavor text (max 3 lines)     |A folding bicycle that is at least[br]twice as fast as walking.|
-3D8A14| 1| 81|0|I|Inventory flavor text (max 3 lines)     |A case for holding COINS obtained[br]at the GAME CORNER.[br]It holds up to 9,999 COINS.|
-3D8A66| 1|101|0|I|Inventory flavor text (max 3 lines)     |A device used for finding items.[br]If there is a hidden item nearby[br]when it is used, it emits a signal.|
-3D8ACC| 1| 86|0|I|Inventory flavor text (max 3 lines)     |An old and beat-up fishing rod.[br]Use it by any body of water to [br]fish for wild POKÈMON.|
-3D8B23| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A new, good-quality fishing rod.[br]Use it by any body of water to [br]fish for wild POKÈMON.|
-3D8B7B| 1| 88|0|I|Inventory flavor text (max 3 lines)     |An awesome, high-tech fishing rod.[br]Use it by any body of water to fish[br]for wild POKÈMON.|
-3D8BD4| 1| 89|0|I|Inventory flavor text (max 3 lines)     |The ticket required for sailing on[br]the ferry S.S. ANNE.[br]It has a drawing of a ship on it.|
-3D8C2E| 1| 91|0|I|Inventory flavor text (max 3 lines)     |The pass required for entering[br]POKÈMON CONTESTS. It has a[br]drawing of an award ribbon on it.|
-3D8C8A| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A nifty watering pail.[br]Use it to promote strong growth in[br]BERRIES planted in soft soil.|
-3D8CE2| 1| 84|0|I|Inventory flavor text (max 3 lines)     |A package that contains mechanical[br]parts of some sort made by the[br]DEVON CORPORATION.|
-3D8D37| 1| 77|0|I|Inventory flavor text (max 3 lines)     |A sack used to collect volcanic[br]ash automatically during walks[br]over deep ash.|
-3D8D85| 1| 69|0|I|Inventory flavor text (max 3 lines)     |The key to NEW MAUVILLE, which[br]was constructed beneath MAUVILLE[br]CITY.|
-3D8DCB| 1| 68|0|I|Inventory flavor text (max 3 lines)     |A folding bicycle that is capable[br]of stunts like jumps and wheelies.|
-3D8E10| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A case for holding [po][kÈ][bl][oc][k]S made[br]with a BERRY BLENDER. It releases[br]one [po][kÈ][bl][oc][k] when shaken.|
-3D8E68| 1| 84|0|I|Inventory flavor text (max 3 lines)     |An extremely important letter to[br]STEVEN from the PRESIDENT of the[br]DEVON CORPORATION.|
-3D8EBD| 1|108|0|I|Inventory flavor text (max 3 lines)     |The ticket required for sailing on a[br]ferry to a distant southern island.[br]It features a drawing of an island.|
-3D8F2A| 1| 84|0|I|Inventory flavor text (max 3 lines)     |An orb that glows red.[br]It is said to contain an incredible[br]power from ancient times.|
-3D8F7F| 1| 85|0|I|Inventory flavor text (max 3 lines)     |An orb that glows blue.[br]It is said to contain an incredible[br]power from ancient times.|
-3D8FD5| 1| 79|0|I|Inventory flavor text (max 3 lines)     |A device used to search for[br]life-forms in water.[br]It looks too difficult to use.|
-3D9025| 1| 93|0|I|Inventory flavor text (max 3 lines)     |A pair of protective goggles.[br]They enable a TRAINER to travel[br]through even desert sandstorms.|
-3D9083| 1| 83|0|I|Inventory flavor text (max 3 lines)     |A meteorite that fell from space[br]onto MT. MOON long ago.[br]It is very lumpy and hard.|
-3D90D7| 1| 97|0|I|Inventory flavor text (max 3 lines)     |A key that opens the door to Room[br]1 inside the ABANDONED SHIP.[br]It is old and looks easily broken.|
-3D9139| 1| 97|0|I|Inventory flavor text (max 3 lines)     |A key that opens the door to Room[br]2 inside the ABANDONED SHIP.[br]It is old and looks easily broken.|
-3D919B| 1| 97|0|I|Inventory flavor text (max 3 lines)     |A key that opens the door to Room[br]4 inside the ABANDONED SHIP.[br]It is old and looks easily broken.|
-3D91FD| 1| 97|0|I|Inventory flavor text (max 3 lines)     |A key that opens the door to Room[br]6 inside the ABANDONED SHIP.[br]It is old and looks easily broken.|
-3D925F| 1| 95|0|I|Inventory flavor text (max 3 lines)     |A key that opens the storage hold[br]inside the ABANDONED SHIP.[br]It is old and looks easily broken.|
-3D92BF| 1| 90|0|I|Inventory flavor text (max 3 lines)     |A fossil of an ancient, seafloor-[br]dwelling POKÈMON. It appears to be[br]part of a plant root.|
-3D931A| 1| 84|0|I|Inventory flavor text (max 3 lines)     |A fossil of an ancient, seafloor-[br]dwelling POKÈMON. It appears to be[br]part of a claw.|
-3D936F| 1| 89|0|I|Inventory flavor text (max 3 lines)     |A scope that signals the presence[br]of any unseeable POKÈMON.[br]It is made by the DEVON CORP.|
+3D4ECC| 1| 89|0|I|Inventory flavor text (max 3 lines)     |The best BALL with the ultimate[br]performance. It will catch any wild[br]POKÈMON without fail.|De beste BALL met de ultieme[br]kracht. Het vangt zonder problemen[br]elke wilde POKÈMON.
+3D4F26| 1| 81|0|I|Inventory flavor text (max 3 lines)     |A very high-grade BALL that offers[br]a higher POKÈMON catch rate than[br]a GREAT BALL.|Een heel erg dure BALL die meer[br]kans geeft om een POKÈMON te[br]vangen dan een GREAT BALL.
+3D4F78| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A good, quality BALL that offers[br]a higher POKÈMON catch rate than[br]a standard POKÈ BALL.|Een goede kwaliteits BALL die[br]meer kans geeft POKÈMON te vangen[br]dan een gewone POKÈ BALL.
+3D4FD0| 1| 73|0|I|Inventory flavor text (max 3 lines)     |A BALL thrown to catch a wild[br]POKÈMON. It is designed in a[br]capsule style.|Een BALL die gegooid word om[br]wilde POKÈMON te vangen. Het[br]is ontworpen als een capsule.
+3D501A| 1| 92|0|I|Inventory flavor text (max 3 lines)     |A special BALL that is used only in[br]the SAFARI ZONE. It is finished in[br]a camouflage pattern.|Een speciale BALL die enkel gebruikt[br]word in de SAFARI ZONE. Het heeft[br]een camouflage opdruk.
+3D5077| 1| 84|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on WATER- and[br]BUG-type POKÈMON.|Een speciale BALL die heel goed[br]werkt op WATER- en BUG-type[br]POKÈMON.
+3D50CC| 1| 80|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on POKÈMON[br]deep in the sea.|Een speciale BALL die heel goed[br]werkt op POKÈMON die diep in[br]de zee wonen.
+3D511D| 1| 71|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on weaker[br]POKÈMON.|Een speciale BALL die heel goed[br]werkt op zwakkere POKÈMON.
+3D5165| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on POKÈMON[br]caught before.|Een speciale BALL die heel goed[br]werkt op POKÈMON die je al eens[br]eerder gevangen hebt.
+3D51B4| 1| 97|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]becomes progressively better the[br]more turns there are in a battle.|Een speciale BALL die beter werkt[br]hoe meer rondes het gevecht telt.
+3D5216| 1| 76|0|I|Inventory flavor text (max 3 lines)     |A comfortable BALL that makes a[br]captured wild POKÈMON quickly grow[br]friendly.|Een comfortabele BALL die gevangen[br]POKÈMON sneller vriendelijk maken[br]tegenover de TRAINER.
+3D5263| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A rare BALL that has been[br]specially made to commemorate an[br]event of some sort.|Een zeldzame BALL gemaakt voor[br]een speciale gelegenheid of[br]iets gelijkaardig.
+3D52B2| 1| 76|0|I|Inventory flavor text (max 3 lines)     |A spray-type wound medicine.[br]It restores the HP of one POKÈMON[br]by 20 points.|Een spuitbus medicijn.[br]Het herstelt de HP van ÈÈn POKÈMON[br]met 20 punten.
+3D52FF| 1| 61|0|I|Inventory flavor text (max 3 lines)     |A spray-type medicine.[br]It heals one POKÈMON from a[br]poisoning.|Een spuitbus medicijn.[br]Het geneest ÈÈn vergiftigde[br]POKÈMON.
+3D533D| 1| 54|0|I|Inventory flavor text (max 3 lines)     |A spray-type medicine.[br]It heals one POKÈMON of a burn.|Een spuitbus medicijn.[br]Het geneest de brandwonde[br]van ÈÈn POKÈMON
+3D5374| 1| 52|0|I|Inventory flavor text (max 3 lines)     |A spray-type medicine.[br]It defrosts a frozen POKÈMON.|Een spuitbus medicijn.[br]Het ontdooit een bevroren[br]POKÈMON.
+3D53A9| 1| 53|0|I|Inventory flavor text (max 3 lines)     |A spray-type medicine.[br]It awakens a sleeping POKÈMON.|Een spuitbus medicijn.[br]Het maakt een slapende[br]POKÈMON wakker.
+3D53DF| 1| 59|0|I|Inventory flavor text (max 3 lines)     |A spray-type medicine.[br]It heals one POKÈMON from[br]paralysis.|Een spuitbus medicijn.[br]Het geneest een POKÈMON[br]van verlamming.
+3D541B| 1| 83|0|I|Inventory flavor text (max 3 lines)     |A medicine that fully restores the[br]HP and heals any status problems[br]of one POKÈMON.|Een medicijn die alle HP van[br]een POKÈMON geneest en alle[br]status problemen oplost.
+3D546F| 1| 69|0|I|Inventory flavor text (max 3 lines)     |A spray-type wound medicine.[br]It fully restores the HP of one[br]POKÈMON.|Een spuitbus medicijn.[br]Het herstelt alle HP van[br]een POKÈMON.
+3D54B5| 1| 77|0|I|Inventory flavor text (max 3 lines)     |A spray-type wound medicine.[br]It restores the HP of one POKÈMON[br]by 200 points.|Een spuitbus medicijn.[br]Het herstelt de HP van ÈÈn POKÈMON[br]met 200 punten.
+3D5503| 1| 76|0|I|Inventory flavor text (max 3 lines)     |A spray-type wound medicine.[br]It restores the HP of one POKÈMON[br]by 50 points.|Een spuitbus medicijn.[br]Het herstelt de HP van ÈÈn POKÈMON[br]met 50 punten.
+3D5550| 1| 71|0|I|Inventory flavor text (max 3 lines)     |A spray-type medicine.[br]It heals all the status problems of[br]one POKÈMON.|Een spuitbus medicijn.[br]Het geneest alle status problemen[br]van een POKÈMON.
+3D5598| 1| 83|0|I|Inventory flavor text (max 3 lines)     |A medicine that revives a fainted[br]POKÈMON, restoring HP by half the[br]maximum amount.|Een medicijn die een flauwgevallen[br]POKÈMON terug opwekt, en ook de[br]helft van de HP herstelt.
+3D55EC| 1| 62|0|I|Inventory flavor text (max 3 lines)     |A medicine that revives a fainted[br]POKÈMON, restoring HP fully.|Een medicijn die een flauwgevallen[br]POKÈMON terug opwekt, en ook[br]alle HP herstelt.
+3D562B| 1| 82|0|I|Inventory flavor text (max 3 lines)     |Water with a high mineral content.[br]It restores the HP of one POKÈMON[br]by 50 points.|Water met veel mineralen.[br]Het herstelt de HP van een[br]POKÈMON met 50 punten.
+3D567E| 1| 67|0|I|Inventory flavor text (max 3 lines)     |A fizzy soda drink.[br]It restores the HP of one POKÈMON[br]by 60 points.|Een bruisende limonade.[br]Het herstelt de HP van een[br]POKÈMON met 60 punten.
+3D56C2| 1| 67|0|I|Inventory flavor text (max 3 lines)     |A very sweet drink.[br]It restores the HP of one POKÈMON[br]by 80 points.|Een erg zoete drank.[br]Het herstelt de HP van een[br]POKÈMON met 80 punten.
+3D5706| 1| 72|0|I|Inventory flavor text (max 3 lines)     |Highly nutritious milk.[br]It restores the HP of one POKÈMON[br]by 100 points.|Erg voedzame melk.[br]Het herstelt de HP van een[br]POKÈMON met 100 punten.
+3D574F| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A very bitter medicine powder.[br]It restores the HP of one POKÈMON[br]by 50 points.|Erg bitter medicijnenpoeder.[br]Het herstelt de HP van een[br]POKÈMON met 50 punten.
+3D579E| 1| 68|0|I|Inventory flavor text (max 3 lines)     |A very bitter root.[br]It restores the HP of one POKÈMON[br]by 200 points.|Een erg bittere wortel.[br]Het herstelt de HP van een[br]POKÈMON met 200 punten.
+3D57E3| 1| 79|0|I|Inventory flavor text (max 3 lines)     |A very bitter medicine powder.[br]It heals all the status problems of[br]one POKÈMON.|Heel erg bitter medicijnenpoeder.[br]Het geneest alle status problemen[br]van een POKÈMON.
+3D5833| 1| 79|0|I|Inventory flavor text (max 3 lines)     |A very bitter medicinal herb.[br]It revives a fainted POKÈMON,[br]restoring HP fully.|Een erg bitter medicijnenkruid.[br]Het wekt een flauwgevallen POKÈMON[br]terug op, en herstelt alle HP.
+3D5883| 1| 59|0|I|Inventory flavor text (max 3 lines)     |Restores a selected move's PP by[br]10 points for one POKÈMON.|Herstelt de PP van ÈÈn techniek[br]van ÈÈn POKÈMON met 10 punten.
+3D58BF| 1| 52|0|I|Inventory flavor text (max 3 lines)     |Fully restores a selected move's PP[br]for one POKÈMON.|Herstelt alle PP van ÈÈn techniek[br]van ÈÈn POKÈMON.
+3D58F4| 1| 63|0|I|Inventory flavor text (max 3 lines)     |Restores the PP of all moves for[br]one POKÈMON by 10 points each.|Herstelt de PP van alle technieken[br]van ÈÈn POKÈMON met 10 punten.
+3D5934| 1| 51|0|I|Inventory flavor text (max 3 lines)     |Fully restores the PP of all moves[br]for one POKÈMON.|Herstelt alle PP van alle technieken[br]van ÈÈn POKÈMON.
+3D5968| 1| 82|0|I|Inventory flavor text (max 3 lines)     |LAVARIDGE TOWN's local specialty.[br]It heals all the status problems of[br]one POKÈMON.|De lokale specialiteit van LAVARIDGE[br]TOWN. Het herstelt alle status[br]problemen van een POKÈMON.
+3D59BB| 1| 51|0|I|Inventory flavor text (max 3 lines)     |A blue glass flute that awakens[br]a sleeping POKÈMON.|Een blauwe glazen fluit die een[br]slapende POKÈMON wakker maakt.
+3D59EF| 1| 61|0|I|Inventory flavor text (max 3 lines)     |A yellow glass flute that snaps one[br]POKÈMON out of confusion.|Een gele glazen fluit die een[br]POKÈMON uit zijn verwarring haalt.
+3D5A2D| 1| 60|0|I|Inventory flavor text (max 3 lines)     |A red glass flute that snaps one[br]POKÈMON out of infatuation.|Een rode glazen fluit die een[br]POKÈMON over zijn verliefdheid[br]heen helpt.
+3D5A6A| 1| 77|0|I|Inventory flavor text (max 3 lines)     |A black glass flute.[br]When blown, it makes wild POKÈMON[br]less likely to appear.|Een zwarte glazen fluit.[br]Als er op gespeeld word komen er[br]minder wilde POKÈMON tevoorschijn.
+3D5AB8| 1| 77|0|I|Inventory flavor text (max 3 lines)     |A white glass flute.[br]When blown, it makes wild POKÈMON[br]more likely to appear.|Een witte glazen fluit.[br]Als er op gespeeld word komen er[br]meer wilde POKÈMON tevoorschijn.
+3D5B06| 1| 66|0|I|Inventory flavor text (max 3 lines)     |A 100% pure juice.[br]It restores the HP of one POKÈMON[br]by 20 points.|100% puur appelsiensap.[br]Het herstelt de HP van ÈÈn POKÈMON[br]met 20 punten.
+3D5B49| 1| 48|0|I|Inventory flavor text (max 3 lines)     |Revives all fainted POKÈMON,[br]restoring HP fully.|Wekt alle flauwgevallen POKÈMON[br]die je hebt, en herstelt al hun HP.
+3D5B7A| 1| 74|0|I|Inventory flavor text (max 3 lines)     |Pure salt obtained from deep inside[br]the SHOAL CAVE. It is extremely[br]salty.|Puur zout verkregen diep uit de[br]SHOAL GROT. Het is heel erg zout.
+3D5BC5| 1| 84|0|I|Inventory flavor text (max 3 lines)     |A pretty seashell found deep inside[br]the SHOAL CAVE. It is striped in[br]blue and white.|Een mooie zeeschelp, gevonden[br]diep in de SHOAL GROT. Het heeft[br]blauwe en witte strepen.
+3D5C1A| 1| 75|0|I|Inventory flavor text (max 3 lines)     |A small red shard.[br]It appears to be from some sort of[br]a tool made long ago.|Een kleine rode splinter.[br]Het lijkt wel van een oud stuk[br]greedschap afkomstig.
+3D5C66| 1| 76|0|I|Inventory flavor text (max 3 lines)     |A small blue shard.[br]It appears to be from some sort of[br]a tool made long ago.|Een kleine blauwe splinter.[br]Het lijkt wel van een oud stuk[br]greedschap afkomstig.
+3D5CB3| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A small yellow shard.[br]It appears to be from some sort of[br]a tool made long ago.|Een kleine gele splinter.[br]Het lijkt wel van een oud stuk[br]greedschap afkomstig.
+3D5D02| 1| 77|0|I|Inventory flavor text (max 3 lines)     |A small green shard.[br]It appears to be from some sort of[br]a tool made long ago.|Een kleine groene splinter.[br]Het lijkt wel van een oud stuk[br]greedschap afkomstig.
+3D5D50| 1| 69|0|I|Inventory flavor text (max 3 lines)     |A nutritious drink for POKÈMON.[br]It raises the base HP of one[br]POKÈMON.|Een voedende drank voor POKÈMON.[br]Het verhoogt de basis HP van[br]een POKÈMON.
+3D5D96| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A nutritious drink for POKÈMON.[br]It raises the base ATTACK stat of[br]one POKÈMON.|Een voedende drank voor POKÈMON.[br]Het verhoogt de basis AANVAL[br]van een POKÈMON.
+3D5DE5| 1| 79|0|I|Inventory flavor text (max 3 lines)     |A nutritious drink for POKÈMON.[br]It raises the base DEFENSE stat of[br]one POKÈMON.|Een voedende drank voor POKÈMON.[br]Het verhoogt de basis AFWEER[br]van een POKÈMON.
+3D5E35| 1| 77|0|I|Inventory flavor text (max 3 lines)     |A nutritious drink for POKÈMON.[br]It raises the base SPEED stat of[br]one POKÈMON.|Een voedende drank voor POKÈMON.[br]Het verhoogt de basis SNELHEID[br]van een POKÈMON.
+3D5E83| 1| 79|0|I|Inventory flavor text (max 3 lines)     |A nutritious drink for POKÈMON.[br]It raises the base SP. ATK stat[br]of one POKÈMON.|Een voedende drank voor POKÈMON.[br]Het verhoogt de basis SP. AANV[br]van een POKÈMON.
+3D5ED3| 1| 76|0|I|Inventory flavor text (max 3 lines)     |A candy that is packed with energy.[br]It raises the level of a POKÈMON[br]by one.|Een snoepje bomvol energie.[br]Het geeft ÈÈn level aan een[br]POKÈMON.
+3D5F20| 1| 66|0|I|Inventory flavor text (max 3 lines)     |Slightly raises the maximum PP of[br]a selected move for one POKÈMON.|Verhoogt een klein beetje de[br]maximum PP van ÈÈn techniek[br]van een POKÈMON.
+3D5F63| 1| 79|0|I|Inventory flavor text (max 3 lines)     |A nutritious drink for POKÈMON.[br]It raises the base SP. DEF stat[br]of one POKÈMON.|Een voedende drank voor POKÈMON.[br]Het verhoogt de basis SP. AFW[br]van een POKÈMON.
+3D5FB3| 1| 70|0|I|Inventory flavor text (max 3 lines)     |Raises the PP of a selected move[br]to its maximum level for one[br]POKÈMON.|Verhoogt de PP van ÈÈn techniek[br]van een POKÈMON tot het maximum.
+3D5FFA| 1| 82|0|I|Inventory flavor text (max 3 lines)     |An item that prevents stat reduction[br]among party POKÈMON for five turns[br]after use.|Een item dat gedurende vijf beurten[br]voorkomt dat alle POKÈMON in de[br]groep eigenschappen verlaagd worden.
+3D604D| 1| 90|0|I|Inventory flavor text (max 3 lines)     |Raises the critical-hit ratio of[br]POKÈMON in battle. Wears off if the[br]POKÈMON is withdrawn.|Verhoogt de kans op super slagen[br]van een POKÈMON. Stopt werken zodra[br]de POKÈMON teruggetrokken wordt.
+3D60A8| 1| 83|0|I|Inventory flavor text (max 3 lines)     |Raises the ATTACK stat of POKÈMON[br]in battle. Wears off if the POKÈMON[br]is withdrawn.|Verhoogt AANVAL van een POKÈMON[br]in een gevecht. Stopt werken zodra[br]de POKÈMON teruggetrokken wordt.
+3D60FC| 1| 84|0|I|Inventory flavor text (max 3 lines)     |Raises the DEFENSE stat of POKÈMON[br]in battle. Wears off if the POKÈMON[br]is withdrawn.|Verhoogt AFWEER van een POKÈMON[br]in een gevecht. Stopt werken zodra[br]de POKÈMON teruggetrokken wordt.
+3D6151| 1| 82|0|I|Inventory flavor text (max 3 lines)     |Raises the SPEED stat of POKÈMON[br]in battle. Wears off if the POKÈMON[br]is withdrawn.|Verhoogt SNELHEID van een POKÈMON[br]in een gevecht. Stopt werken zodra[br]de POKÈMON teruggetrokken wordt.
+3D61A4| 1| 85|0|I|Inventory flavor text (max 3 lines)     |Raises the accuracy stat of[br]POKÈMON in battle. Wears off if the[br]POKÈMON is withdrawn.|Verhoogt precisie van een POKÈMON[br]in een gevecht. Stopt werken zodra[br]de POKÈMON teruggetrokken wordt.
+3D61FA| 1| 84|0|I|Inventory flavor text (max 3 lines)     |Raises the SP. ATK stat of[br]POKÈMON in battle. Wears off if the[br]POKÈMON is withdrawn.|Verhoogt SP. AANV van een POKÈMON[br]in een gevecht. Stopt werken zodra[br]de POKÈMON teruggetrokken wordt.
+3D624F| 1| 71|0|I|Inventory flavor text (max 3 lines)     |An attractive doll.[br]Use it to flee from any battle with[br]a wild POKÈMON.|Een mooie pop.[br]Gebruik het om te vluchten van[br]een gevecht met een wilde POKÈMON.
+3D6297| 1| 71|0|I|Inventory flavor text (max 3 lines)     |An attractive item.[br]Use it to flee from any battle with[br]a wild POKÈMON.|Een mooi item.[br]Gebruik het om te vluchten van[br]een gevecht met een wilde POKÈMON.
+3D62DF| 1| 56|0|I|Inventory flavor text (max 3 lines)     |Prevents weak wild POKÈMON from[br]appearing for 200 steps.|Voorkomt dat zwakke wilde POKÈMON[br]tevoorschijn komen gedurende[br]200 stappen.
+3D6318| 1| 56|0|I|Inventory flavor text (max 3 lines)     |Prevents weak wild POKÈMON from[br]appearing for 250 steps.|Voorkomt dat zwakke wilde POKÈMON[br]tevoorschijn komen gedurende[br]250 stappen.
+3D6351| 1| 74|0|I|Inventory flavor text (max 3 lines)     |A long, durable rope.[br]Use it to escape instantly from a[br]cave or a dungeon.|een lang stevig touw.[br]Gebruik het om onmiddelijk te[br]ontsnappen uit een grot of kerker.
+3D639C| 1| 56|0|I|Inventory flavor text (max 3 lines)     |Prevents weak wild POKÈMON from[br]appearing for 100 steps.|Voorkomt dat zwakke wilde POKÈMON[br]tevoorschijn komen gedurende[br]100 stappen.
+3D63D5| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It is as red as the sun.|Een speciale steen die een bepaalde[br]soort POKÈMON doet evolueren.[br]Het is zo rood als de zon.
+3D642D| 1| 95|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It is as black as the night sky.|Een speciale steen die een bepaalde[br]soort POKÈMON doet evolueren.[br]Het is zo zwart als de nacht.
+3D648D| 1| 84|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It is colored orange.|Een speciale steen die een bepaalde[br]soort POKÈMON doet evolueren.[br]Het is oranje gekleurd.
+3D64E2| 1| 92|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It has a thunderbolt pattern.|Een speciale steen die een bepaalde[br]soort POKÈMON doet evolueren.[br]Er staat een bliksemschicht op.
+3D653F| 1| 88|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It is a clear light blue.|Een speciale steen die een bepaalde[br]soort POKÈMON doet evolueren.[br]Het is helder lichtblauw.
+3D6598| 1| 85|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It has a leaf pattern.|Een speciale steen die een bepaalde[br]soort POKÈMON doet evolueren.[br]Er staan bladeren op getekend.
+3D65EE| 1| 68|0|I|Inventory flavor text (max 3 lines)     |A small and rare mushroom.[br]It is quite popular among certain[br]people.|Een kleine zeldzame paddestoel.[br]Erg populair bij sommige mensen.
+3D6633| 1| 67|0|I|Inventory flavor text (max 3 lines)     |A large and rare mushroom.[br]It is very popular among certain[br]people.|Een grote zeldzame paddestoel.[br]Erg populair bij sommige mensen.
+3D6677| 1| 88|0|I|Inventory flavor text (max 3 lines)     |A relatively small pearl that[br]sparkles in a pretty silver color.[br]It can be sold cheaply.|Een relatief kleine parel die[br]mooi blinkt als zilver. Het kan voor[br]weinig geld verkocht worden.
+3D66D0| 1| 91|0|I|Inventory flavor text (max 3 lines)     |A quite-large pearl that sparkles[br]in a pretty silver color.[br]It can be sold at a high price.|Een redelijk grote parel die[br]mooi blinkt als zilver. Het kan voor[br]veel geld verkocht worden.
+3D672C| 1| 75|0|I|Inventory flavor text (max 3 lines)     |A pretty red sand with a loose,[br]silky feel.[br]It can be sold at a high price.|Mooi speciaal rood zand dat[br]heel erg zacht aanvoelt. Het kan[br]voor veel geld verkocht worden.
+3D6778| 1| 85|0|I|Inventory flavor text (max 3 lines)     |A shard of a pretty gem that[br]sparkles in a red color.[br]It can be sold at a high price.|Een splinter van een mooie edelsteen,[br]het glinstert mooi rood. Het kan[br]voor veel geld verkocht worden.
+3D67CE| 1| 86|0|I|Inventory flavor text (max 3 lines)     |A nugget of pure gold that gives[br]off a lustrous gleam.[br]It can be sold at a high price.|Een klompje puur goud, het geeft[br]een mooie gele gloed. Het kan[br]voor veel geld verkocht worden.
+3D6825| 1| 97|0|I|Inventory flavor text (max 3 lines)     |A pretty, heart-shaped scale that[br]is extremely rare. It glows faintly[br]in the colors of a rainbow.|Een mooie hartvormige schub. Heel[br]erg zeldzaam. Het gloeit zachtjes[br]alle kleuren van de regenboog.
+3D6887| 1| 80|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]ZIGZAGOON print.[br]It is to be held by a POKÈMON.|Een BRIEF met een tekening van[br]een schattige ZIGZAGOON.[br]Vast te houden door een POKÈMON.
+3D68D8| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]WINGULL print.[br]It is to be held by a POKÈMON.|Een BRIEF met een tekening van[br]een schattige WINGULL.[br]Vast te houden door een POKÈMON.
+3D6927| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]PIKACHU print.[br]It is to be held by a POKÈMON.|Een BRIEF met een tekening van[br]een schattige PIKACHU.[br]Vast te houden door een POKÈMON.
+3D6976| 1| 80|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]MAGNEMITE print.[br]It is to be held by a POKÈMON.|Een BRIEF met een tekening van[br]een schattige MAGNEMITE.[br]Vast te houden door een POKÈMON.
+3D69C7| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]SLAKOTH print.[br]It is to be held by a POKÈMON.|Een BRIEF met een tekening van[br]een schattige SLAKOTH.[br]Vast te houden door een POKÈMON.
+3D6A16| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]WAILMER print.[br]It is to be held by a POKÈMON.|Een BRIEF met een tekening van[br]een schattige WAILMER.[br]Vast te houden door een POKÈMON.
+3D6A65| 1| 90|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL to be held by a[br]POKÈMON. It will bear the print of[br]the POKÈMON holding it.|Een BRIEF vast te houden door[br]een POKÈMON. Er komt een tekening[br]op van de vasthoudende POKÈMON.
+3D6AC0| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]DUSKULL print.[br]It is to be held by a POKÈMON.|Een BRIEF met een tekening van[br]een schattige DUSKULL.[br]Vast te houden door een POKÈMON.
+3D6B0F| 1| 80|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a cute[br]BELLOSSOM print.[br]It is to be held by a POKÈMON.|Een BRIEF met een tekening van[br]een schattige BELLOSSOM.[br]Vast te houden door een POKÈMON.
+3D6B60| 1| 90|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL to be held by a[br]POKÈMON. It will bear the print of[br]the POKÈMON holding it.|Een BRIEF vast te houden door[br]een POKÈMON. Er komt een tekening[br]op van de vasthoudende POKÈMON.
+3D6BBB| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a[br]gorgeous, extravagant print.[br]It is to be held by a POKÈMON.|Een BRIEF met een een prachtige[br]extravagante tekening.[br]Vast te houden door een POKÈMON.
+3D6C13| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A piece of MAIL featuring a print[br]of three cute POKÈMON.[br]It is to be held by a POKÈMON.|Een BRIEF met een tekening van[br]drie schattige POKÈMON.[br]Vast te houden door een POKÈMON.
+3D6C6B| 1| 68|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to heal paralysis.|Wanneer vastgehouden door een[br]POKÈMON zal deze dit gebruiken[br]om verlamming te genezen.
+3D6CB0| 1| 61|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to wake up.|Wanneer vastgehouden door een[br]POKÈMON zal deze dit gebruiken[br]om wakker te worden.
+3D6CEE| 1| 65|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to cure poison.|Wanneer vastgehouden door een[br]POKÈMON zal deze dit gebruiken[br]om vergiftiging te genezen.
+3D6D30| 1| 65|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to heal a burn.|Wanneer vastgehouden door een[br]POKÈMON zal deze dit gebruiken[br]om een brandwonde te genezen.
+3D6D72| 1| 65|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle for defrosting.|Wanneer vastgehouden door een[br]POKÈMON zal deze dit gebruiken[br]om te ontdooien.
+3D6DB4| 1| 67|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to restore 10 PP.|Wanneer vastgehouden door een[br]POKÈMON zal deze dit gebruiken[br]om 10 PP te herstellen.
+3D6DF8| 1| 67|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to restore 10 HP.|Wanneer vastgehouden door een[br]POKÈMON zal deze dit gebruiken[br]om 10 HP te herstellen.
+3D6E3C| 1| 68|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to lift confusion.|Wanneer vastgehouden door een[br]POKÈMON zal deze dit gebruiken[br]om verwarring op te lossen.
+3D6E81| 1| 70|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to heal any problem.|Wanneer vastgehouden door een[br]POKÈMON zal deze dit gebruiken[br]om gelijk welk probleem op te lossen.
+3D6EC8| 1| 67|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it will be[br]used in battle to restore 30 HP.|Wanneer vastgehouden door een[br]POKÈMON zal deze dit gebruiken[br]om 30 HP te herstellen.
+3D6F0C| 1| 63|0|I|Inventory flavor text (max 3 lines)     |A hold item that restores HP but[br]may cause confusion when used.|Een vastgehouden item die HP[br]herstelt maar verwarring kan[br]veroorzaken als het gebruikt wordt.
+3D6F4C| 1| 63|0|I|Inventory flavor text (max 3 lines)     |A hold item that restores HP but[br]may cause confusion when used.|Een vastgehouden item die HP[br]herstelt maar verwarring kan[br]veroorzaken als het gebruikt wordt.
+3D6F8C| 1| 63|0|I|Inventory flavor text (max 3 lines)     |A hold item that restores HP but[br]may cause confusion when used.|Een vastgehouden item die HP[br]herstelt maar verwarring kan[br]veroorzaken als het gebruikt wordt.
+3D6FCC| 1| 63|0|I|Inventory flavor text (max 3 lines)     |A hold item that restores HP but[br]may cause confusion when used.|Een vastgehouden item die HP[br]herstelt maar verwarring kan[br]veroorzaken als het gebruikt wordt.
+3D700C| 1| 63|0|I|Inventory flavor text (max 3 lines)     |A hold item that restores HP but[br]may cause confusion when used.|Een vastgehouden item die HP[br]herstelt maar verwarring kan[br]veroorzaken als het gebruikt wordt.
+3D704C| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D708A| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D70C8| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D7106| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D7144| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D7182| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D71C0| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D71FE| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D723C| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D727A| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D72B8| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D72F6| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D7334| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D7372| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D73B0| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D73EE| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D742C| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D746A| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D74A8| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D74E6| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D7524| 1| 61|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it raises[br]the ATTACK stat in a pinch.|Wanneer een POKÈMON dit vast[br]heeft verhoogt het de AANVAL[br]in nood.
+3D7562| 1| 62|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it raises[br]the DEFENSE stat in a pinch.|Wanneer een POKÈMON dit vast[br]heeft verhoogt het de AFWEER[br]in nood.
+3D75A1| 1| 60|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it raises[br]the SPEED stat in a pinch.|Wanneer een POKÈMON dit vast[br]heeft verhoogt het de SNELHEID[br]in nood.
+3D75DE| 1| 62|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it raises[br]the SP. ATK stat in a pinch.|Wanneer een POKÈMON dit vast[br]heeft verhoogt het de SP. AANV[br]in nood.
+3D761D| 1| 62|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it raises[br]the SP. DEF stat in a pinch.|Wanneer een POKÈMON dit vast[br]heeft verhoogt het de SP. AFW[br]in nood.
+3D765C| 1| 68|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it raises[br]the critical-hit ratio in a pinch.|Wanneer een POKÈMON dit vast[br]heeft verhoogt het de kans op[br]superslagen in nood.
+3D76A1| 1| 62|0|I|Inventory flavor text (max 3 lines)     |When held by a POKÈMON, it sharply[br]raises one stat in a pinch.|Wanneer een POKÈMON dit vast[br]heeft verhoogt het ÈÈn eigenschap[br]in nood.
+3D76E0| 1| 61|0|I|Inventory flavor text (max 3 lines)     |Can be ground up into a powder as[br]an ingredient for medicine.|Kan vermalen worden tot een[br]poeder gebruikt als ingrediÎnt[br]voor medicijnen.
+3D771E| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It casts a tricky glare that lowers[br]the opponent's accuracy.|Een vast te houden item door [pk][mn].[br]Het zorgt voor een glitter die de[br]precisie van de tegenstander verlaagt.[br]
+3D777C| 1| 98|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It restores any lowered stat in[br]battle. It can be used only once.|Een vast te houden item door [pk][mn].[br]Het herstelt een verlaagde eigenschap[br]in een gevecht. Eenmalig gebruik.
+3D77DF| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It promotes strong growth but[br]lowers SPEED while it is held.|Een vast te houden item door [pk][mn].[br]Het bevorderd sterke groei, maar[br]verlaagt SNELHEID als vastgehouden.
+3D783D| 1| 97|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]The holder gets a share of EXP.[br]points without having to battle.|Een vast te houden item door [pk][mn].[br]De houder krijgt altijd een deel[br]van de EXP. punten zonder te vechten.
+3D789F| 1| 96|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A light and sharp claw. The holder[br]may be able to strike first.|Een vast te houden item door [pk][mn].[br]Een lichte scherpe klauw. De houder[br]heeft meer kans om als eerste te gaan.
+3D7900| 1|104|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A bell with a comforting chime that[br]makes the holder calm and friendly.|Een vast te houden item door [pk][mn].[br]Een bel met een relaxerende ring het[br]maakt de houder kalm en vriendelijk
+3D7969| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It snaps the holder out of[br]infatuation. It can be used once.|Een vast te houden item door [pk][mn].[br]Het verhelpt verliefdheid bij de[br]houder. Eenmalig gebruik.
+3D79C7| 1| 90|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It powers up one move, which[br]becomes the only usable one.|Een vast te houden item door [pk][mn].[br]Het maakt een techniek sterker. [br]Maar enkel deze kan gebruikt worden.
+3D7A22| 1| 83|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It may cause the foe to flinch[br]upon taking damage.|Een vast te houden item door [pk][mn].[br]Het kan de vijand doen terugdeinzen[br]als hij schade krijgt.
+3D7A76| 1| 95|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A shiny silver powder that boosts[br]the power of BUG-type moves.|Een vast te houden item door [pk][mn].[br]Een zilver poeder die de kracht van[br]BUG-type technieken verhoogt.
+3D7AD6| 1| 95|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It doubles the battle money if the[br]holding POKÈMON takes part.|Een vast te houden item door [pk][mn].[br]Het verdubbelt het prijzengeld[br]als de houdende POKÈMON deel neemt.
+3D7B36| 1| 92|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It repels wild POKÈMON if the[br]holder is first in the party.|Een vast te houden item door [pk][mn].[br]Het verjaagt wilde POKÈMON als[br]de houder de eerste is in de groep.
+3D7B93| 1| 81|0|I|Inventory flavor text (max 3 lines)     |An orb to be held by a LATIOS or[br]LATIAS. It raises the SP. ATK[br]and SP. DEF stats.|Een bol, vast te houden door een[br]LATIOS of LATIAS. Verhoogt de[br]SP. AANV en SP. AFW eigenschappen.
+3D7BE5| 1| 95|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A fang that gleams a sharp silver.[br]It raises the SP. ATK stat.|Een vast te houden item door [pk][mn].[br]Een tand met een zilveren gloed.[br]Verhoogt de SP. AANV eigenschap.
+3D7C45| 1| 94|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A scale that shines a faint pink.[br]It raises the SP. DEF stat.|Een vast te houden item door [pk][mn].[br]Een schub met zachte roze gloed.[br]Verhoogt de SP. AFW eigenschap.
+3D7CA4| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]The holding POKÈMON can flee from[br]any wild POKÈMON for sure.|Een vast te houden item door [pk][mn].[br]De vasthoudende POKÈMON kan altijd[br]wegvluchten van elke wilde POKÈMON.
+3D7D02| 1| 80|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]The holding POKÈMON is prevented[br]from evolving.|Een vast te houden item door [pk][mn].[br]De vasthoudende POKÈMON wordt[br]tegengehouden om te evolueren.
+3D7D53| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]The holding POKÈMON may endure an[br]attack, leaving just 1 HP.|Een vast te houden item door [pk][mn].[br]De POKÈMON kan een aanval overleven[br]en houd dan slechts 1 HP over.
+3D7DB1| 1|101|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]An egg filled with happiness that[br]earns extra EXP. points in battle.|Een vast te houden item door [pk][mn].[br]Een EI gevuld met blijschap die extra[br]EXP. punten verdient in een gevecht.
+3D7E17| 1| 98|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A lens that boosts the critical-hit[br]ratio of the holding POKÈMON.|Een vast te houden item door [pk][mn].[br]Een lens die de kans verhoogt op[br]super slagen van de POKÈMON.
+3D7E7A| 1| 99|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A special metallic film that boosts[br]the power of STEEL-type moves.|Een vast te houden item door [pk][mn].[br]Een metalen film die de kracht van[br]STEEL-type technieken verhoogt.
+3D7EDE| 1| 88|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]The holding POKÈMON gradually[br]regains HP during battle.|Een vast te houden item door [pk][mn].[br]De houdende POKÈMON krijgt langzaam[br]HP terug tijdens een gevecht.
+3D7F37| 1| 65|0|I|Inventory flavor text (max 3 lines)     |A thick and tough scale.[br]A DRAGON-type POKÈMON may be[br]holding it.|Een dikke en stevige schub.[br]Een DRAGON-type POKÈMON mag[br]dit vast houden.
+3D7F79| 1| 91|0|I|Inventory flavor text (max 3 lines)     |An orb to be held by a PIKACHU[br]that raises the SP. ATK stat.[br]Touching it may cause a shock.|Een bol, vast te houden door een[br]PIKACHU. Het verhoogt de SP. AANV[br]eigenschap. Aanraken is schokkend.
+3D7FD5| 1| 96|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A loose, silky sand that boosts the[br]power of GROUND-type moves.|Een vast te houden item door [pk][mn].[br]Los zacht zand die de kracht van[br]GROUND-type technieken verhoogt.
+3D8036| 1| 95|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]An unbreakable stone that boosts[br]the power of ROCK-type moves.|Een vast te houden item door [pk][mn].[br]Een onbreekbare steen die de kracht[br]van ROCK-type technieken verhoogt.
+3D8096| 1| 99|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A seed imbued with life that boosts[br]the power of GRASS-type moves.|Een vast te houden item door [pk][mn].[br]Zaden vol met leven die de kracht[br]van GRASS-type technieken verhoogt.
+3D80FA| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A shady-looking pair of glasses[br]that boosts DARK-type moves.|Een vast te houden item door [pk][mn].[br]Een duistere bril die de kracht van[br]DARK-type technieken verhoogt.
+3D8158| 1| 90|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A belt that boosts determination[br]and FIGHTING-type moves.|Een vast te houden item door [pk][mn].[br]Een riem die aanmoedigt en de kracht[br]van FIGHTING-type technieken verhoogt.
+3D81B3| 1| 96|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A powerful magnet that boosts the[br]power of ELECTRIC-type moves.|Een vast te houden item door [pk][mn].[br]Een krachtige magneet die de kracht[br]van ELECTRIC-type technieken verhoogt.
+3D8214| 1| 97|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A teardrop-shaped gem that boosts[br]the power of WATER-type moves.|Een vast te houden item door [pk][mn].[br]Een traanvormige steen die de kracht[br]van WATER-type technieken verhoogt.
+3D8276| 1| 95|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A long, sharp beak that boosts the[br]power of FLYING-type moves.|Een vast te houden item door [pk][mn].[br]Een scherpe bek die de kracht van[br]FLYING-type technieken verhoogt.
+3D82D6| 1|100|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A small, poisonous barb that boosts[br]the power of POISON-type moves.|Een vast te houden item door [pk][mn].[br]Een giftige angel die de kracht van[br]POISON-type technieken verhoogt.
+3D833B| 1| 91|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A piece of ice that repels heat[br]and boosts ICE-type moves.|Een vast te houden item door [pk][mn].[br]Een stuk ijs die de kracht van[br]ICE-type technieken verhoogt.
+3D8397| 1| 84|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A sinister, eerie tag that boosts[br]GHOST-type moves.|Een vast te houden item door [pk][mn].[br]Een akelige kaart die de kracht van[br]GHOST-type technieken verhoogt.
+3D83EC| 1| 97|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A spoon imbued with telekinetic[br]power boosts PSYCHIC-type moves.|Een vast te houden item door [pk][mn].[br]Een betoverde lepel die de kracht[br]van PSYCHIC-type technieken verhoogt.
+3D844E| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A combustible fuel that boosts the[br]power of FIRE-type moves.|Een vast te houden item door [pk][mn].[br]Brandstof die de kracht van[br]FIRE-type technieken verhoogt.
+3D84AC| 1| 98|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A hard and sharp fang that boosts[br]the power of DRAGON-type moves.|Een vast te houden item door [pk][mn].[br]Een slagtand die de kracht van[br]DRAGON-type technieken verhoogt.
+3D850F| 1| 94|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A sumptuous scarf that boosts the[br]power of NORMAL-type moves.|Een vast te houden item door [pk][mn].[br]Een mooie sjaal die de kracht van[br]NORMAL-type technieken verhoogt.
+3D856E| 1| 75|0|I|Inventory flavor text (max 3 lines)     |A transparent device filled with all[br]sorts of data.[br]It is made by SILPH CO.|Een doorzichtig toestel vol[br]met allemaal gegevens.[br]Het is gemaakt door SILPH CO.
+3D85BA| 1| 91|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]The holding POKÈMON regains some[br]HP upon striking the foe.|Een vast te houden item door [pk][mn].[br]De houdende POKÈMON krijgt wat[br]HP terug als hij de vijand raakt.
+3D8616| 1| 82|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It slightly boosts the power of[br]WATER-type moves.|Een vast te houden item door [pk][mn].[br]Het verhoogt een klein beetje de[br]kracht van WATER-type technieken.
+3D8669| 1| 86|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]Its tricky aroma slightly reduces[br]the foe's accuracy.|Een vast te houden item door [pk][mn].[br]De subtiele geur verlaagt een klein[br]beetje de precisie van de vijand.
+3D86C0| 1| 72|0|I|Inventory flavor text (max 3 lines)     |A glove to be held by a CHANSEY.[br]It raises CHANSEY's critical-hit[br]ratio.|Een handschoen, te dragen door een[br]CHANSEY. Het zorgt voor meer[br]super slagen.
+3D8709| 1| 74|0|I|Inventory flavor text (max 3 lines)     |A fine, hard powder to be held by[br]a DITTO.[br]It raises DITTO's DEFENSE stat.|Een fijn hard poeder te dragen door[br]een DITTO. Het verhoogt de[br]AFWEER van de DITTO.
+3D8754| 1| 86|0|I|Inventory flavor text (max 3 lines)     |A hard bone of some sort to be[br]held by a CUBONE or MAROWAK.[br]It raises the ATTACK stat.|Een hard bot, te dragen door een[br]CUBONE of MAROWAK.[br]Het verhoogt hun AANVAL eigenschap.
+3D87AB| 1| 86|0|I|Inventory flavor text (max 3 lines)     |A stick of leek to be held by a[br]FARFETCH'D. It raises FARFETCH'D's[br]critical-hit ratio.|Een prei, vast te houden door een[br]FARFETCH'D. Het verhoogt de kans[br]op super slagen door de FARFETCH'D.
+3D8802| 1| 92|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It boosts the holding POKÈMON's[br]COOL condition in CONTESTS.|Een vast te houden item door [pk][mn].[br]Het verhoogt de houdende POKÈMON[br]zijn COOL bij WEDSTRIJDEN.
+3D885F| 1| 94|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It boosts the holding POKÈMON's[br]BEAUTY condition in CONTESTS.|Een vast te houden item door [pk][mn].[br]Het verhoogt de houdende POKÈMON[br]zijn SCHOONHEID bij WEDSTRIJDEN.
+3D88BE| 1| 92|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It boosts the holding POKÈMON's[br]CUTE condition in CONTESTS.|Een vast te houden item door [pk][mn].[br]Het verhoogt de houdende POKÈMON[br]zijn SCHATTIGHEID bij WEDSTRIJDEN.
+3D891B| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It boosts the holding POKÈMON's[br]SMART condition in CONTESTS.|Een vast te houden item door [pk][mn].[br]Het verhoogt de houdende POKÈMON[br]zijn SLIMHEID bij WEDSTRIJDEN.
+3D8979| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It boosts the holding POKÈMON's[br]TOUGH condition in CONTESTS.|Een vast te houden item door [pk][mn].[br]Het verhoogt de houdende POKÈMON[br]zijn STERKTE bij WEDSTRIJDEN.
+3D89D7| 1| 60|0|I|Inventory flavor text (max 3 lines)     |A folding bicycle that is at least[br]twice as fast as walking.|Een plooifiets, zeker dubbel zo[br]snel als wandelen.
+3D8A14| 1| 81|0|I|Inventory flavor text (max 3 lines)     |A case for holding COINS obtained[br]at the GAME CORNER.[br]It holds up to 9,999 COINS.|Een zak voor MUNTEN gewonnen bij[br]de GAME CORNER.[br]Het kan 9.999 MUNTEN bevatten.
+3D8A66| 1|101|0|I|Inventory flavor text (max 3 lines)     |A device used for finding items.[br]If there is a hidden item nearby[br]when it is used, it emits a signal.|Een toestel om verborgen items[br]te vinden. Als er een verborgen item[br]in de buurt is maakt het een geluid.
+3D8ACC| 1| 86|0|I|Inventory flavor text (max 3 lines)     |An old and beat-up fishing rod.[br]Use it by any body of water to [br]fish for wild POKÈMON.|Een oude en versleten vishengel.[br]Gebruik het in gelijk welk soort[br]water om te vissen voor POKÈMON.
+3D8B23| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A new, good-quality fishing rod.[br]Use it by any body of water to [br]fish for wild POKÈMON.|Een nieuwe mooie vishengel.[br]Gebruik het in gelijk welk soort[br]water om te vissen voor POKÈMON.
+3D8B7B| 1| 88|0|I|Inventory flavor text (max 3 lines)     |An awesome, high-tech fishing rod.[br]Use it by any body of water to fish[br]for wild POKÈMON.|Een fantastische vishengel.[br]Gebruik het in gelijk welk soort[br]water om te vissen voor POKÈMON.
+3D8BD4| 1| 89|0|I|Inventory flavor text (max 3 lines)     |The ticket required for sailing on[br]the ferry S.S. ANNE.[br]It has a drawing of a ship on it.|Het ticket dat nodig is om te varen[br]op de S.S ANNE ferry.[br]Het heeft een tekening van een schip.
+3D8C2E| 1| 91|0|I|Inventory flavor text (max 3 lines)     |The pass required for entering[br]POKÈMON CONTESTS. It has a[br]drawing of an award ribbon on it.|De toegangspas voor de POKÈMON[br]WEDSTRIJD. Het heeft een tekening[br]van een lintje er op.
+3D8C8A| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A nifty watering pail.[br]Use it to promote strong growth in[br]BERRIES planted in soft soil.|Een emmer om water te geven.[br]Gebruik het om groei te bevorderen[br]van BESSEN geplant in zachte aarde.
+3D8CE2| 1| 84|0|I|Inventory flavor text (max 3 lines)     |A package that contains mechanical[br]parts of some sort made by the[br]DEVON CORPORATION.|Een pakket met allerhande[br]onderdelen gemaakt door de[br]DEVON CORPORATION.
+3D8D37| 1| 77|0|I|Inventory flavor text (max 3 lines)     |A sack used to collect volcanic[br]ash automatically during walks[br]over deep ash.|Een zak die automatisch vulkanische[br]as verzamelt als je over diepe[br]as loopt.
+3D8D85| 1| 69|0|I|Inventory flavor text (max 3 lines)     |The key to NEW MAUVILLE, which[br]was constructed beneath MAUVILLE[br]CITY.|De sleutel voor NEW MAUVILLE[br]de stad gebouwd onder MAUVILLE[br]CITY.
+3D8DCB| 1| 68|0|I|Inventory flavor text (max 3 lines)     |A folding bicycle that is capable[br]of stunts like jumps and wheelies.|Een plooifiets die gebruikt kan[br]worden voor stunts zoals sprongen[br]en wheelies.
+3D8E10| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A case for holding [po][kÈ][bl][oc][k]S made[br]with a BERRY BLENDER. It releases[br]one [po][kÈ][bl][oc][k] when shaken.|Een doos voor [po][kÈ][bl][oc][k]S gemaakt[br]met een BESSEN MIXER. Als je schudt[br]komt er een [po][kÈ][bl][oc][k] uit.
+3D8E68| 1| 84|0|I|Inventory flavor text (max 3 lines)     |An extremely important letter to[br]STEVEN from the PRESIDENT of the[br]DEVON CORPORATION.|Een heel belangrijke brief voor[br]STEVEN van de PRESIDENT van de[br]DEVON CORPORATION.
+3D8EBD| 1|108|0|I|Inventory flavor text (max 3 lines)     |The ticket required for sailing on a[br]ferry to a distant southern island.[br]It features a drawing of an island.|Het ticket nodig om te varen op de[br]ferry naar een ver eiland in het[br]zuiden.
+3D8F2A| 1| 84|0|I|Inventory flavor text (max 3 lines)     |An orb that glows red.[br]It is said to contain an incredible[br]power from ancient times.|Een bal die rood gloeit.[br]Men zegt dat het een ongelofelijke[br]kracht bevat van heel lang geleden.
+3D8F7F| 1| 85|0|I|Inventory flavor text (max 3 lines)     |An orb that glows blue.[br]It is said to contain an incredible[br]power from ancient times.|Een bal die blauw gloeit.[br]Men zegt dat het een ongelofelijke[br]kracht bevat van heel lang geleden.
+3D8FD5| 1| 79|0|I|Inventory flavor text (max 3 lines)     |A device used to search for[br]life-forms in water.[br]It looks too difficult to use.|Een toestel om levensvormen in het[br]water te zoeken.[br]Het is te ingewikkeld om te gebruiken.
+3D9025| 1| 93|0|I|Inventory flavor text (max 3 lines)     |A pair of protective goggles.[br]They enable a TRAINER to travel[br]through even desert sandstorms.|Een beschermende bril.[br]Deze laten toe voor een TRAINER[br]om te reizen door zandstormen.
+3D9083| 1| 83|0|I|Inventory flavor text (max 3 lines)     |A meteorite that fell from space[br]onto MT. MOON long ago.[br]It is very lumpy and hard.|Een meteoriet die lang geleden uit[br]de ruimte gevallen is op MT. MOON.[br]Het is erg bobbelig en hard.
+3D90D7| 1| 97|0|I|Inventory flavor text (max 3 lines)     |A key that opens the door to Room[br]1 inside the ABANDONED SHIP.[br]It is old and looks easily broken.|Een sleutel die deur 1 opent in het[br]VERLATEN SCHIP.[br]Het is oud en ziet er breekbaar uit.
+3D9139| 1| 97|0|I|Inventory flavor text (max 3 lines)     |A key that opens the door to Room[br]2 inside the ABANDONED SHIP.[br]It is old and looks easily broken.|Een sleutel die deur 2 opent in het[br]VERLATEN SCHIP.[br]Het is oud en ziet er breekbaar uit.
+3D919B| 1| 97|0|I|Inventory flavor text (max 3 lines)     |A key that opens the door to Room[br]4 inside the ABANDONED SHIP.[br]It is old and looks easily broken.|Een sleutel die deur 4 opent in het[br]VERLATEN SCHIP.[br]Het is oud en ziet er breekbaar uit.
+3D91FD| 1| 97|0|I|Inventory flavor text (max 3 lines)     |A key that opens the door to Room[br]6 inside the ABANDONED SHIP.[br]It is old and looks easily broken.|Een sleutel die deur 6 opent in het[br]VERLATEN SCHIP.[br]Het is oud en ziet er breekbaar uit.
+3D925F| 1| 95|0|I|Inventory flavor text (max 3 lines)     |A key that opens the storage hold[br]inside the ABANDONED SHIP.[br]It is old and looks easily broken.|Een sleutel die de opslagruimte[br]opent in het VERLATEN SCHIP.[br]Het is oud en ziet er breekbaar uit.
+3D92BF| 1| 90|0|I|Inventory flavor text (max 3 lines)     |A fossil of an ancient, seafloor-[br]dwelling POKÈMON. It appears to be[br]part of a plant root.|Een fossiel van een POKÈMON die[br]vroeger op de zeebodem leefde.[br]Het ziet er uit als een wortel.
+3D931A| 1| 84|0|I|Inventory flavor text (max 3 lines)     |A fossil of an ancient, seafloor-[br]dwelling POKÈMON. It appears to be[br]part of a claw.|Een fossiel van een POKÈMON die[br]vroeger op de zeebodem leefde.[br]Het ziet er uit als een klauw.
+3D936F| 1| 89|0|I|Inventory flavor text (max 3 lines)     |A scope that signals the presence[br]of any unseeable POKÈMON.[br]It is made by the DEVON CORP.|Een weergave toestel die[br]onzichtbare POKÈMON ontdekt.[br]Gemaakt door de DEVON CORP.
 3DA477| 1|100|0|I|Inventory flavor text (max 3 lines)     |A maximum-power attack of great[br]ferocity, but one that also sharply[br]reduces the user's SP. ATK stat.|
 3DA768| 2|  3|0|I|Inventory flavor text (max 3 lines)     |ll.|
-3DA7D1| 1| 72|0|I|Inventory flavor text (max 3 lines)     |A parcel to be delivered to PROF.[br]OAK from VIRIDIAN CITY's POKÈMON[br]MART.|
-3DA81A| 1| 75|0|I|Inventory flavor text (max 3 lines)     |A flute that is said to instantly[br]awaken any POKÈMON. It has a[br]lovely tone.|
-3DA866| 1| 77|0|I|Inventory flavor text (max 3 lines)     |The key to CINNABAR ISLAND GYM's[br]front door. It is colored red and[br]decorated.|
-3DA8B4| 1| 82|0|I|Inventory flavor text (max 3 lines)     |Take this voucher to the BIKE SHOP[br]in CERULEAN CITY and exchange it[br]for a bicycle.|
-3DA907| 1| 82|0|I|Inventory flavor text (max 3 lines)     |A set of false teeth lost by the[br]SAFARI ZONE'S WARDEN. It makes his[br]smile sparkle.|
-3DA95A| 1| 96|0|I|Inventory flavor text (max 3 lines)     |A piece of amber that contains[br]the genes of an ancient POKÈMON.[br]It is clear with a reddish tint.|
-3DA9BB| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A card-type key that unlocks doors[br]in SILPH CO.'s HEAD OFFICE in[br]SAFFRON CITY.|
-3DAA0A| 1| 89|0|I|Inventory flavor text (max 3 lines)     |A key that operates the elevator[br]in TEAM ROCKET's HIDEOUT.[br]It bears the TEAM ROCKET logo.|
-3DAA64| 1| 88|0|I|Inventory flavor text (max 3 lines)     |A fossil of an ancient, seafloor-[br]dwelling POKÈMON. It appears to be[br]part of a seashell.|
-3DAABD| 1| 85|0|I|Inventory flavor text (max 3 lines)     |A fossil of an ancient, seafloor-[br]dwelling POKÈMON. It appears to be[br]part of a shell.|
-3DAB13| 1| 69|0|I|Inventory flavor text (max 3 lines)     |A scope that makes unseeable[br]POKÈMON visible.[br]It is made by SILPH CO.|
-3DAB59| 1| 69|0|I|Inventory flavor text (max 3 lines)     |A folding bicycle that allows[br]faster movement than the RUNNING[br]SHOES.|
-3DAB9F| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A very convenient map that can be[br]viewed anytime. It even shows your [br]present location.|
-3DABF7| 1| 89|0|I|Inventory flavor text (max 3 lines)     |A device that indicates TRAINERS[br]who want to battle. The battery[br]charges while traveling.|
-3DAC51| 1| 83|0|I|Inventory flavor text (max 3 lines)     |A device that enables you to[br]recall what you've heard and seen[br]about famous people.|
+3DA7D1| 1| 72|0|I|Inventory flavor text (max 3 lines)     |A parcel to be delivered to PROF.[br]OAK from VIRIDIAN CITY's POKÈMON[br]MART.|Een pakje voor PROF. OAK van[br]de VIRIDIAN CITY POKÈMON MARKT.
+3DA81A| 1| 75|0|I|Inventory flavor text (max 3 lines)     |A flute that is said to instantly[br]awaken any POKÈMON. It has a[br]lovely tone.|Een fluit die naar verluid elke soort[br]POKÈMON onmiddelijk wakker maakt.[br]Hij klinkt ook heel mooi.
+3DA866| 1| 77|0|I|Inventory flavor text (max 3 lines)     |The key to CINNABAR ISLAND GYM's[br]front door. It is colored red and[br]decorated.|De sleutel voor de voordeur van de[br]CINNABAR ISLAND GYM. Het heeft een[br]mooie rode kleur en is versierd.
+3DA8B4| 1| 82|0|I|Inventory flavor text (max 3 lines)     |Take this voucher to the BIKE SHOP[br]in CERULEAN CITY and exchange it[br]for a bicycle.|Neem deze bon naar de FIETSWINKEL[br]in CERULEAN CITY en ruil hem om[br]voor een fiets.
+3DA907| 1| 82|0|I|Inventory flavor text (max 3 lines)     |A set of false teeth lost by the[br]SAFARI ZONE'S WARDEN. It makes his[br]smile sparkle.|Een paar valse tanden verloren door[br]de BEHEERDER van de SAFARI ZONE.[br]Zorgt voor een stralende glimlach.
+3DA95A| 1| 96|0|I|Inventory flavor text (max 3 lines)     |A piece of amber that contains[br]the genes of an ancient POKÈMON.[br]It is clear with a reddish tint.|Een stuk amber die het DNA van een[br]eeuwenoude POKÈMON bevat.[br]Het is doorzichtig met een rode tint.
+3DA9BB| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A card-type key that unlocks doors[br]in SILPH CO.'s HEAD OFFICE in[br]SAFFRON CITY.|Een sleutelkaart die deuren opent[br]in het HOOFDKANTOOR van SILPH CO.[br]in SAFFRON CITY.
+3DAA0A| 1| 89|0|I|Inventory flavor text (max 3 lines)     |A key that operates the elevator[br]in TEAM ROCKET's HIDEOUT.[br]It bears the TEAM ROCKET logo.|Een sleutel die de lift bedient in[br]de SCHUILPLAATS van TEAM ROCKET.[br]Er staat het TEAM ROCKET logo op.
+3DAA64| 1| 88|0|I|Inventory flavor text (max 3 lines)     |A fossil of an ancient, seafloor-[br]dwelling POKÈMON. It appears to be[br]part of a seashell.|Een fossiel van een POKÈMON die[br]vroeger op de zeebodem leefde.[br]Het ziet er uit als een zeeschelp
+3DAABD| 1| 85|0|I|Inventory flavor text (max 3 lines)     |A fossil of an ancient, seafloor-[br]dwelling POKÈMON. It appears to be[br]part of a shell.|Een fossiel van een POKÈMON die[br]vroeger op de zeebodem leefde.[br]Het ziet er uit als een schelp.
+3DAB13| 1| 69|0|I|Inventory flavor text (max 3 lines)     |A scope that makes unseeable[br]POKÈMON visible.[br]It is made by SILPH CO.|Een weergave toestel die[br]onzichtbare POKÈMON ontdekt.[br]Gemaakt door DE SILPH CO.
+3DAB59| 1| 69|0|I|Inventory flavor text (max 3 lines)     |A folding bicycle that allows[br]faster movement than the RUNNING[br]SHOES.|Een plooifiets die toe laat[br]om zich sneller te verplaatsen[br]dan met de LOOPSCHOENEN.
+3DAB9F| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A very convenient map that can be[br]viewed anytime. It even shows your [br]present location.|Een handige kaart die op elk moment[br]bekeken kan worden. Het toont zelfs[br]waar je nu bent.
+3DABF7| 1| 89|0|I|Inventory flavor text (max 3 lines)     |A device that indicates TRAINERS[br]who want to battle. The battery[br]charges while traveling.|Een toestel die aangeeft welke[br]TRAINERS nog eens willen vechten.[br]De batterij laad op bij het lopen.
+3DAC51| 1| 83|0|I|Inventory flavor text (max 3 lines)     |A device that enables you to[br]recall what you've heard and seen[br]about famous people.|Een toestel die je toelaat om[br]te herinneren wat je gehoord en[br]gezien hebt over beroemde mensen.
 3DACA5| 1| 91|0|I|Inventory flavor text (max 3 lines)     |A case that holds TMs and HMs.[br]It is attached to the BAG's[br]compartment for important items.|een doosje die TM's en HM's bevat.[br]Het hangt aan het compartiment[br]van de ZAK voor belangerijke items.
 3DAD01| 1| 90|0|I|Inventory flavor text (max 3 lines)     |A pouch for carrying BERRIES.[br]It is attached to the BAG's[br]compartment for important items.|Een zakje voor BESSEN.[br]Het hangt aan het compartiment[br]van de ZAK voor belangerijke items.
 3DAD5C| 1| 81|0|I|Inventory flavor text (max 3 lines)     |A television set that is tuned to[br]a program with useful tips for[br]novice TRAINERS.|Een draagbare TV afgestemd op[br]een programma met nuttige tips[br]voor beginnende TRAINERS.
-3DADAE| 1| 89|0|I|Inventory flavor text (max 3 lines)     |A pass for ferries between ONE,[br]TWO, and THREE ISLAND.[br]It has a drawing of three islands.|
-3DAE08| 1| 95|0|I|Inventory flavor text (max 3 lines)     |A pass for ferries between[br]VERMILION and the SEVII ISLANDS.[br]It features a drawing of a rainbow.|
-3DAE68| 1| 77|0|I|Inventory flavor text (max 3 lines)     |An aromatic tea prepared by an old[br]lady. It will slake even the worst[br]thirst.|
-3DAEB6| 1| 80|0|I|Inventory flavor text (max 3 lines)     |A ticket required to board the ship[br]to NAVEL ROCK.[br]It glows with a mystic light.|
-3DAF07| 1| 74|0|I|Inventory flavor text (max 3 lines)     |A ticket required to board the ship[br]to BIRTH ISLAND.[br]It glows beautifully.|
-3DAF52| 1| 58|0|I|Inventory flavor text (max 3 lines)     |A jar for storing BERRY POWDER[br]made using a BERRY CRUSHER.|
-3DAF8D| 1| 72|0|I|Inventory flavor text (max 3 lines)     |An exquisitely beautiful gem that[br]has a red glow.[br]It symbolizes passion.|
-3DAFD6| 1| 73|0|I|Inventory flavor text (max 3 lines)     |An exquisitely beautiful gem that[br]has a blue glow.[br]It symbolizes honesty.|
+3DADAE| 1| 89|0|I|Inventory flavor text (max 3 lines)     |A pass for ferries between ONE,[br]TWO, and THREE ISLAND.[br]It has a drawing of three islands.|Een ticket voor de ferries tussen[br]ONE, TWO en THREE ISLAND.[br]Heeft een tekening van drie eilanden.
+3DAE08| 1| 95|0|I|Inventory flavor text (max 3 lines)     |A pass for ferries between[br]VERMILION and the SEVII ISLANDS.[br]It features a drawing of a rainbow.|Een ticket voor de ferries tussen[br]VERMILLION en de SEVII ISLANDS.[br]Heeft een tekening van een regenboog.
+3DAE68| 1| 77|0|I|Inventory flavor text (max 3 lines)     |An aromatic tea prepared by an old[br]lady. It will slake even the worst[br]thirst.|Een lekkere thee gemaakt door een[br]oud vrouwtje. Het lest zelfs de[br]grootste dorst.
+3DAEB6| 1| 80|0|I|Inventory flavor text (max 3 lines)     |A ticket required to board the ship[br]to NAVEL ROCK.[br]It glows with a mystic light.|Een ticket om te varen op[br]het schip naar NAVEL ROCK.[br]Heeft een mysterieuze gloed.
+3DAF07| 1| 74|0|I|Inventory flavor text (max 3 lines)     |A ticket required to board the ship[br]to BIRTH ISLAND.[br]It glows beautifully.|Een ticket om te varen[br]op het schip naar BIRTH ISLAND.[br]Heeft een mooie glans.
+3DAF52| 1| 58|0|I|Inventory flavor text (max 3 lines)     |A jar for storing BERRY POWDER[br]made using a BERRY CRUSHER.|Een pot om BESSENPOEDER, gemaakt[br]met de BESSEN STAMPER, te bewaren.
+3DAF8D| 1| 72|0|I|Inventory flavor text (max 3 lines)     |An exquisitely beautiful gem that[br]has a red glow.[br]It symbolizes passion.|Een fabuleus mooie diamant met[br]een rode gloed.[br]Het vertegenwoordigt passie.
+3DAFD6| 1| 73|0|I|Inventory flavor text (max 3 lines)     |An exquisitely beautiful gem that[br]has a blue glow.[br]It symbolizes honesty.|Een fabuleus mooie diamant met[br]een blauwe gloed.[br]Het vertegenwoordigt eerlijkheid.
 3DB054| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MASTER BALL|
 3DB080| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ULTRA BALL|
 3DB0AC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GREAT BALL|
