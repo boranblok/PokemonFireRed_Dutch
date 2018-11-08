@@ -4420,84 +4420,84 @@
 24F209| 1|  3|0|D|                                        |ICE|
 24F210| 1|  6|0|D|                                        |DRAGON|
 24F217| 1|  4|0|D|                                        |DARK|
-24F3C4| 1| 19|0|D|Inventory Pkmn Items                    |No special ability.|
-24F3D8| 1| 25|0|D|Inventory Pkmn Items                    |Helps repel wild POKÈMON.|
-24F3F2| 1| 23|0|D|Inventory Pkmn Items                    |Summons rain in battle.|
-24F40A| 1| 23|0|D|Inventory Pkmn Items                    |Gradually boosts SPEED.|
-24F422| 1| 21|0|D|Inventory Pkmn Items                    |Blocks critical hits.|
-24F438| 1| 25|0|D|Inventory Pkmn Items                    |Negates 1-hit KO attacks.|
-24F452| 1| 26|0|D|Inventory Pkmn Items                    |Prevents self-destruction.|
-24F46D| 1| 19|0|D|Inventory Pkmn Items                    |Prevents paralysis.|
-24F481| 1| 27|0|D|Inventory Pkmn Items                    |Ups evasion in a sandstorm.|
-24F49D| 1| 21|0|D|Inventory Pkmn Items                    |Paralyzes on contact.|
-24F4B3| 1| 26|0|D|Inventory Pkmn Items                    |Turns electricity into HP.|
-24F4CE| 1| 22|0|D|Inventory Pkmn Items                    |Changes water into HP.|
-24F4E5| 1| 20|0|D|Inventory Pkmn Items                    |Prevents attraction.|
-24F4FA| 1| 24|0|D|Inventory Pkmn Items                    |Negates weather effects.|
-24F513| 1| 16|0|D|Inventory Pkmn Items                    |Raises accuracy.|
-24F524| 1| 15|0|D|Inventory Pkmn Items                    |Prevents sleep.|
-24F534| 1| 27|0|D|Inventory Pkmn Items                    |Changes type to foe's move.|
-24F550| 1| 19|0|D|Inventory Pkmn Items                    |Prevents poisoning.|
-24F564| 1| 25|0|D|Inventory Pkmn Items                    |Powers up if hit by fire.|
-24F57E| 1| 23|0|D|Inventory Pkmn Items                    |Prevents added effects.|
-24F596| 1| 19|0|D|Inventory Pkmn Items                    |Prevents confusion.|
-24F5AA| 1| 24|0|D|Inventory Pkmn Items                    |Firmly anchors the body.|
-24F5C3| 1| 24|0|D|Inventory Pkmn Items                    |Lowers the foe's ATTACK.|
-24F5DC| 1| 26|0|D|Inventory Pkmn Items                    |Prevents the foe's escape.|
-24F5F7| 1| 15|0|D|Inventory Pkmn Items                    |Hurts to touch.|
-24F607| 1| 23|0|D|Inventory Pkmn Items                    |´Super effectiveª hits.|
-24F61F| 1| 26|0|D|Inventory Pkmn Items                    |Not hit by GROUND attacks.|
-24F63A| 1| 25|0|D|Inventory Pkmn Items                    |Leaves spores on contact.|
-24F654| 1| 26|0|D|Inventory Pkmn Items                    |Passes on status problems.|
-24F66F| 1| 27|0|D|Inventory Pkmn Items                    |Prevents ability reduction.|
-24F68B| 1| 25|0|D|Inventory Pkmn Items                    |Heals upon switching out.|
-24F6A5| 1| 23|0|D|Inventory Pkmn Items                    |Draws electrical moves.|
-24F6BD| 1| 23|0|D|Inventory Pkmn Items                    |Promotes added effects.|
-24F6D5| 1| 21|0|D|Inventory Pkmn Items                    |Raises SPEED in rain.|
-24F6EB| 1| 25|0|D|Inventory Pkmn Items                    |Raises SPEED in sunshine.|
-24F705| 1| 25|0|D|Inventory Pkmn Items                    |Encounter rate increases.|
-24F71F| 1| 23|0|D|Inventory Pkmn Items                    |Copies special ability.|
-24F737| 1| 14|0|D|Inventory Pkmn Items                    |Raises ATTACK.|
-24F746| 1| 23|0|D|Inventory Pkmn Items                    |Poisons foe on contact.|
-24F75E| 1| 19|0|D|Inventory Pkmn Items                    |Prevents flinching.|
-24F772| 1| 18|0|D|Inventory Pkmn Items                    |Prevents freezing.|
-24F785| 1| 15|0|D|Inventory Pkmn Items                    |Prevents burns.|
-24F795| 1| 25|0|D|Inventory Pkmn Items                    |Traps STEEL-type POKÈMON.|
-24F7AF| 1| 25|0|D|Inventory Pkmn Items                    |Avoids sound-based moves.|
-24F7C9| 1| 27|0|D|Inventory Pkmn Items                    |Slight HP recovery in rain.|
-24F7E5| 1| 20|0|D|Inventory Pkmn Items                    |Summons a sandstorm.|
-24F7FA| 1| 22|0|D|Inventory Pkmn Items                    |Raises foe's PP usage.|
-24F811| 1| 25|0|D|Inventory Pkmn Items                    |Heat-and-cold protection.|
-24F82B| 1| 27|0|D|Inventory Pkmn Items                    |Awakens quickly from sleep.|
-24F847| 1| 25|0|D|Inventory Pkmn Items                    |Burns the foe on contact.|
-24F861| 1| 22|0|D|Inventory Pkmn Items                    |Makes escaping easier.|
-24F878| 1| 26|0|D|Inventory Pkmn Items                    |Prevents loss of accuracy.|
-24F893| 1| 26|0|D|Inventory Pkmn Items                    |Prevents ATTACK reduction.|
-24F8AE| 1| 18|0|D|Inventory Pkmn Items                    |May pick up items.|
-24F8C1| 1| 27|0|D|Inventory Pkmn Items                    |Moves only every two turns.|
-24F8DD| 1| 26|0|D|Inventory Pkmn Items                    |Trades accuracy for power.|
-24F8F8| 1| 22|0|D|Inventory Pkmn Items                    |Infatuates on contact.|
-24F90F| 1| 21|0|D|Inventory Pkmn Items                    |Powers up with MINUS.|
-24F925| 1| 20|0|D|Inventory Pkmn Items                    |Powers up with PLUS.|
-24F93A| 1| 25|0|D|Inventory Pkmn Items                    |Changes with the weather.|
-24F954| 1| 20|0|D|Inventory Pkmn Items                    |Prevents item theft.|
-24F969| 1| 27|0|D|Inventory Pkmn Items                    |Heals the body by shedding.|
-24F985| 1| 24|0|D|Inventory Pkmn Items                    |Ups ATTACK if suffering.|
+24F3C4| 1| 19|0|D|Inventory Pkmn Items                    |No special ability.|Geen speciale eigenschap.
+24F3D8| 1| 25|0|D|Inventory Pkmn Items                    |Helps repel wild POKÈMON.|Helpt wilde POKÈMON verdrijven.
+24F3F2| 1| 23|0|D|Inventory Pkmn Items                    |Summons rain in battle.|Laat het regenen in een gevecht.
+24F40A| 1| 23|0|D|Inventory Pkmn Items                    |Gradually boosts SPEED.|Verhoogt langzaam RAPHEID.
+24F422| 1| 21|0|D|Inventory Pkmn Items                    |Blocks critical hits.|Blokkeert super slagen.
+24F438| 1| 25|0|D|Inventory Pkmn Items                    |Negates 1-hit KO attacks.|Voorkomt 1-slag KO aanvallen.
+24F452| 1| 26|0|D|Inventory Pkmn Items                    |Prevents self-destruction.|Voorkomt zelfvernietiging.
+24F46D| 1| 19|0|D|Inventory Pkmn Items                    |Prevents paralysis.|Voorkomt verlamming.
+24F481| 1| 27|0|D|Inventory Pkmn Items                    |Ups evasion in a sandstorm.|Verhoogt ontwijken in een zandstorm.
+24F49D| 1| 21|0|D|Inventory Pkmn Items                    |Paralyzes on contact.|Verlamt bij aanraken.
+24F4B3| 1| 26|0|D|Inventory Pkmn Items                    |Turns electricity into HP.|Veranderd electriciteit in HP.
+24F4CE| 1| 22|0|D|Inventory Pkmn Items                    |Changes water into HP.|Verandert water in HP.
+24F4E5| 1| 20|0|D|Inventory Pkmn Items                    |Prevents attraction.|Voorkomt verliefdheid.
+24F4FA| 1| 24|0|D|Inventory Pkmn Items                    |Negates weather effects.|Doet weer effecten teniet.
+24F513| 1| 16|0|D|Inventory Pkmn Items                    |Raises accuracy.|Verhoogt precisie.
+24F524| 1| 15|0|D|Inventory Pkmn Items                    |Prevents sleep.|Voorkomt slaap.
+24F534| 1| 27|0|D|Inventory Pkmn Items                    |Changes type to foe's move.|Verandert type naar vijand's actie.
+24F550| 1| 19|0|D|Inventory Pkmn Items                    |Prevents poisoning.|Voorkomt vergiftiging.
+24F564| 1| 25|0|D|Inventory Pkmn Items                    |Powers up if hit by fire.|Verhoogt kracht wanneer[br]geraakt door vuur.
+24F57E| 1| 23|0|D|Inventory Pkmn Items                    |Prevents added effects.|voorkomt extra effecten.
+24F596| 1| 19|0|D|Inventory Pkmn Items                    |Prevents confusion.|Voorkomt verwarring.
+24F5AA| 1| 24|0|D|Inventory Pkmn Items                    |Firmly anchors the body.|Verankert het lichaam stevig vast.
+24F5C3| 1| 24|0|D|Inventory Pkmn Items                    |Lowers the foe's ATTACK.|Verlaagt de vijand zijn AANVAL.
+24F5DC| 1| 26|0|D|Inventory Pkmn Items                    |Prevents the foe's escape.|Voorkomt dat de vijand ontsnapt.
+24F5F7| 1| 15|0|D|Inventory Pkmn Items                    |Hurts to touch.|Doet pijn bij aanraking.
+24F607| 1| 23|0|D|Inventory Pkmn Items                    |´Super effectiveª hits.|´Super goedeª slagen.
+24F61F| 1| 26|0|D|Inventory Pkmn Items                    |Not hit by GROUND attacks.|Niet te raken door GROUND aanvallen.
+24F63A| 1| 25|0|D|Inventory Pkmn Items                    |Leaves spores on contact.|Laat sporen achter bij aanraking.
+24F654| 1| 26|0|D|Inventory Pkmn Items                    |Passes on status problems.|Geeft status problemen door.
+24F66F| 1| 27|0|D|Inventory Pkmn Items                    |Prevents ability reduction.|Voorkomt eigenschap vermindering.
+24F68B| 1| 25|0|D|Inventory Pkmn Items                    |Heals upon switching out.|Geneest bij wisselen.
+24F6A5| 1| 23|0|D|Inventory Pkmn Items                    |Draws electrical moves.|Haal electrische acties op.
+24F6BD| 1| 23|0|D|Inventory Pkmn Items                    |Promotes added effects.|Bevorderd bijkomende effecten.
+24F6D5| 1| 21|0|D|Inventory Pkmn Items                    |Raises SPEED in rain.|verhoogt RAPHEID in de regen.
+24F6EB| 1| 25|0|D|Inventory Pkmn Items                    |Raises SPEED in sunshine.|Verhoogt RAPHEID in zonneschijn.
+24F705| 1| 25|0|D|Inventory Pkmn Items                    |Encounter rate increases.|Verhoogt tegenkomen[br]van wilde POKÈMON.
+24F71F| 1| 23|0|D|Inventory Pkmn Items                    |Copies special ability.|KopiÎert speciale eigenschap.
+24F737| 1| 14|0|D|Inventory Pkmn Items                    |Raises ATTACK.|Verhoogt AANVAL.
+24F746| 1| 23|0|D|Inventory Pkmn Items                    |Poisons foe on contact.|Vergiftigd vijand bij aanraken.
+24F75E| 1| 19|0|D|Inventory Pkmn Items                    |Prevents flinching.|Voorkomt terugdeinzen.
+24F772| 1| 18|0|D|Inventory Pkmn Items                    |Prevents freezing.|Voorkomt bevriezen.
+24F785| 1| 15|0|D|Inventory Pkmn Items                    |Prevents burns.|Voorkomt brandwonden.
+24F795| 1| 25|0|D|Inventory Pkmn Items                    |Traps STEEL-type POKÈMON.|Vangt STEEL-type POKÈMON.
+24F7AF| 1| 25|0|D|Inventory Pkmn Items                    |Avoids sound-based moves.|Vermijd geluids aanvallen.
+24F7C9| 1| 27|0|D|Inventory Pkmn Items                    |Slight HP recovery in rain.|Klein beetje HP herstel bij regen.
+24F7E5| 1| 20|0|D|Inventory Pkmn Items                    |Summons a sandstorm.|Veroorzaakt een zandstorm.
+24F7FA| 1| 22|0|D|Inventory Pkmn Items                    |Raises foe's PP usage.|Verhoogt vijand zijn PP gebruik.
+24F811| 1| 25|0|D|Inventory Pkmn Items                    |Heat-and-cold protection.|Warmte en koude bescherming.
+24F82B| 1| 27|0|D|Inventory Pkmn Items                    |Awakens quickly from sleep.|Word sneller wakker uit slaap.
+24F847| 1| 25|0|D|Inventory Pkmn Items                    |Burns the foe on contact.|Verbrand de vijand bij aanraken.
+24F861| 1| 22|0|D|Inventory Pkmn Items                    |Makes escaping easier.|Maakt ontsnappen gemakkelijker.
+24F878| 1| 26|0|D|Inventory Pkmn Items                    |Prevents loss of accuracy.|Voorkomt verlies van precisie.
+24F893| 1| 26|0|D|Inventory Pkmn Items                    |Prevents ATTACK reduction.|Voorkomt verlies van AANVAL.
+24F8AE| 1| 18|0|D|Inventory Pkmn Items                    |May pick up items.|Kan items op rapen.
+24F8C1| 1| 27|0|D|Inventory Pkmn Items                    |Moves only every two turns.|Moet elke keer een beurt overslaan.
+24F8DD| 1| 26|0|D|Inventory Pkmn Items                    |Trades accuracy for power.|Ruilt precisie voor kracht.
+24F8F8| 1| 22|0|D|Inventory Pkmn Items                    |Infatuates on contact.|Maakt verliefd bij aanraken.
+24F90F| 1| 21|0|D|Inventory Pkmn Items                    |Powers up with MINUS.|Wordt sterker met MINUS.
+24F925| 1| 20|0|D|Inventory Pkmn Items                    |Powers up with PLUS.|Wordt sterker met PLUS.
+24F93A| 1| 25|0|D|Inventory Pkmn Items                    |Changes with the weather.|Verandert het weer.
+24F954| 1| 20|0|D|Inventory Pkmn Items                    |Prevents item theft.|Voorkomt item diefstal.
+24F969| 1| 27|0|D|Inventory Pkmn Items                    |Heals the body by shedding.|Geneest het lichaam door te[br]vervellen.
+24F985| 1| 24|0|D|Inventory Pkmn Items                    |Ups ATTACK if suffering.|Verhoogt AANVAL indien geraakt.
 24F99E| 1| 25|0|D|Inventory Pkmn Items                    |Ups DEFENSE if suffering.|Verhoogt AFWEER indien geraakt.
-24F9B8| 1| 23|0|D|Inventory Pkmn Items                    |Draining causes injury.|
-24F9D0| 1| 27|0|D|Inventory Pkmn Items                    |Ups GRASS moves in a pinch.|
-24F9EC| 1| 26|0|D|Inventory Pkmn Items                    |Ups FIRE moves in a pinch.|
-24FA07| 1| 27|0|D|Inventory Pkmn Items                    |Ups WATER moves in a pinch.|
-24FA23| 1| 25|0|D|Inventory Pkmn Items                    |Ups BUG moves in a pinch.|
-24FA3D| 1| 23|0|D|Inventory Pkmn Items                    |Prevents recoil damage.|
-24FA55| 1| 27|0|D|Inventory Pkmn Items                    |Summons sunlight in battle.|
-24FA71| 1| 17|0|D|Inventory Pkmn Items                    |Prevents fleeing.|
-24FA83| 1| 15|0|D|Inventory Pkmn Items                    |Prevents sleep.|
-24FA93| 1| 27|0|D|Inventory Pkmn Items                    |Prevents ability reduction.|
-24FAAF| 1| 14|0|D|Inventory Pkmn Items                    |Raises ATTACK.|
-24FABE| 1| 21|0|D|Inventory Pkmn Items                    |Blocks critical hits.|
-24FAD4| 1| 25|0|D|Inventory Pkmn Items                    |Avoids sound-based moves.|
-24FAEE| 1| 24|0|D|Inventory Pkmn Items                    |Negates weather effects.|
+24F9B8| 1| 23|0|D|Inventory Pkmn Items                    |Draining causes injury.|Aftappen veroorzaakt pijn.
+24F9D0| 1| 27|0|D|Inventory Pkmn Items                    |Ups GRASS moves in a pinch.|Verhoogt GRASS acties in nood.
+24F9EC| 1| 26|0|D|Inventory Pkmn Items                    |Ups FIRE moves in a pinch.|Verhoogt FIRE acties in nood.
+24FA07| 1| 27|0|D|Inventory Pkmn Items                    |Ups WATER moves in a pinch.|Verhoogt WATER acties in nood.
+24FA23| 1| 25|0|D|Inventory Pkmn Items                    |Ups BUG moves in a pinch.|Verhoogt BUG acties in nood.
+24FA3D| 1| 23|0|D|Inventory Pkmn Items                    |Prevents recoil damage.|Voorkomt terugkaats schade.
+24FA55| 1| 27|0|D|Inventory Pkmn Items                    |Summons sunlight in battle.|Brengt zonlicht in een gevecht.
+24FA71| 1| 17|0|D|Inventory Pkmn Items                    |Prevents fleeing.|Voorkomt vluchten.
+24FA83| 1| 15|0|D|Inventory Pkmn Items                    |Prevents sleep.|Voorkomt slaap.
+24FA93| 1| 27|0|D|Inventory Pkmn Items                    |Prevents ability reduction.|Voorkomt eigenschap vermindering.
+24FAAF| 1| 14|0|D|Inventory Pkmn Items                    |Raises ATTACK.|Verhoogt AANVAL.
+24FABE| 1| 21|0|D|Inventory Pkmn Items                    |Blocks critical hits.|Blokkeert super slagen.
+24FAD4| 1| 25|0|D|Inventory Pkmn Items                    |Avoids sound-based moves.|Vermijd geluids aanvallen.
+24FAEE| 1| 24|0|D|Inventory Pkmn Items                    |Negates weather effects.|Doet weer effecten teniet.
 3D4ECC| 1| 89|0|I|Inventory flavor text (max 3 lines)     |The best BALL with the ultimate[br]performance. It will catch any wild[br]POKÈMON without fail.|De beste BALL met de ultieme[br]kracht. Het vangt zonder problemen[br]elke wilde POKÈMON.
 3D4F26| 1| 81|0|I|Inventory flavor text (max 3 lines)     |A very high-grade BALL that offers[br]a higher POKÈMON catch rate than[br]a GREAT BALL.|Een heel erg dure BALL die meer[br]kans geeft om een POKÈMON te[br]vangen dan een GREAT BALL.
 3D4F78| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A good, quality BALL that offers[br]a higher POKÈMON catch rate than[br]a standard POKÈ BALL.|Een goede kwaliteits BALL die[br]meer kans geeft POKÈMON te vangen[br]dan een gewone POKÈ BALL.
