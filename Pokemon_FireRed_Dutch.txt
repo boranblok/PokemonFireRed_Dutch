@@ -8512,158 +8512,158 @@
 480608| 1| 11|0|D|Wireless Club                           |Ô   SNORLAX|
 480618| 9|  5|0|D|Wireless Club                           |KADEN|
 480870| 1|  7|0|D|Wireless Club                           |PERSIAN|
-482834| 1| 63|0|I|Move Desc. (4 half lines)               |A physical attack[br]delivered with a[br]long tail or a[br]foreleg, etc.|
-482874| 1| 72|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with a sharp chop.[br]It has a high[br]critical-hit ratio.|
-4828BD| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is slapped[br]repeatedly, back[br]and forth, two to[br]five times.|
-4828FF| 1| 70|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a flurry of punches[br]that strike two to[br]five times.|
-482946| 1| 62|0|I|Move Desc. (4 half lines)               |The foe is slugged[br]by a punch thrown[br]with muscle-packed[br]power.|
-482985| 1| 67|0|I|Move Desc. (4 half lines)               |Numerous coins are[br]hurled at the foe.[br]Money is earned[br]after battle.|
-4829C9| 1| 71|0|I|Move Desc. (4 half lines)               |The foe is punched[br]with a fiery fist.[br]It may leave the[br]foe with a burn.|
-482A11| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is punched[br]with an icy fist.[br]It may leave the[br]foe frozen.|
-482A53| 1| 76|0|I|Move Desc. (4 half lines)               |The foe is punched[br]with an electrified[br]fist. It may leave[br]the foe paralyzed.|
-482AA0| 1| 44|0|I|Move Desc. (4 half lines)               |Hard, pointed, and[br]sharp claws rake[br]the foe.|
-482ACD| 1| 50|0|I|Move Desc. (4 half lines)               |Huge, impressive[br]pincers grip and[br]squeeze the foe.|
-482B00| 1| 69|0|I|Move Desc. (4 half lines)               |A vicious tearing[br]attack with pincers.[br]The foe will faint[br]if it hits.|
-482B46| 1| 77|0|I|Move Desc. (4 half lines)               |Blades of wind hit[br]the foe on the 2nd[br]turn. It has a high[br]critical-hit ratio.|
-482B94| 1| 64|0|I|Move Desc. (4 half lines)               |A frenetic dance of[br]fighting. It sharply[br]raises the ATTACK[br]stat.|
-482BD5| 2| 64|0|I|Move Desc. (4 half lines)               |A basic attack.[br]It can be used to[br]cut down thin trees[br]and grass.|
-482C16| 1| 56|0|I|Move Desc. (4 half lines)               |Strikes the foe[br]with a gust of wind[br]whipped up by[br]wings.|
-482C4F| 1| 57|0|I|Move Desc. (4 half lines)               |The foe is struck[br]with large, imposing[br]wings spread wide.|
-482C89| 1| 73|0|I|Move Desc. (4 half lines)               |The foe is made to[br]switch out with an[br]ally. In the wild,[br]the battle ends.|
-482CD3| 2| 73|0|I|Move Desc. (4 half lines)               |A 2-turn move that[br]hits on the 2nd[br]turn. Use it to fly[br]to any known town.|
-482D1D| 1| 72|0|I|Move Desc. (4 half lines)               |A long body or[br]tentacles are used[br]to bind the foe for[br]two to five turns.|
-482D66| 1| 47|0|I|Move Desc. (4 half lines)               |The foe is struck[br]with a long tail,[br]vines, etc.|
-482D96| 1| 49|0|I|Move Desc. (4 half lines)               |The foe is struck[br]with slender, whip-[br]like vines.|
-482DC8| 1| 63|0|I|Move Desc. (4 half lines)               |The foe is stomped[br]with a big foot.[br]It may make the[br]foe flinch.|
-482E08| 1| 60|0|I|Move Desc. (4 half lines)               |Two legs are used[br]to quickly kick the[br]foe twice in one[br]turn.|
-482E45| 1| 61|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]by a kick fired[br]with muscle-packed[br]power.|
-482E83| 1| 72|0|I|Move Desc. (4 half lines)               |The user jumps up[br]high, then kicks.[br]If it misses, the[br]user hurts itself.|
-482ECC| 1| 61|0|I|Move Desc. (4 half lines)               |A quick kick from a[br]rolling spin.[br]It may make the[br]foe flinch.|
-482F0A| 1| 65|0|I|Move Desc. (4 half lines)               |A lot of sand is[br]hurled in the foe's[br]face, reducing its[br]accuracy.|
-482F4C| 1| 66|0|I|Move Desc. (4 half lines)               |The user sticks its[br]head out and rams.[br]It may make the[br]foe flinch.|
-482F8F| 1| 64|0|I|Move Desc. (4 half lines)               |The foe is jabbed[br]with a sharply[br]pointed horn to[br]inflict damage.|
-482FD0| 1| 67|0|I|Move Desc. (4 half lines)               |The foe is jabbed[br]repeatedly with a[br]horn or beak two to[br]five times.|
-483014| 1| 71|0|I|Move Desc. (4 half lines)               |The horn is rotated[br]like a drill to ram.[br]The foe will faint[br]if it hits.|
-48305C| 1| 69|0|I|Move Desc. (4 half lines)               |A physical attack[br]in which the user[br]charges, full body,[br]into the foe.|
-4830A2| 1| 72|0|I|Move Desc. (4 half lines)               |The user drops its[br]full body on the[br]foe. It may leave[br]the foe paralyzed.|
-4830EB| 1| 68|0|I|Move Desc. (4 half lines)               |A long body or[br]vines are used to[br]wrap the foe for[br]two to five turns.|
-483130| 1| 71|0|I|Move Desc. (4 half lines)               |A reckless, full-[br]body charge attack[br]that also hurts the[br]user a little.|
-483178| 1| 70|0|I|Move Desc. (4 half lines)               |The user rampages[br]about for two to[br]three turns, then[br]becomes confused.|
-4831BF| 1| 67|0|I|Move Desc. (4 half lines)               |A reckless, life-[br]risking tackle that[br]also hurts the user[br]a little.|
-483203| 1| 69|0|I|Move Desc. (4 half lines)               |The user wags its[br]tail cutely, making[br]the foe lower its[br]DEFENSE stat.|
-483249| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is stabbed[br]with a toxic barb,[br]etc. It may poison[br]the foe.|
-48328B| 1| 70|0|I|Move Desc. (4 half lines)               |The foe is stabbed[br]twice with foreleg[br]stingers. It may[br]poison the foe.|
-4832D2| 1| 65|0|I|Move Desc. (4 half lines)               |Sharp pins are shot[br]at the foe and hit[br]two to five times[br]at once.|
-483314| 1| 67|0|I|Move Desc. (4 half lines)               |The foe is given an[br]intimidating look[br]that lowers its[br]DEFENSE stat.|
-483358| 1| 62|0|I|Move Desc. (4 half lines)               |The user bites with[br]vicious fangs.[br]It may make the[br]foe flinch.|
-483397| 1| 68|0|I|Move Desc. (4 half lines)               |The user growls in[br]a cute way, making[br]the foe lower its[br]ATTACK stat.|
-4833DC| 2| 73|0|I|Move Desc. (4 half lines)               |The foe is made to[br]switch out with an[br]ally. In the wild,[br]the battle ends.|
-483426| 1| 69|0|I|Move Desc. (4 half lines)               |A soothing song[br]in a calming voice[br]lulls the foe into[br]a deep slumber.|
+482834| 1| 63|0|I|Move Desc. (4 half lines)               |A physical attack[br]delivered with a[br]long tail or a[br]foreleg, etc.|Een aanval[br]uitgevoerd met[br]een lange staart[br]of voorpoot, etc.
+482874| 1| 72|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with a sharp chop.[br]It has a high[br]critical-hit ratio.|Aanval met een[br]snelle hak.[br]Veel kans op[br]superslagen.[br]
+4828BD| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is slapped[br]repeatedly, back[br]and forth, two to[br]five times.|De vijand word[br]herhaaldelijk links[br]en rechts geslagen,[br]twee tot vijf keer.
+4828FF| 1| 70|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a flurry of punches[br]that strike two to[br]five times.|De vijand word[br]snel geklopt,[br]twee tot vijf keer.
+482946| 1| 62|0|I|Move Desc. (4 half lines)               |The foe is slugged[br]by a punch thrown[br]with muscle-packed[br]power.|de vijand word[br]hard geklopt met[br]een heel erg sterke[br]slag.
+482985| 1| 67|0|I|Move Desc. (4 half lines)               |Numerous coins are[br]hurled at the foe.[br]Money is earned[br]after battle.|Munten worden naar[br]de vijand gegooid.[br]Geld is verzameld[br]na het gevecht.
+4829C9| 1| 71|0|I|Move Desc. (4 half lines)               |The foe is punched[br]with a fiery fist.[br]It may leave the[br]foe with a burn.|Een klop met een[br]brandende vuist.[br]Kan een brandwonde[br]veroorzaken.
+482A11| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is punched[br]with an icy fist.[br]It may leave the[br]foe frozen.|Een klop met een[br]ijskoude vuist.[br]Kan de vijand[br]bevriezen.
+482A53| 1| 76|0|I|Move Desc. (4 half lines)               |The foe is punched[br]with an electrified[br]fist. It may leave[br]the foe paralyzed.|Een klop met een[br]electrisch geladen[br]vuist. Kan de vijand[br]verlammen.
+482AA0| 1| 44|0|I|Move Desc. (4 half lines)               |Hard, pointed, and[br]sharp claws rake[br]the foe.|Harde, puntige en[br]scherpe klauwen[br]harken naar de[br]vijand.
+482ACD| 1| 50|0|I|Move Desc. (4 half lines)               |Huge, impressive[br]pincers grip and[br]squeeze the foe.|Gigantische scharen[br]grijpen en knijpen[br]in de tegenstander.
+482B00| 1| 69|0|I|Move Desc. (4 half lines)               |A vicious tearing[br]attack with pincers.[br]The foe will faint[br]if it hits.|Een venijnige aanval[br]met scharen. De[br]tegenstander valt[br]flauw indien geraakt.
+482B46| 1| 77|0|I|Move Desc. (4 half lines)               |Blades of wind hit[br]the foe on the 2nd[br]turn. It has a high[br]critical-hit ratio.|Zwaarden van wind[br]raken de vijand op[br]de 2e beurt. Veel[br]kans op superslagen.
+482B94| 1| 64|0|I|Move Desc. (4 half lines)               |A frenetic dance of[br]fighting. It sharply[br]raises the ATTACK[br]stat.|Een furieuze[br]vechtdans. Verhoogt[br]sterk de AANVAL[br]eigenschap.
+482BD5| 2| 64|0|I|Move Desc. (4 half lines)               |A basic attack.[br]It can be used to[br]cut down thin trees[br]and grass.|Een basis aanval.[br]Kan gebruikt worden[br]om dunne boompjes[br]en gras te snijden.
+482C16| 1| 56|0|I|Move Desc. (4 half lines)               |Strikes the foe[br]with a gust of wind[br]whipped up by[br]wings.|Raakt de vijand met[br]een sterke wind[br]veroorzaakt door[br]de vleugels.
+482C4F| 1| 57|0|I|Move Desc. (4 half lines)               |The foe is struck[br]with large, imposing[br]wings spread wide.|De vijand word[br]aangevallen met[br]de vleugels wijd[br]gespreid.
+482C89| 1| 73|0|I|Move Desc. (4 half lines)               |The foe is made to[br]switch out with an[br]ally. In the wild,[br]the battle ends.|De vijand word[br]geforceerd te[br]wisselen. In het wild[br]eindigt het gevecht.
+482CD3| 2| 73|0|I|Move Desc. (4 half lines)               |A 2-turn move that[br]hits on the 2nd[br]turn. Use it to fly[br]to any known town.|2-beurt aanval, raakt[br]op de 2e beurt.[br]Ook gebruikt om naar[br]steden te vliegen.
+482D1D| 1| 72|0|I|Move Desc. (4 half lines)               |A long body or[br]tentacles are used[br]to bind the foe for[br]two to five turns.|Gebruikt lichaam of[br]tentakels om de[br]vijand twee tot vijf[br]beurten te binden.
+482D66| 1| 47|0|I|Move Desc. (4 half lines)               |The foe is struck[br]with a long tail,[br]vines, etc.|De vijand word[br]geslagen met een[br]lange staart,[br]klimop, etc.
+482D96| 1| 49|0|I|Move Desc. (4 half lines)               |The foe is struck[br]with slender, whip-[br]like vines.|De vijand word[br]geslagen met slanke[br]zweepachtige[br]klimop.
+482DC8| 1| 63|0|I|Move Desc. (4 half lines)               |The foe is stomped[br]with a big foot.[br]It may make the[br]foe flinch.|Stampt op de vijand[br]met een grote voet.[br]Kan de vijand doen[br]terugdeinzen.
+482E08| 1| 60|0|I|Move Desc. (4 half lines)               |Two legs are used[br]to quickly kick the[br]foe twice in one[br]turn.|Twee benen worden[br]gebruikt om twee[br]keer te schoppen[br]in ÈÈn beurt.
+482E45| 1| 61|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]by a kick fired[br]with muscle-packed[br]power.|Valt de vijand aan[br]met een erg sterke[br]schop vol energie.
+482E83| 1| 72|0|I|Move Desc. (4 half lines)               |The user jumps up[br]high, then kicks.[br]If it misses, the[br]user hurts itself.|De aanvaller springt[br]omhoog en schopt.[br]Indien hij mist krijgt[br]hij zelf schade.
+482ECC| 1| 61|0|I|Move Desc. (4 half lines)               |A quick kick from a[br]rolling spin.[br]It may make the[br]foe flinch.|Een draaiende[br]snelle schop.[br]Het kan de vijand[br]doen terugdeinzen.
+482F0A| 1| 65|0|I|Move Desc. (4 half lines)               |A lot of sand is[br]hurled in the foe's[br]face, reducing its[br]accuracy.|Een heleboel zand[br]is gegooid naar de[br]tegenstander.[br]Verlaagt precisie.
+482F4C| 1| 66|0|I|Move Desc. (4 half lines)               |The user sticks its[br]head out and rams.[br]It may make the[br]foe flinch.|Steekt zijn hoofd[br]uit en ramt.[br]Het kan de vijand[br]doen terugdeinzen.
+482F8F| 1| 64|0|I|Move Desc. (4 half lines)               |The foe is jabbed[br]with a sharply[br]pointed horn to[br]inflict damage.|Steekt de vijand[br]met een scherpe[br]hoorn om schade[br]toe te brengen.
+482FD0| 1| 67|0|I|Move Desc. (4 half lines)               |The foe is jabbed[br]repeatedly with a[br]horn or beak two to[br]five times.|Steekt de vijand[br]herhaaldelijk twee[br]tot vijf keer met[br]een hoorn of bek.
+483014| 1| 71|0|I|Move Desc. (4 half lines)               |The horn is rotated[br]like a drill to ram.[br]The foe will faint[br]if it hits.|Draait de hoorn als[br]een boor en ramt de[br]vijand. Wanneer raak[br]valt de vijand flauw.
+48305C| 1| 69|0|I|Move Desc. (4 half lines)               |A physical attack[br]in which the user[br]charges, full body,[br]into the foe.|Een aanval met het[br]hele lichaam tegen[br]de vijand.
+4830A2| 1| 72|0|I|Move Desc. (4 half lines)               |The user drops its[br]full body on the[br]foe. It may leave[br]the foe paralyzed.|Het hele lichaam[br]valt op de vijand.[br]Kan verlamming[br]veroorzaken.
+4830EB| 1| 68|0|I|Move Desc. (4 half lines)               |A long body or[br]vines are used to[br]wrap the foe for[br]two to five turns.|Gebruikt lichaam of[br]klimop om de[br]vijand twee tot vijf[br]beurten te binden.
+483130| 1| 71|0|I|Move Desc. (4 half lines)               |A reckless, full-[br]body charge attack[br]that also hurts the[br]user a little.|Een roekeloze aanval[br]met het hele lichaam.[br]Zorgt ook voor[br]schade aan zelf.
+483178| 1| 70|0|I|Move Desc. (4 half lines)               |The user rampages[br]about for two to[br]three turns, then[br]becomes confused.|Slaat maar in het[br]rond voor twee tot[br]drie beurten. Word[br]daarna verward.
+4831BF| 1| 67|0|I|Move Desc. (4 half lines)               |A reckless, life-[br]risking tackle that[br]also hurts the user[br]a little.|Een roekeloze[br]levensgevaarlijke[br]aanval. Doet ook[br]schade aan zelf.
+483203| 1| 69|0|I|Move Desc. (4 half lines)               |The user wags its[br]tail cutely, making[br]the foe lower its[br]DEFENSE stat.|Staart wiebelt[br]schattig heen en[br]weer. De vijand zijn[br]AFWEER verlaagt.
+483249| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is stabbed[br]with a toxic barb,[br]etc. It may poison[br]the foe.|Steekt de vijand met[br]een giftige punt.[br]Dit kan hem[br]vergiftigen.
+48328B| 1| 70|0|I|Move Desc. (4 half lines)               |The foe is stabbed[br]twice with foreleg[br]stingers. It may[br]poison the foe.|De vijand word twee[br]keer gestoken met[br]angels. Dit kan hem[br]vergiftigen.
+4832D2| 1| 65|0|I|Move Desc. (4 half lines)               |Sharp pins are shot[br]at the foe and hit[br]two to five times[br]at once.|Schiet scherpe[br]pinnen naar de[br]vijand. Raakt twee[br]tot vijf keer.
+483314| 1| 67|0|I|Move Desc. (4 half lines)               |The foe is given an[br]intimidating look[br]that lowers its[br]DEFENSE stat.|Kijkt intimiderend[br]naar de vijand.[br]Dit verlaagt zijn[br]AFWEER.
+483358| 1| 62|0|I|Move Desc. (4 half lines)               |The user bites with[br]vicious fangs.[br]It may make the[br]foe flinch.|Bijt de tegenstander[br]met scherpe tanden.[br]Kan de vijand doen[br]terugdeinzen.
+483397| 1| 68|0|I|Move Desc. (4 half lines)               |The user growls in[br]a cute way, making[br]the foe lower its[br]ATTACK stat.|Gromt op een[br]schattige manier.[br]de vijand zijn[br]AANVAL verlaagt.
+4833DC| 2| 73|0|I|Move Desc. (4 half lines)               |The foe is made to[br]switch out with an[br]ally. In the wild,[br]the battle ends.|De vijand word[br]geforceerd te[br]wisselen. In het wild[br]eindigt het gevecht.
+483426| 1| 69|0|I|Move Desc. (4 half lines)               |A soothing song[br]in a calming voice[br]lulls the foe into[br]a deep slumber.|Een kalmerend lied[br]steekt de vijand in[br]een diepe slaap.
 48346C| 1| 59|0|I|Move Desc. (4 half lines)               |The user generates[br]odd sound waves.[br]It may confuse the[br]foe.|
 4834A8| 1| 68|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a shock wave that[br]always inflicts 20-[br]HP damage.|
-4834ED| 1| 70|0|I|Move Desc. (4 half lines)               |For a few turns,[br]it prevents the foe[br]from using the move[br]it last used.|
+4834ED| 1| 70|0|I|Move Desc. (4 half lines)               |For a few turns,[br]it prevents the foe[br]from using the move[br]it last used.|De vijand kan zijn[br]laatst gebruikte[br]techniek enkele[br]beurten niet doen.
 483534| 1| 75|0|I|Move Desc. (4 half lines)               |The foe is sprayed[br]with a harsh, hide-[br]melting acid that[br]may lower DEFENSE.|
 483580| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with small flames.[br]The foe may suffer[br]a burn.|
 4835C2| 2| 67|0|I|Move Desc. (4 half lines)               |The foe is scorched[br]with intense flames.[br]The foe may suffer[br]a burn.|
 483606| 1| 68|0|I|Move Desc. (4 half lines)               |The ally party is[br]protected by a[br]mist that prevents[br]stat reductions.|
 48364B| 1| 71|0|I|Move Desc. (4 half lines)               |The foe is struck[br]with a lot of water[br]expelled forcibly[br]from the mouth.|
-483693| 1| 66|0|I|Move Desc. (4 half lines)               |A high volume of[br]water is blasted at[br]the foe under great[br]pressure.|
-4836D6| 2| 72|0|I|Move Desc. (4 half lines)               |A big wave crashes[br]down on the foe.[br]Can also be used[br]for crossing water.|
+483693| 1| 66|0|I|Move Desc. (4 half lines)               |A high volume of[br]water is blasted at[br]the foe under great[br]pressure.|Heel veel water[br]word naar de vijand[br]gespoten onder[br]grote druk.
+4836D6| 2| 72|0|I|Move Desc. (4 half lines)               |A big wave crashes[br]down on the foe.[br]Can also be used[br]for crossing water.|Een grote golf valt[br]over de vijand.[br]Ook gebruikt om op[br]water te surfen.
 48371F| 2| 64|0|I|Move Desc. (4 half lines)               |The foe is struck[br]with an icy beam.[br]It may freeze the[br]foe solid.|
 483760| 2| 64|0|I|Move Desc. (4 half lines)               |The foe is blasted[br]with a blizzard.[br]It may freeze the[br]foe solid.|
-4837A1| 1| 65|0|I|Move Desc. (4 half lines)               |A peculiar ray is[br]shot at the foe.[br]It may leave the[br]foe confused.|
-4837E3| 1| 70|0|I|Move Desc. (4 half lines)               |A spray of bubbles[br]strikes the foe.[br]It may lower the[br]foe's SPEED stat.|
-48382A| 1| 66|0|I|Move Desc. (4 half lines)               |A rainbow-colored[br]attack beam.[br]It may lower the[br]foe's ATTACK stat.|
-48386D| 2| 69|0|I|Move Desc. (4 half lines)               |A severely damaging[br]attack that makes[br]the user rest on[br]the next turn.|
+4837A1| 1| 65|0|I|Move Desc. (4 half lines)               |A peculiar ray is[br]shot at the foe.[br]It may leave the[br]foe confused.|Een speciale straal[br]word geschoten naar[br]de vijand. Dit zorgt[br]voor verwarring.
+4837E3| 1| 70|0|I|Move Desc. (4 half lines)               |A spray of bubbles[br]strikes the foe.[br]It may lower the[br]foe's SPEED stat.|Spuit bellen naar de[br]vijand, het kan de[br]SNELHEID van de[br]vijand verlagen.
+48382A| 1| 66|0|I|Move Desc. (4 half lines)               |A rainbow-colored[br]attack beam.[br]It may lower the[br]foe's ATTACK stat.|Regenboogkleurige[br]aanvals-straal.[br]Kan de AANVAL van[br]de vijand verlagen.
+48386D| 2| 69|0|I|Move Desc. (4 half lines)               |A severely damaging[br]attack that makes[br]the user rest on[br]the next turn.|Een erg sterke[br]aanval. De gebruiker[br]moet rusten de[br]volgende beurt.
 4838B3| 1| 54|0|I|Move Desc. (4 half lines)               |The foe is jabbed[br]with a sharply[br]pointed beak or[br]horn.|
-4838EA| 1| 60|0|I|Move Desc. (4 half lines)               |A corkscrewing[br]attack with the[br]sharp beak acting[br]as a drill.|
-483927| 1| 70|0|I|Move Desc. (4 half lines)               |A reckless, full-[br]body throw attack[br]that also hurts the[br]user a little.|
-48396E| 1| 63|0|I|Move Desc. (4 half lines)               |A low, tripping kick[br]that inflicts more[br]damage on heavier[br]foes.|
-4839AE| 1| 73|0|I|Move Desc. (4 half lines)               |A retaliation move[br]that counters any[br]physical hit with[br]double the damage.|
-4839F8| 1| 65|0|I|Move Desc. (4 half lines)               |A gravity-fed throw[br]that causes damage[br]matching the user's[br]level.|
+4838EA| 1| 60|0|I|Move Desc. (4 half lines)               |A corkscrewing[br]attack with the[br]sharp beak acting[br]as a drill.|Kurkentrekker-[br]aanval met de bek[br]die zich gedraagt[br]als boor.
+483927| 1| 70|0|I|Move Desc. (4 half lines)               |A reckless, full-[br]body throw attack[br]that also hurts the[br]user a little.|Een roekeloze[br]levensgevaarlijke[br]aanval. Doet ook[br]schade aan zelf.
+48396E| 1| 63|0|I|Move Desc. (4 half lines)               |A low, tripping kick[br]that inflicts more[br]damage on heavier[br]foes.|Struikelaanval die[br]meer schade doet[br]hoe zwaarder de[br]vijand is.
+4839AE| 1| 73|0|I|Move Desc. (4 half lines)               |A retaliation move[br]that counters any[br]physical hit with[br]double the damage.|Vergeldingsaanval[br]die elke lichamelijke[br]aanval dubbel[br]terug doet.
+4839F8| 1| 65|0|I|Move Desc. (4 half lines)               |A gravity-fed throw[br]that causes damage[br]matching the user's[br]level.|Worp naar de grond[br]doet meer schade[br]hoe hoger het level[br]van de gebruiker.
 483A3A| 2| 71|0|I|Move Desc. (4 half lines)               |The foe is slugged[br]at maximum power.[br]Can also be used[br]to move boulders.|
-483A82| 1| 66|0|I|Move Desc. (4 half lines)               |An attack that[br]absorbs half the[br]damage it inflicted[br]to restore HP.|
-483AC5| 1| 70|0|I|Move Desc. (4 half lines)               |A tough attack that[br]drains half the[br]damage it inflicted[br]to restore HP.|
-483B0C| 1| 74|0|I|Move Desc. (4 half lines)               |A seed is planted[br]on the foe to steal[br]some HP for the [br]user on every turn.|
+483A82| 1| 66|0|I|Move Desc. (4 half lines)               |An attack that[br]absorbs half the[br]damage it inflicted[br]to restore HP.|Een aanval die de[br]helft van de[br]schade als[br]HP absorbeerd.
+483AC5| 1| 70|0|I|Move Desc. (4 half lines)               |A tough attack that[br]drains half the[br]damage it inflicted[br]to restore HP.|Een sterke aanval[br]die met de helft van[br]de schade HP[br]herstelt.
+483B0C| 1| 74|0|I|Move Desc. (4 half lines)               |A seed is planted[br]on the foe to steal[br]some HP for the [br]user on every turn.|Een zaadje word[br]geplant op de vijand[br]die elke beurt een[br]beetje HP steelt.
 483B57| 1| 60|0|I|Move Desc. (4 half lines)               |The user's body is[br]forced to grow,[br]raising the SP.[br]ATK stat.|
 483B94| 1| 69|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a cutting leaf.[br]It has a high[br]critical-hit ratio.|
-483BDA| 2| 71|0|I|Move Desc. (4 half lines)               |A 2-turn move that[br]blasts the foe with[br]absorbed energy in[br]the 2nd turn.|
-483C22| 1| 58|0|I|Move Desc. (4 half lines)               |A cloud of toxic[br]dust is scattered.[br]It may poison the[br]foe.|
+483BDA| 2| 71|0|I|Move Desc. (4 half lines)               |A 2-turn move that[br]blasts the foe with[br]absorbed energy in[br]the 2nd turn.|2-beurt aanval dat[br]de vijand bekogelt[br]met energie in de[br]2e beurt.
+483C22| 1| 58|0|I|Move Desc. (4 half lines)               |A cloud of toxic[br]dust is scattered.[br]It may poison the[br]foe.|Een wolk giftig stof[br]word rondgestrooid.[br]Het kan de vijand[br]vergiftigen.
 483C5D| 1| 61|0|I|Move Desc. (4 half lines)               |Paralyzing dust is[br]scattered wildly.[br]It may paralyze[br]the foe.|
-483C9B| 1| 63|0|I|Move Desc. (4 half lines)               |A sleep-inducing[br]dust is scattered[br]in high volume[br]around a foe.|
+483C9B| 1| 63|0|I|Move Desc. (4 half lines)               |A sleep-inducing[br]dust is scattered[br]in high volume[br]around a foe.|Grote hoeveelheid[br]slaapverwekkend[br]stof is verspreid[br]rond de vijand.[br]
 483CDB| 1| 72|0|I|Move Desc. (4 half lines)               |The user attacks[br]with petals for two[br]to three turns,[br]then gets confused.|
 483D24| 1| 70|0|I|Move Desc. (4 half lines)               |The foe is bound[br]with strings shot[br]from the mouth to[br]reduce its SPEED.|
 483D6B| 1| 68|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a shock wave that[br]always inflicts 40-[br]HP damage.|
 483DB0| 1| 77|0|I|Move Desc. (4 half lines)               |The foe is trapped[br]in an intense spiral[br]of fire that rages[br]two to five turns.|
-483DFE| 1| 63|0|I|Move Desc. (4 half lines)               |An electric shock[br]attack that may[br]also leave the foe[br]paralyzed.|
-483E3E| 2| 65|0|I|Move Desc. (4 half lines)               |A strong electrical[br]attack that may[br]also leave the foe[br]paralyzed.|
-483E80| 1| 65|0|I|Move Desc. (4 half lines)               |A weak electric[br]shock that is sure[br]to cause paralysis[br]if it hits.|
-483EC2| 2| 64|0|I|Move Desc. (4 half lines)               |A brutal lightning[br]attack that may[br]also leave the foe[br]paralyzed.|
+483DFE| 1| 63|0|I|Move Desc. (4 half lines)               |An electric shock[br]attack that may[br]also leave the foe[br]paralyzed.|Electrische schok[br]die de vijand kan[br]verlammen.
+483E3E| 2| 65|0|I|Move Desc. (4 half lines)               |A strong electrical[br]attack that may[br]also leave the foe[br]paralyzed.|Sterke electrische[br]aanval die de[br]vijand kan[br]verlammen.
+483E80| 1| 65|0|I|Move Desc. (4 half lines)               |A weak electric[br]shock that is sure[br]to cause paralysis[br]if it hits.|Zwakke electrische[br]schok die de vijand[br]zeker verlamt.
+483EC2| 2| 64|0|I|Move Desc. (4 half lines)               |A brutal lightning[br]attack that may[br]also leave the foe[br]paralyzed.|Een bliksemaanval[br]die de vijand kan[br]verlammen.
 483F03| 1| 64|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with a shower of[br]small, easily[br]thrown rocks.|
-483F44| 2| 68|0|I|Move Desc. (4 half lines)               |An earthquake that[br]strikes all POKÈMON[br]in battle excluding[br]the user.|
+483F44| 2| 68|0|I|Move Desc. (4 half lines)               |An earthquake that[br]strikes all POKÈMON[br]in battle excluding[br]the user.|Een aardbeving die[br]alle POKÈMON in het[br]gevecht treft.[br]Behalve de gebruiker.
 483F89| 1| 61|0|I|Move Desc. (4 half lines)               |The foe is dropped[br]into a fissure.[br]The foe faints if it[br]hits.|
-483FC7| 2| 71|0|I|Move Desc. (4 half lines)               |An attack that hits[br]on the 2nd turn.[br]Can also be used[br]to exit dungeons.|
-48400F| 2| 72|0|I|Move Desc. (4 half lines)               |A move that badly[br]poisons the foe.[br]Its poison damage[br]worsens every turn.|
-484058| 1| 63|0|I|Move Desc. (4 half lines)               |A weak telekinetic[br]attack that may[br]also leave the foe[br]confused.|
-484098| 2| 70|0|I|Move Desc. (4 half lines)               |A strong telekinetic[br]attack. It may also[br]lower the foe's[br]SP. DEF stat.|
-4840DF| 1| 67|0|I|Move Desc. (4 half lines)               |Hypnotic suggestion[br]is used to make the[br]foe fall into a[br]deep sleep.|
+483FC7| 2| 71|0|I|Move Desc. (4 half lines)               |An attack that hits[br]on the 2nd turn.[br]Can also be used[br]to exit dungeons.|Deze aanval raakt[br]op de 2e beurt.[br]Ook gebruikt om[br]kerkers te verlaten.
+48400F| 2| 72|0|I|Move Desc. (4 half lines)               |A move that badly[br]poisons the foe.[br]Its poison damage[br]worsens every turn.|De vijand word heel[br]erg vergiftigd. De[br]schade word elke[br]beurt hoger.
+484058| 1| 63|0|I|Move Desc. (4 half lines)               |A weak telekinetic[br]attack that may[br]also leave the foe[br]confused.|Zwakke telekinetische[br]aanval die de[br]vijand kan verwarren.
+484098| 2| 70|0|I|Move Desc. (4 half lines)               |A strong telekinetic[br]attack. It may also[br]lower the foe's[br]SP. DEF stat.|Sterke telepathische[br]aanval. Kan ook[br]de SP. AFW van de[br]vijand verlagen.
+4840DF| 1| 67|0|I|Move Desc. (4 half lines)               |Hypnotic suggestion[br]is used to make the[br]foe fall into a[br]deep sleep.|Hypnose word[br]gebruikt om de[br]vijand in een diepe[br]slaap te wiegen.
 484123| 1| 65|0|I|Move Desc. (4 half lines)               |The user meditates[br]to awaken its power[br]and raise its[br]ATTACK stat.|
 484165| 1| 66|0|I|Move Desc. (4 half lines)               |The user relaxes[br]and lightens its[br]body to sharply[br]boost its SPEED.|
-4841A8| 1| 64|0|I|Move Desc. (4 half lines)               |An almost invisibly[br]fast attack that[br]is certain to strike[br]first.|
-4841E9| 1| 68|0|I|Move Desc. (4 half lines)               |An attack that[br]becomes stronger[br]each time the user[br]is hit in battle.|
+4841A8| 1| 64|0|I|Move Desc. (4 half lines)               |An almost invisibly[br]fast attack that[br]is certain to strike[br]first.|Bijna onzichtbare[br]aanval die zeker[br]als eerste toeslaat.
+4841E9| 1| 68|0|I|Move Desc. (4 half lines)               |An attack that[br]becomes stronger[br]each time the user[br]is hit in battle.|Aanval die sterker[br]wordt elke keer dat[br]de gebruiker geraakt[br]wordt in het gevecht.
 48422E| 1| 73|0|I|Move Desc. (4 half lines)               |Use it to flee from[br]any wild POKÈMON.[br]Also warps to the[br]last POKÈ CENTER.|
-484278| 1| 71|0|I|Move Desc. (4 half lines)               |An attack with a[br]mirage that inflicts[br]damage matching[br]the user's level.|
+484278| 1| 71|0|I|Move Desc. (4 half lines)               |An attack with a[br]mirage that inflicts[br]damage matching[br]the user's level.|Aanval met een[br]illusie. Schade is[br]afhankelijk van de[br]gebruiker zijn level.
 4842C0| 1| 73|0|I|Move Desc. (4 half lines)               |The user copies the[br]move last used by[br]the foe for the[br]rest of the battle.|
-48430A| 1| 72|0|I|Move Desc. (4 half lines)               |An ear-splitting[br]screech is emitted[br]to sharply reduce[br]the foe's DEFENSE.|
+48430A| 1| 72|0|I|Move Desc. (4 half lines)               |An ear-splitting[br]screech is emitted[br]to sharply reduce[br]the foe's DEFENSE.|Een oorverdovend[br]gekrijs verlaagt[br]heel sterk de vijand[br]zijn AFWEER.
 484353| 2| 68|0|I|Move Desc. (4 half lines)               |The user creates[br]illusory copies of[br]itself to raise its[br]evasiveness.|
-484398| 1| 76|0|I|Move Desc. (4 half lines)               |A self-healing move[br]that restores HP by[br]up to half of the[br]user's maximum HP.|
+484398| 1| 76|0|I|Move Desc. (4 half lines)               |A self-healing move[br]that restores HP by[br]up to half of the[br]user's maximum HP.|Herstelt de helft[br]van de HP van[br]de gebruiker.
 4843E5| 1| 72|0|I|Move Desc. (4 half lines)               |The user stiffens[br]all the muscles in[br]its body to raise[br]its DEFENSE stat.|
 48442E| 1| 71|0|I|Move Desc. (4 half lines)               |The user compresses[br]all the cells in its[br]body to raise its[br]evasiveness.|
-484476| 1| 62|0|I|Move Desc. (4 half lines)               |An obscuring cloud[br]of smoke or ink[br]reduces the foe's[br]accuracy.|
+484476| 1| 62|0|I|Move Desc. (4 half lines)               |An obscuring cloud[br]of smoke or ink[br]reduces the foe's[br]accuracy.|Een grote rook of[br]inktwolk verlaagt[br]de vijand zijn[br]precisie.
 4844B5| 1| 61|0|I|Move Desc. (4 half lines)               |The foe is exposed[br]to a sinister ray[br]that triggers[br]confusion.|
 4844F3| 1| 72|0|I|Move Desc. (4 half lines)               |The user withdraws[br]its body in its hard[br]shell, raising its[br]DEFENSE stat.|
 48453C| 1| 67|0|I|Move Desc. (4 half lines)               |The user curls up[br]to conceal weak[br]spots and raise its[br]DEFENSE stat.|
 484580| 1| 68|0|I|Move Desc. (4 half lines)               |The user creates a[br]sturdy wall that[br]sharply raises its[br]DEFENSE stat.|
-4845C5| 2| 64|0|I|Move Desc. (4 half lines)               |A wall of light[br]cuts damage from[br]SP. ATK attacks[br]for five turns.|
-484606| 1| 64|0|I|Move Desc. (4 half lines)               |Eliminates all stat[br]changes among all[br]POKÈMON engaged in[br]battle.|
-484647| 2| 65|0|I|Move Desc. (4 half lines)               |A wall of light[br]cuts damage from[br]physical attacks[br]for five turns.|
+4845C5| 2| 64|0|I|Move Desc. (4 half lines)               |A wall of light[br]cuts damage from[br]SP. ATK attacks[br]for five turns.|Een muur van licht[br]verlaagt schade van[br]speciale aanvallen[br]voor vijf beurten.
+484606| 1| 64|0|I|Move Desc. (4 half lines)               |Eliminates all stat[br]changes among all[br]POKÈMON engaged in[br]battle.|Verwijdert alle[br]status veranderingen[br]bij alle POKÈMON[br]in het gevecht.
+484647| 2| 65|0|I|Move Desc. (4 half lines)               |A wall of light[br]cuts damage from[br]physical attacks[br]for five turns.|Een muur van licht[br]verlaagt schade van[br]lichamelijke aanvallen[br]voor vijf beurten.
 484689| 1| 73|0|I|Move Desc. (4 half lines)               |The user takes a[br]deep breath and[br]focuses to raise its[br]critical-hit ratio.|
 4846D3| 1| 65|0|I|Move Desc. (4 half lines)               |The user endures[br]attacks for two[br]turns, then strikes[br]back double.|
 484715| 1| 72|0|I|Move Desc. (4 half lines)               |Waggles a finger[br]and stimulates the[br]brain into using any[br]move at random.|
 48475E| 1| 67|0|I|Move Desc. (4 half lines)               |The user counters[br]the move last used[br]by the foe with the[br]same move.|
 4847A2| 1| 69|0|I|Move Desc. (4 half lines)               |The user blows up[br]to inflict severe[br]damage, even[br]making itself faint.|
-4847E8| 1| 68|0|I|Move Desc. (4 half lines)               |A large egg is[br]hurled with great[br]force at the foe to[br]inflict damage.|
+4847E8| 1| 68|0|I|Move Desc. (4 half lines)               |A large egg is[br]hurled with great[br]force at the foe to[br]inflict damage.|Een groot ei word[br]gegooid naar de[br]vijand om schade[br]te doen.
 48482D| 1| 67|0|I|Move Desc. (4 half lines)               |The foe is licked[br]and hit with a long[br]tongue. It may[br]also paralyze.|
 484871| 1| 67|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with exhaust gases.[br]It may also poison[br]the foe.|
 4848B5| 1| 60|0|I|Move Desc. (4 half lines)               |Toxic sludge is[br]hurled at the foe.[br]It may poison the[br]target.|
 4848F2| 1| 72|0|I|Move Desc. (4 half lines)               |The foe is clubbed[br]with a bone held in[br]hand. It may make[br]the foe flinch.|
 48493B| 2| 74|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]an intense flame.[br]It may leave the[br]target with a burn.|
-484986| 2| 67|0|I|Move Desc. (4 half lines)               |A powerful charge[br]attack. It can also[br]be used to climb[br]a waterfall.|
+484986| 2| 67|0|I|Move Desc. (4 half lines)               |A powerful charge[br]attack. It can also[br]be used to climb[br]a waterfall.|Krachtige, snelle[br]loopaanval. [br]Ook om watervallen[br]te beklimmen.
 4849CA| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is clamped[br]and squeezed by[br]the user's shell for[br]two to five turns.|
 484A15| 1| 65|0|I|Move Desc. (4 half lines)               |Star-shaped rays[br]that never miss are[br]fired at all foes in[br]battle.|
 484A57| 1| 74|0|I|Move Desc. (4 half lines)               |The user raises its[br]DEFENSE in the 1st[br]turn, then attacks[br]in the 2nd turn.|
 484AA2| 1| 62|0|I|Move Desc. (4 half lines)               |Sharp spikes are[br]fired at the foe to[br]strike two to five[br]times.|
 484AE1| 1| 69|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with long tentacles[br]or vines. It may[br]lower SPEED.|
-484B27| 1| 51|0|I|Move Desc. (4 half lines)               |Forgets about[br]something and[br]sharply raises[br]SP. DEF.|
+484B27| 1| 51|0|I|Move Desc. (4 half lines)               |Forgets about[br]something and[br]sharply raises[br]SP. DEF.|Vergeet iets, en[br]zorgt dat de[br]SP. AFW sterk stijgt.
 484B5B| 1| 69|0|I|Move Desc. (4 half lines)               |The user distracts[br]the foe by bending[br]a spoon. It may[br]lower accuracy.|
-484BA1| 1| 73|0|I|Move Desc. (4 half lines)               |Heals the user by[br]up to half its full[br]HP. It can be used[br]to heal an ally.|
-484BEB| 1| 59|0|I|Move Desc. (4 half lines)               |A strong jumping[br]knee kick. If it[br]misses, the user is[br]hurt.|
+484BA1| 1| 73|0|I|Move Desc. (4 half lines)               |Heals the user by[br]up to half its full[br]HP. It can be used[br]to heal an ally.|Geneest tot de helft[br]van de HP. Kan[br]gebruikt worden op[br]een teamgenoot.
+484BEB| 1| 59|0|I|Move Desc. (4 half lines)               |A strong jumping[br]knee kick. If it[br]misses, the user is[br]hurt.|De aanvaller springt[br]omhoog en schopt.[br]Indien hij mist krijgt[br]hij zelf schade.
 484C27| 1| 77|0|I|Move Desc. (4 half lines)               |The user intimidates[br]the foe with the[br]design on its belly[br]to cause paralysis.|
-484C75| 1| 69|0|I|Move Desc. (4 half lines)               |Absorbs half the[br]damage it inflicted[br]on a sleeping foe[br]to restore HP.|
+484C75| 1| 69|0|I|Move Desc. (4 half lines)               |Absorbs half the[br]damage it inflicted[br]on a sleeping foe[br]to restore HP.|Half de schade[br]toegebracht aan een[br]slapende vijand komt[br]terug als HP.
 484CBB| 1| 69|0|I|Move Desc. (4 half lines)               |The foe is sprayed[br]with a cloud of[br]toxic gas that may[br]poison the foe.|
 484D01| 1| 64|0|I|Move Desc. (4 half lines)               |Round objects are[br]hurled at the foe[br]to strike two to[br]five times.|
-484D42| 1| 66|0|I|Move Desc. (4 half lines)               |An attack that[br]absorbs half the[br]damage it inflicted[br]to restore HP.|
+484D42| 1| 66|0|I|Move Desc. (4 half lines)               |An attack that[br]absorbs half the[br]damage it inflicted[br]to restore HP.|Een aanval die de[br]helft van de[br]schade als[br]HP absorbeerd.
 484D85| 1| 71|0|I|Move Desc. (4 half lines)               |The user forces a[br]kiss on the foe[br]with a scary face[br]that induces sleep.|
-484DCD| 1| 74|0|I|Move Desc. (4 half lines)               |A 2nd-turn attack[br]move with a high[br]critical-hit ratio.[br]The foe may flinch.|
+484DCD| 1| 74|0|I|Move Desc. (4 half lines)               |A 2nd-turn attack[br]move with a high[br]critical-hit ratio.[br]The foe may flinch.|2-beurt aanval.[br]Veel kans op super-[br]slagen. De vijand[br]kan terugdeinzen.
 484E18| 1| 71|0|I|Move Desc. (4 half lines)               |The user transforms[br]into a copy of the[br]foe with even the[br]same move set.|
-484E60| 1| 67|0|I|Move Desc. (4 half lines)               |A spray of bubbles[br]hits the foe.[br]It may lower the[br]foe's SPEED stat.|
+484E60| 1| 67|0|I|Move Desc. (4 half lines)               |A spray of bubbles[br]hits the foe.[br]It may lower the[br]foe's SPEED stat.|Spuit bellen naar de[br]vijand, het kan de[br]SNELHEID van de[br]vijand verlagen.
 484EA4| 1| 64|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a rhythmic punch[br]that may leave it[br]confused.|
 484EE5| 1| 58|0|I|Move Desc. (4 half lines)               |The user scatters[br]bursts of fine[br]spores that induce[br]sleep.|
-484F20| 2| 73|0|I|Move Desc. (4 half lines)               |A blast of light[br]that cuts the foe's[br]accuracy. It also[br]illuminates caves.|
+484F20| 2| 73|0|I|Move Desc. (4 half lines)               |A blast of light[br]that cuts the foe's[br]accuracy. It also[br]illuminates caves.|Een lichtflits die[br]de vijand zijn[br]precisie verlaagt.[br]Verlicht ook grotten.
 484F6A| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with an odd, hot[br]energy wave that[br]varies in intensity.|
 484FB5| 1| 66|0|I|Move Desc. (4 half lines)               |The user just flops[br]and splashes around[br]without having any[br]effect.|
 484FF8| 1| 70|0|I|Move Desc. (4 half lines)               |The user alters its[br]cells to liquefy[br]itself and sharply[br]raise DEFENSE.|
-48503F| 1| 75|0|I|Move Desc. (4 half lines)               |A large pincer is[br]used to hammer the[br]foe. It has a high[br]critical-hit ratio.|
+48503F| 1| 75|0|I|Move Desc. (4 half lines)               |A large pincer is[br]used to hammer the[br]foe. It has a high[br]critical-hit ratio.|Een grote schaar[br]word gebruikt om de[br]vijand te slaan. Veel[br]kans op superslagen.
 48508B| 1| 72|0|I|Move Desc. (4 half lines)               |The user explodes[br]to inflict terrible[br]damage even while[br]fainting itself.|
 4850D4| 1| 63|0|I|Move Desc. (4 half lines)               |The foe is raked[br]with sharp claws or[br]scythes two to five[br]times.|
 485114| 1| 73|0|I|Move Desc. (4 half lines)               |The user throws a[br]bone that hits the[br]foe once, then once[br]again on return.|
@@ -8672,148 +8672,148 @@
 4851EF| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with sharp fangs.[br]It may make the[br]foe flinch.|
 485231| 1| 69|0|I|Move Desc. (4 half lines)               |The user reduces[br]its polygon count[br]to sharpen edges[br]and raise ATTACK.|
 485277| 1| 64|0|I|Move Desc. (4 half lines)               |The user changes[br]its type to match[br]the type of one of[br]its moves.|
-4852B8| 1| 72|0|I|Move Desc. (4 half lines)               |A simultaneous[br]3-beam attack that[br]may paralyze, burn,[br]or freeze the foe.|
+4852B8| 1| 72|0|I|Move Desc. (4 half lines)               |A simultaneous[br]3-beam attack that[br]may paralyze, burn,[br]or freeze the foe.|Gelijktijdige 3-straal[br]aanval die de vijand[br]kan verlammen,[br]vriezen of branden.
 485301| 1| 58|0|I|Move Desc. (4 half lines)               |The user attacks[br]with sharp fangs[br]and halves the[br]foe's HP.|
 48533C| 1| 69|0|I|Move Desc. (4 half lines)               |The foe is slashed[br]with claws, etc.[br]It has a high[br]critical-hit ratio.|
 485382| 1| 59|0|I|Move Desc. (4 half lines)               |The user creates a[br]decoy using one-[br]quarter of its full[br]HP.|
-4853BE| 1| 70|0|I|Move Desc. (4 half lines)               |An attack that is[br]used only if there[br]is no PP. It also[br]hurts the user.|
+4853BE| 1| 70|0|I|Move Desc. (4 half lines)               |An attack that is[br]used only if there[br]is no PP. It also[br]hurts the user.|Een aanval die enkel[br]gebruikt wordt als[br]er geen PP is. Doet[br]ook gebruiker pijn.
 485405| 1| 64|0|I|Move Desc. (4 half lines)               |This move copies[br]the move last used[br]by the foe, then[br]disappears.|
-485446| 1| 68|0|I|Move Desc. (4 half lines)               |A 3-kick attack[br]that becomes more[br]powerful with each[br]successive hit.|
-48548B| 2| 74|0|I|Move Desc. (4 half lines)               |An attack that may[br]take the foe's held[br]item if the user[br]isn't holding one.|
-4854D6| 1| 70|0|I|Move Desc. (4 half lines)               |Ensnares the foe [br]with sticky string[br]so it doesn't flee[br]or switch out.|
+485446| 1| 68|0|I|Move Desc. (4 half lines)               |A 3-kick attack[br]that becomes more[br]powerful with each[br]successive hit.|3-schop aanval die[br]sterker word elke[br]keer hij raakt.
+48548B| 2| 74|0|I|Move Desc. (4 half lines)               |An attack that may[br]take the foe's held[br]item if the user[br]isn't holding one.|Kan de vijand zijn[br]item afpakken indien[br]de gebruiker geen[br]item vast heeft.
+4854D6| 1| 70|0|I|Move Desc. (4 half lines)               |Ensnares the foe [br]with sticky string[br]so it doesn't flee[br]or switch out.|Houd de vijand vast[br]met plakkerig touw[br]zodat hij niet kan[br]vluchten of wisselen.
 48551D| 1| 66|0|I|Move Desc. (4 half lines)               |The user predicts[br]the foe's action to[br]ensure its next[br]attack hits.|
-485560| 1| 73|0|I|Move Desc. (4 half lines)               |A sleeping foe is[br]shown a nightmare[br]that inflicts some[br]damage every turn.|
+485560| 1| 73|0|I|Move Desc. (4 half lines)               |A sleeping foe is[br]shown a nightmare[br]that inflicts some[br]damage every turn.|Een slapende vijand[br]krijgt nachtmerries[br]die elke beurt een[br]beetje schade doet.
 4855AA| 1| 62|0|I|Move Desc. (4 half lines)               |The user makes a[br]fiery charge at the[br]foe. It may cause[br]a burn.|
-4855E9| 1| 69|0|I|Move Desc. (4 half lines)               |An attack that can[br]be used only while[br]asleep. It may[br]cause flinching.|
-48562F| 1| 73|0|I|Move Desc. (4 half lines)               |A move that works[br]differently for the[br]GHOST-type and all[br]the other types.|
-485679| 1| 71|0|I|Move Desc. (4 half lines)               |A desperate attack[br]that becomes more[br]powerful the less[br]HP the user has.|
+4855E9| 1| 69|0|I|Move Desc. (4 half lines)               |An attack that can[br]be used only while[br]asleep. It may[br]cause flinching.|Aanval die alleen kan[br]gebruikt worden al[br]slapend. Kan vijand[br]doen terugdeinzen.
+48562F| 1| 73|0|I|Move Desc. (4 half lines)               |A move that works[br]differently for the[br]GHOST-type and all[br]the other types.|Een techniek die[br]anders werkt voor[br]GHOST-type en[br]alle andere types.
+485679| 1| 71|0|I|Move Desc. (4 half lines)               |A desperate attack[br]that becomes more[br]powerful the less[br]HP the user has.|Wanhopige aanval die[br]sterker wordt hoe[br]lager de HP van[br]de gebruiker is.
 4856C1| 1| 74|0|I|Move Desc. (4 half lines)               |The user changes[br]type to make itself[br]resistant to the[br]last attack it took.|
-48570C| 1| 69|0|I|Move Desc. (4 half lines)               |A vortex of air is[br]shot at the foe.[br]It has a high[br]critical-hit ratio.|
-485752| 1| 69|0|I|Move Desc. (4 half lines)               |Cotton-like spores[br]cling to the foe,[br]sharply reducing[br]its SPEED stat.|
-485798| 1| 70|0|I|Move Desc. (4 half lines)               |An all-out attack[br]that becomes more[br]powerful the less[br]HP the user has.|
-4857DF| 1| 62|0|I|Move Desc. (4 half lines)               |A move that cuts[br]2 to 5 PP from the[br]move last used by[br]the foe.|
-48581E| 1| 56|0|I|Move Desc. (4 half lines)               |Blasts the foe with[br]a snowy gust.[br]It may cause[br]freezing.|
-485857| 2| 73|0|I|Move Desc. (4 half lines)               |Enables the user to[br]evade all attacks.[br]It may fail if used[br]in succession.|
-4858A1| 1| 64|0|I|Move Desc. (4 half lines)               |A punch thrown at[br]blinding speed.[br]It is certain to[br]strike first.|
-4858E2| 1| 64|0|I|Move Desc. (4 half lines)               |Frightens the foe[br]with a scary face[br]to sharply reduce[br]its SPEED.|
+48570C| 1| 69|0|I|Move Desc. (4 half lines)               |A vortex of air is[br]shot at the foe.[br]It has a high[br]critical-hit ratio.|Draaikolk van lucht[br]word geschoten[br]naar de vijand. Veel[br]kans op superslagen.
+485752| 1| 69|0|I|Move Desc. (4 half lines)               |Cotton-like spores[br]cling to the foe,[br]sharply reducing[br]its SPEED stat.|Katoenbollen hangen[br]vast aan de vijand[br]en verminderen zijn[br]SNELHEID heel veel.
+485798| 1| 70|0|I|Move Desc. (4 half lines)               |An all-out attack[br]that becomes more[br]powerful the less[br]HP the user has.|Een roekeloze[br]aanval die sterker[br]wordt hoe minder HP[br]de gebruiker heeft.
+4857DF| 1| 62|0|I|Move Desc. (4 half lines)               |A move that cuts[br]2 to 5 PP from the[br]move last used by[br]the foe.|Doet de vijand[br]2 tot 5 PP verliezen[br]van de techniek die[br]hij laatst gebruikte.
+48581E| 1| 56|0|I|Move Desc. (4 half lines)               |Blasts the foe with[br]a snowy gust.[br]It may cause[br]freezing.|Schiet de vijand met[br]een wind van sneeuw.[br]Kan de vijand[br]bevriezen.
+485857| 2| 73|0|I|Move Desc. (4 half lines)               |Enables the user to[br]evade all attacks.[br]It may fail if used[br]in succession.|Alle aanvallen worden[br]ontweken. Kan falen[br]indien meerdere keren[br]gebruikt na elkaar.
+4858A1| 1| 64|0|I|Move Desc. (4 half lines)               |A punch thrown at[br]blinding speed.[br]It is certain to[br]strike first.|Een supersnelle slag[br]Raakt zeker als[br]eerste.
+4858E2| 1| 64|0|I|Move Desc. (4 half lines)               |Frightens the foe[br]with a scary face[br]to sharply reduce[br]its SPEED.|Maakt de vijand[br]bang met een akelig[br]gezicht. Verlaagt[br]zijn SNELHEID veel.
 485923| 1| 71|0|I|Move Desc. (4 half lines)               |The user draws up[br]close to the foe[br]disarmingly, then[br]hits without fail.|
 48596B| 1| 66|0|I|Move Desc. (4 half lines)               |The user kisses[br]the foe with sweet[br]cuteness that[br]causes confusion.|
 4859AE| 1| 67|0|I|Move Desc. (4 half lines)               |The user maximizes[br]its ATTACK stat at[br]the cost of half[br]its full HP.|
-4859F2| 2| 61|0|I|Move Desc. (4 half lines)               |Filthy sludge is[br]hurled at the foe.[br]It may poison the[br]target.|
+4859F2| 2| 61|0|I|Move Desc. (4 half lines)               |Filthy sludge is[br]hurled at the foe.[br]It may poison the[br]target.|Vuil slijm word[br]gegooid naar de[br]vijand. Hij kan[br]vergiftigd worden.
 485A30| 1| 73|0|I|Move Desc. (4 half lines)               |Mud is hurled in[br]the foe's face to[br]inflict damage and[br]lower its accuracy.|
-485A7A| 1| 70|0|I|Move Desc. (4 half lines)               |Ink is blasted in[br]the foe's face or[br]eyes to damage and[br]lower accuracy.|
-485AC1| 1| 74|0|I|Move Desc. (4 half lines)               |A trap of spikes is[br]laid around the[br]foe's party to hurt[br]foes switching in.|
-485B0C| 1| 72|0|I|Move Desc. (4 half lines)               |An electric blast is[br]fired like a cannon[br]to inflict damage[br]and paralyze.|
-485B55| 1| 70|0|I|Move Desc. (4 half lines)               |Completely negates[br]the foe's efforts to[br]heighten its ability[br]to evade.|
-485B9C| 1| 65|0|I|Move Desc. (4 half lines)               |If the user faints,[br]the foe delivering[br]the final hit also[br]faints.|
-485BDE| 1| 69|0|I|Move Desc. (4 half lines)               |Any battler that[br]hears this faints[br]in three turns[br]unless it switches.|
-485C24| 1| 65|0|I|Move Desc. (4 half lines)               |A chilling wind is[br]used to attack.[br]It also lowers the[br]SPEED stat.|
-485C66| 1| 73|0|I|Move Desc. (4 half lines)               |Enables the user to[br]evade all attacks.[br]It may fail if used[br]in succession.|
+485A7A| 1| 70|0|I|Move Desc. (4 half lines)               |Ink is blasted in[br]the foe's face or[br]eyes to damage and[br]lower accuracy.|Spuit inkt naar de[br]vijand. Dit zorgt[br]voor schade en[br]minder precisie.
+485AC1| 1| 74|0|I|Move Desc. (4 half lines)               |A trap of spikes is[br]laid around the[br]foe's party to hurt[br]foes switching in.|Legt spijkers rond[br]de tegenstanders.[br]Gewisselde POKÈMON[br]krijgen schade.
+485B0C| 1| 72|0|I|Move Desc. (4 half lines)               |An electric blast is[br]fired like a cannon[br]to inflict damage[br]and paralyze.|Elektriciteit wordt[br]afgeschoten als[br]een kannon. Verlamt[br]de vijand.
+485B55| 1| 70|0|I|Move Desc. (4 half lines)               |Completely negates[br]the foe's efforts to[br]heighten its ability[br]to evade.|Doet de vijand zijn[br]poging om te[br]ontwijken teniet.
+485B9C| 1| 65|0|I|Move Desc. (4 half lines)               |If the user faints,[br]the foe delivering[br]the final hit also[br]faints.|Als de gebruiker[br]flauw valt dan[br]valt de vijand die[br]dit veroorzakt ook.
+485BDE| 1| 69|0|I|Move Desc. (4 half lines)               |Any battler that[br]hears this faints[br]in three turns[br]unless it switches.|Elke vechter die dit[br]hoort moet wisselen[br]binnen drie beurten[br]of hij valt flauw.
+485C24| 1| 65|0|I|Move Desc. (4 half lines)               |A chilling wind is[br]used to attack.[br]It also lowers the[br]SPEED stat.|Ijskoude wind is[br]gebruikt als aanval.[br]Verlaagt ook de[br]vijand zijn SNELHEID.
+485C66| 1| 73|0|I|Move Desc. (4 half lines)               |Enables the user to[br]evade all attacks.[br]It may fail if used[br]in succession.|Alle aanvallen worden[br]ontweken. Kan falen[br]indien meerdere keren[br]gebruikt na elkaar.
 485CB0| 1| 63|0|I|Move Desc. (4 half lines)               |The user strikes[br]the foe with a bone[br]in hand two to five[br]times.|
 485CF0| 1| 63|0|I|Move Desc. (4 half lines)               |The user locks on[br]to the foe, making[br]the next move sure[br]to hit.|
 485D30| 1| 70|0|I|Move Desc. (4 half lines)               |The user thrashes[br]about for two to[br]three turns, then[br]becomes confused.|
-485D77| 2| 73|0|I|Move Desc. (4 half lines)               |A 5-turn sandstorm[br]that damages all[br]types except ROCK,[br]GROUND, and STEEL.|
-485DC1| 2| 71|0|I|Move Desc. (4 half lines)               |A harsh attack that[br]absorbs half the[br]damage it inflicted[br]to restore HP.|
+485D77| 2| 73|0|I|Move Desc. (4 half lines)               |A 5-turn sandstorm[br]that damages all[br]types except ROCK,[br]GROUND, and STEEL.|5-beurt zandstorm.[br]Alle types krijgen[br]schade behalve ROCK,[br]GROUND en STEEL.
+485DC1| 2| 71|0|I|Move Desc. (4 half lines)               |A harsh attack that[br]absorbs half the[br]damage it inflicted[br]to restore HP.|Een harde aanval.[br]De helft van de[br]schade wordt als[br]HP geabsorbeerd.
 485E09| 1| 75|0|I|Move Desc. (4 half lines)               |The user endures[br]any hit with 1 HP[br]left. It may fail if[br]used in succession.|
 485E55| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is charmed[br]by the user's cute[br]appeals, sharply[br]cutting its ATTACK.|
-485EA0| 1| 64|0|I|Move Desc. (4 half lines)               |A 5-turn rolling[br]attack that becomes[br]stronger each time[br]it hits.|
-485EE1| 1| 66|0|I|Move Desc. (4 half lines)               |A restrained attack[br]that always leaves[br]the foe with at[br]least 1 HP.|
-485F24| 1| 71|0|I|Move Desc. (4 half lines)               |A move that makes[br]the foe confused,[br]but also sharply[br]raises its ATTACK.|
-485F6C| 1| 73|0|I|Move Desc. (4 half lines)               |Heals the user by[br]up to half its full[br]HP. It can be used[br]to heal an ally.|
-485FB6| 1| 62|0|I|Move Desc. (4 half lines)               |An electrically[br]charged tackle that[br]may also paralyze[br]the foe.|
-485FF5| 1| 53|0|I|Move Desc. (4 half lines)               |An attack that[br]grows stronger on[br]each successive[br]hit.|
+485EA0| 1| 64|0|I|Move Desc. (4 half lines)               |A 5-turn rolling[br]attack that becomes[br]stronger each time[br]it hits.|5-beurt rollende[br]aanval die sterker[br]word elke keer[br]hij raakt.
+485EE1| 1| 66|0|I|Move Desc. (4 half lines)               |A restrained attack[br]that always leaves[br]the foe with at[br]least 1 HP.|Ingehouden aanval[br]die de vijand met[br]zeker 1 HP over[br]laat.
+485F24| 1| 71|0|I|Move Desc. (4 half lines)               |A move that makes[br]the foe confused,[br]but also sharply[br]raises its ATTACK.|Maakt de vijand[br]verward, maar[br]verhoogt ook zijn[br]AANVAL heel erg.
+485F6C| 1| 73|0|I|Move Desc. (4 half lines)               |Heals the user by[br]up to half its full[br]HP. It can be used[br]to heal an ally.|Geneest tot de helft[br]van de HP. Kan[br]gebruikt worden op[br]een teamgenoot.
+485FB6| 1| 62|0|I|Move Desc. (4 half lines)               |An electrically[br]charged tackle that[br]may also paralyze[br]the foe.|Electrische lichaams-[br]aanval die de vijand[br]kan verlammen.
+485FF5| 1| 53|0|I|Move Desc. (4 half lines)               |An attack that[br]grows stronger on[br]each successive[br]hit.|Deze aanval word[br]sterker elke keer[br]hij achtereenvolgend[br]raakt.
 48602B| 2| 73|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]wings of steel.[br]It may also raise[br]the user's DEFENSE.|
 486075| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is fixed[br]with a mean look[br]that prevents it[br]from escaping.|
-4860B7| 2| 77|0|I|Move Desc. (4 half lines)               |If it is the other[br]gender, the foe is[br]made infatuated and[br]unlikely to attack.|
+4860B7| 2| 77|0|I|Move Desc. (4 half lines)               |If it is the other[br]gender, the foe is[br]made infatuated and[br]unlikely to attack.|Een vijand van het[br]ander geslacht wordt[br]verliefd en gaat[br]bijna niet aanvallen.
 486105| 1| 63|0|I|Move Desc. (4 half lines)               |While asleep, the[br]user randomly uses[br]one of the moves it[br]knows.|
-486145| 1| 65|0|I|Move Desc. (4 half lines)               |A soothing bell[br]chimes to heal the[br]status problems of[br]all allies.|
+486145| 1| 65|0|I|Move Desc. (4 half lines)               |A soothing bell[br]chimes to heal the[br]status problems of[br]all allies.|Een kalmerende bel[br]weerklinkt en geneest[br]alle status problemen[br]van de groep.
 486187| 2| 73|0|I|Move Desc. (4 half lines)               |This attack move[br]grows more powerful[br]the more the user[br]likes its TRAINER.|
 4861D1| 1| 73|0|I|Move Desc. (4 half lines)               |The foe is given a[br]booby-trapped gift.[br]It restores HP[br]sometimes, however.|
 48621B| 2| 73|0|I|Move Desc. (4 half lines)               |This attack move[br]grows more powerful[br]the less the user[br]likes its TRAINER.|
 486265| 2| 69|0|I|Move Desc. (4 half lines)               |It protects the[br]user's party from[br]all status problems[br]for five turns.|
 4862AB| 1| 71|0|I|Move Desc. (4 half lines)               |The user adds its[br]HP to the foe's HP,[br]then equally shares[br]the total HP.|
-4862F3| 1| 60|0|I|Move Desc. (4 half lines)               |A mystical and[br]powerful fire[br]attack that may[br]inflict a burn.|
-486330| 1| 71|0|I|Move Desc. (4 half lines)               |A ground-shaking[br]attack against all[br]standing POKÈMON.[br]Its power varies.|
+4862F3| 1| 60|0|I|Move Desc. (4 half lines)               |A mystical and[br]powerful fire[br]attack that may[br]inflict a burn.|Mysterieuze, sterke[br]vuuraanval die een[br]brandwonde kan[br]veroorzaken.
+486330| 1| 71|0|I|Move Desc. (4 half lines)               |A ground-shaking[br]attack against all[br]standing POKÈMON.[br]Its power varies.|Een aardschuddende[br]aanval tegen alle[br]staande POKÈMON.[br]Variabele kracht.
 486378| 1| 78|0|I|Move Desc. (4 half lines)               |The foe is punched[br]with the user's full[br]power. It confuses[br]the foe if it hits.|
-4863C7| 1| 67|0|I|Move Desc. (4 half lines)               |A brutal ramming[br]attack delivered[br]with a tough and[br]impressive horn.|
+4863C7| 1| 67|0|I|Move Desc. (4 half lines)               |A brutal ramming[br]attack delivered[br]with a tough and[br]impressive horn.|Een brutale ram-[br]aanval met een[br]stevige hoorn.
 48640B| 1| 73|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]an incredible blast[br]of breath that may[br]also paralyze.|
 486455| 1| 73|0|I|Move Desc. (4 half lines)               |The user switches[br]out, passing along[br]any stat changes[br]to the new battler.|
 48649F| 1| 72|0|I|Move Desc. (4 half lines)               |Makes the foe use[br]the move it last[br]used repeatedly for[br]two to six turns.|
-4864E8| 1| 73|0|I|Move Desc. (4 half lines)               |An attack move that[br]works especially[br]well on a foe that[br]is switching out.|
-486532| 1| 70|0|I|Move Desc. (4 half lines)               |An attack that[br]frees the user from[br]BIND, WRAP, LEECH[br]SEED, and SPIKES.|
-486579| 1| 69|0|I|Move Desc. (4 half lines)               |Allures the foe to[br]reduce evasiveness.[br]It also attracts[br]wild POKÈMON.|
-4865BF| 2| 70|0|I|Move Desc. (4 half lines)               |An attack with a[br]steel-hard tail.[br]It may lower the[br]foe's DEFENSE stat.|
+4864E8| 1| 73|0|I|Move Desc. (4 half lines)               |An attack move that[br]works especially[br]well on a foe that[br]is switching out.|Werkt heel erg[br]goed op een vijand[br]die gaat wisselen.
+486532| 1| 70|0|I|Move Desc. (4 half lines)               |An attack that[br]frees the user from[br]BIND, WRAP, LEECH[br]SEED, and SPIKES.|Bevrijd de gebruiker[br]uit BIND, WRAP,[br]LEECH SEED[br]en SPIKES.
+486579| 1| 69|0|I|Move Desc. (4 half lines)               |Allures the foe to[br]reduce evasiveness.[br]It also attracts[br]wild POKÈMON.|De verliefde vijand[br]ontwijkt minder.[br]Trekt ook wilde[br]POKÈMON aan.
+4865BF| 2| 70|0|I|Move Desc. (4 half lines)               |An attack with a[br]steel-hard tail.[br]It may lower the[br]foe's DEFENSE stat.|Aanval met staal-[br]harde staart.[br]Kan de vijand zijn[br]AFWEER verlagen.
 486606| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with steel claws.[br]It may also raise[br]the user's ATTACK.|
 486651| 1| 65|0|I|Move Desc. (4 half lines)               |Makes the user[br]attack after the[br]foe. In return,[br]it will not miss.|
 486693| 1| 74|0|I|Move Desc. (4 half lines)               |Restores the user's[br]HP. The amount of[br]HP regained varies[br]with the weather.|
 4866DE| 1| 74|0|I|Move Desc. (4 half lines)               |Restores the user's[br]HP. The amount of[br]HP regained varies[br]with the weather.|
 486729| 1| 74|0|I|Move Desc. (4 half lines)               |Restores the user's[br]HP. The amount of[br]HP regained varies[br]with the weather.|
-486774| 2| 66|0|I|Move Desc. (4 half lines)               |An attack that[br]varies in type and[br]intensity depending[br]on the user.|
+486774| 2| 66|0|I|Move Desc. (4 half lines)               |An attack that[br]varies in type and[br]intensity depending[br]on the user.|VariÎert in sterkte[br]en type afhankelijk[br]van de gebruiker.
 4867B7| 1| 67|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]double chops.[br]It has a high[br]critical-hit ratio.|
-4867FB| 1| 62|0|I|Move Desc. (4 half lines)               |A vicious twister[br]attacks the foe.[br]It may make the[br]foe flinch.|
-48683A| 2| 65|0|I|Move Desc. (4 half lines)               |A heavy rain falls[br]for five turns,[br]powering up WATER-[br]type moves.|
+4867FB| 1| 62|0|I|Move Desc. (4 half lines)               |A vicious twister[br]attacks the foe.[br]It may make the[br]foe flinch.|Venijnige draai[br]aanval. Het kan[br]de tegenstander[br]doen terugdeinzen
+48683A| 2| 65|0|I|Move Desc. (4 half lines)               |A heavy rain falls[br]for five turns,[br]powering up WATER-[br]type moves.|5-beurten regenbui.[br]WATER technieken[br]worden versterkt.
 48687C| 2| 59|0|I|Move Desc. (4 half lines)               |The sun blazes for[br]five turns, powering[br]up FIRE-type[br]moves.|
 4868B8| 1| 69|0|I|Move Desc. (4 half lines)               |The foe is crunched[br]with sharp fangs.[br]It may lower the[br]foe's SP. DEF.|
-4868FE| 1| 66|0|I|Move Desc. (4 half lines)               |A retaliation move[br]that pays back the[br]foe's special attack[br]double.|
+4868FE| 1| 66|0|I|Move Desc. (4 half lines)               |A retaliation move[br]that pays back the[br]foe's special attack[br]double.|Vergeldingsaanval[br]die elke speciale[br]aanval dubbel[br]terug doet.
 486941| 1| 72|0|I|Move Desc. (4 half lines)               |The user hypnotizes[br]itself into copying[br]any stat change[br]made by the foe.|
-48698A| 1| 68|0|I|Move Desc. (4 half lines)               |A blindingly speedy[br]charge attack that[br]always goes before[br]any other.|
-4869CF| 1| 75|0|I|Move Desc. (4 half lines)               |An ancient power is[br]used to attack. It[br]may also raise all[br]the user's stats.|
-486A1B| 2| 70|0|I|Move Desc. (4 half lines)               |A shadowy blob is[br]hurled at the foe.[br]May also lower the[br]foe's SP. DEF.|
+48698A| 1| 68|0|I|Move Desc. (4 half lines)               |A blindingly speedy[br]charge attack that[br]always goes before[br]any other.|Ongelofelijk snelle[br]aanval die altijd[br]als eerste gaat.
+4869CF| 1| 75|0|I|Move Desc. (4 half lines)               |An ancient power is[br]used to attack. It[br]may also raise all[br]the user's stats.|Eanval met een[br]eeuwenoude kracht.[br]Alle eigenschappen [br]kunnen verhogen.[br]
+486A1B| 2| 70|0|I|Move Desc. (4 half lines)               |A shadowy blob is[br]hurled at the foe.[br]May also lower the[br]foe's SP. DEF.|Een schaduwrijke[br]blob is gegooid naar[br]de vijand. Verlaagt[br]ook de SP. AFW.
 486A62| 1| 67|0|I|Move Desc. (4 half lines)               |Two turns after[br]this move is used,[br]the foe is attacked[br]psychically.|
-486AA6| 2| 72|0|I|Move Desc. (4 half lines)               |An attack that may[br]also cut DEFENSE.[br]It can also smash[br]cracked boulders.|
+486AA6| 2| 72|0|I|Move Desc. (4 half lines)               |An attack that may[br]also cut DEFENSE.[br]It can also smash[br]cracked boulders.|Kan ook AFWEER[br]verlagen.[br]Kan ook gekraakte[br]rotsen breken.
 486AEF| 1| 70|0|I|Move Desc. (4 half lines)               |The foe is trapped[br]in a fast, vicious[br]whirlpool for two[br]to five turns.|
-486B36| 1| 71|0|I|Move Desc. (4 half lines)               |All party POKÈMON[br]join in the attack.[br]The more allies,[br]the more damage.|
-486B7E| 1| 72|0|I|Move Desc. (4 half lines)               |An attack that hits[br]first and causes[br]flinching. Usable[br]only on 1st turn.|
+486B36| 1| 71|0|I|Move Desc. (4 half lines)               |All party POKÈMON[br]join in the attack.[br]The more allies,[br]the more damage.|Alle POKÈMON van de[br]groep doen mee met[br]de aanval. Meer[br]POKÈMON meer schade.
+486B7E| 1| 72|0|I|Move Desc. (4 half lines)               |An attack that hits[br]first and causes[br]flinching. Usable[br]only on 1st turn.|Raakt eerst en doet[br]vijand terugdeinzen.[br]Enkel de 1e beurt te[br]gebruiken.
 486BC7| 1| 72|0|I|Move Desc. (4 half lines)               |The user attacks in[br]an uproar that[br]prevents sleep for[br]two to five turns.|
 486C10| 1| 68|0|I|Move Desc. (4 half lines)               |The user charges[br]up power for use[br]later. It can be[br]used three times.|
 486C55| 1| 63|0|I|Move Desc. (4 half lines)               |The power built[br]using STOCKPILE is[br]released at once[br]for attack.|
 486C95| 1| 62|0|I|Move Desc. (4 half lines)               |The energy it built[br]using STOCKPILE is[br]absorbed to restore[br]HP.|
 486CD4| 1| 71|0|I|Move Desc. (4 half lines)               |The user exhales a[br]heated breath to[br]attack. It may also[br]inflict a burn.|
-486D1C| 2| 71|0|I|Move Desc. (4 half lines)               |A hailstorm lasting[br]five turns damages[br]all POKÈMON except[br]the ICE-type.|
-486D64| 2| 76|0|I|Move Desc. (4 half lines)               |It enrages the foe,[br]making it incapable[br]of using the same[br]move successively.|
-486DB1| 1| 64|0|I|Move Desc. (4 half lines)               |Flattery is used to[br]confuse the foe,[br]but its SP. ATK[br]also rises.|
-486DF2| 1| 68|0|I|Move Desc. (4 half lines)               |A sinister, bluish[br]white flame is shot[br]at the foe to[br]inflict a burn.|
+486D1C| 2| 71|0|I|Move Desc. (4 half lines)               |A hailstorm lasting[br]five turns damages[br]all POKÈMON except[br]the ICE-type.|5-beurten hagelstorm[br]die alle POKÈMON[br]behalve ICE-type[br]beschadigt.
+486D64| 2| 76|0|I|Move Desc. (4 half lines)               |It enrages the foe,[br]making it incapable[br]of using the same[br]move successively.|Maakt vijand razend.[br]Hij kan niet twee[br]keer zelfde techniek[br]gebruiken na elkaar.
+486DB1| 1| 64|0|I|Move Desc. (4 half lines)               |Flattery is used to[br]confuse the foe,[br]but its SP. ATK[br]also rises.|Vlijerei word gebruikt[br]om de vijand te[br]verwarren. Maar zijn[br]SP AANV stijgt wel.
+486DF2| 1| 68|0|I|Move Desc. (4 half lines)               |A sinister, bluish[br]white flame is shot[br]at the foe to[br]inflict a burn.|Een blauw-witte[br]vlam schiet naar[br]de vijand om hem[br]te verbranden.
 486E37| 1| 65|0|I|Move Desc. (4 half lines)               |The user faints,[br]but sharply lowers[br]the foe's ATTACK[br]and SP. ATK.|
-486E79| 2| 68|0|I|Move Desc. (4 half lines)               |An attack that is[br]boosted if user is[br]burned, poisoned,[br]or paralyzed.|
-486EBE| 2| 69|0|I|Move Desc. (4 half lines)               |An attack that is[br]executed last.[br]The user flinches[br]if hit beforehand.|
-486F04| 1| 75|0|I|Move Desc. (4 half lines)               |Doubly effective on[br]a paralyzed foe,[br]but it also cures[br]the foe's paralysis.|
+486E79| 2| 68|0|I|Move Desc. (4 half lines)               |An attack that is[br]boosted if user is[br]burned, poisoned,[br]or paralyzed.|Aanval is sterker[br]als de gebruiker,[br]verbrand, verlamd[br]of vergiftigd is.
+486EBE| 2| 69|0|I|Move Desc. (4 half lines)               |An attack that is[br]executed last.[br]The user flinches[br]if hit beforehand.|Altijd als laatste.[br]Gaat niet door als[br]de aanvaller geraakt[br]wordt.
+486F04| 1| 75|0|I|Move Desc. (4 half lines)               |Doubly effective on[br]a paralyzed foe,[br]but it also cures[br]the foe's paralysis.|Dubbel zo sterk op[br]verlamde vijanden.[br]Maar geneest ook[br]de verlamming.
 486F50| 1| 69|0|I|Move Desc. (4 half lines)               |The user draws[br]attention to itself,[br]making foes attack[br]only the user.|
-486F96| 1| 61|0|I|Move Desc. (4 half lines)               |An attack that[br]changes type[br]depending on the[br]user's location.|
+486F96| 1| 61|0|I|Move Desc. (4 half lines)               |An attack that[br]changes type[br]depending on the[br]user's location.|Aanval die van type[br]verandert afhankelijk[br]van de gebruiker[br]zijn locatie.
 486FD4| 1| 63|0|I|Move Desc. (4 half lines)               |The user charges[br]power to boost the[br]ELECTRIC move it[br]uses next.|
 487014| 2| 71|0|I|Move Desc. (4 half lines)               |The foe is taunted[br]into a rage that[br]allows it to use[br]only attack moves.|
-48705C| 1| 62|0|I|Move Desc. (4 half lines)               |A move that boosts[br]the power of the[br]ally's attack in a[br]battle.|
-48709B| 1| 65|0|I|Move Desc. (4 half lines)               |A move that tricks[br]the foe into[br]trading held items[br]with the user.|
+48705C| 1| 62|0|I|Move Desc. (4 half lines)               |A move that boosts[br]the power of the[br]ally's attack in a[br]battle.|Vriendelijke POKÈMON[br]hun aanval word[br]versterkt in een[br]gevecht.
+48709B| 1| 65|0|I|Move Desc. (4 half lines)               |A move that tricks[br]the foe into[br]trading held items[br]with the user.|Techniek die de[br]vijand verwart en[br]zijn items ruilt met[br]de gebruiker.
 4870DD| 1| 64|0|I|Move Desc. (4 half lines)               |The user mimics the[br]foe completely and[br]copies the foe's[br]ability.|
-48711E| 1| 68|0|I|Move Desc. (4 half lines)               |A self-healing move[br]that restores half[br]the full HP on the[br]next turn.|
+48711E| 1| 68|0|I|Move Desc. (4 half lines)               |A self-healing move[br]that restores half[br]the full HP on the[br]next turn.|Herstelt de helft[br]van de gebruiker[br]zijn HP bij[br]de volgende beurt.
 487163| 1| 61|0|I|Move Desc. (4 half lines)               |The user randomly[br]picks and uses a[br]move of an allied[br]POKÈMON.|
 4871A1| 1| 71|0|I|Move Desc. (4 half lines)               |The user lays roots[br]that restore HP on[br]every turn.[br]It can't switch out.|
-4871E9| 1| 74|0|I|Move Desc. (4 half lines)               |A powerful attack,[br]but it also lowers[br]the user's ATTACK[br]and DEFENSE stats.|
+4871E9| 1| 74|0|I|Move Desc. (4 half lines)               |A powerful attack,[br]but it also lowers[br]the user's ATTACK[br]and DEFENSE stats.|Een krachtige aanval[br]maar de AANVAL en[br]AFWEER van de[br]gebruiker zakt wel.
 487234| 1| 65|0|I|Move Desc. (4 half lines)               |Reflects back the[br]foe's LEECH SEED[br]and any status-[br]damaging move.|
-487276| 1| 51|0|I|Move Desc. (4 half lines)               |A move that[br]recycles a used[br]item for use once[br]more.|
-4872AA| 1| 71|0|I|Move Desc. (4 half lines)               |An attack move that[br]gains in intensity if[br]the target has hurt[br]the user.|
-4872F2| 2| 69|0|I|Move Desc. (4 half lines)               |An attack that also[br]breaks any barrier[br]like LIGHT SCREEN[br]and REFLECT.|
-487338| 1| 63|0|I|Move Desc. (4 half lines)               |A huge yawn lulls[br]the foe into falling[br]asleep on the next[br]turn.|
+487276| 1| 51|0|I|Move Desc. (4 half lines)               |A move that[br]recycles a used[br]item for use once[br]more.|Recycleert een[br]gebruikt item[br]zodat het nog eens[br]gebruikt kan worden.
+4872AA| 1| 71|0|I|Move Desc. (4 half lines)               |An attack move that[br]gains in intensity if[br]the target has hurt[br]the user.|Techniek die meer[br]schade doet als de[br]vijand je al pijn[br]heeft gedaan.
+4872F2| 2| 69|0|I|Move Desc. (4 half lines)               |An attack that also[br]breaks any barrier[br]like LIGHT SCREEN[br]and REFLECT.|Breekt door elke[br]muur zoals LIGHT[br]SCREEN en REFLECT.
+487338| 1| 63|0|I|Move Desc. (4 half lines)               |A huge yawn lulls[br]the foe into falling[br]asleep on the next[br]turn.|Een grote geeuw[br]versuft de vijand[br]zodat hij volgende[br]beurt in slaap valt.
 487378| 1| 69|0|I|Move Desc. (4 half lines)               |Knocks down the[br]foe's held item to[br]prevent its use[br]during the battle.|
-4873BE| 1| 60|0|I|Move Desc. (4 half lines)               |Gains power the[br]fewer HP the user[br]has compared with[br]the foe.|
+4873BE| 1| 60|0|I|Move Desc. (4 half lines)               |Gains power the[br]fewer HP the user[br]has compared with[br]the foe.|Hoe lager de HP van[br]de gebruiker in[br]vergelijking met de[br]vijand, hoe sterker.
 4873FB| 1| 64|0|I|Move Desc. (4 half lines)               |The higher the[br]user's HP, the more[br]powerful this[br]attack becomes.|
 48743C| 2| 66|0|I|Move Desc. (4 half lines)               |The user employs[br]its psychic power[br]to swap abilities[br]with the foe.|
 48747F| 1| 65|0|I|Move Desc. (4 half lines)               |Prevents foes from[br]using any move[br]that is also known[br]by the user.|
-4874C1| 1| 75|0|I|Move Desc. (4 half lines)               |A self-healing move[br]that cures the user[br]of a poisoning,[br]burn, or paralysis.|
-48750D| 1| 74|0|I|Move Desc. (4 half lines)               |If the user faints,[br]this move deletes[br]the PP of the move[br]that finished it.|
+4874C1| 1| 75|0|I|Move Desc. (4 half lines)               |A self-healing move[br]that cures the user[br]of a poisoning,[br]burn, or paralysis.|Geneest de gebruiker[br]van gif, brandwonde[br]of verlamming.
+48750D| 1| 74|0|I|Move Desc. (4 half lines)               |If the user faints,[br]this move deletes[br]the PP of the move[br]that finished it.|De techniek die de[br]gebruiker flauw doet[br]vallen verliest al zijn[br]overblijvende PP.
 487558| 2| 65|0|I|Move Desc. (4 half lines)               |Steals the effects[br]of the foe's[br]healing or status-[br]changing move.|
-48759A| 2| 74|0|I|Move Desc. (4 half lines)               |An attack that may[br]have an additional[br]effect that varies[br]with the terrain.|
+48759A| 2| 74|0|I|Move Desc. (4 half lines)               |An attack that may[br]have an additional[br]effect that varies[br]with the terrain.|Kan een extra[br]effect hebben[br]afhankelijk van het[br]terrein.
 4875E5| 2| 66|0|I|Move Desc. (4 half lines)               |The user dives[br]underwater on the[br]first turn and[br]strikes next turn.|
-487628| 1| 66|0|I|Move Desc. (4 half lines)               |A quick flurry of[br]straight-arm[br]punches that hit[br]two to five times.|
-48766B| 1| 59|0|I|Move Desc. (4 half lines)               |Alters the user's[br]type depending on[br]the location's[br]terrain.|
+487628| 1| 66|0|I|Move Desc. (4 half lines)               |A quick flurry of[br]straight-arm[br]punches that hit[br]two to five times.|Een snelle reeks[br]slagen die twee tot[br]vijf keer raken.
+48766B| 1| 59|0|I|Move Desc. (4 half lines)               |Alters the user's[br]type depending on[br]the location's[br]terrain.|Past de gebruiker[br]zijn type aan[br]afhankelijk van[br]het terrein.
 4876A7| 1| 62|0|I|Move Desc. (4 half lines)               |The user flashes a[br]light that sharply[br]raises its SP. ATK[br]stat.|
-4876E6| 1| 70|0|I|Move Desc. (4 half lines)               |A burst of light[br]injures the foe. It[br]may also lower the[br]foe's SP. DEF.|
-48772D| 1| 67|0|I|Move Desc. (4 half lines)               |A flurry of down[br]hits the foe. It[br]may also lower the[br]foe's SP. ATK.|
+4876E6| 1| 70|0|I|Move Desc. (4 half lines)               |A burst of light[br]injures the foe. It[br]may also lower the[br]foe's SP. DEF.|Lichtflits die de[br]vijand verwond. Kan[br]ook zijn SP. AFW[br]verlagen.
+48772D| 1| 67|0|I|Move Desc. (4 half lines)               |A flurry of down[br]hits the foe. It[br]may also lower the[br]foe's SP. ATK.|Een hele hoop dons[br]raakt de vijand. Kan[br]ook zijn SP. AANV[br]verlagen.
 487771| 1| 73|0|I|Move Desc. (4 half lines)               |The foe is covered[br]with a mass of down[br]that sharply cuts[br]the ATTACK stat.|
-4877BB| 1| 55|0|I|Move Desc. (4 half lines)               |A wobbly dance[br]that confuses all[br]the POKÈMON in[br]battle.|
-4877F3| 1| 70|0|I|Move Desc. (4 half lines)               |A fiery kick with a[br]high critical-hit[br]ratio. It may also[br]burn the foe.|
+4877BB| 1| 55|0|I|Move Desc. (4 half lines)               |A wobbly dance[br]that confuses all[br]the POKÈMON in[br]battle.|Wiebelige dans die[br]alle POKÈMON in[br]het gevecht verwart.
+4877F3| 1| 70|0|I|Move Desc. (4 half lines)               |A fiery kick with a[br]high critical-hit[br]ratio. It may also[br]burn the foe.|Vurige schop met[br]veel kans op super-[br]slagen. Kan brand-[br]wonde veroorzaken.
 48783A| 1| 63|0|I|Move Desc. (4 half lines)               |Weakens ELECTRIC-[br]type attacks while[br]the user is in the[br]battle.|
-48787A| 1| 65|0|I|Move Desc. (4 half lines)               |A 5-turn rolling[br]attack that becomes[br]stronger each time[br]it rolls.|
-4878BC| 1| 56|0|I|Move Desc. (4 half lines)               |An attack using[br]thorny arms.[br]It may make the[br]foe flinch.|
+48787A| 1| 65|0|I|Move Desc. (4 half lines)               |A 5-turn rolling[br]attack that becomes[br]stronger each time[br]it rolls.|5-beurt rollende[br]aanval die sterker[br]word elke keer[br]hij rolt.
+4878BC| 1| 56|0|I|Move Desc. (4 half lines)               |An attack using[br]thorny arms.[br]It may make the[br]foe flinch.|Aanval met puntige[br]armen. Het kan de[br]vijand doen[br]terugdeinzen.
 4878F5| 1| 60|0|I|Move Desc. (4 half lines)               |The user slacks off[br]and restores its HP[br]by half its full[br]HP.|
 487932| 1| 67|0|I|Move Desc. (4 half lines)               |The user lets loose[br]a horribly loud[br]shout with the[br]power to damage.|
 487976| 1| 69|0|I|Move Desc. (4 half lines)               |The foe is bitten[br]with toxic fangs.[br]It may also badly[br]poison the foe.|
@@ -8821,17 +8821,17 @@
 487A07| 1| 75|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a huge explosion.[br]The user can't move[br]on the next turn.|
 487A53| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a watery cannon.[br]The user can't move[br]on the next turn.|
 487A9E| 1| 76|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a hard, fast punch.[br]It may also raise[br]the user's ATTACK.|
-487AEB| 1| 67|0|I|Move Desc. (4 half lines)               |An attack using a[br]startling shout.[br]It also may make[br]the foe flinch.|
-487B2F| 1| 65|0|I|Move Desc. (4 half lines)               |An attack that[br]varies in power and[br]type depending on[br]the weather.|
-487B71| 1| 77|0|I|Move Desc. (4 half lines)               |A soothing scent is[br]released to heal[br]all status problems[br]in the user's party.|
+487AEB| 1| 67|0|I|Move Desc. (4 half lines)               |An attack using a[br]startling shout.[br]It also may make[br]the foe flinch.|Aanval met een luide[br]roep. Kan de vijand[br]doen terugdeinzen.
+487B2F| 1| 65|0|I|Move Desc. (4 half lines)               |An attack that[br]varies in power and[br]type depending on[br]the weather.|VariÎert in sterkte[br]en type afhankelijk[br]van het weer.
+487B71| 1| 77|0|I|Move Desc. (4 half lines)               |A soothing scent is[br]released to heal[br]all status problems[br]in the user's party.|Een kalmerende geur[br]verspreid en geneest[br]alle status problemen[br]van de groep.
 487BBF| 1| 63|0|I|Move Desc. (4 half lines)               |The user feigns[br]crying to sharply[br]lower the foe's[br]SP. DEF stat.|
 487BFF| 1| 70|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]razor-like wind.[br]It has a high[br]critical-hit ratio.|
-487C46| 2| 68|0|I|Move Desc. (4 half lines)               |An intense attack[br]that also sharply[br]reduces the user's[br]SP. ATK stat.|
-487C8B| 1| 70|0|I|Move Desc. (4 half lines)               |Completely negates[br]the foe's efforts to[br]heighten its ability[br]to evade.|
-487CD2| 2| 74|0|I|Move Desc. (4 half lines)               |Boulders are hurled[br]at the foe. It also[br]lowers the foe's[br]SPEED if it hits.|
+487C46| 2| 68|0|I|Move Desc. (4 half lines)               |An intense attack[br]that also sharply[br]reduces the user's[br]SP. ATK stat.|Een furieuze aanval[br]die de gebruiker[br]zijn SP. AANV sterk[br]doet dalen.
+487C8B| 1| 70|0|I|Move Desc. (4 half lines)               |Completely negates[br]the foe's efforts to[br]heighten its ability[br]to evade.|Doet de vijand zijn[br]poging om te[br]ontwijken teniet.
+487CD2| 2| 74|0|I|Move Desc. (4 half lines)               |Boulders are hurled[br]at the foe. It also[br]lowers the foe's[br]SPEED if it hits.|Gooit rotsen naar de[br]vijand. Zijn SNELHEID[br]word verlaagd als[br]ze raken.
 487D1D| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with a silver dust.[br]It may raise all[br]the user's stats.|
-487D68| 1| 71|0|I|Move Desc. (4 half lines)               |A horrible metallic[br]screech is used to[br]sharply lower the[br]foe's SP. DEF.|
-487DB0| 1| 62|0|I|Move Desc. (4 half lines)               |A pleasant melody[br]is played to lull[br]the foe into a deep[br]sleep.|
+487D68| 1| 71|0|I|Move Desc. (4 half lines)               |A horrible metallic[br]screech is used to[br]sharply lower the[br]foe's SP. DEF.|Een akelige metalen[br]krijs verlaagt de[br]vijand zijn SP. AFW.
+487DB0| 1| 62|0|I|Move Desc. (4 half lines)               |A pleasant melody[br]is played to lull[br]the foe into a deep[br]sleep.|Een aangename[br]melodie word[br]gespeeld en wiegt[br]de vijand in slaap.
 487DEF| 1| 64|0|I|Move Desc. (4 half lines)               |The foe is made to[br]laugh, reducing its[br]ATTACK and DEFENSE[br]stats.|
 487E30| 1| 65|0|I|Move Desc. (4 half lines)               |The user absorbs a[br]mystic power to[br]raise its DEFENSE[br]and SP. DEF.|
 487E72| 1| 64|0|I|Move Desc. (4 half lines)               |The higher the[br]user's HP, the more[br]powerful this[br]attack becomes.|
@@ -8843,7 +8843,7 @@
 487FF9| 1| 71|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with ultimate cold[br]that causes fainting[br]if it hits.|
 488041| 1| 72|0|I|Move Desc. (4 half lines)               |The user attacks[br]with muddy water.[br]It may also lower[br]the foe's accuracy.|
 48808A| 2| 69|0|I|Move Desc. (4 half lines)               |The user shoots[br]seeds at the foe.[br]Two to five seeds[br]are shot at once.|
-4880D0| 2| 64|0|I|Move Desc. (4 half lines)               |An extremely fast[br]attack against one[br]target. It can't be[br]evaded.|
+4880D0| 2| 64|0|I|Move Desc. (4 half lines)               |An extremely fast[br]attack against one[br]target. It can't be[br]evaded.|Een extreem snelle[br]aanval die niet[br]ontweken kan worden.
 488111| 1| 65|0|I|Move Desc. (4 half lines)               |Sharp icicles are[br]fired at the foe.[br]It strikes two to[br]five times.|
 488153| 1| 70|0|I|Move Desc. (4 half lines)               |The user hardens[br]its body's surface[br]to sharply raise its[br]DEFENSE stat.|
 48819A| 1| 70|0|I|Move Desc. (4 half lines)               |The user blocks the[br]foe's way with arms[br]spread wide to[br]prevent escape.|
@@ -8853,19 +8853,19 @@
 4882B4| 2| 70|0|I|Move Desc. (4 half lines)               |The user bulks up[br]its body to boost[br]both its ATTACK and[br]DEFENSE stats.|
 4882FB| 1| 69|0|I|Move Desc. (4 half lines)               |The user bounces[br]on the foe on the[br]2nd turn. It may[br]paralyze the foe.|
 488341| 1| 65|0|I|Move Desc. (4 half lines)               |The user attacks by[br]hurling mud.[br]It also reduces the[br]foe's SPEED.|
-488383| 1| 69|0|I|Move Desc. (4 half lines)               |An attack with a[br]high critical-hit[br]ratio. It may also[br]poison the foe.|
-4883C9| 1| 62|0|I|Move Desc. (4 half lines)               |A cutely executed[br]attack that also[br]steals the foe's[br]hold item.|
+488383| 1| 69|0|I|Move Desc. (4 half lines)               |An attack with a[br]high critical-hit[br]ratio. It may also[br]poison the foe.|Veel kans op super-[br]slagen. [br]Kan de vijand ook[br]vergiftigen.
+4883C9| 1| 62|0|I|Move Desc. (4 half lines)               |A cutely executed[br]attack that also[br]steals the foe's[br]hold item.|Schattig uitgevoerde[br]aanval die de vijand[br]zijn vastgehouden[br]item steelt.
 488408| 1| 66|0|I|Move Desc. (4 half lines)               |The user throws an[br]electrified tackle.[br]It hurts the user[br]a little.|
 48844B| 1| 62|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with a strange leaf[br]that cannot be[br]evaded.|
 48848A| 1| 58|0|I|Move Desc. (4 half lines)               |Weakens FIRE-type[br]attacks while the[br]user is in the[br]battle.|
 4884C5| 2| 65|0|I|Move Desc. (4 half lines)               |The user focuses[br]its mind to raise[br]the SP. ATK and[br]SP. DEF stats.|
 488507| 1| 71|0|I|Move Desc. (4 half lines)               |The foe is slashed[br]with a sharp leaf.[br]It has a high[br]critical-hit ratio.|
-48854F| 1| 71|0|I|Move Desc. (4 half lines)               |A mystic, powerful[br]dance that boosts[br]the user's ATTACK[br]and SPEED stats.|
+48854F| 1| 71|0|I|Move Desc. (4 half lines)               |A mystic, powerful[br]dance that boosts[br]the user's ATTACK[br]and SPEED stats.|Mysterieuze, sterke,[br]dans die de AANVAL[br]en SNELHEID van de[br]gebruiker verhoogt.
 488597| 1| 59|0|I|Move Desc. (4 half lines)               |The user hurls two[br]to five hard rocks[br]at the foe to[br]attack.|
-4885D3| 2| 64|0|I|Move Desc. (4 half lines)               |A rapid jolt of[br]electricity strikes[br]the foe. It can't[br]be evaded.|
-488614| 2| 69|0|I|Move Desc. (4 half lines)               |An attack with a[br]pulsing blast of[br]water. It may also[br]confuse the foe.|
-48865A| 1| 70|0|I|Move Desc. (4 half lines)               |A move that attacks[br]the foe with a[br]blast of light two[br]turns after use.|
-4886A1| 1| 68|0|I|Move Desc. (4 half lines)               |An intense attack[br]that also sharply[br]reduces the user's[br]SP. ATK stat.|
+4885D3| 2| 64|0|I|Move Desc. (4 half lines)               |A rapid jolt of[br]electricity strikes[br]the foe. It can't[br]be evaded.|Een snelle flits[br]electriciteit raakt[br]de vijand. Kan niet[br]ontweken worden.
+488614| 2| 69|0|I|Move Desc. (4 half lines)               |An attack with a[br]pulsing blast of[br]water. It may also[br]confuse the foe.|Aanval met een[br]waterstoot. [br]Kan de vijand[br]ook verwarren.
+48865A| 1| 70|0|I|Move Desc. (4 half lines)               |A move that attacks[br]the foe with a[br]blast of light two[br]turns after use.|Een techniek die de[br]vijand met een[br]lichtbundel aanvalt 2[br]beurten na gebruik.
+4886A1| 1| 68|0|I|Move Desc. (4 half lines)               |An intense attack[br]that also sharply[br]reduces the user's[br]SP. ATK stat.|Een furieuze aanval[br]die de gebruiker[br]zijn SP. AANV sterk[br]doet dalen.
 488C70| 1| 49|0|D|                                        |Obtained a [var2] BERRY![br]Dad has it at PETALBURG GYM.|
 488CA2| 1| 43|0|D|                                        |The [var1] BERRY transformed into[br]one [var2] BERRY.|
 488CCE| 1| 39|0|D|                                        |The [var1] BERRY has already been[br]obtained.|
