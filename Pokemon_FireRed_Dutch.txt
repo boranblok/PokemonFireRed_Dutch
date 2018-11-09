@@ -4399,15 +4399,360 @@
 1C6787| 1|195|0|D|Teachy TV                               |This will make the POKÈMON a lot[br]easier to catch![nb2]Oh, yes. If you paralyze a[br]POKÈMON, you can't make it fall[nb]asleep on top of paralysis.[nb2]In other words, you can't double[br]up status problems, okay?|Dit maakt de POKÈMON veel[br]gemakkelijker te vangen![nb2]O, voor ik het vergeet. Als je een[br]POKÈMON verlamt kan je hem niet[nb]ook nog in slaap laten vallen.[nb2]Met andere woorden, je kan geen[br]dubbele status problemen geven.
 1C684B| 1| 32|0|D|Teachy TV                               |Okay![br]Let me throw my POKÈ BALL!|Ok![br]Laat me mijn POKÈ BALL gooien!
 1C686C| 1|125|0|D|Teachy TV                               |Before you throw a POKÈ BALL,[br]consider the condition and the[nb]type of POKÈMON, and pick the kind[nb]of BALL that would work best.|Voor je een POKÈ BALL gooit,[br]kijk naar de toestand en het type[nb]POKÈMON en pak het soort BALL[nb]die het best gaat werken.
-247157| 1|  3|0|D|                                        |CUT|KAP
-2473C9| 1|  8|0|D|                                        |PER BEAM|
-247404| 1| 11|0|D|                                        |    COUNTER|
-247422| 1|  8|0|D|                                        |STRENGTH|
-247533| 1|  3|0|D|                                        |DIG|
-247557| 1| 10|0|D|                                        |   PSYCHIC|
-24776F| 1| 10|0|D|                                        |SOFTBOILED|
-2477B8| 1| 15|0|D|                                        |     LEECH LIFE|
-247D39| 1| 10|0|D|                                        |ROCK SMASH|
+2470A1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POUND|
+2470AE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |KARATE CHOP|
+2470BB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLESLAP|
+2470C8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COMET PUNCH|
+2470D5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGA PUNCH|
+2470E2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PAY DAY|
+2470EF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FIRE PUNCH|
+2470FC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICE PUNCH|
+247109| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDERPUNCH|
+247116| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SCRATCH|
+247123| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VICEGRIP|
+247130| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GUILLOTINE|
+24713D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAZOR WIND|
+24714A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWORDS DANCE|
+247157| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |CUT|KAP
+247164| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GUST|
+247171| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WING ATTACK|
+24717E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WHIRLWIND|
+24718B| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLY|
+247198| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BIND|
+2471A5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLAM|
+2471B2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VINE WHIP|
+2471BF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STOMP|
+2471CC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLE KICK|
+2471D9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGA KICK|
+2471E6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |JUMP KICK|
+2471F3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROLLING KICK|
+247200| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SAND-ATTACK|
+24720D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HEADBUTT|
+24721A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HORN ATTACK|
+247227| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FURY ATTACK|
+247234| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HORN DRILL|
+247241| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TACKLE|
+24724E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BODY SLAM|
+24725B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WRAP|
+247268| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TAKE DOWN|
+247275| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THRASH|
+247282| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLE-EDGE|
+24728F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TAIL WHIP|
+24729C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON STING|
+2472A9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TWINEEDLE|
+2472B6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PIN MISSILE|
+2472C3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEER|
+2472D0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BITE|
+2472DD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GROWL|
+2472EA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROAR|
+2472F7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SING|
+247304| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUPERSONIC|
+247311| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SONICBOOM|
+24731E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DISABLE|
+24732B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ACID|
+247338| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EMBER|
+247345| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLAMETHROWER|
+247352| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIST|
+24735F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WATER GUN|
+24736C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYDRO PUMP|
+247379| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |SURF|
+247386| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICE BEAM|
+247393| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BLIZZARD|
+2473A0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYBEAM|
+2473AD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BUBBLEBEAM|
+2473BA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AURORA BEAM|
+2473C7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYPER BEAM|
+2473D4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PECK|
+2473E1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRILL PECK|
+2473EE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUBMISSION|
+2473FB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LOW KICK|
+247408| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COUNTER|
+247415| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SEISMIC TOSS|
+247422| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |STRENGTH|
+24742F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ABSORB|
+24743C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGA DRAIN|
+247449| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEECH SEED|
+247456| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GROWTH|
+247463| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAZOR LEAF|
+247470| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SOLARBEAM|
+24747D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISONPOWDER|
+24748A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STUN SPORE|
+247497| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLEEP POWDER|
+2474A4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PETAL DANCE|
+2474B1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STRING SHOT|
+2474BE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRAGON RAGE|
+2474CB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FIRE SPIN|
+2474D8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDERSHOCK|
+2474E5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDERBOLT|
+2474F2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDER WAVE|
+2474FF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDER|
+24750C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROCK THROW|
+247519| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EARTHQUAKE|
+247526| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FISSURE|
+247533| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |DIG|
+247540| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TOXIC|
+24754D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONFUSION|
+24755A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYCHIC|
+247567| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYPNOSIS|
+247574| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEDITATE|
+247581| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AGILITY|
+24758E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |QUICK ATTACK|
+24759B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAGE|
+2475A8| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |TELEPORT|
+2475B5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |NIGHT SHADE|
+2475C2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIMIC|
+2475CF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SCREECH|
+2475DC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLE TEAM|
+2475E9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RECOVER|
+2475F6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HARDEN|
+247603| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MINIMIZE|
+247610| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SMOKESCREEN|
+24761D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONFUSE RAY|
+24762A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WITHDRAW|
+247637| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DEFENSE CURL|
+247644| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BARRIER|
+247651| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LIGHT SCREEN|
+24765E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HAZE|
+24766B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REFLECT|
+247678| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FOCUS ENERGY|
+247685| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BIDE|
+247692| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |METRONOME|
+24769F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIRROR MOVE|
+2476AC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SELFDESTRUCT|
+2476B9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EGG BOMB|
+2476C6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LICK|
+2476D3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SMOG|
+2476E0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLUDGE|
+2476ED| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BONE CLUB|
+2476FA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FIRE BLAST|
+247707| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |WATERFALL|
+247714| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CLAMP|
+247721| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWIFT|
+24772E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKULL BASH|
+24773B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPIKE CANNON|
+247748| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONSTRICT|
+247755| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AMNESIA|
+247762| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |KINESIS|
+24776F| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |SOFTBOILED|
+24777C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HI JUMP KICK|
+247789| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GLARE|
+247796| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DREAM EATER|
+2477A3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON GAS|
+2477B0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BARRAGE|
+2477BD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEECH LIFE|
+2477CA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LOVELY KISS|
+2477D7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKY ATTACK|
+2477E4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TRANSFORM|
+2477F1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BUBBLE|
+2477FE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DIZZY PUNCH|
+24780B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPORE|
+247818| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLASH|
+247825| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYWAVE|
+247832| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPLASH|
+24783F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ACID ARMOR|
+24784C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CRABHAMMER|
+247859| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EXPLOSION|
+247866| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FURY SWIPES|
+247873| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BONEMERANG|
+247880| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REST|
+24788D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROCK SLIDE|
+24789A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYPER FANG|
+2478A7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SHARPEN|
+2478B4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONVERSION|
+2478C1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TRI ATTACK|
+2478CE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUPER FANG|
+2478DB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLASH|
+2478E8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUBSTITUTE|
+2478F5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STRUGGLE|
+247902| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKETCH|
+24790F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TRIPLE KICK|
+24791C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THIEF|
+247929| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPIDER WEB|
+247936| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIND READER|
+247943| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |NIGHTMARE|
+247950| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLAME WHEEL|
+24795D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SNORE|
+24796A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CURSE|
+247977| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLAIL|
+247984| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONVERSION 2|
+247991| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AEROBLAST|
+24799E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COTTON SPORE|
+2479AB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REVERSAL|
+2479B8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPITE|
+2479C5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POWDER SNOW|
+2479D2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PROTECT|
+2479DF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MACH PUNCH|
+2479EC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SCARY FACE|
+2479F9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FAINT ATTACK|
+247A06| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWEET KISS|
+247A13| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BELLY DRUM|
+247A20| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLUDGE BOMB|
+247A2D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MUD-SLAP|
+247A3A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |OCTAZOOKA|
+247A47| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPIKES|
+247A54| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ZAP CANNON|
+247A61| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FORESIGHT|
+247A6E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DESTINY BOND|
+247A7B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PERISH SONG|
+247A88| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICY WIND|
+247A95| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DETECT|
+247AA2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BONE RUSH|
+247AAF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LOCK-ON|
+247ABC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |OUTRAGE|
+247AC9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SANDSTORM|
+247AD6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GIGA DRAIN|
+247AE3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ENDURE|
+247AF0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CHARM|
+247AFD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROLLOUT|
+247B0A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FALSE SWIPE|
+247B17| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWAGGER|
+247B24| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |MILK DRINK|
+247B31| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPARK|
+247B3E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FURY CUTTER|
+247B4B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STEEL WING|
+247B58| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEAN LOOK|
+247B65| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ATTRACT|
+247B72| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLEEP TALK|
+247B7F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HEAL BELL|
+247B8C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RETURN|
+247B99| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PRESENT|
+247BA6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FRUSTRATION|
+247BB3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SAFEGUARD|
+247BC0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PAIN SPLIT|
+247BCD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SACRED FIRE|
+247BDA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MAGNITUDE|
+247BE7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DYNAMICPUNCH|
+247BF4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGAHORN|
+247C01| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRAGONBREATH|
+247C0E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BATON PASS|
+247C1B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ENCORE|
+247C28| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PURSUIT|
+247C35| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAPID SPIN|
+247C42| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWEET SCENT|
+247C4F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |IRON TAIL|
+247C5C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |METAL CLAW|
+247C69| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VITAL THROW|
+247C76| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MORNING SUN|
+247C83| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SYNTHESIS|
+247C90| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MOONLIGHT|
+247C9D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HIDDEN POWER|
+247CAA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CROSS CHOP|
+247CB7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TWISTER|
+247CC4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAIN DANCE|
+247CD1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUNNY DAY|
+247CDE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CRUNCH|
+247CEB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIRROR COAT|
+247CF8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYCH UP|
+247D05| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EXTREMESPEED|
+247D12| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ANCIENTPOWER|
+247D1F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SHADOW BALL|
+247D2C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FUTURE SIGHT|
+247D39| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROCK SMASH|
+247D46| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WHIRLPOOL|
+247D53| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BEAT UP|
+247D60| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FAKE OUT|
+247D6D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |UPROAR|
+247D7A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STOCKPILE|
+247D87| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPIT UP|
+247D94| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWALLOW|
+247DA1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HEAT WAVE|
+247DAE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HAIL|
+247DBB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TORMENT|
+247DC8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLATTER|
+247DD5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WILL-O-WISP|
+247DE2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEMENTO|
+247DEF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FACADE|
+247DFC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FOCUS PUNCH|
+247E09| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SMELLINGSALT|
+247E16| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FOLLOW ME|
+247E23| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |NATURE POWER|
+247E30| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CHARGE|
+247E3D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TAUNT|
+247E4A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HELPING HAND|
+247E57| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TRICK|
+247E64| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROLE PLAY|
+247E71| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WISH|
+247E7E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ASSIST|
+247E8B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |INGRAIN|
+247E98| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUPERPOWER|
+247EA5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MAGIC COAT|
+247EB2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RECYCLE|
+247EBF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REVENGE|
+247ECC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BRICK BREAK|
+247ED9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |YAWN|
+247EE6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |KNOCK OFF|
+247EF3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ENDEAVOR|
+247F00| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ERUPTION|
+247F0D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKILL SWAP|
+247F1A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |IMPRISON|
+247F27| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REFRESH|
+247F34| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GRUDGE|
+247F41| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SNATCH|
+247F4E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SECRET POWER|
+247F5B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DIVE|
+247F68| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ARM THRUST|
+247F75| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CAMOUFLAGE|
+247F82| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TAIL GLOW|
+247F8F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LUSTER PURGE|
+247F9C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIST BALL|
+247FA9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FEATHERDANCE|
+247FB6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TEETER DANCE|
+247FC3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BLAZE KICK|
+247FD0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MUD SPORT|
+247FDD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICE BALL|
+247FEA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |NEEDLE ARM|
+247FF7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLACK OFF|
+248004| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYPER VOICE|
+248011| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON FANG|
+24801E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CRUSH CLAW|
+24802B| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |BLAST BURN|
+248038| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYDRO CANNON|
+248045| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |METEOR MASH|
+248052| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ASTONISH|
+24805F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WEATHER BALL|
+24806C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AROMATHERAPY|
+248079| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FAKE TEARS|
+248086| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AIR CUTTER|
+248093| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |OVERHEAT|
+2480A0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ODOR SLEUTH|
+2480AD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROCK TOMB|
+2480BA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SILVER WIND|
+2480C7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |METAL SOUND|
+2480D4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GRASSWHISTLE|
+2480E1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TICKLE|
+2480EE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COSMIC POWER|
+2480FB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WATER SPOUT|
+248108| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SIGNAL BEAM|
+248115| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SHADOW PUNCH|
+248122| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EXTRASENSORY|
+24812F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKY UPPERCUT|
+24813C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SAND TOMB|
+248149| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SHEER COLD|
+248156| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MUDDY WATER|
+248163| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BULLET SEED|
+248170| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AERIAL ACE|
+24817D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICICLE SPEAR|
+24818A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |IRON DEFENSE|
+248197| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BLOCK|
+2481A4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HOWL|
+2481B1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRAGON CLAW|
+2481BE| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |FRENZY PLANT|
+2481CB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BULK UP|
+2481D8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BOUNCE|
+2481E5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MUD SHOT|
+2481F2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON TAIL|
+2481FF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COVET|
+24820C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VOLT TACKLE|
+248219| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MAGICAL LEAF|
+248226| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WATER SPORT|
+248233| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CALM MIND|
+248240| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEAF BLADE|
+24824D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRAGON DANCE|
+24825A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROCK BLAST|
+248267| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SHOCK WAVE|
+248274| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WATER PULSE|
+248281| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOOM DESIRE|
+24828E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYCHO BOOST|
 24F1A0| 5|  6|0|D|                                        |NORMAL|
 24F1A7| 1|  5|0|D|                                        |FIGHT|
 24F1AE| 1|  6|0|D|                                        |FLYING|
