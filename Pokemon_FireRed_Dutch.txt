@@ -464,7 +464,7 @@
 177D8B| 1| 53|0|D|Safari Zone Area 3                      |I hiked a lot, but I didn't see any[br]POKÈMON I wanted.|Ik heb veel rond gewandeld, maar ik[br]heb geen POKÈMON gezien die ik wou.
 177DC1| 1|208|0|D|Secret House                            |Ah! Finally![nb2]You're the first person to reach[br]the SECRET HOUSE![nb2]Although I made a campaign[br]for our grand opening,[nb2]I was getting worried that no one[br]would win our campaign prize.[nb2]Congratulations![br]You have won!|Ah! Eindelijk![nb2]Je bent de eerste persoon die[br]het GEHEIME HUIS gevonden heeft![nb2]Ik maakte nochtans veel reclame.[nb2]Ik was al ongerust dat niemand onze[br]grote openingsprijs zou winnen.[nb2]Gefeliciteerd![br]Jij hebt gewonnen!
 177E92| 1| 36|0|D|Secret House                            |[PLAYER] received HM03[br]from the attendant!|[PLAYER] heeft HM03 gekregen[br]van de opzichter!
-177EB7| 2|186|0|D|Secret House                            |HM03 is SURF.[nb2]POKÈMON will be able to ferry you[br]across water using it.[nb2]And, this HM isn't disposable, so[br]you can use it over and over.[nb2]You're super lucky for winning this[br]fabulous prize!|HM03 is SURF.[nb2]Hiermee kunnen POKÈMON je[br]vervoeren over het water.[nb2]Deze HM is herbruikbaar, dus je kan[br]het opnieuw en opnieuw gebruiken.[nb2]Je hebt veel geluk dat je deze[br]prijs gewonnen hebt!
+177EB7| 2|186|0|D|Secret House                            |HM03 is SURF.[nb2]POKÈMON will be able to ferry you[br]across water using it.[nb2]And, this HM isn't disposable, so[br]you can use it over and over.[nb2]You're super lucky for winning this[br]fabulous prize!|HM03 is SURF.[nb2]Hiermee kunnen POKÈMON je[br]vervoeren over het water.[nb2]Deze HM is herbruikbaar, dus je kan[br]het meerdere keren gebruiken.[nb2]Je hebt veel geluk dat je deze[br]prijs gewonnen hebt!
 177F72| 1| 44|0|D|Secret House                            |You don't have room for this[br]fabulous prize!|Je hebt geen plaats voor dit[br]fantastisch cadeau!
 177F9F| 1|  4|0|D|Secret House                            |Mew!|Mew!
 177FA4| 1|228|0|D|Indigo Plateau                          |Welcome to the POKÈMON LEAGUE.[nb2]I am LORELEI of the ELITE FOUR.[nb2]No one can best me when it comes[br]to icy POKÈMON.[nb2]Freezing moves are powerful.[nb2]Your POKÈMON will be at my mercy[br]when they are frozen solid.[nb2]Hahaha![br]Are you ready?[FC]Œ[kÈ]¿|Welkom bij de POKÈMON LEAGUE.[nb2]Ik ben LORELEI van de ELITe VIER.[nb2]Niemand kan me verslaan als het op[br]ijs POKÈMON aankomt.[nb2]Je POKÈMON zullen aan mijn genade[br]overgeleverd zijn als ze[nb]stijf bevroren zijn.[nb2]Hahaha![br]Ben je klaar?[FC]Œ[kÈ]¿
@@ -1103,7 +1103,7 @@
 183FAB| 2| 24|0|D|Route 6                                 |Things just didn't work[...]|Het werkte gewoon niet[...]
 183FC4| 2| 43|0|D|Route 6                                 |I want to get stronger.[br]What's your secret?|Ik wil sterker worden.[br]Wat is jouw geheim?
 183FF0| 1| 41|0|D|Route 6                                 |I've never seen you around.[br]Are you good?|Ik heb je nog nooit hier gezien.[br]Ben je goed?
-18401A| 2| 16|0|D|Route 6                                 |You're too good!|Jij bent te goed!
+18401A| 2| 16|0|D|Route 6                                 |You're too good!|Je bent te goed!
 18402B| 2| 59|0|D|Route 6                                 |Are my POKÈMON weak?[br]Or, am I just bad?[nb]Which do you think?|Zijn mijn POKÈMON zwak?[br]Of ligt het aan mij?[nb]Wat denk je?
 184067| 1| 47|0|D|Route 6                                 |UNDERGROUND PATH[br]CERULEAN CITY - VERMILION CITY|ONDERGRONDS PAD[br]CERULEAN CITY - VERMILION CITY
 184097| 1| 45|0|D|Route 8                                 |UNDERGROUND PATH[br]CELADON CITY - LAVENDER TOWN|ONDERGRONDS PAD[br]CELADON CITY - LAVENDER TOWN
@@ -1172,7 +1172,7 @@
 184A8C| 2| 49|0|D|Route 9                                 |I have to collect more than bugs[br]to get stronger[...]|Ik moet meer dan enkel insecten[br]verzamelen om sterker te worden[...]
 184ABE| 1| 22|0|D|Route 9                                 |Hahahaha![br]Bring it on!|Hahahaha![br]Kom maar af!
 184AD5| 2| 27|0|D|Route 9                                 |Hahahaha![br]You beat me fair!|Hahahaha![br]Je hebt me eerlijk verslagen!
-184AF1| 2| 38|0|D|Route 9                                 |Hahahaha![br]Us hearty guys always laugh!|Hahahaha![br]Wij dikkertjes lachen altijd!
+184AF1| 2| 38|0|D|Route 9                                 |Hahahaha![br]Us hearty guys always laugh!|Hahaha![br]Wij dikkertjes lachen altijd!
 184B18| 1| 25|0|D|Route 9                                 |Go, my super BUG POKÈMON!|Ga, mijn super BUG POKÈMON!
 184B32| 2|  8|0|D|Route 9                                 |My bugs[...]|Mijn insecten[...]
 184B3B| 2| 42|0|D|Route 9                                 |If you don't like BUG POKÈMON,[br]you bug me!|Als je niet van BUG POKÈMON houdt[br]Vlieg dan op!
@@ -1181,7 +1181,7 @@
 184BE5| 2| 21|0|D|Route 10                                |Humph.[br]I'm not angry!|Puh.[br]Ik ben niet boos!
 184BFB| 2| 33|0|D|Route 10                                |I have more rare POKÈMON at home!|Ik heb nog meer zeldzame POKÈMON[br]thuis!
 184C1D| 1| 15|0|D|Route 10                                |Ha-hahah-ah-ha!|Ha-hahah-ah-ha!
-184C2D| 2| 50|0|D|Route 10                                |Ha-haha![br]Not laughing![nb]Ha-hay fever! Haha-ha-choo!|Ha-haha![br]Ik lach niet![nb]Ho-hooi koort! Haha-ha-chie!
+184C2D| 2| 50|0|D|Route 10                                |Ha-haha![br]Not laughing![nb]Ha-hay fever! Haha-ha-choo!|Ha-haha![br]Ik lach niet![nb]Ho-hooi koort! Hah-ha-chie!
 184C60| 2| 37|0|D|Route 10                                |Haha-ha-choo![br]Ha-choo![nb]Snort! Snivel!|Haha-ha-tchie![br]Ha-thcie![nb]Sniffel, snuit!
 184C86| 1| 32|0|D|Route 10                                |Hi, kid![br]Want to see my POKÈMON?|HÈ![br]Wil je mijn POKÈMON zien?
 184CA7| 2| 19|0|D|Route 10                                |Oh, no![br]My POKÈMON!|O, nee![br]Mijn POKÈMON!
@@ -1321,7 +1321,7 @@
 186239| 2| 41|0|D|Route 14                                |What, what, what?[br]What do you want still?|Wat, wat, wat?[br]Wat wil je nog?
 186263| 1| 45|0|D|Route 14                                |I need to burn some time.[br]Shut up and battle.|Ik heb wat tijd over.[br]Laten we vechten.
 186291| 2| 11|0|D|Route 14                                |What?[br]You!?|Wat?[br]Jij!?
-18629D| 2| 31|0|D|Route 14                                |Raising POKÈMON is a drag, man.|POKÈMON trainen is zo veel werk.
+18629D| 2| 31|0|D|Route 14                                |Raising POKÈMON is a drag, man.|POKÈMON trainen is veel werk.
 1862BD| 1| 49|0|D|Route 14                                |We ride out here because of the[br]wide-open spaces.|We rijden hier omdat er hier[br]veel open ruimte is.
 1862EF| 2|  8|0|D|Route 14                                |Wipeout!|Gevallen!
 1862F8| 2| 75|0|D|Route 14                                |It's cool you made your POKÈMON so[br]strong.[nb2]Might is right![br]And you know it!|Het is cool dat je je POKÈMON zo[br]sterk gemaakt hebt.[nb2]Soms geld de wet van de sterkste!
@@ -1330,7 +1330,7 @@
 18636E| 2| 42|0|D|Route 14                                |You know who'd win, you and me[br]one-on-one!|Je weet wel wie er gaat winnen,[br]Jij en ik ÈÈn tegen ÈÈn!
 186399| 1| 29|0|D|Route 14                                |ROUTE 14[br]West to FUCHSIA CITY|ROUTE 14[br]West: FUCHSIA CITY
 1863B7| 1| 50|0|D|Route 14                                |KIRI: JAN, let's try really,[br]really hard together.|KIRI: Laten we heel goed samen[br]vechten JAN.
-1863EA| 2| 34|0|D|Route 14                                |KIRI: Whimper[...][br]We lost, didn't we?|KIRI: Sniffel[...][br]We zijn verloren hÈ?
+1863EA| 2| 34|0|D|Route 14                                |KIRI: Whimper[...][br]We lost, didn't we?|KIRI: Sniffel[...][br]We verloren hÈ?
 18640D| 2| 32|0|D|Route 14                                |KIRI: Did we lose because of me?|KIRI: Zijn we door mij verloren?
 18642E| 2| 44|0|D|Route 14                                |KIRI: We can battle if you have[br]two POKÈMON.|KIRI: We kunnen vechten als[br]je twee POKÈMON hebt.
 18645B| 1| 43|0|D|Route 14                                |JAN: KIRI, here we go![br]We have to try hard!|JAN: KIRI, hier gaan we![br]We moeten goed ons best doen!
@@ -1338,7 +1338,7 @@
 18649C| 2| 54|0|D|Route 14                                |JAN: KIRI, don't cry![br]We'll just try harder next time.|JAN: Niet huilen KIRI![br]Volgende keer beter.
 1864D3| 2| 55|0|D|Route 14                                |JAN: You want to battle?[br]You don't have enough POKÈMON.|JAN: Je wil vechten?[br]Je hebt niet genoeg POKÈMON.
 18650B| 1| 61|0|D|Route 15                                |I just got some POKÈMON in trades.[br]Can I try them out on you?|Ik heb net wat POKÈMON geruild.[br]Mag ik ze testen met jou?
-186549| 2| 16|0|D|Route 15                                |Not good enough!|Niet goed genoeg!
+186549| 2| 16|0|D|Route 15                                |Not good enough!|Niet genoeg!
 18655A| 2|120|0|D|Route 15                                |You can't change the nickname of[br]any POKÈMON you get in a trade.[nb2]Only the Original TRAINER can get[br]the nickname changed.|Je kan de naam van geruilde[br]POKÈMON niet aanpassen.[nb2]Enkel de oorspronkelijke TRAINER[br]kan de naam laten veranderen.
 1865D3| 1| 62|0|D|Route 15                                |You look gentle, so I think I can[br]beat you.[nb2]I'll give it a go!|Je ziet er lief uit, dus ik denk dat ik[br]je wel kan verslaan.[nb2]Ik daag je uit!
 186612| 2| 10|0|D|Route 15                                |No, wrong!|Nee, verkeerd!
@@ -1537,7 +1537,7 @@
 1884FF| 2| 31|0|D|Route 21                                |Where'd you catch your POKÈMON?|Waar heb jij je POKÈMON gevangen?
 18851F| 1| 35|0|D|Route 21                                |Right now, I'm in a triathlon meet.|Ik ben nu bezig met een triathlon.
 188543| 2| 17|0|D|Route 21                                |Pant[...][br]Pant[...] Pant[...]|Puf[...][br]Puf[...] Puf[...]
-188555| 2| 60|0|D|Route 21                                |I'm beat! But, I still have the[br]bike race and marathon left!|Ik ben al uitgeput! En er is nog[br]de fietsrace en de marathon!
+188555| 2| 60|0|D|Route 21                                |I'm beat! But, I still have the[br]bike race and marathon left!|Ik ben uitgeput! En er is nog[br]de fietsrace en de marathon!
 188592| 1| 31|0|D|Route 21                                |Ahh![br]Feel the sun and the wind!|Ahh![br]Voel de zon en de wind!
 1885B2| 2| 12|0|D|Route 21                                |Yow![br]I lost!|Ow![br]Ik ben verloren!
 1885BF| 2| 24|0|D|Route 21                                |I'm sunburnt to a crisp!|Ik ben volledig verbrand!
@@ -1674,7 +1674,7 @@
 189F9A| 2| 13|0|D|Bond Bridge                             |Waaah![br]Waaah!|Waaah![br]Waaah!
 189FA8| 2| 50|0|D|Bond Bridge                             |This year, I'm going to finally[br]learn how to swim!|Dit jaar ga ik eindelijk leren[br]zwemmen!
 189FDB| 1| 18|0|D|Bond Bridge                             |Yay, yay![br]POKÈMON!|Jeuj, Jeuj![br]POKÈMON!
-189FEE| 2| 17|0|D|Bond Bridge                             |What happens now?|Wat gebeurt er nu?
+189FEE| 2| 17|0|D|Bond Bridge                             |What happens now?|Wat nu?
 18A000| 2| 30|0|D|Bond Bridge                             |Did I just win?[br]Or did I lose?|Heb ik nu gewonnen?[br]Of verloren?
 18A01F| 1| 51|0|D|Bond Bridge                             |Oh, no, don't come here![br]Please, stay away from me!|O, nee, kom niet naar hier![br]Blijf uit mijn buurt!
 18A053| 2| 46|0|D|Bond Bridge                             |Okay, you've won![br]Now will you please go away?|Ok, jij hebt gewonnen![br]Ga je dan nu weg gaan alsjeblieft?
@@ -1768,7 +1768,7 @@
 18B451| 2| 61|0|D|Outcast Island                          |I can't very well go home without[br]catching something, though.|Ik kan wel niet naar huis gaan[br]zonder iets gevangen te hebben.
 18B48F| 1| 53|0|D|Outcast Island                          |Gasp[...] Gasp[...][nb2]I swam here from SIX ISLE PORT[br]in one go.|Hap[...] Hap[...][nb2]Ik ben hier in een keer van[br]SIX ISLE PORT gezwommen.
 18B4C5| 2| 11|0|D|Outcast Island                          |Gasp[...][br]Gasp[...]|Hap[...][br]Hap[...]
-18B4D1| 2| 40|0|D|Outcast Island                          |I'm only at the halfway point[...][br]I'm beat[...]|Ik ben nog maar halfweg[...][br]Ik ben uitgeput[...]
+18B4D1| 2| 40|0|D|Outcast Island                          |I'm only at the halfway point[...][br]I'm beat[...]|Ik ben nog maar halfweg[...][br]En al uitgeput[...]
 18B4FA| 1| 62|0|D|Outcast Island                          |It's not so easy sending POKÈMON[br]out while swimming, you know?|Het is niet zo gemakkelijk POKÈMON[br]te gooien als je aan het zwemmen[nb]bent hoor!
 18B539| 2| 57|0|D|Outcast Island                          |I didn't lose to you at swimming.[br]This doesn't bother me.|Ik heb niet verloren in het zwemmen.[br]Dit stoort me niet.
 18B573| 2| 84|0|D|Outcast Island                          |Are you headed for the island up[br]past here?[nb2]I didn't see anything interesting[br]there.|Ben je opweg naar het eiland[br]iets verderop?[nb2]Ik heb daar niets[br]intressants gezien.
@@ -2682,7 +2682,7 @@
 19C102| 1| 63|0|D|Saffron Center                          |TEAM ROCKET took off![br]We can go out safely again![nb]That's great!|TEAM ROCKET is weg![br]We kunnen weer veilig buiten spelen![nb]Dat is leuk!
 19C142| 1| 41|0|D|Mr. Psychic's House                     |[...]Wait! Don't say a word![nb2]You wanted this!|[...]Wacht, zeg nog niets![nb2]Dit is wat je wou!
 19C16C| 1| 34|0|D|Mr. Psychic's House                     |[PLAYER] received TM29[br]from MR. PSYCHIC.|[PLAYER] heeft TM29 gekregen[br]van MR. PSYCHIC.
-19C18F| 2|108|0|D|Mr. Psychic's House                     |You already know, don't you?[br]TM29 is PSYCHIC.[nb2]It's an attack that may also lower[br]the target's special stats.|Je weet het al hÈ?[br]TM29 is PSYCHIC.[nb2]Het is een aanval die ook de speciale[br]stats van een doelwit kan verlagen.
+19C18F| 2|108|0|D|Mr. Psychic's House                     |You already know, don't you?[br]TM29 is PSYCHIC.[nb2]It's an attack that may also lower[br]the target's special stats.|Je weet het al hÈ?[br]TM29 is PSYCHIC.[nb2]Het is een aanval die ook speciale[br]stats van een doelwit kan verlagen.
 19C1FC| 1| 46|0|D|Mr. Psychic's House                     |Where do you plan to put this?[br]You've no room.|Waar denk je dit te steken?[br]Je hebt geen plaats.
 19C22B| 1|  9|0|D|Trainer Fan Club                        |Huh?[br]You[...]|HÈ?[br]Jij[...]
 19C235| 1|346|0|D|Trainer Fan Club                        |Are you maybe[...][br][...] [...][nb2]You are![br]You are [PLAYER]![nb2]We were just talking about you![nb2]We were talking about how an[br]incredibly good TRAINER appeared.[nb2]And that someone is you![br]You're so cool![nb2]So, we decided that we'll become[br]your FAN CLUB![nb2]We all hope you'll keep battling[br]and show us how cool you are.[nb2]That way, maybe other people will[br]become fans just like me.|Ben jij misschien[...][br][...] [...][nb2]Ja![br]Jij bent [PLAYER]![nb2]We hadden het net over jou![nb2]We zeiden net dat er een ongelofelijk[br]goede TRAINER was opgedoken.[nb2]En die TRAINER ben jij![br]Je bent zo cool![nb2]Dus we hebben besloten om jouw[br]FAN CLUB te worden.[nb2]We hopen allemaal dat je blijft [br]vechten, en ons toont[nb]hoe cool je bent.[nb2]Op die manier gaan er nog meer[br]fans bij komen!
@@ -6876,7 +6876,7 @@
 416631| 1| 18|0|D|                                        |The BOX is full.[pausBtn]|De BAK is vol.[pausBtn]
 416644| 1| 16|0|D|                                        |POWDER QTY: [var1][pausBtn]|POEDER HOEV: [var1][pausBtn]
 416655| 1|  6|0|D|                                        |POWDER|POEDER
-41665C| 2| 51|0|D|                                        |Played the POKÈ FLUTE.[nb2]Now, that's a catchy tune![pausBtn]|Speelde op de POKÈ FLUIT.[nb2]Dat is een leuk deuntje![pausBtn]
+41665C| 2| 51|0|D|                                        |Played the POKÈ FLUTE.[nb2]Now, that's a catchy tune![pausBtn]|Speelde de POKÈ FLUIT.[nb2]Dat is een leuk deuntje![pausBtn]
 416690| 2| 22|0|D|                                        |Played the POKÈ FLUTE.|Speelde op de POKÈ FLUIT.
 4166A7| 2| 43|0|D|                                        |The POKÈ FLUTE awakened sleeping[br]POKÈMON.[pausBtn]|De POKÈ FLUIT maakte slapende[br]POKÈMON wakker.[pausBtn]
 4166D3| 1|  7|0|D|                                        |TM CASE|TM DOOS
@@ -7655,7 +7655,7 @@
 41B7EE| 2| 24|0|D|Teachy TV                               |I want to catch POKÈMON.|Ik wil POKÈMON vangen.
 41B807| 1| 19|0|D|Teachy TV                               |Teach me about TMs.|Leer me over TMs
 41B81B| 1| 26|0|D|Teachy TV                               |How do I register an item?|Hoe registreer ik een item?
-41B836| 2|  6|0|D|Teachy TV                               |CANCEL|ZET UIT
+41B836| 2|  6|0|D|Teachy TV                               |CANCEL|ZET AF
 41B83D| 1|129|0|D|Teachy TV                               |Hey, all you TRAINERS out there![br]HELLO, TRAINERS![nb2][...][...][...] [...][...][...] [...][...][...][nb2]Come on, let me hear you![br]HELLO, TRAINERS![nb]It's me, the POKÈ DUDE![nb2]|Hallo, alle TRAINERS daarbuiten![br]HALLO TRAINERS![nb2][...][...][...] [...][...][...] [...][...][...][nb2]Komaan, laat me je horen![br]HALLO TRAINERS![nb]Ik ben het, de POKÈ DUDE![nb2]
 41B8BF| 1|385|0|D|Teachy TV                               |Today, the POKÈ DUDE's here to[br]tell you about how you can battle[nb]POKÈMON![nb2]Say you're out for a stroll when,[br]suddenly, a wild POKÈMON appears![nb2]It's up to you to smartly use your[br]POKÈMON and their moves to reduce[nb]the opponent's HP to nothing, and[nb]claim victory![nb2]I'll show you how to do that in[br]person and for sure![nb2]All righty, here goes![nb2]Keep your eyes glued to the super[br]POKÈ DUDE SHOW!|Vandaag gaat de POKÈ DUDE je[br]leren hoe je kan vechten met[nb]POKÈMON![nb2]Als je bijvoorbeeld aan het wandelen[br]bent en er komt plots een wilde[nb]POKÈMON tevoorschijn![nb2]Dan ben je op jezelf aangewezen[br]om je POKÈMON, en hun technieken[nb]te gebruiken om je tegenstander[nb]zijn HP tot nul te herleiden[nb]en de overwinning op te eisen.[nb2]Ik ga je dat persoonlijk[br]demonstreren![nb2]Ok, hier gaan we![nb2]Kijk goed naar de super[br]POKÈ DUDE SHOW!
 41BA41| 1|254|0|D|Teachy TV                               |Well, did you get that?[nb2]Even if your own POKÈMON's HP[br]falls to zero, and it becomes[nb]unable to battle, not to worry![nb2]Just take it to any POKÈMON[br]CENTER and heal it![nb2]All righty, be seeing you![nb2]Remember, TRAINERS, a good deed[br]a day brings happiness to stay!|Wel, heb je alles verstaan?[nb2]Zelfs als je POKÈMON zijn HP[br]tot nul herleid wordt en hij niet[nb]meer kan vechten, wanhoop niet.[nb2]Neem hem gewoon mee naar gelijk welk[br]POKÈMON CENTER en genees hem![nb2]Ok, to de volgende keer![nb2]Onthou het TRAINERS, een goede[br]daad per dag brengt geluk!
