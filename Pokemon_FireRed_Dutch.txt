@@ -7797,7 +7797,7 @@
 419E52| 1|  4|0|D|                                        |TYPE|
 419E57| 1| 26|0|D|                                        |[V][x0A]PICK [V]ŒSWITCH [V] [V]¿CANCEL|[V][x0A]NEEM [V]ŒWISSEL [V] [V]¿TERUG
 419F54| 5| 33|0|D|                                        |SAVING[...][br]DON'T TURN OFF THE POWER.|BEZIG MET OPSLAAN[...][br]ZET DE STROOM NIET AF.
-419F76| 1| 68|0|D|                                        |A device that records POKÈMON secrets[br]upon meeting or catching them.|
+419F76| 1| 68|0|D|                                        |A device that records POKÈMON secrets[br]upon meeting or catching them.|Een toestel die POKÈMON gegevens[br]opslaat bij het ontmoeten of vangen.
 419FBB| 1| 69|0|D|Start Menu                              |Check and organize POKÈMON that are[br]traveling with you in your party.|Bekijk en organiseer POKÈMON[br]die met je mee reizen.
 41A001| 1| 71|0|D|Start Menu                              |Equipped with pockets for storing items[br]you bought, received, or found.|Hier kan je items steken die je[br]gekocht, gekregen of gevonden hebt.
 41A049| 2| 37|0|D|Start Menu                              |Check your money and other game data.|Bekijk je geld en andere gegevens.
