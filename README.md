@@ -15,6 +15,5 @@ The original rom should have these checksum values:
      SHA-1: 41cb23d8dccc8ebd7c649cd8fbb58eeace6e2fdc
 
 **Pokemon_FireRed_Dutch.txt**  
-The translation file used to apply translations to the rom. This is using my own tools **TODO LINK to working release**
-
+The translation file used to apply translations to the rom. This is using [my own tools](https://github.com/boranblok/PokemonRomTools/)
 This tool used to use Advance-Text, but this proved unworkable for the large amount of work.
