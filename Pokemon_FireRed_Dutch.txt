@@ -866,7 +866,7 @@
 17F888| 1| 35|0|D|Vermilion City                          |A MACHOP is stomping the land flat.|Een MACHOP stampt het land plat.
 17F8AC| 1| 78|0|D|Vermilion City                          |The S.S. ANNE is a famous luxury[br]cruise ship.[nb2]It visits VERMILION once a year.|De S.S. ANNE is een beroemd[br]luxeschip.[nb2]Het bezoekt VERMILION eens per jaar.
 17F8FB| 1| 44|0|D|Vermilion City                          |VERMILION CITY[br]The Port of Exquisite Sunsets|VERMILION CITY[br]De haven van zonsondergang
-17F928| 1|120|0|D|Vermilion City                          |NOTICE![nb2]ROUTE 12 may be blocked off by a[br]sleeping POKÈMON.[nb2]Detour through ROCK TUNNEL to[br]LAVENDER TOWN.[nb2]VERMILION POLICE|BERICHT![nb2]ROUTE 12 is nogelijk versperd door[br]een slapende POKÈMON.[nb2]Omleiding via de ROCK TUNNEL naar[br]LAVENDER TOWN.[nb2]VERMILION POLITE
+17F928| 1|120|0|D|Vermilion City                          |NOTICE![nb2]ROUTE 12 may be blocked off by a[br]sleeping POKÈMON.[nb2]Detour through ROCK TUNNEL to[br]LAVENDER TOWN.[nb2]VERMILION POLICE|BERICHT![nb2]ROUTE 12 is mogelijk versperd door[br]een slapende POKÈMON.[nb2]Omleiding via de ROCK TUNNEL naar[br]LAVENDER TOWN.[nb2]VERMILION POLITE
 17F9A1| 1| 42|0|D|Vermilion City                          |POKÈMON FAN CLUB[br]All POKÈMON fans welcome!|POKÈMON FAN CLUB[br]Alle POKÈMON fans welkom!
 17F9CC| 1| 68|0|D|Vermilion City                          |VERMILION CITY POKÈMON GYM[br]LEADER: LT. SURGE[nb]The Lightning American!|VERMILION CITY POKÈMON GYM[br]LEIDER: LT. SURGE[nb]De flitsende Amerikaan!
 17FA11| 1| 16|0|D|Vermilion City                          |VERMILION HARBOR|VERMILION HAVEN
@@ -883,7 +883,7 @@
 17FCC1| 3| 42|0|D|Vermilion City                          |Would you like to board[br]a SEAGALLOP ferry?|Wil je aan boord gaan van[br]een SEAGALLOP ferry?
 17FCEC| 1|114|0|D|Vermilion City                          |Okay, everything's in order for you[br]to board a special ferry.[nb2]SEAGALLOP HI-SPEED 10 will be[br]departing immediately.|Ok, alles is in orde, je kan aan[br]boord gaan van de speciale ferry.[nb2]De SEAGALLOP HI-SPEED 10 gaat[br]zo dadelijk vertrekken.
 17FD5F| 1|114|0|D|Vermilion City                          |Okay, everything's in order for you[br]to board a special ferry.[nb2]SEAGALLOP HI-SPEED 12 will be[br]departing immediately.|Ok, alles is in orde, je kan aan[br]boord gaan van de speciale ferry.[nb2]De SEAGALLOP HI-SPEED 12 gaat[br]zo dadelijk vertrekken.
-17FDD2| 1|240|0|D|Vermilion City                          |Oh, hello, [PLAYER]![br]How are you doing?[nb2]It's me, one of PROF. OAK's AIDES.[nb2]Did you meet the other AIDE?[nb2]He had a package from PROF. OAK[br]for you, [PLAYER].[nb2]He said he'd look for you around[br]ROUTE 2, [PLAYER].[nb2]If you're in the ROUTE 2 area,[br]please look for him.|Oh, hallo, [PLAYER]![br]Hoe gaat het?[nb2]Ik ben een van PROF. OAK zijn hulpjes.[nb2]Heb je mijn collega al ontmoet?[nb2]Hij had een pakje van PROF. OAK[br]voor jou [PLAYER].[nb2]Hij zei dat hij je ging zoeken op[br]ROUTE 2.[nb2]Als je in de buurt van ROUTE 2[br]bent zoek je hem best
+17FDD2| 1|240|0|D|Vermilion City                          |Oh, hello, [PLAYER]![br]How are you doing?[nb2]It's me, one of PROF. OAK's AIDES.[nb2]Did you meet the other AIDE?[nb2]He had a package from PROF. OAK[br]for you, [PLAYER].[nb2]He said he'd look for you around[br]ROUTE 2, [PLAYER].[nb2]If you're in the ROUTE 2 area,[br]please look for him.|Oh, hallo, [PLAYER]![br]Hoe gaat het?[nb2]Ik ben een van PROF. OAK[br]zijn hulpjes.[nb2]Heb je mijn collega al ontmoet?[nb2]Hij had een pakje van PROF. OAK[br]voor jou [PLAYER].[nb2]Hij zei dat hij je ging zoeken op[br]ROUTE 2.[nb2]Als je in de buurt van ROUTE 2[br]bent zoek je hem best
 17FEC3| 1| 88|0|D|Celadon City                            |I got my KOFFING in CINNABAR.[nb2]It's usually nice, but it breathes[br]poison when it's angry.|Ik heb mijn COFFING uit CINNABAR.[nb2]Hij is normaal vriendelijk, maar[br]ademt vergif uit als hij boos is.
 17FF1C| 1| 45|0|D|Celadon City                            |Heheh! This GYM is great![br]It's full of women!|HÈHÈ! Deze GYM is fantastisch![br]Het zijn allemaal vrouwen!
 17FF4A| 1|122|0|D|Celadon City                            |CELADON takes pride in its efforts[br]to keep the city beautiful.[nb2]That's why the new GAME CORNER is[br]bad for our city's image.|CELADON probeert de stad mooi[br]te houden.[nb2]Dat is waarom de nieuwe[br]GAME CORNER slecht nieuws is.
@@ -2215,7 +2215,7 @@
 193DB6| 1| 58|0|D|Lavender Mart                           |Did you buy some REVIVES?[br]They revive any fainted POKÈMON!|Heb je wat REVIVES gekocht?[br]REVIVE maakt een flauwgevallen[nb]POKÈMON terug wakker.
 193DF1| 1|144|0|D|Lavender Mart                           |Sometimes, a TRAINER duo will[br]challenge you with two POKÈMON[nb]at the same time.[nb2]If that happens, you have to send[br]out two POKÈMON to battle, too.|Soms vecht een TRAINER duo met[br]twee POKÈMON tergelijk.[nb2]Als dat gebeurt moet jij ook twee[br]POKÈMON laten vechten.
 193EC1| 1|104|0|D|Vermilion House 1                       |I'm the FISHING GURU![nb2]I simply looove fishing![br]I can't bear to go without.[nb2]Tell me, do you like to fish?|Ik ben de VIS EXPERT![nb2]Ik vis dolgraag![br]Ik kan het niet laten.[nb2]Hou jij er van om te vissen?
-193F2A| 1| 86|0|D|Vermilion House 1                       |Grand! I like your style.[br]I think we can be friends.[nb2]Take this and fish, young friend!|Goed! Ik hoor dat graag.[br]Ik denk dat we dikke vrienden worden.[nb2]Neem deze vis, vriend!
+193F2A| 1| 86|0|D|Vermilion House 1                       |Grand! I like your style.[br]I think we can be friends.[nb2]Take this and fish, young friend!|Goed! Ik hoor dat graag.[br]Ik denk dat we vrienden worden.[nb2]Neem deze vishengel, vriend!
 193F81| 1| 45|0|D|Vermillion house 1                      |[PLAYER] received an OLD ROD from[br]the FISHING GURU.|[PLAYER] heeft een OUDE HENGEL[br]gekregen van de VIS EXPERT.
 193FAF| 1|120|0|D|Vermilion House 1                       |Fishing is a way of life![br]It is like the finest poetry.[nb2]From the seas to rivers, go out[br]and land the big one, my friend.|Vissen is een manier van leven![nb2]Van de zee tot de rivier, ga maar,[br]en vang er een grote.
 194028| 1| 28|0|D|Vermillion house 1                      |Oh[...][br]That's so disappointing[...]|O[...][br]Dat is zo teleurstellend[...]
@@ -2250,7 +2250,7 @@
 194A44| 1| 10|0|D|PokÈmon fan club                        |Thank you!|Bedankt!
 194A4F| 1| 39|0|D|PokÈmon fan club                        |How is my old [var2]?[nb2]My [var1] is doing great!|Hoe is het met mijn oude[br][var2]?[nb2]Mijn [var1] doet het goed!
 194A77| 1|237|0|D|Vermilion Mart                          |There are wicked people who will[br]use POKÈMON for criminal acts.[nb2]TEAM ROCKET traffics in rare[br]POKÈMON, for example.[nb2]They also abandon POKÈMON that[br]they consider unpopular or useless.[nb2]That's the sort of horrid people[br]they are, TEAM ROCKET.|Er zijn stoute mensen die POKÈMON[br]gebruiken voor misdaad.[nb2]TEAM ROCKET verhandelt bijvoorbeeld[br]zeldzame POKÈMON.[nb2]Ze laten ook POKÈMON achter[br]die ze niet goed meer vinden.[nb2]Dat is het soort slechte mensen in[br]TEAM ROCKET.
-194B65| 1| 62|0|D|Vermilion Mart                          |I think POKÈMON can be good or[br]bad. It depends on the TRAINER.|Ik denk dat POKÈMON goed of[br]slecht kunnen zijn. Het hangt af van[nb]de TRAINER.
+194B65| 1| 62|0|D|Vermilion Mart                          |I think POKÈMON can be good or[br]bad. It depends on the TRAINER.|Ik denk dat POKÈMON goed of[br]slecht kunnen zijn. Het hangt[nb]af van de TRAINER.
 194BA4| 1|233|0|D|Vermilion Gym                           |Hey, kid! What do you think you're[br]doing here?[nb2]You won't live long in combat![br]Not with your puny power![nb2]I tell you, kid, electric POKÈMON[br]saved me during the war![nb2]They zapped my enemies into[br]paralysis![nb2]The same as I'll do to you![FC]Œ[kÈ]¿|Hey, wat doe jij hier!?[nb2]Zo zwak jij bent ga je het niet[br]lang uithouden in een gevecht![nb2]Vroeger hebben electrische[br]POKÈMON me vaak gered.[nb2]Ze verlamden mijn tegenstanders.[nb2]En dat ga ik nu met jou ook doen![FC]Œ[kÈ]¿
 194C8E| 1|107|0|D|Vermilion Gym                           |A little word of advice, kid![nb2]Electricity is sure powerful![nb2]But, it's useless against GROUND-[br]type POKÈMON!|Een woordje advies.[nb2]Electriciteit is heel krachtig![nb2]Maar nutteloos tegen[br]GROUND-type POKÈMON.
 194CFA| 1|140|0|D|Vermilion Gym                           |The THUNDERBADGE cranks up your[br]POKÈMON's SPEED![nb2]It also lets your POKÈMON FLY[br]lightning-quick anytime, kid![nb2]You're special, kid![br]Take this!|De THUNDERBADGE verhoogt de[br]RAPHEID van al je POKÈMON![nb2]Het laat je POKÈMON ook toe FLY[br]te gebruiken op elk moment![nb2]Je bent echt speciaal![br]Hier, pak dit!
@@ -3094,7 +3094,7 @@
 1A57C1| 2|119|0|D|Route 23                                |You can pass here only if you have[br]the [var1].[nb2]You don't have the [var1][br]yet.[nb2]You have to have it to get to[br]the POKÈMON LEAGUE.|Je kan hier enkel passeren[br]als je de [var1] hebt.[nb2]Je hebt de [var1][br]nog niet.[nb2]Je moet die hebben om binnen te[br]mogen in de POKÈMON LEAGUE.
 1A5839| 3|109|0|D|Route 23                                |You can pass here only if you have[br]the [var1].[nb2]Oh! That is the [var1]![pMus][FC]Œ¿¿[pausTim][x60][rMus][nb2]Okay, then.[br]Please, go right ahead.|Je kan hier enkel passeren als je de[br][var1] hebt.[nb2]O! Dat is de [var1]![pMus][FC]Œ¿¿[pausTim][x60][rMus][nb2]Ok dan.[br]Ga maar verder.
 1A58A7| 1| 97|0|D|Missed text                             |Let's see[...][br]Uh-oh! You have caught only[nb][var3] kinds of POKÈMON![nb2]You need [var1] kinds[br]if you want the [var2].|Laat eens zien[...][br]O! Je hebt slechts[nb][var3] soorten POKÈMON gevangen![nb2]Je hebt [var1] soorten nodig[br]als je de[var2] wilt.
-1A5909| 1| 67|0|D|Missed text                             |[...]Oh. I see.[nb2]When you get [var1] kinds of POKÈMON,[br]come back for the [var2].|[...]O, ik zie het.[nb2]Als je genoeg [var1] soorten[br]POKÈMON hebt, kom maar terug[nb]voor de [var2].
+1A5909| 1| 67|0|D|Missed text                             |[...]Oh. I see.[nb2]When you get [var1] kinds of POKÈMON,[br]come back for the [var2].|[...]O, ik zie het.[nb2]Als je [var1] verschillende soorten[br]POKÈMON hebt, kom maar terug[nb]voor de [var2].
 1A594D| 1| 45|0|D|Missed text                             |Oh! I see you don't have any[br]room for the [var2].|O, je hebt niet genoeg plaats[br]voor de [var2].
 1A597B| 4| 58|0|D|Trading                                 |I'm looking for the POKÈMON[br][var1]![nb2]Wanna trade one for my[br][var2]?|Ik ben op zoek naar de POKÈMON[br][var1]![nb2]Wil je een ruilen voor mijn[br][var2]?
 1A59B6| 4| 15|0|D|Trading                                 |Awww![br]Oh, well[...]|Aaaaah![br]Jammer[...]
@@ -6613,7 +6613,7 @@
 3FB508| 1| 28|0|D|Battle1                                 |[FD13] prevents[br]escape with [FD1A]![nb2]|[FD13] voorkomt[br]ontsnappen met [FD1A]![nb2]
 3FB525| 1| 14|0|D|Battle1                                 |Can't escape![nb2]|Ontsnappen onmogelijk![nb2]
 3FB534| 1| 16|0|D|Battle1                                 |[FD0F] can't escape!|[FD0F] kan niet ontsnappen!
-3FB545| 1| 15|0|D|Battle2                                 |Hit [FD00] time(s)!|Raakte [FD00] keer!
+3FB545| 1| 15|0|D|Battle2                                 |Hit [FD00] time(s)!|[FD00] keer raak!
 3FB555| 1| 15|0|D|Battle2                                 |[FD11][br]fell asleep!|[FD11][br]viel in slaap!
 3FB565| 1| 22|0|D|Battle2                                 |[FD13]'s [FD1A][br]made [FD11] sleep!|[FD13] zijn [FD1A][br]wiegde [FD11] in slaap!
 3FB57C| 1| 21|0|D|Battle2                                 |[FD10] is[br]already asleep!|[FD10] is[br]al aan het slapen!
@@ -6974,7 +6974,7 @@
 3FD6C7| 1| 56|0|D|Catching                                |It dodged the thrown BALL![br]This POKÈMON can't be caught!|De POKÈMON duikt weg voor de BAL![br]Hij kan niet gevangen worden!
 3FD700| 1| 23|0|D|Catching                                |You missed the POKÈMON!|Je hebt de POKÈMON gemist!
 3FD718| 1| 31|0|D|Catching                                |Oh, no![br]The POKÈMON broke free!|Oh, nee![br]De POKÈMON is ontsnapt!
-3FD738| 1| 30|0|D|Catching                                |Aww![br]It appeared to be caught!|Ah![br]Ik heb hem kunnen vangen!
+3FD738| 1| 30|0|D|Catching                                |Aww![br]It appeared to be caught!|Ah![br]Ik dacht dat ik hem had!
 3FD757| 1| 21|0|D|Catching                                |Aargh![br]Almost had it!|Aargh![br]Ik had hem bijna!
 3FD76D| 1| 28|0|D|Catching                                |Shoot![br]It was so close, too!|Jammer![br]Het was ook zo nipt!
 3FD7A2| 1| 29|0|D|Catching                                |Gotcha![br][RIVAL] was caught![FC][x0A][FC]Œ[x42]¿[nb2]|Hebbes![br][RIVAL] is gevangen![FC][x0A][FC]Œ[x42]¿[nb2]
@@ -7640,7 +7640,7 @@
 41856C| 1| 16|0|D|                                        |WITHDRAW POKÈMON|POKÈMON OPHALEN
 41857D| 1| 15|0|D|                                        |DEPOSIT POKÈMON|POKÈMON AFGEVEN
 41858D| 1| 12|0|D|                                        |MOVE POKÈMON|VERPLAATS POKÈMON
-41859A| 1| 10|0|D|                                        |MOVE ITEMS|VERPLATS ITEMS
+41859A| 1| 10|0|D|                                        |MOVE ITEMS|VERPLAATS ITEMS
 4185A5| 1|  7|0|D|                                        |SEE YA!|SLUIT AF
 4185AD| 1| 52|0|D|Misc. Items                             |You can withdraw a POKÈMON if you[br]have any in a BOX.|Je kan POKÈMON afhalen[br]als je er hebt in een BAK.
 4185E2| 1| 46|0|D|Misc. Items                             |You can deposit your party[br]POKÈMON in any BOX.|Je kan je POKÈMON opslaan[br]in een BAK.
@@ -8067,7 +8067,7 @@
 41D13C| 1| 10|0|D|                                        |[var1] PLAYERS|[var1] SPELERS
 41D148| 3|  5|0|D|                                        |GHOST|
 41D14E| 1| 26|0|D|                                        |A POKÈMON's on the hook![pausBtn]|
-41D169| 1| 20|0|D|                                        |Not even a nibble[...][pausBtn]|
+41D169| 1| 20|0|D|                                        |Not even a nibble[...][pausBtn]|Zelfs geen hapje[...][pausBtn]
 41D17E| 1| 14|0|D|                                        |It got away[...][pausBtn]|
 41D18D| 1|  7|0|D|                                        |ROOFTOP|
 41DE9D| 1| 82|0|D|                                        |Communication error[...][br]Please check all connections,[br]then turn the power OFF and ON.|
