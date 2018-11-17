@@ -634,7 +634,7 @@
 17AD06| 1|100|0|D|Mt. Ember                               |I've been in training so I can mend[br]my broken heart[...][nb2]It toughened me up physically at[br]least! Hi-yah!|Ik ben aan het trainen om mijn[br]liefdesverdriet te vergeten[...][nb2]Ik ben er tenminste sterker van[br]geworden!
 17AD6B| 1| 29|0|D|Mt. Ember                               |I think I tried to overdo it[...]|Ik denk dat ik wat te hard[br]heb geprobeerd[...]
 17AD89| 1| 59|0|D|Mt. Ember                               |The way you battle, it reminds me[br]of the guy who dumped me[...]|De manier waarop je vecht,[br]herinnert me aan mijn ex.[...]
-17ADC5| 1| 16|0|D|Mt. Ember                               |[PLAYER] found a RUBY!|[PLAYER] heeft een[br]ROBIJN gevonden!
+17ADC5| 1| 16|0|D|Mt. Ember                               |[PLAYER] found a RUBY!|[PLAYER] vond een ROBIJN!
 17ADD6| 1|183|0|D|Berry Forest                            |LOSTELLE: Whimper[...] Sniff[...][br]Oh! Please, help![nb2]A scary POKÈMON appeared there[br]a little while ago.[nb2]It kept scaring.[br]It made LOSTELLE scared.[nb2]I'm too scared to move![br]But I want to go home[...]|LOSTELLE: Snotter[...] Snuit[...][br]O! Help me alsjeblieft![nb2]Een akelige POKÈMON is hier daarnet[br]tevoorschijn gekomen.[nb2]Het bleef me maar bang maken.[nb2]Ik ben te bang om te bewegen![br]Maar ik wil naar huis[...]
 17AE8E| 1| 82|0|D|Berry Forest                            |Oh! Here it comes again![br]No! Go away! It's scaring me![nb2]Waaaaaaah![br]I want my daddy!|O! Daar komt het opnieuw![br]Nee! Ga weg! Ik ben bang![nb2]Waaaaaaah![br]Ik wil naar papa!
 17AEE1| 1| 89|0|D|Berry Forest                            |Ohh! That was so scary![br]Thank you![nb2]LOSTELLE came to pick some[br]BERRIES.[nb2]You can have this!|Oo! Dat was zo akelig![br]Danjewel![nb2]LOSTELLE kwam wat BESSEN plukken.[nb2]Je mag dit hebben!
@@ -676,7 +676,7 @@
 17BC6C| 1| 54|0|D|Rocket Warehouse                        |If I can't sell it, it's worthless![br]Go ahead, take it!|Als ik het niet kan verkopen[br]is het waardelos.[nb]Neem het maar mee!
 17BCA3| 1| 51|0|D|Rocket Warehouse                        |What do you want now?[br]Go on, get lost, leave me be.|Wat wil je nu weer?[br]Ga! Ga weg en laat mij met rust.
 17BCD7| 1|170|0|D|Rocket Warehouse                        |What, you again?[nb2]You[...] You're not GIOVANNI's kid,[br]are you?[nb2]No, that can't be right![br]GIOVANNI's kid has red hair.[nb2]You don't have any reasons for[br]bugging me. Leave me alone!|Wat, jij weer?[nb2]Jij[...] Jij bent niet de kleine van[br]GIOVANNI he?[nb2]Nee, dat kan niet![br]Die heeft rood haar.[nb2]Je hebt geen enkele reden om mij[br]lastig te vallen. Laat me met rust!
-17BD82| 1| 20|0|D|Dotted Cave                             |[PLAYER] found a SAPPHIRE!|[PLAYER] heeft een[br]SAFFIER gevonden!
+17BD82| 1| 20|0|D|Dotted Cave                             |[PLAYER] found a SAPPHIRE!|[PLAYER] vond een SAFFIER!
 17BD97| 1| 60|0|D|Dotted Cave                             |Fufu[...] Fufufufu[...][br]I guessed right.[nb2]I was right in tailing you!|Fufu[...] Fufufufu[...][br]Ik heb het goed geraden.[nb2]Ik had gelijk[br]dat ik jou moest volgen!
 17BDD4| 1|357|0|D|Dotted Cave                             |I knew that there was a SAPPHIRE[br]here, so it belongs to me![nb2]I'll sell it to TEAM ROCKET for[br]serious money.[nb2][...]D-don't glare at me like that![nb2]If you want it back, why don't you[br]go get it after I sell it?[nb2]I'll even tell you one of the[br]passwords to TEAM ROCKET's[nb]WAREHOUSE.[nb2]The WAREHOUSE password I know is[br]´Yes, nah, CHANSEY.ª[nb2]I'm done.[br]Don't think badly of me!|Ik wist dat er een SAFFIER was hier,[br]dus hij is van mij![nb2]Ik verkoop hem aan TEAM ROCKET[br]voor veel geld.[nb2][...]Staar niet zo naar mij![nb2]Als je hem terug wilt, waarom ga je[br]hem dan niet gaan halen nadat[nb]ik hem verkocht heb?[nb2]Ik zal je zelfs een van de[br]wachtwoorden van hun[nb]MAGAZIJN verklappen.[nb2]Het MAGAZIJJN wachtwoord dat[br]ik ken is ´Yes, nah, CHANSEY.ª[nb2]Ik ben weg.[br]Sorry!
 17BF3A| 1| 43|0|D|Pattern Bush                            |I'm curious, how do you raise your[br]POKÈMON?|Ik ben benieuwd, hoe voed jij[br]je POKÈMON op?
@@ -1983,7 +1983,7 @@
 18EBE6| 2| 36|0|D|Oak's Lab                               |I study POKÈMON as PROF. OAK's[br]AIDE.|Ik bestudeer POKÈMON samen met[br]PROF. OAK
 18EC0B| 1|265|0|D|Oak's Lab                               |Hi, [PLAYER]. I bet you've become[br]good friends with your POKÈMON.[nb2]By the way, did you know about[br]DAISY?[nb2]If you show DAISY your POKÈMON,[br]she can tell how much it likes you.[nb2]Occasionally, she will even groom[br]a POKÈMON for you.[nb2]This is a secret, so please don't[br]tell anyone.|Hallo, [PLAYER]. Ik hoop dat je[br]goede vrienden geworden bent met[nb]je POKÈMON.[nb2]Wist je trouwens van DAISY?[nb2]Als je DAISY je POKÈMON toont kan[br]ze je vertellen hoeveel hij van je[nb]houdt.[nb2]Soms verzorgt ze zelfs je POKÈMON.[nb2]Dit is een geheimpje, dus vertel[br]het niet verder.
 18ED15| 1|107|0|D|Oak's Lab                               |PROF. OAK is going to have his own[br]radio show soon.[nb2]The program will be called PROF.[br]OAK's POKÈMON SEMINAR.|PROF. OAK gaat zijn eigen radio[br]programma krijgen.[nb2]Het zal PROF. OAK's POKÈMON[br]LESSEN heten.
-18ED81| 1|115|0|D|Oak's Lab                               |PROF. OAK may not look like much,[br]but he's the authority on POKÈMON.[nb2]Many POKÈMON TRAINERS hold him in[br]high regard.|PROF. OAK ziet er misschien saai uit,[br]maar hij weet heel veel over POKÈMON.[nb2]Veel POKÈMON TRAINERS kijken op[br]naar hem.
+18ED81| 1|115|0|D|Oak's Lab                               |PROF. OAK may not look like much,[br]but he's the authority on POKÈMON.[nb2]Many POKÈMON TRAINERS hold him in[br]high regard.|PROF. OAK ziet er misschien saai uit,[br]maar hij weet veel over POKÈMON.[nb2]Veel POKÈMON TRAINERS kijken op[br]naar hem.
 18EDF5| 1|106|0|D|Oak's Lab                               |Ah, now this is excellent![nb2][PLAYER], I have another important[br]favor to ask of you.[nb2]I need you to listen closely.|Ah, dit is perfect![nb2][PLAYER], ik heb nog een belangrijke[br]taak voor jou.[nb2]Ik wil dat je aandachtig luistert.
 18EE60| 1|248|0|D|Oak's Lab                               |Recently, there have been sightings[br]of many rare POKÈMON species.[nb2]I'm talking about POKÈMON that[br]have never been seen in KANTO.[nb2]I would love to go see things for[br]myself, but I'm much too old.[nb2]Since I can't do it, [PLAYER], I'd[br]like you to go in my place.|de laatste tijd zijn er heel veel[br]zeldzame POKÈMON gezien[nb2]Ik heb het over POKÈMON die[br]nog nooit gezien zijn in KANTO.[nb2]Ik zou graag zelf gaan kijken,[br]maar ik ben te oud.[nb2][PLAYER], omdat ik het niet meer[br]kan zou ik graag hebben dat jij[nb]dit doet.
 18EF59| 1|170|0|D|Oak's Lab                               |[RIVAL]: Hey, I heard that![nb2]Gramps, what's with favoring[br][PLAYER] over me all the time?[nb2]I went and collected more POKÈMON,[br]and faster, too.[nb2]You should just let me handle[br]everything.|[RIVAL]: He, dat heb ik gehoord![nb2]Opie, waarom doe je meer voor[br][PLAYER] dan voor mij?[nb2]Ik heb ook meer POKÈMON verzameld,[br]en sneller.[nb2]Je zou beter alles[br]aan mij over laten.
@@ -2411,7 +2411,7 @@
 1974D6| 1| 35|0|D|Celadon Gym                             |Bleaah![br]I hope ERIKA wipes you out!|Bah![br]Ik hoop dat ERIKA wint!
 1974FA| 1| 33|0|D|Celadon Gym                             |Oh, welcome.[br]I was getting bored.|Ah, welkom.[br]Ik begon me te vervelen.
 19751C| 1| 10|0|D|Celadon gym                             |My makeup!|Mijn makeup!
-197527| 1|109|0|D|Celadon Gym                             |GRASS-type POKÈMON are tough[br]against the WATER type.[nb2]They also have an edge on ROCK-[br]and GROUND-type POKÈMON.|GRASS-type POKÈMON zijn sterk[br]tegen WATER type POKÈMON.[nb2][br]Ze zijn ook goed tegen ROCK-[nb]en GROUND-type POK;ÈMON.
+197527| 1|109|0|D|Celadon Gym                             |GRASS-type POKÈMON are tough[br]against the WATER type.[nb2]They also have an edge on ROCK-[br]and GROUND-type POKÈMON.|GRASS-type POKÈMON zijn sterk[br]tegen WATER type POKÈMON.[nb2]Ze zijn ook goed tegen ROCK-[br]en GROUND-type POKÈMON.
 197595| 1| 37|0|D|Celadon Gym                             |[...]Weren't you peeking in here[br]earlier?|[...]Zat jij hierin niet te gluuren[br]daarnet?
 1975BB| 1| 21|0|D|Celadon gym                             |You're an eye-opener!|Ik trek mijn ogen open!
 1975D1| 1| 57|0|D|Celadon Gym                             |Oh, you were looking at ERIKA[...][br]You weren't looking at me[...]|Oh, je was naar ERIKA[br]aan het kijken[...][nb2]Niet naar mij[...]
@@ -3061,13 +3061,13 @@
 1A51F6| 4| 16|0|D|Missed text 4                           |Obtained the [var2]!|De [var2] gevonden!
 1A5207| 2| 16|0|D|Missed text 4                           |The BAG is full[...]|De ZAK is vol[...]
 1A5218| 6| 24|0|D|Missed text 4                           |[PLAYER] put the [var2][br]in the [var3].|[PLAYER] stak de [var2][br]in de [var3].
-1A5231| 3| 16|0|D|Missed text 4                           |[PLAYER] found one [var2]!|[PLAYER] heeft een [var2][br]gevonden!
+1A5231| 3| 16|0|D|Missed text 4                           |[PLAYER] found one [var2]!|[PLAYER] vond een [var2]!
 1A5242| 6| 25|0|D|Missed text 4                           |Too bad![br]The BAG is full[...]|Helaas![br]De ZAK is vol[...]
-1A525C| 3| 15|0|D|Missed text 4                           |[PLAYER] found[br][var1] [var2]!|[PLAYER] heeft [var1] [var2][br]gevonden!
+1A525C| 3| 15|0|D|Missed text 4                           |[PLAYER] found[br][var1] [var2]!|[PLAYER] vond[br][var1] [var2]!
 1A526C| 1| 39|0|D|Missed text 4                           |[PLAYER] put the COINS away in[br]the COIN CASE.|[PLAYER] stak de MUNTEN weg in[br]de MUNTENZAK.
 1A5294| 1| 31|0|D|Missed text 4                           |Too bad![br]The COIN CASE is full[...]|Jammer![br]De MUNTENZAK is vol[...]
 1A52B4| 1| 40|0|D|Missed text 4                           |Too bad![br]There's nothing to put them in[...]|Jammer![br]Er is niets om ze in te steken[...]
-1A52DD| 1| 18|0|D|Missed text 4                           |[PLAYER] found[br][var1] [var2](s)!|[PLAYER] heeft[br][var1] [var2](en) gevonden!
+1A52DD| 1| 18|0|D|Missed text 4                           |[PLAYER] found[br][var1] [var2](s)!|[PLAYER] vond[br][var1] [var2](en)!
 1A52F0| 1| 16|0|D|Missed text 4                           |Obtained the [var2]!|De [var2] gekregen!
 1A5301| 2| 45|0|D|Missed text 4                           |Too bad! There's no room left for[br]another [var2][...]|Helaas! Geen plaats meer voor[br]nog een [var2][...]
 1A532F| 1| 33|0|D|Missed text 4                           |The [var2] was transferred[br]to the PC.|De [var2] is overgezet naar de[br]PC.
@@ -3138,7 +3138,7 @@
 1A6359| 1| 57|0|D|Missed text 3                           |Once you save your game, you can[br]access the MYSTERY GIFT.|Zodra je je spel opslaat kan je het[br]VERASSINGSCADEAU systeem gebruiken.
 1A6393| 1| 48|0|D|Missed text 3                           |Thank you for accessing the[br]MYSTERY GIFT System.|Bedankt om het VERASSINGSCADEAU[br]systeem te gebruiken.
 1A63C4| 1| 17|0|D|Missed text 3                           |The [var1] flew away!|De [var1] vloog weg!
-1A63E8| 1| 30|0|D|Missed text 3                           |[PLAYER] found a [var2]![br]It contains [var1].|[PLAYER] heeft een [var2] [br]gevonden![nb]Het bevat [var1].
+1A63E8| 1| 30|0|D|Missed text 3                           |[PLAYER] found a [var2]![br]It contains [var1].|[PLAYER] vond een [var2]![br]Het bevat [var1].
 1A641B| 1| 44|0|D|Dock                                    |All right![br]All aboard SEAGALLOP HI-SPEED [var1]!|Ok! Iedereen instappen[br]op de SEAGALLOP HI-SPEED [var1]!
 1A6448| 3|  6|0|D|Seafoam Islands                         |Gyaoo!|Gyaoo!
 1A644F| 1| 49|0|D|Missed text 3                           |This move can be learned only[br]once. Is that okay?|Deze techniek kan slechts ÈÈnmaal[br]geleerd worden. Is dit ok?
@@ -7357,7 +7357,7 @@
 417596| 1| 23|0|D|                                        |Shatter a cracked rock.|
 4175AE| 1| 18|0|D|                                        |Climb a waterfall.|
 4175CC| 1| 17|0|D|                                        |Escape from here.|
-4175DE| 1| 18|0|D|                                        |Lure wild POKÈMON.|
+4175DE| 1| 18|0|D|                                        |Lure wild POKÈMON.|Lok wilde POKÈMON.
 4175F1| 2|  9|0|D|                                        |Share HP.|
 4175FB| 1| 25|0|D|                                        |Return to a healing spot.|
 417615| 1| 42|0|D|                                        |Want to escape from here and return[br]to [var1]?|
@@ -7847,7 +7847,7 @@
 41A7B0| 1| 44|0|I|Previously                              |Met and battled [var1].[br]The match ended in a [var2].|Vocht met [var1].[br]De wedstrijd eindigde op [var2].
 41A7DD| 1| 50|0|I|Previously                              |Went to the POKÈMON MART in[br][A]  and bought one [br][A]¿.|Ging naar de POKÈMON MART in[br][A]  en kocht een [br][A]¿.
 41A810| 1| 71|0|I|Previously                              |Went to the POKÈMON MART in[br][A]  and spent $[A]¡ for[br]items including [A]¿(s).|Ging naar de POKÈMON MART in[br][A]  en spendeerde $[A]¡ voor[br]items waaronder [A]¿(en).
-41A858| 1| 61|0|I|Previously                              |[A]  went to the POKÈMON MART in[br][A]¿ and sold [A]¬ of[br]the item [A]¡.|[A]  ging naar de POKÈMON MART[br]in [A]¿ en verkocht [A]¬ stuks[br]van [A]¡.
+41A858| 1| 61|0|I|Previously                              |[A]  went to the POKÈMON MART in[br][A]¿ and sold [A]¬ of[br]the item [A]¡.|[A]  ging naar de POKÈMON MART[br]in [A]¿ en verkocht[br][A]¬ stuks van [A]¡.
 41A896| 1| 61|0|I|Previously                              |Sold items including [A]¿ at[br]the POKÈMON MART in [A] ,[br]worth $[A]¡.|Verkocht items, waaronder[br][A]¿ aan de POKÈMON MART in[br][A] ,voor een totaal van $[A]¡.
 41A8D4| 1|  8|0|I|Previously                              |just one|slechts ÈÈn
 41A8DD| 1|  2|0|I|Previously                              |[A]«|[A]«
