@@ -5176,7 +5176,7 @@
 3DBDE8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POKé DOLL|
 3DBE14| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FLUFFY TAIL|FLUFFY STAART
 3DBE40| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????
-3DBE6C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SUPER REPEL|SUPER VERJAAG
+3DBE6C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SUPER REPEL|MEGA VERJAAG
 3DBE98| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAX REPEL|MAX VERJAAG
 3DBEC4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ESCAPE ROPE|ONTSNAPTOUW
 3DBEF0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |REPEL|VERJAAG
@@ -5216,7 +5216,7 @@
 3DC4C8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????
 3DC4F4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ORANGE MAIL|ORANJE BRIEF
 3DC520| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HARBOR MAIL|HAVEN POST
-3DC54C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GLITTER MAIL|GLITTER BRIEF
+3DC54C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GLITTER MAIL|GLITTERBRIEF
 3DC578| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MECH MAIL|MECH BRIEF
 3DC5A4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WOOD MAIL|HOUTEN BRIEF
 3DC5D0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WAVE MAIL|GOLF BRIEF
