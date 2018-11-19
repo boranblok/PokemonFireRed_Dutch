@@ -892,7 +892,7 @@
 180075| 1| 22|0|D|Celadon City                            |POLIWRATH: Ribi ribit!|POLIWRATH: Ribi ribit!
 18008C| 1| 53|0|D|Celadon City                            |What are you staring at?[br]Get lost, or I'll punch you.|Waar zit je naar te staren?[br]Ga weg of ik sla je.
 1800C2| 1| 30|0|D|Celadon City                            |Keep out of TEAM ROCKET's way!|Blijf uit de weg van TEAM ROCKET!
-1800E1| 1|152|0|D|Celadon City                            |TRAINER TIPS[nb2]X ACCURACY boosts the accuracy of[br]techniques.[nb2]DIRE HIT jacks up the likelihood[br]of critical hits.[nb2]Get your items at the CELADON[br]DEPT. STORE!|TRAINER TIPS[nb2]X ACCURACY verhoogt de precisie[br]van technieken.[nb2]DIRE HIT verhoogt de kans[br]op kritieke verwondingen.[nb2]Haal ze in de CELADON DEPT. WINKEL.
+1800E1| 1|152|0|D|Celadon City                            |TRAINER TIPS[nb2]X ACCURACY boosts the accuracy of[br]techniques.[nb2]DIRE HIT jacks up the likelihood[br]of critical hits.[nb2]Get your items at the CELADON[br]DEPT. STORE!|TRAINER TIPS[nb2]X ACCURACY verhoogt de precisie[br]van technieken.[nb2]DIRE HIT verhoogt de kans[br]op kritieke verwondingen.[nb2]Haal ze in de CELADON SUPERMARKT.
 18017A| 1| 39|0|D|Celadon City                            |CELADON CITY[br]The City of Rainbow Dreams|CELADON STAD[br]De stad van regenboogdromen
 1801A2| 1| 66|0|D|Celadon City                            |CELADON CITY POKÈMON GYM[br]LEADER: ERIKA[nb]The Nature-Loving Princess!|CELADON STAD POKÈMON GYM[br]LEIDER: ERIKA[nb]De natuurlievende prinses!
 1801E5| 1| 15|0|D|Celadon City                            |CELADON MANSION|CELADON VILLA
@@ -2279,7 +2279,7 @@
 1953EE| 1| 17|0|D|Vermilion House 2                       |PIDGEY: Kurukkoo!|PIDGEY: Kurukkoo!
 195400| 1|112|0|D|Vermilion House 2                       |Dear PIPPI,[br]I hope to see you soon.[nb2]I heard SAFFRON has problems with[br]TEAM ROCKET.[nb2]VERMILION appears to be safe.|Dag PIPPI,[br]Ik hoop dat ik je snel kan zien.[nb2]Ik heb gehoord dat SAFFRON[br]problemen heeft met TEAM ROCKET.[nb2]Het lijkt veilig in VERMILION.
 195471| 1|107|0|D|Vermilion House 2                       |I want to exchange MAIL with all[br]sorts of people.[nb2]I send my PIDGEY to a UNION ROOM[br]to exchange MAIL for me.|Ik wil MAIL uitwisselen met[br]allerlei mensen.[nb2]Daarom stuur ik mijn PIDGEY naar een[br]UNION ROOM om MAIL uit te wisselen.
-1954DD| 1| 89|0|D|Department Store                        |Hello![br]Welcome to CELADON DEPT. STORE.[nb2]The board on the right describes[br]the store layout.|Hallo![br]Welcom bij de CELADON SUPERMARKT.[nb2]Het bord rechts zegt waar alles is.
+1954DD| 1| 89|0|D|Department Store                        |Hello![br]Welcome to CELADON DEPT. STORE.[nb2]The board on the right describes[br]the store layout.|Hallo![br]Welkom bij de CELADON SUPERMARKT.[nb2]Het bord rechts zegt waar alles is.
 195537| 1|123|0|D|Department Store                        |1F: SERVICE COUNTER[nb2]2F: TRAINER'S MARKET[nb2]3F: TV GAME SHOP[nb2]4F: WISE MAN GIFTS[nb2]5F: DRUGSTORE[nb2]ROOFTOP SQUARE: VENDING MACHINES|1e: ONTHAAL[nb2]2e: TRAINERS MARKT[nb2]3e: TV SPELLENWINKEL[nb2]4e: WIJZE MAN CADEAUS[nb2]5e: MEDICIJNEN[nb2]DAKVERDIEPING: VERKOOPSAUTOMATEN
 1955B3| 1| 19|0|D|Department Store                        |1F: SERVICE COUNTER|1e: ONTHAAL
 1955C7| 1| 71|0|D|Celadon dept store                      |SUPER REPEL keeps weak POKÈMON at[br]bay[...][nb2]Hmm, it's a more powerful REPEL.|SUPER VERJAAG houdt zwakke[br]POKÈMON op afstand[...][nb2]Hmm, het is een krachtigere VERJAAG.
@@ -7428,11 +7428,11 @@
 417A6E| 1| 21|0|D|                                        |TM24[FC]€[x48][smllat]4,000 COINS|TM24[FC]€[x48][smllat]4,000 MUNTEN
 417A84| 1| 21|0|D|                                        |TM30[FC]€[x48][smllat]4,500 COINS|TM30[FC]€[x48][smllat]4,500 MUNTEN
 417A9A| 1| 21|0|D|                                        |TM35[FC]€[x48][smllat]4,000 COINS|TM35[FC]€[x48][smllat]4,000 MUNTEN
-417AB0| 1|  2|0|D|                                        |1F|
-417AB3| 1|  2|0|D|                                        |2F|
-417AB6| 1|  2|0|D|                                        |3F|
-417AB9| 1|  2|0|D|                                        |4F|
-417ABC| 1|  2|0|D|                                        |5F|
+417AB0| 1|  2|0|D|                                        |1F|1e
+417AB3| 1|  2|0|D|                                        |2F|2e
+417AB6| 1|  2|0|D|                                        |3F|3e
+417AB9| 1|  2|0|D|                                        |4F|4e
+417ABC| 1|  2|0|D|                                        |5F|5e
 417ABF| 1|  4|0|D|                                        |COOL|
 417AC4| 1|  6|0|D|                                        |BEAUTY|
 417ACB| 1|  4|0|D|                                        |CUTE|
@@ -7526,8 +7526,8 @@
 417F99| 2|  5|0|D|                                        |MIXED|
 417FBB| 1|  7|0|D|                                        |Big guy|
 417FC3| 1|  8|0|D|                                        |Big girl|Grote meid
-417FCC| 1|  3|0|D|                                        |son|
-417FD0| 1|  8|0|D|                                        |daughter|
+417FCC| 1|  3|0|D|                                        |son|zoon
+417FD0| 1|  8|0|D|                                        |daughter|dochter
 417FD9| 1| 12|0|D|                                        |BOULDERBADGE|
 417FE6| 1| 12|0|D|                                        |CASCADEBADGE|
 417FF3| 1| 12|0|D|                                        |THUNDERBADGE|
@@ -7536,23 +7536,23 @@
 418017| 1| 10|0|D|                                        |MARSHBADGE|
 418022| 1| 12|0|D|                                        |VOLCANOBADGE|
 41802F| 1| 10|0|D|                                        |EARTHBADGE|
-41803A| 3|  2|0|D|                                        |1F|
-41803D| 3|  2|0|D|                                        |2F|
-418040| 3|  2|0|D|                                        |3F|
-418043| 3|  2|0|D|                                        |4F|
-418046| 3|  2|0|D|                                        |5F|
-418049| 2|  2|0|D|                                        |6F|
-41804C| 2|  2|0|D|                                        |7F|
-41804F| 2|  2|0|D|                                        |8F|
-418052| 2|  2|0|D|                                        |9F|
-418055| 2|  3|0|D|                                        |10F|
-418059| 2|  3|0|D|                                        |11F|
-41805D| 5|  3|0|D|                                        |B1F|
-418061| 3|  3|0|D|                                        |B2F|
-418065| 1|  3|0|D|                                        |B3F|
-418069| 3|  3|0|D|                                        |B4F|
-41806D| 3|  7|0|D|                                        |ROOFTOP|
-418075| 1|  7|0|D|                                        |Now on:|
+41803A| 3|  2|0|D|                                        |1F|1e
+41803D| 3|  2|0|D|                                        |2F|2e
+418040| 3|  2|0|D|                                        |3F|3e
+418043| 3|  2|0|D|                                        |4F|4e
+418046| 3|  2|0|D|                                        |5F|5e
+418049| 2|  2|0|D|                                        |6F|6e
+41804C| 2|  2|0|D|                                        |7F|7e
+41804F| 2|  2|0|D|                                        |8F|8e
+418052| 2|  2|0|D|                                        |9F|9e
+418055| 2|  3|0|D|                                        |10F|10e
+418059| 2|  3|0|D|                                        |11F|11e
+41805D| 5|  3|0|D|                                        |B1F|K1e
+418061| 3|  3|0|D|                                        |B2F|K2e
+418065| 1|  3|0|D|                                        |B3F|K3e
+418069| 3|  3|0|D|                                        |B4F|K4e
+41806D| 3|  7|0|D|                                        |ROOFTOP|DAK
+418075| 1|  7|0|D|                                        |Now on:|Nu op:
 41807D| 2| 16|0|D|                                        |LINKED GAME PLAY|
 41808E| 2| 13|0|D|                                        |DIRECT CORNER|
 41809C| 2| 10|0|D|                                        |UNION ROOM|
