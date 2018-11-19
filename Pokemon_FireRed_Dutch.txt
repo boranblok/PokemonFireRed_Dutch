@@ -1513,7 +1513,7 @@
 1880AB| 2| 28|0|D|Route 20                                |Oh, no![br]Now what am I to do?|O, nee![br]Wat moet ik nu doen?|1,1AB8C5;1,1AB8EC
 1880C8| 2| 47|0|D|Route 20                                |My birds are exhausted.[br]They can't FLY me back!|Mijn vogels zijn uitgeput,[br]ze kunnen met niet meer[nb]terugvliegen met FLY!|1,1AB8DB;1,1AB8F2
 1880F8| 1| 32|0|D|Route 20                                |My boyfriend gave me big pearls.|Mijn vriendje heeft me grote[br]parels gegeven.|1,1AB807
-188119| 3| 31|0|D|Route 20                                |Oh, no![br]My pearls were in them!|O, nee![br]Daarin zaten mijn parels!|1,04F9E5;1,1AB80B;1,1AB832
+188119| 3| 31|0|D|Route 20                                |Oh, no![br]My pearls were in them!|O, nee![br]Daarin zaten mijn parels!|0,04F9E5;1,1AB80B;1,1AB832
 188139| 2| 43|0|D|Route 20                                |Will my pearls grow bigger inside[br]CLOYSTER?|Gaan mijn parels groter worden in[br]een CLOYSTER?|1,1AB821;1,1AB838
 188165| 1| 61|0|D|Route 20                                |I swam here from CINNABAR ISLAND.[br]It wasn't easy, I tell you.|Ik ben naar hier gezwommen van[br]CINNABAR EILAND.[nb]Dat was niet gemakkelijk hoor.|1,1AB8FF
 1881A3| 2| 20|0|D|Route 20                                |I'm so disappointed!|Ik ben zo teleurgesteld!|1,1AB903;1,1AB92A
@@ -2376,7 +2376,7 @@
 196D2B| 1| 27|0|D|Game Corner                             |What's up?[br]Want some COINS?|Hoe gaat het?[br]Wil je wat MUNTEN?|1,16C8AB
 196D47| 1| 39|0|D|Game corner                             |[PLAYER] received 20 COINS[br]from the nice guy.|[PLAYER] heeft 20 MUNTEN gekregen[br]van de lieve menheer.|1,16C8CF
 196D6F| 1| 23|0|D|Game corner                             |You have lots of COINS!|Jij hebt veel MUNTEN!|1,16C8E4
-196D87| 2| 47|0|D|Game Corner                             |Darn! I need more COINS for the[br]POKÈMON I want!|Dju! Ik heb meer MUNTEN nodig[br]voor de POKÈMON die ik wil!|1,16C8F2;1,5CABB2
+196D87| 2| 47|0|D|Game Corner                             |Darn! I need more COINS for the[br]POKÈMON I want!|Dju! Ik heb meer MUNTEN nodig[br]voor de POKÈMON die ik wil!|1,16C8F2;0,5CABB2
 196DB7| 1| 64|0|D|Game Corner                             |Hey, what? You're throwing me off![br]Here are some COINS, so shoo!|HÈ, wat?[br]Je verstoort mijn concentratie![nb]Hier zijn wat MUNTEN, dus schiet je!|1,16C90B
 196DF8| 1| 34|0|D|Game corner                             |[PLAYER] received 20 COINS[br]from the man.|[PLAYER] heeft 20 MUNTEN gekregen[br]van de man.|1,16C92F
 196E1B| 1| 36|0|D|Game corner                             |You've got plenty of your own[br]COINS!|Je hebt zelf genoeg MUNTEN!|1,16C944
@@ -2874,7 +2874,7 @@
 1A0B09| 1|142|0|D|Seven Island Mart                       |I need to fish on SEVEN ISLAND.[nb2]That will complete my fishing tour[br]of the SEVII ISLANDS.[nb2]I'd better stock up on some[br]POKÈ BALLS first, though.|Ik moet vissen op SEVEN EILAND.[nb2]Dan heb ik op elk van de SEVII[br]eilanden gevist.[nb2]Ik pak wel best wat extra POKÈ[br]BALLS mee.|1,170B82
 1A0B98| 1|134|0|D|Seven Island Center                     |On this island, different events[br]occur depending on connections.[nb2]What are those connections?[nb2]They are for you to discover on[br]your own.|Op dit eiland gebeuren er verschillende[br]dingen afhankelijk van verbindingen.[nb2]Wat zijn die verbindingen?[nb2]Die ga je zelf moeten ontdekken.|1,170BA3
 1A0C1F| 1|133|0|D|Seven Island Center                     |Did you ride a SEAGALLOP ferry[br]to get here?[nb2]There are at least ten of those[br]high-speed ships.[nb2]I don't know where they all go,[br]though.|Heb je op de SEAGALLOP veerboot[br]gevaren om hier te komen?[nb2]Er zijn zeker tien zulke schepen.[nb2]Ik weet echter niet waar[br]ze allemaal naar toe gaan.|1,170BAC
-1A0CA5| 2| 56|0|D|Seven Island Center                     |If you're confident, you should[br]check out TRAINER TOWER.|Als je denk goed genoeg te zijn,[br]bezoek eens de TRAINER TOREN.|1,170BB5;1,4DCBAE
+1A0CA5| 2| 56|0|D|Seven Island Center                     |If you're confident, you should[br]check out TRAINER TOWER.|Als je denk goed genoeg te zijn,[br]bezoek eens de TRAINER TOREN.|1,170BB5;0,4DCBAE
 1A0CDE| 1| 24|0|D|PokÈmon Net Center                      |BILL: Hey, there![br]CELIO!|BILL: Hallo daar CELIO!|1,170CC7
 1A0CF7| 1| 47|0|D|PokÈmon Net Center                      |CELIO: BILL![br]I can't believe you came out here.|CELIO: BILL! Ik kan het niet[br]geloven dat je tot hier bent gekomen.|1,170CFA
 1A0D27| 1| 74|0|D|PokÈmon Net Center                      |BILL: Well, absolutely![br]How's your research coming along?[nb2][...]Oh, wait a sec.|BILL: Natuurlijk![br]Hoe gaat het met je onderzoek?[nb2][...]O, wacht even.|1,170D02
@@ -6682,9 +6682,9 @@
 3FBB71| 1| 17|0|D|Battle4                                 |[FD0F] is hurt[br]by [FD00]!|[FD0F] is verwond[br]door [FD00]!|1,3FE084
 3FBB83| 1| 21|0|D|Battle4                                 |[FD0F] was freed[br]from [FD00]!|[FD0F] was bevrijd[br]van [FD00]!|1,3FE088
 3FBB99| 1| 26|0|D|Battle4                                 |[FD0F] kept going[br]and crashed!|[FD0F] is doorgegaan[br]en gebotst!|1,3FE08C
-3FBBB4| 2| 27|0|D|Battle4                                 |[FD2A] became[br]shrouded in MIST!|[FD2A] wordt gehuld[br]in MIST!|1,042E94;1,3FE090
+3FBBB4| 2| 27|0|D|Battle4                                 |[FD2A] became[br]shrouded in MIST!|[FD2A] wordt gehuld[br]in MIST!|0,042E94;1,3FE090
 3FBBD0| 1| 24|0|D|Battle4                                 |[FD13] is protected[br]by MIST!|[FD13] is beschermd[br]door MIST!|1,3FE094
-3FBBE9| 2| 21|0|D|Battle4                                 |[FD0F] is getting[br]pumped!|[FD0F] raakt[br]op zijn toeren!|1,042E8C;1,3FE098
+3FBBE9| 2| 21|0|D|Battle4                                 |[FD0F] is getting[br]pumped!|[FD0F] raakt[br]op zijn toeren!|0,042E8C;1,3FE098
 3FBBFF| 1| 22|0|D|Battle4                                 |[FD0F] is hit[br]with recoil!|[FD0F] is geraakt door[br]de terugslag!|1,3FE09C
 3FBC16| 1| 20|0|D|Battle4                                 |[FD0F] protected[br]itself!|[FD0F] beschermde[br]zichzelf!|1,3FE0A0
 3FBC2B| 1| 32|0|D|Battle4                                 |[FD0F] is buffeted[br]by the sandstorm!|[FD0F] wordt overhoop[br]gesmeten door de zandstorm!|1,3FE0A4
@@ -6851,7 +6851,7 @@
 3FCC39| 1| 33|0|D|Battle 10                               |HM moves can't be[br]forgotten now.[nb2]|HM technieken kunnen nu niet[br]vergeten worden.[nb2]|1,3FE408
 3FCC5B| 1| 24|0|D|Battle 10                               |It's not very effective[...]|Het werkt niet zo goed[...]|1,3FE280
 3FCC74| 1| 21|0|D|Battle 10                               |It's super effective!|Het werkt super goed!|1,3FE284
-3FCC8A| 2| 21|0|D|Battle 10                               |[music]Ÿ Got away safely![nb2]|[music]Ÿ Veilig weggeraakt![nb2]|1,0D7698;1,3FE288
+3FCC8A| 2| 21|0|D|Battle 10                               |[music]Ÿ Got away safely![nb2]|[music]Ÿ Veilig weggeraakt![nb2]|0,0D7698;1,3FE288
 3FCCA0| 1| 26|0|D|Battle 10                               |[music]Ÿ [FD0F] fled[br]using its [FD16]![nb2]|[music]Ÿ [FD0F] vluchtte[br]door zijn [FD16] te gebruiken![nb2]|1,3FE454
 3FCCBB| 1| 22|0|D|Battle 10                               |[music]Ÿ [FD0F] fled[br]using [FD][x18]![nb2]|[music]Ÿ [FD0F] vluchtte[br]door middel van [FD][x18]![nb2]|1,3FE458
 3FCCD2| 1| 17|0|D|Battle 10                               |[music]Ÿ Wild [FD00] fled!|[music]Ÿ Wilde [FD00] vluchtte!|1,3FE28C
