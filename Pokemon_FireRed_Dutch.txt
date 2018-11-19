@@ -1509,7 +1509,7 @@
 18802E| 1| 45|0|D|Route 20                                |Why are you riding a POKÈMON?[br]Can't you swim?|Waarom zit je op een POKÈMON?[br]Kan je niet zwemmen?|1,1AB78B
 18805C| 2| 16|0|D|Route 20                                |Ouch![br]Torpedoed!|Aaai![br]Getorpedeerd!|1,1AB78F;1,1AB7B6
 18806D| 2| 32|0|D|Route 20                                |Riding a POKÈMON sure looks fun!|Op een POKÈMON rijden ziet er wel[br]erg leuk uit!|1,1AB7A5;1,1AB7BC
-18808E| 2| 28|0|D|Route 20                                |I rode my bird POKÈMON here.|Ik ben naar hier gekomen op mijn[br]vogel POKÈMON.|1,04B515;1,1AB8C1
+18808E| 2| 28|0|D|Route 20                                |I rode my bird POKÈMON here.|Ik ben naar hier gekomen op mijn[br]vogel POKÈMON.|0,04B515;1,1AB8C1
 1880AB| 2| 28|0|D|Route 20                                |Oh, no![br]Now what am I to do?|O, nee![br]Wat moet ik nu doen?|1,1AB8C5;1,1AB8EC
 1880C8| 2| 47|0|D|Route 20                                |My birds are exhausted.[br]They can't FLY me back!|Mijn vogels zijn uitgeput,[br]ze kunnen met niet meer[nb]terugvliegen met FLY!|1,1AB8DB;1,1AB8F2
 1880F8| 1| 32|0|D|Route 20                                |My boyfriend gave me big pearls.|Mijn vriendje heeft me grote[br]parels gegeven.|1,1AB807
