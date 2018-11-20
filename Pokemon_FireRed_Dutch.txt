@@ -1028,7 +1028,7 @@
 182DFB| 1| 42|0|D|Five Island                             |FIVE ISLAND[br]Chrono Island: Where Time Goes|FIVE EILAND[br]Chrono eiland: waar de tijd gaat|1,167E9A
 182E26| 1|111|0|D|Five Island                             |Oh, this stinks. I wanted to play in[br]the MEADOW.[nb2]But they put up a weird building[br]on it, so I can't play there.|Ach, wat jammer ik wou in het[br]WEILAND gaan spelen.[nb2]Maar ze hebben daar een raar gebouw[br]gezet, dus ik kan er niet spelen.|1,167EA3
 182E96| 1|106|0|D|Five Island                             |It's been getting busier around[br]these parts lately.[nb2]I haven't been catching many good[br]fish lately, either.|Het wordt hier drukker en drukker.[nb2]Ik kan de laatste tijd ook niet[br]zo veel goede vis meer vangen.|1,167EAC
-182F01| 1|191|0|D|Seven Island                            |Not many people come out here.[nb2]If I train here, I'm convinced that[br]I'll get stronger and stronger.[nb2]Yep, stronger and stronger[...][nb2]How would you like to learn a move[br]like that? It's SWORDS DANCE.|Hier komen niet zo veel mensen.[nb2]Ik ben overtuigd dat als ik hier train[br]ik sterker en sterker ga worden.[nb2]Ja, sterker en sterker[...][nb2]Wil je een techniek van me leren?[br]Het is SWORDS DANCE.|1,1C4B63
+182F01| 1|191|0|D|Seven Island                            |Not many people come out here.[nb2]If I train here, I'm convinced that[br]I'll get stronger and stronger.[nb2]Yep, stronger and stronger[...][nb2]How would you like to learn a move[br]like that? It's SWORDS DANCE.|Hier komen niet zo veel mensen.[nb2]Ik ben overtuigd dat als ik hier train[br]ik sterker en sterker ga worden.[nb2]Ja, sterker en sterker[...][nb2]Wil je een techniek van me leren?[br]Het is ZWAARDDANS.|1,1C4B63
 182FC1| 1| 23|0|D|Seven Island                            |Well, that's fine, too.|Ok, dat is ook goed.|1,1C4BAC
 182FD9| 1| 51|0|D|Seven Island                            |All right, pick which POKÈMON[br]I should teach it to.|Ok, aan welke POKÈMON moet ik[br]de techniek leren?|1,1C4B86
 18300D| 1| 56|0|D|Seven Island                            |If only we could keep getting[br]stronger and stronger, eh?|Konden we maar sterker en[br]sterker blijven worden hÈ?|1,1C4BB6
@@ -1077,8 +1077,8 @@
 183957| 2| 67|0|D|Route 4                                 |There might not be any more[br]mushrooms here.[nb2]I think I got them all.|Ik denk niet dat er hier nog[br]paddestoelen zijn.[nb2]Ik heb ze waarschijnlijk allemaal[br]geplukt.|1,1A95D9;1,1A95F0
 18399B| 1| 24|0|D|Route 4                                 |MT. MOON[br]Tunnel Entrance|MT. MOON[br]Tunnel ingang|1,167F97
 1839B4| 1| 32|0|D|Route 4                                 |ROUTE 4[br]MT. MOON - CERULEAN CITY|ROUTE 4[br]MT. MOON - CERULEAN STAD|1,167FA0
-1839D5| 1|173|0|D|Route 4                                 |A punch of roaring ferocity![nb2]Packed with destructive power![nb2]When the chips are down,[br]MEGA PUNCH is the ultimate attack![nb]You agree, yes?[nb2]Now![br]Let me teach it to your POKÈMON!|Een snelle klop![nb2]Vol met vernielingskracht![nb2]Hoe je het ook bekijkt,[br]MEGA PUNCH is de ultieme aanval![nb]Denk je niet?[nb2]Nu![br]Laat he me leren aan je POKÈMON!|1,1C495B
-183A83| 1| 59|0|D|Route 4                                 |You'll be back when you understand[br]the worth of MEGA PUNCH.|Je komt wel terugkrabbelen als je[br]de waarde van MEGA PUNCH verstaat.|1,1C49A4
+1839D5| 1|173|0|D|Route 4                                 |A punch of roaring ferocity![nb2]Packed with destructive power![nb2]When the chips are down,[br]MEGA PUNCH is the ultimate attack![nb]You agree, yes?[nb2]Now![br]Let me teach it to your POKÈMON!|Een snelle klop![nb2]Vol met vernielingskracht![nb2]Hoe je het ook bekijkt,[br]MEGA SLAG is de ultieme aanval![nb]Denk je niet?[nb2]Nu![br]Laat he me leren aan je POKÈMON!|1,1C495B
+183A83| 1| 59|0|D|Route 4                                 |You'll be back when you understand[br]the worth of MEGA PUNCH.|Je komt wel terugkrabbelen als je[br]de waarde van MEGA SLAG verstaat.|1,1C49A4
 183ABF| 1| 34|0|D|Route 4                                 |Fine![br]Which POKÈMON will learn it?|Goed![br]Welke POKÈMON wil de techniek leren?|1,1C497E
 183AE2| 1|145|0|D|Route 4                                 |Now, we are comrades in the way of[br]punching![nb2]You should go before you're seen[br]by the misguided fool who trains[nb]only his silly kicking over there.|Nu zijn we kameraden in ons manier[br]van slaan![nb2]Je gaat beter weg voor je gezien[br]wordt door die idioot daar die enkel[nb]maar schoppen aanleert.|1,1C49AE
 183B74| 1|176|0|D|Route 4                                 |A kick of brutal ferocity![nb2]Packed with destructive power![nb2]When you get right down to it,[br]MEGA KICK is the ultimate attack![nb]Don't you agree?[nb2]Okay![br]I'll teach it to your POKÈMON!|Een woeste schop![nb2]Vol met vernielingskracht![nb2]Als je er goed naar kijkt is MEGA[br]KICK de ultieme aanval![nb2]Denk je niet?[nb2]Ok?[br]Ik leer het aan je POkÈMON!|1,1C49C3
@@ -1307,7 +1307,7 @@
 185F46| 1|103|0|D|Route 14                                |They have TMs on sale at the[br]CELADON DEPT. STORE.[nb2]TMs aren't really rare, but not[br]many people have HMs.|Ze verkopen TM's in de[br]CELADON SUPERMARKT.[nb2]TM's zijn niet echt zeldzaam, maar[br]niet veel mensen hebben HM's|1,1AAAF1
 185FAE| 2| 12|0|D|Route 14                                |Aww, bummer!|Aah, jammer!|1,1AAAF5;1,1AAB1C
 185FBB| 2|101|0|D|Route 14                                |Try teaching POKÈMON a move that's[br]the same type as it.[nb2]That apparently boosts the power[br]of the move.|Je leert POKÈMON best technieken[br]van hetzelfde type als hun.[nb2]Dat zorgt er voor dat de techniek[br]krachtiger wordt.|1,1AAB0B;1,1AAB22
-186021| 1| 90|0|D|Route 14                                |Have you taught your bird POKÈMON[br]how to FLY?[nb2]You'll be able to soar with it into[br]the sky!|Heb je je vogel POKÈMON al de FLY[br]techniek geleerd?[nb2]Als ze dat kunnen kan je mee met[br]hen in de lucht!|1,1AAB2F
+186021| 1| 90|0|D|Route 14                                |Have you taught your bird POKÈMON[br]how to FLY?[nb2]You'll be able to soar with it into[br]the sky!|Heb je je vogel POKÈMON al de[br]VLIEG techniek geleerd?[nb2]Als ze dat kunnen kan je mee met[br]hen in de lucht!|1,1AAB2F
 18607C| 2| 20|0|D|Route 14                                |Shot down in flames!|Neergeschoten!|1,1AAB33;1,1AAB5A
 186091| 2| 71|0|D|Route 14                                |Bird POKÈMON are my one true love.[br]I don't want to raise anything else.|Vogel POKÈMON zijn mijn ware liefde[br]ik wil niets anders trainen.|1,1AAB49;1,1AAB60
 1860D9| 1| 48|0|D|Route 14                                |Have you heard the legend of the[br]winged mirages?|Heb je ooit gehoord van de[br]gevleugelde luchtspiegelingen?|1,1AA9F9
@@ -1511,7 +1511,7 @@
 18806D| 2| 32|0|D|Route 20                                |Riding a POKÈMON sure looks fun!|Op een POKÈMON rijden ziet er wel[br]erg leuk uit!|1,1AB7A5;1,1AB7BC
 18808E| 2| 28|0|D|Route 20                                |I rode my bird POKÈMON here.|Ik ben naar hier gekomen op mijn[br]vogel POKÈMON.|0,04B515;1,1AB8C1
 1880AB| 2| 28|0|D|Route 20                                |Oh, no![br]Now what am I to do?|O, nee![br]Wat moet ik nu doen?|1,1AB8C5;1,1AB8EC
-1880C8| 2| 47|0|D|Route 20                                |My birds are exhausted.[br]They can't FLY me back!|Mijn vogels zijn uitgeput,[br]ze kunnen met niet meer[nb]terugvliegen met FLY!|1,1AB8DB;1,1AB8F2
+1880C8| 2| 47|0|D|Route 20                                |My birds are exhausted.[br]They can't FLY me back!|Mijn vogels zijn uitgeput,[br]ze kunnen met niet meer[nb]terugvliegen met VLIEG!|1,1AB8DB;1,1AB8F2
 1880F8| 1| 32|0|D|Route 20                                |My boyfriend gave me big pearls.|Mijn vriendje heeft me grote[br]parels gegeven.|1,1AB807
 188119| 3| 31|0|D|Route 20                                |Oh, no![br]My pearls were in them!|O, nee![br]Daarin zaten mijn parels!|0,04F9E5;1,1AB80B;1,1AB832
 188139| 2| 43|0|D|Route 20                                |Will my pearls grow bigger inside[br]CLOYSTER?|Gaan mijn parels groter worden in[br]een CLOYSTER?|1,1AB821;1,1AB838
@@ -2118,7 +2118,7 @@
 19199E| 1| 31|0|D|Cerulean house 3 missed text            |Come visit me anytime you wish.|Je mag altijd langskomen op bezoek.|1,16A96D
 1919BE| 1|114|0|D|Cerulean House 3                        |The ATTACK stat of all your[br]POKÈMON increases a little bit.[nb2]It also lets you use the move[br]FLASH outside of battle.|De AANVAL status van all je[br]POKÈMON wordt een beetje hoger.[nb2]Je kan ook FLASH gebruiken als je[br]niet aan het vechten bent.|1,16A8FD
 191A31| 1|199|0|D|Cerulean House 3                        |POKÈMON up to Lv. 30 will obey[br]you.[nb2]That includes even outsiders you[br]obtain in trades.[nb2]POKÈMON of higher levels will[br]be unruly in battle, however.[nb2]It also lets you use the move[br]CUT outside of battle.|POKÈMON tot Lv. 30 gehoorzamen je.[nb2]Ook geruilde POKÈMON.[nb2]POKÈMON van een hoger level gaan[br]wel onrustig zijn in een gevecht.[nb2]Je kan ook KAP gebruiken[br]als je niet aan het vechten bent.|1,16A90B
-191AF9| 1|111|0|D|Cerulean House 3                        |The SPEED stat of all your[br]POKÈMON increases a little bit.[nb2]It also lets you use the move[br]FLY outside of battle.|De SPEED status van al je[br]POKÈMON wordt een beetje hoger.[nb2]Je kan ook de FLY gebruiken[br]als je niet aan het vechten bent.|1,16A919
+191AF9| 1|111|0|D|Cerulean House 3                        |The SPEED stat of all your[br]POKÈMON increases a little bit.[nb2]It also lets you use the move[br]FLY outside of battle.|De RAPHEID van al je POKÈMON[br]wordt een beetje hoger.[nb2]Je kan ook VLIEG gebruiken[br]als je niet aan het vechten bent.|1,16A919
 191B69| 1|204|0|D|Cerulean House 3                        |POKÈMON up to Lv. 50 will obey[br]you.[nb2]That includes even outsiders you[br]obtain in trades.[nb2]POKÈMON of higher levels will[br]be unruly in battle, however.[nb2]It also lets you use the move[br]STRENGTH outside of battle.|POKÈMON tot Lv. 50 gehoorzamen je.[nb2]Ook geruilde POKÈMON.[nb2]POKÈMON van een hoger level gaan[br]wel onrustig zijn in een gevecht.[nb2]Je kan ook STRENGTH gebruiken[br]als je niet aan het vechten bent.|1,16A927
 191C36| 1|114|0|D|Cerulean House 3                        |The DEFENSE stat of all your[br]POKÈMON increases a little bit.[nb2]It also lets you use the move[br]SURF outside of battle.|De AFWEER status van al je[br]POKÈMON wordt een beetje hoger.[nb2]Je kan ook de SURF gebruiken[br]als je niet aan het vechten bent.|1,16A935
 191CA9| 1|206|0|D|Cerulean House 3                        |POKÈMON up to Lv. 70 will obey[br]you.[nb2]That includes even outsiders you[br]obtain in trades.[nb2]POKÈMON of higher levels will[br]be unruly in battle, however.[nb2]It also lets you use the move[br]ROCK SMASH outside of battle.|POKÈMON tot Lv. 70 gehoorzamen je.[nb2]Ook geruilde POKÈMON.[nb2]POKÈMON van een hoger level gaan[br]wel onrustig zijn in een gevecht.[nb2]Je kan ook ROCK SMASH gebruiken[br]als je niet aan het vechten bent.|1,16A943
@@ -2236,7 +2236,7 @@
 19457E| 1|169|0|D|PokÈmon Fan Club                        |I chair the POKÈMON Fan Club![nb2]I raise more than a hundred[br]POKÈMON![nb2]I'm very fussy when it comes to[br]POKÈMON! I surely am![nb2]So[...][nb2]Did you come visit to hear about[br]my POKÈMON?|Ik ben de voorzitter van de[br]POKÈMON Fan Club![nb2]Ik heb meer dan honderd POKÈMON[br]opgevoed.[nb2]Dus[...][nb2]Ben je hier om te horen over mijn[br]POKÈMON?|1,16B48C
 194628| 1|293|0|D|PokÈmon Fan Club                        |Good![br]Then listen up![nb2]My favorite RAPIDASH[...][nb2]It's[...]cute[...]lovely[...]smart[...] [br]plus[...]amazing[...]you think so?[...][nb]oh yes[...]it's[...]stunning[...][nb]kindly[...]love it![nb2]Hug it[...]when[...]sleeping[...]warm[br]and cuddly[...]spectacular[...][nb]ravishing[...][nb][...]Oops! Look at the time![nb]I kept you too long![nb2]Thanks for hearing me out![br]I want you to have this!|Ok,[br]Luister goed![nb2]Mijn favoriet, RAPIDASH[...][nb2]Is[...]schattig[...]lief[...]slim[...] [br]en[...]fantastisch[...]denk je?[...][nb]oh ja[...]het is[...]verbluffend[...][nb]ik[...]hou er van![nb2]Knuffel[...]slaapt[...]warm[br]en fluffy[...]spectaculair[...][nb]fabuleus[...][nb][...]Oei, is het al zo laat![nb]Ik praat soms veel![nb2]Bedankt om naar me te luisteren![br]Hier, ik heb iets voor jou!|1,16B4B3
 19474E| 1| 45|0|D|PokÈmon fan club                        |[PLAYER] received a BIKE VOUCHER[br]from the CHAIRMAN.|[PLAYER] heeft een FIETS BON[br]van de VOORZITTER gekregen.|1,16B4D3
-19477C| 1|227|0|D|PokÈmon Fan Club                        |Take that BIKE VOUCHER to the[br]BIKE SHOP in CERULEAN CITY.[nb2]Exchange that for a BICYCLE[br]free of charge![nb2]Don't worry, my favorite FEAROW[br]will FLY me anywhere I need to go.[nb2]So, I have no need for a BICYCLE.[nb2]I hope you like cycling!|Neem die FIETS BON naar de[br]FIETSWINKEL in CERULEAN STAD.[nb2]Je kan het inruilen voor een[br]gratis FIETS![nb2]Geen zorgen, mijn FEAROW met FLY[br]neemt me overal naar toe.[nb2]Dus ik heb geen FIETS nodig.[nb2]Ik hoop dat je fietsen leuk vindt!|1,16B4EA
+19477C| 1|227|0|D|PokÈmon Fan Club                        |Take that BIKE VOUCHER to the[br]BIKE SHOP in CERULEAN CITY.[nb2]Exchange that for a BICYCLE[br]free of charge![nb2]Don't worry, my favorite FEAROW[br]will FLY me anywhere I need to go.[nb2]So, I have no need for a BICYCLE.[nb2]I hope you like cycling!|Neem die FIETS BON naar de[br]FIETSWINKEL in CERULEAN STAD.[nb2]Je kan het inruilen voor een[br]gratis FIETS![nb2]Geen zorgen, mijn FEAROW neemt me[br]overal naar toe met VLIEG.[nb2]Dus ik heb geen FIETS nodig.[nb2]Ik hoop dat je fietsen leuk vindt!|1,16B4EA
 194860| 1| 45|0|D|PokÈmon fan club                        |Oh. Come back when you want to[br]hear my story!|Kom maar terug als je mijn verhaal[br]wil horen!|1,16B49F
 19488E| 1| 67|0|D|PokÈmon Fan Club                        |Hello, [PLAYER]![nb2]Did you come see me about my[br]POKÈMON again?[nb2]No?[br]Too bad!|Hallo, [PLAYER]![nb2]Kom je mijn POKÈMON nog[br]eens bezoeken?[nb2]Nee?[br]Jammer!|1,16B4A9
 1948D2| 1| 19|0|D|PokÈmon fan club                        |Make room for this!|Maak plaats hiervoor!|1,16B4F4
@@ -2253,7 +2253,7 @@
 194B65| 1| 62|0|D|Vermilion Mart                          |I think POKÈMON can be good or[br]bad. It depends on the TRAINER.|Ik denk dat POKÈMON goed of[br]slecht kunnen zijn. Het hangt[nb]af van de TRAINER.|1,16B656
 194BA4| 1|233|0|D|Vermilion Gym                           |Hey, kid! What do you think you're[br]doing here?[nb2]You won't live long in combat![br]Not with your puny power![nb2]I tell you, kid, electric POKÈMON[br]saved me during the war![nb2]They zapped my enemies into[br]paralysis![nb2]The same as I'll do to you![FC]Œ[kÈ]¿|Hey, wat doe jij hier!?[nb2]Zo zwak jij bent ga je het niet[br]lang uithouden in een gevecht![nb2]Vroeger hebben electrische[br]POKÈMON me vaak gered.[nb2]Ze verlamden mijn tegenstanders.[nb2]En dat ga ik nu met jou ook doen![FC]Œ[kÈ]¿|1,16B95D
 194C8E| 1|107|0|D|Vermilion Gym                           |A little word of advice, kid![nb2]Electricity is sure powerful![nb2]But, it's useless against GROUND-[br]type POKÈMON!|Een woordje advies.[nb2]Electriciteit is heel krachtig![nb2]Maar nutteloos tegen[br]GROUND-type POKÈMON.|1,16B974
-194CFA| 1|140|0|D|Vermilion Gym                           |The THUNDERBADGE cranks up your[br]POKÈMON's SPEED![nb2]It also lets your POKÈMON FLY[br]lightning-quick anytime, kid![nb2]You're special, kid![br]Take this!|De THUNDERBADGE verhoogt de[br]RAPHEID van al je POKÈMON![nb2]Het laat je POKÈMON ook toe FLY[br]te gebruiken op elk moment![nb2]Je bent echt speciaal![br]Hier, pak dit!|1,16B9B1
+194CFA| 1|140|0|D|Vermilion Gym                           |The THUNDERBADGE cranks up your[br]POKÈMON's SPEED![nb2]It also lets your POKÈMON FLY[br]lightning-quick anytime, kid![nb2]You're special, kid![br]Take this!|De THUNDERBADGE verhoogt de[br]RAPHEID van al je POKÈMON![nb2]Het laat je POKÈMON ook toe[br]VLIEG te gebruiken op elk moment![nb2]Je bent echt speciaal![br]Hier, pak dit!|1,16B9B1
 194D87| 1| 32|0|D|Vermillion gym                          |[PLAYER] received TM34[br]from LT. SURGE.|[PLAYER] krijgt TM34[br]van LT. SURGE.|1,16B9CE
 194DA8| 1| 58|0|D|Vermilion Gym                           |TM34 contains SHOCK WAVE![nb2]Teach it to an ELECTRIC POKÈMON!|TM34 bevat SHOCK WAVE![nb2]Leer het aan een ELECTRIC POKÈMON!|1,16B9E8
 194DE3| 1| 31|0|D|Vermillion gym                          |Yo, kid, make room in your BAG!|HÈ kleine, maak plaats in je ZAK!|1,16B9F2
@@ -2823,7 +2823,7 @@
 19F7F8| 1| 88|0|D|Route 15                                |Let's see what the binoculars have[br]to show[...][nb2]It looks like a small island on[br]the horizon!|Laten we eens door de verrekijker[br]kijken[...][nb2]Er is een klein eiland te zien aan[br]de horizon!|1,1700B2
 19F851| 1|110|0|D|Route 16 House 1                        |Oh, dear.[br]You've found my secret retreat.[nb2]Please don't tell anyone I'm here.[br]I'll make it up to you with this!|O, jee.[br]Je hebt mijn geheime[nb]schuilplaats ontdekt.[nb2]Vertel alsjeblieft niemand dat ik[br]hier zit. Dan mag je dit hebben!|1,17015C
 19F8C0| 1| 31|0|D|Route 16 House 1                        |[PLAYER] received HM02[br]from the girl.|[PLAYER] heeft HM02 gekregen[br]van het meisje.|1,170179
-19F8E0| 2| 76|0|D|Route 16 House 1                        |HM02 is FLY.[br]It's a wonderfully convenient move.[nb2]Please, put it to good use.|HM02 is FLY.[br]Dat is een erg handige techniek.[nb2]Maak er goed gebruik van.|1,170190;1,1701A7
+19F8E0| 2| 76|0|D|Route 16 House 1                        |HM02 is FLY.[br]It's a wonderfully convenient move.[nb2]Please, put it to good use.|HM02 is VLIEG.[br]Dat is een erg handige techniek.[nb2]Maak er goed gebruik van.|1,170190;1,1701A7
 19F92D| 1| 33|0|D|Route 16 House 1                        |You don't have any room for this.|Je hebt hier geen plaats voor.|1,17019D
 19F94F| 1| 15|0|D|Route 16 House 1                        |FEAROW: Kyueen!|FEAROW: Kyueen!|1,1701B9
 19F95F| 1| 43|0|D|Route 16                                |No pedestrians are allowed on[br]CYCLING ROAD!|Geen voetgangers toegestaan[br]op de FIETSWEG!|1,170266
@@ -4399,25 +4399,25 @@
 1C6787| 1|195|0|D|Teachy TV                               |This will make the POKÈMON a lot[br]easier to catch![nb2]Oh, yes. If you paralyze a[br]POKÈMON, you can't make it fall[nb]asleep on top of paralysis.[nb2]In other words, you can't double[br]up status problems, okay?|Dit maakt de POKÈMON veel[br]gemakkelijker te vangen![nb2]O, voor ik het vergeet. Als je een[br]POKÈMON verlamt kan je hem niet[nb]ook nog in slaap laten vallen.[nb2]Met andere woorden, je kan geen[br]dubbele status problemen geven.|1,4791F4
 1C684B| 1| 32|0|D|Teachy TV                               |Okay![br]Let me throw my POKÈ BALL!|Ok![br]Laat me mijn POKÈ BALL gooien!|1,4791F8
 1C686C| 1|125|0|D|Teachy TV                               |Before you throw a POKÈ BALL,[br]consider the condition and the[nb]type of POKÈMON, and pick the kind[nb]of BALL that would work best.|Voor je een POKÈ BALL gooit,[br]kijk naar de toestand en het type[nb]POKÈMON en pak het soort BALL[nb]die het best gaat werken.|1,4791FC
-2470A1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POUND||
-2470AE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |KARATE CHOP||
-2470BB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLESLAP||
-2470C8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COMET PUNCH||
-2470D5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGA PUNCH||
-2470E2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PAY DAY||
-2470EF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FIRE PUNCH||
-2470FC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICE PUNCH||
-247109| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDERPUNCH||
-247116| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SCRATCH||
-247123| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VICEGRIP||
+2470A1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POUND|KLOP|
+2470AE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |KARATE CHOP|KARATESLAG|
+2470BB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLESLAP|DUBBELSLAG|
+2470C8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COMET PUNCH|KOMEET SLAG|
+2470D5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGA PUNCH|MEGA SLAG|
+2470E2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PAY DAY|BETAALDAG|
+2470EF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FIRE PUNCH|VUURSLAG|
+2470FC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICE PUNCH|IJS SLAG|
+247109| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDERPUNCH|DONDERSLAG|
+247116| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SCRATCH|KRAB|
+247123| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VICEGRIP|HOUDGREEP|
 247130| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GUILLOTINE||
-24713D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAZOR WIND||
-24714A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWORDS DANCE||
+24713D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAZOR WIND|SCHEERWIND|
+24714A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWORDS DANCE|ZWAARDDANS|
 247157| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |CUT|KAP|1,45A6B0
-247164| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GUST||
-247171| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WING ATTACK||
-24717E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WHIRLWIND||
-24718B| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLY||1,45A6B8
+247164| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GUST|WINDVLAAG|
+247171| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WING ATTACK|VLEUGELVLAAG|
+24717E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WHIRLWIND|WERVELWIND|
+24718B| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLY|VLIEG|1,45A6B8
 247198| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BIND||
 2471A5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLAM||
 2471B2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VINE WHIP||
@@ -4441,9 +4441,9 @@
 24729C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON STING||
 2472A9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TWINEEDLE||
 2472B6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PIN MISSILE||
-2472C3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEER||
+2472C3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEER|STAAR|
 2472D0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BITE||
-2472DD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GROWL||
+2472DD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GROWL|GROM|
 2472EA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROAR||
 2472F7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SING||
 247304| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUPERSONIC||
@@ -7866,7 +7866,7 @@
 41AB74| 1| 25|0|I|Previously                              |Made [var1] hold the item[br][var2].|Liet [var1] het item[br][var2] vast houden.|1,1141CC
 41AB8E| 1| 28|0|I|Previously                              |[PLAYER] made [var1] hold the item[br][var2].|[PLAYER] liet [var1] het item[br][var2] vast houden.|1,114228
 41ABAB| 1| 33|0|I|Previously                              |[var1] used the Hidden Move[br]CUT here.|[var1] gebruikte hier de [br]HM KAP.|1,456C24
-41ABCD| 1| 43|0|I|Previously                              |[var1] used the Hidden Move[br]FLY and flew to [var2].|[var1] gebruikte de HM[br]FLY en vloog naar [var2].|1,456C28
+41ABCD| 1| 43|0|I|Previously                              |[var1] used the Hidden Move[br]FLY and flew to [var2].|[var1] gebruikte de HM[br]VLIEG en vloog naar [var2].|1,456C28
 41ABF9| 1| 48|0|I|Previously                              |[var1] used the Hidden Move[br]SURF and rode the waves.|[var1] gebruikte de HM[br]SURF en surfte op de golven.|1,456C30
 41AC2A| 1| 38|0|I|Previously                              |[var1] used the Hidden Move[br]STRENGTH here.|[var1] gebruikte hier de [br]HM STRENGTH.|1,456C2C
 41AC51| 1| 65|0|I|Previously                              |[var1] used the Hidden Move[br]FLASH and illuminated a pitch-black[br]cave.|[var1] gebruikte de HM[br]FLASH en verlichtte een pikdonkere[br]grot.|1,456C20
@@ -8332,7 +8332,7 @@
 4479F7| 1|102|0|I|PokÈmon flavor text                     |It begins walking on its hind legs after[br]evolution. It can punch holes through[br]boulders with its horn.||1,44F820
 447A5F| 1| 94|0|I|PokÈmon flavor text                     |It lays several eggs a day. The eggs are[br]apparently rich in nutrients and extremely[br]delicious.||1,44F844
 447ABF| 1|103|0|I|PokÈmon flavor text                     |Blue plant vines cloak the POKÈMON's[br]identity in a tangled mass. It entangles[br]anything that gets close.||1,44F868
-447B28| 1|102|0|I|PokÈmon flavor text                     |The female raises its offspring in a pouch[br]on its belly. It is skilled at attacking[br]using COMET PUNCH.||1,44F88C
+447B28| 1|102|0|I|PokÈmon flavor text                     |The female raises its offspring in a pouch[br]on its belly. It is skilled at attacking[br]using COMET PUNCH.|Het vrouwtje voed het kindje op in een[br]buidel. Erg bedreven met de aanval[br]KOMEET SLAG.|1,44F88C
 447B90| 1|100|0|I|PokÈmon flavor text                     |It maintains balance using its tail, which[br]is wound up like a coil. It may spray ink[br]from its mouth.||1,44F8B0
 447BF6| 1|104|0|I|PokÈmon flavor text                     |Its body bristles with sharp spikes.[br]Carelessly trying to touch it could cause[br]fainting from the spikes.||1,44F8D4
 447C60| 1|103|0|I|PokÈmon flavor text                     |Its dorsal and pectoral fins are strongly[br]developed like muscles. It can swim at a[br]speed of five knots.||1,44F8F8
@@ -8604,126 +8604,126 @@
 44E71C| 1|103|0|I|PokÈmon flavor text                     |It has lived for hundreds of millions of[br]years in the ozone layer. Its flying form[br]looks like a meteor.||1,451E60
 44E785| 1| 95|0|I|PokÈmon flavor text                     |It is said to make any wish come true.[br]It is awake for only seven days out of[br]a thousand years.||1,451E84
 44E7E6| 1|102|0|I|PokÈmon flavor text                     |This DEOXYS has transformed into its[br]aggressive guise. It can fool enemies by[br]altering its appearance.||1,451EA8
-454238| 2| 27|0|D|Interior Items                          |A small desk built[br]for one.||1,455710;1,455730
-454254| 1| 47|0|D|Interior Items                          |A small desk built in[br]the shape of a POKÈ[br]BALL.||1,455750
-454284| 1| 55|0|D|Interior Items                          |A large desk made[br]of steel. Put some[br]decorations on it.||1,455770
-4542BC| 1| 54|0|D|Interior Items                          |A large desk made[br]of wood. Put some[br]decorations on it.||1,455790
-4542F3| 1| 56|0|D|Interior Items                          |A large desk made[br]of leaves. Put some[br]decorations on it.||1,4557B0
-45432C| 1| 53|0|D|Interior Items                          |A huge desk made[br]of glass. Holds lots[br]of decorations.||1,4557D0
-454362| 1| 53|0|D|Interior Items                          |A huge desk made[br]of brick. Holds lots[br]of decorations.||1,4557F0
-454398| 1| 56|0|D|Interior Items                          |A huge desk made[br]of logs. Put lots of[br]decorations on it.||1,455810
-4543D1| 1| 50|0|D|Interior Items                          |A huge desk made[br]of rocks. Holds[br]many decorations.||1,455830
-454404| 1| 27|0|D|Interior Items                          |A small chair made[br]for one.||1,455850
-454420| 1| 48|0|D|Interior Items                          |A small chair built[br]in the shape of a[br]POKÈ BALL.||1,455870
-454451| 1| 28|0|D|Interior Items                          |A small chair made[br]of steel.||1,455890
-45446E| 1| 28|0|D|Interior Items                          |A small chair made[br]of glass.||1,4558B0
-45448B| 1| 29|0|D|Interior Items                          |A small chair made[br]of leaves.||1,4558D0
-4544A9| 1| 27|0|D|Interior Items                          |A small chair made[br]of wood.||1,4558F0
-4544C5| 1| 28|0|D|Interior Items                          |A small chair made[br]of brick.||1,455910
-4544E2| 1| 27|0|D|Interior Items                          |A small chair made[br]of logs.||1,455930
-4544FE| 1| 27|0|D|Interior Items                          |A small chair made[br]of rock.||1,455950
-45451A| 1| 25|0|D|Interior Items                          |A vivid red potted[br]plant.||1,455970
-454534| 1| 36|0|D|Interior Items                          |A flowering tropical[br]plant in a pot.||1,455990
-454559| 1| 22|0|D|Interior Items                          |A pot of cute[br]flowers.||1,4559B0
-454570| 1| 39|0|D|Interior Items                          |A large pot with[br]many colorful[br]flowers.||1,4559D0
-454598| 1| 45|0|D|Interior Items                          |A large, umbrella-[br]shaped plant in a[br]big pot.||1,4559F0
-4545C6| 1| 39|0|D|Interior Items                          |A large, impressive[br]plant in a big pot.||1,455A10
-4545EE| 1| 54|0|D|Interior Items                          |A red-colored brick.[br]Decorations can be[br]placed on top.||1,455A30
-454625| 1| 52|0|D|Interior Items                          |A yellow-colored[br]brick. Put some[br]decorations on top.||1,455A50
-45465A| 1| 50|0|D|Interior Items                          |A blue-colored[br]brick. Put some[br]decorations on top.||1,455A70
-45468D| 1| 54|0|D|Interior Items                          |A red balloon filled[br]with water. Bursts[br]if stepped on.||1,455A90
-4546C4| 1| 55|0|D|Interior Items                          |A blue balloon filled[br]with water. Bursts[br]if stepped on.||1,455AB0
-4546FC| 1| 55|0|D|Interior Items                          |A yellow balloon[br]filled with water.[br]Pops if stepped on.||1,455AD0
-454734| 1| 41|0|D|Interior Items                          |A large red tent.[br]You can hide inside[br]it.||1,455AF0
-45475E| 1| 42|0|D|Interior Items                          |A large blue tent.[br]You can hide inside[br]it.||1,455B10
-454789| 1| 45|0|D|Interior Items                          |Place over a hole to[br]cross to the other[br]side.||1,455B30
-4547B7| 1| 36|0|D|Interior Items                          |Use to slide down[br]from the platform.||1,455B50
-4547DC| 1| 34|0|D|Interior Items                          |A small fence that[br]blocks passage.||1,455B70
-4547FF| 1| 34|0|D|Interior Items                          |A small fence that[br]blocks passage.||1,455B90
-454822| 1| 52|0|D|Interior Items                          |An old large tire.[br]Decorations can be[br]placed on top.||1,455BB0
-454857| 1| 28|0|D|Interior Items                          |A large pedestal[br]with steps.||1,455BD0
-454874| 1| 44|0|D|Interior Items                          |A large ball of mud.[br]Crumbles if stepped[br]on.||1,455BF0
-4548A1| 1| 48|0|D|Interior Items                          |A weird door that[br]people can walk[br]right through.||1,455C10
-4548D2| 1| 46|0|D|Interior Items                          |An ornament made[br]of sand. Crumbles if[br]touched.||1,455C30
-454901| 1| 49|0|D|Interior Items                          |Awarded for 50[br]straight wins at[br]the BATTLE TOWER.||1,455C50
-454933| 1| 50|0|D|Interior Items                          |Awarded for 100[br]straight wins at[br]the BATTLE TOWER.||1,455C70
-454966| 1| 56|0|D|Interior Items                          |A glass replica of[br]a famous sculpture[br]at the ART MUSEUM.||1,455C90
-45499F| 1| 30|0|D|Interior Items                          |A small, gray-[br]colored toy TV.||1,455CB0
-4549BE| 1| 42|0|D|Interior Items                          |A toy TV modeled[br]in the image of a[br]SEEDOT.||1,455CD0
-4549E9| 1| 42|0|D|Interior Items                          |A toy TV modeled[br]in the image of a[br]SKITTY.||1,455CF0
-454A14| 1| 39|0|D|Interior Items                          |An odd mat that[br]glitters if stepped[br]on.||1,455D10
-454A3C| 1| 45|0|D|Interior Items                          |A trick mat that[br]jumps when it is[br]stepped on.||1,455D30
-454A6A| 1| 46|0|D|Interior Items                          |A trick mat that[br]spins around when[br]stepped on.||1,455D50
-454A99| 1| 46|0|D|Interior Items                          |A mat that plays[br]a low C note when[br]stepped on.||1,455D70
-454AC8| 1| 42|0|D|Interior Items                          |A mat that plays[br]a D note when[br]stepped on.||1,455D90
-454AF3| 1| 43|0|D|Interior Items                          |A mat that plays[br]an E note when[br]stepped on.||1,455DB0
-454B1F| 1| 43|0|D|Interior Items                          |A mat that plays[br]an F note when[br]stepped on.||1,455DD0
-454B4B| 1| 42|0|D|Interior Items                          |A mat that plays[br]a G note when[br]stepped on.||1,455DF0
-454B76| 1| 43|0|D|Interior Items                          |A mat that plays[br]an A note when[br]stepped on.||1,455E10
-454BA2| 1| 42|0|D|Interior Items                          |A mat that plays[br]a B note when[br]stepped on.||1,455E30
-454BCD| 1| 47|0|D|Interior Items                          |A mat that plays[br]a high C note when[br]stepped on.||1,455E50
-454BFD| 1| 51|0|D|Interior Items                          |A mat designed with[br]a SURF image.[br]Put items on top.||1,455E70
-454C31| 1| 54|0|D|Interior Items                          |A mat designed with[br]a THUNDER image.[br]Put items on top.||1,455E90
-454C68| 1| 57|0|D|Interior Items                          |A mat designed with[br]a FIRE BLAST image.[br]Put items on top.||1,455EB0
-454CA2| 1| 56|0|D|Interior Items                          |A mat with a POWDER[br]SNOW image design.[br]Put items on top.||1,455ED0
-454CDB| 1| 55|0|D|Interior Items                          |A mat designed with[br]an ATTRACT image.[br]Put items on top.||1,455EF0
-454D13| 1| 54|0|D|Interior Items                          |A mat designed with[br]a FISSURE image.[br]Put items on top.||1,455F10
-454D4A| 1| 53|0|D|Interior Items                          |A mat designed with[br]a SPIKES image.[br]Put items on top.||1,455F30
-454D80| 1| 39|0|D|Interior Items                          |A small poster[br]printed with POKÈ[br]BALLS.||1,455F50
-454DA8| 1| 36|0|D|Interior Items                          |A small poster with[br]a TREECKO print.||1,455F70
-454DCD| 1| 36|0|D|Interior Items                          |A small poster with[br]a TORCHIC print.||1,455F90
-454DF2| 1| 35|0|D|Interior Items                          |A small poster with[br]a MUDKIP print.||1,455FB0
-454E16| 1| 37|0|D|Interior Items                          |A small poster with[br]an AZURILL print.||1,455FD0
-454E3C| 1| 46|0|D|Interior Items                          |A large poster with[br]a PIKACHU and[br]PICHU print.||1,455FF0
-454E6B| 1| 36|0|D|Interior Items                          |A large poster with[br]a SEVIPER print.||1,456010
-454E90| 1| 38|0|D|Interior Items                          |A large poster with[br]a RELICANTH print.||1,456030
-454EB7| 1| 36|0|D|Interior Items                          |A large poster with[br]a WINGULL print.||1,456050
-454EDC| 1| 37|0|D|Interior Items                          |A large poster with[br]a SMOOCHUM print.||1,456070
-454F02| 1| 42|0|D|Interior Items                          |A PICHU doll.[br]Place it on a mat[br]or a desk.||1,456090
-454F2D| 1| 44|0|D|Interior Items                          |A PIKACHU doll.[br]Place it on a mat[br]or a desk.||1,4560B0
-454F5A| 1| 43|0|D|Interior Items                          |A MARILL doll.[br]Place it on a mat[br]or a desk.||1,4560D0
-454F86| 1| 43|0|D|Interior Items                          |A TOGEPI doll.[br]Place it on a mat[br]or a desk.||1,4560F0
-454FB2| 1| 46|0|D|Interior Items                          |A CYNDAQUIL doll.[br]Place it on a mat[br]or a desk.||1,456110
-454FE1| 1| 46|0|D|Interior Items                          |A CHIKORITA doll.[br]Place it on a mat[br]or a desk.||1,456130
-455010| 1| 45|0|D|Interior Items                          |A TOTODILE doll.[br]Place it on a mat[br]or a desk.||1,456150
-45503E| 1| 47|0|D|Interior Items                          |A JIGGLYPUFF doll.[br]Place it on a mat[br]or a desk.||1,456170
-45506E| 1| 43|0|D|Interior Items                          |A MEOWTH doll.[br]Place it on a mat[br]or a desk.||1,456190
-45509A| 1| 45|0|D|Interior Items                          |A CLEFAIRY doll.[br]Place it on a mat[br]or a desk.||1,4561B0
-4550C8| 1| 42|0|D|Interior Items                          |A DITTO doll.[br]Place it on a mat[br]or a desk.||1,4561D0
-4550F3| 1| 45|0|D|Interior Items                          |A SMOOCHUM doll.[br]Place it on a mat[br]or a desk.||1,4561F0
-455121| 1| 44|0|D|Interior Items                          |A TREECKO doll.[br]Place it on a mat[br]or a desk.||1,456210
-45514E| 1| 44|0|D|Interior Items                          |A TORCHIC doll.[br]Place it on a mat[br]or a desk.||1,456230
-45517B| 1| 43|0|D|Interior Items                          |A MUDKIP doll.[br]Place it on a mat[br]or a desk.||1,456250
-4551A7| 1| 44|0|D|Interior Items                          |A DUSKULL doll.[br]Place it on a mat[br]or a desk.||1,456270
-4551D4| 1| 43|0|D|Interior Items                          |A WYNAUT doll.[br]Place it on a mat[br]or a desk.||1,456290
-455200| 1| 43|0|D|Interior Items                          |A BALTOY doll.[br]Place it on a mat[br]or a desk.||1,4562B0
-45522C| 1| 44|0|D|Interior Items                          |A KECLEON doll.[br]Place it on a mat[br]or a desk.||1,4562D0
-455259| 1| 45|0|D|Interior Items                          |An AZURILL doll.[br]Place it on a mat[br]or a desk.||1,4562F0
-455287| 1| 43|0|D|Interior Items                          |A SKITTY doll.[br]Place it on a mat[br]or a desk.||1,456310
-4552B3| 1| 43|0|D|Interior Items                          |A SWABLU doll.[br]Place it on a mat[br]or a desk.||1,456330
-4552DF| 1| 43|0|D|Interior Items                          |A GULPIN doll.[br]Place it on a mat[br]or a desk.||1,456350
-45530B| 1| 42|0|D|Interior Items                          |A LOTAD doll.[br]Place it on a mat[br]or a desk.||1,456370
-455336| 1| 43|0|D|Interior Items                          |A SEEDOT doll.[br]Place it on a mat[br]or a desk.||1,456390
-455362| 1| 47|0|D|Interior Items                          |A PIKACHU cushion.[br]Place it on a mat[br]or a desk.||1,4563B0
-455392| 1| 46|0|D|Interior Items                          |A MARILL cushion.[br]Place it on a mat[br]or a desk.||1,4563D0
-4553C1| 1| 48|0|D|Interior Items                          |A SMOOCHUM[br]cushion. Place it on[br]a mat or a desk.||1,4563F0
-4553F2| 1| 49|0|D|Interior Items                          |A ZIGZAGOON[br]cushion. Place it on[br]a mat or a desk.||1,456410
-455424| 1| 46|0|D|Interior Items                          |A SPINDA cushion.[br]Place it on a mat[br]or a desk.||1,456430
-455453| 1| 47|0|D|Interior Items                          |A SABLEYE cushion.[br]Place it on a mat[br]or a desk.||1,456450
-455483| 1| 44|0|D|Interior Items                          |A BALL cushion.[br]Place it on a mat[br]or a desk.||1,456470
-4554B0| 1| 50|0|D|Interior Items                          |A grass-mark[br]cushion. Place it on[br]a mat or a desk.||1,456490
-4554E3| 1| 49|0|D|Interior Items                          |A fire-mark[br]cushion. Place it on[br]a mat or a desk.||1,4564B0
-455515| 1| 50|0|D|Interior Items                          |A water-mark[br]cushion. Place it on[br]a mat or a desk.||1,4564D0
-455548| 1| 42|0|D|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,4564F0
-455573| 1| 42|0|D|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,456510
-45559E| 1| 42|0|D|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,456530
-4555C9| 1| 42|0|D|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,456550
-4555F4| 1| 42|0|D|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,456570
-45561F| 1| 42|0|D|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,456590
-45564A| 1| 42|0|D|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,4565B0
-455675| 1| 42|0|D|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,4565D0
-4556A0| 1| 42|0|D|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,4565F0
-4556CB| 1| 42|0|D|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,456610
+454238| 2| 27|0|I|Interior Items                          |A small desk built[br]for one.||1,455710;1,455730
+454254| 1| 47|0|I|Interior Items                          |A small desk built in[br]the shape of a POKÈ[br]BALL.||1,455750
+454284| 1| 55|0|I|Interior Items                          |A large desk made[br]of steel. Put some[br]decorations on it.||1,455770
+4542BC| 1| 54|0|I|Interior Items                          |A large desk made[br]of wood. Put some[br]decorations on it.||1,455790
+4542F3| 1| 56|0|I|Interior Items                          |A large desk made[br]of leaves. Put some[br]decorations on it.||1,4557B0
+45432C| 1| 53|0|I|Interior Items                          |A huge desk made[br]of glass. Holds lots[br]of decorations.||1,4557D0
+454362| 1| 53|0|I|Interior Items                          |A huge desk made[br]of brick. Holds lots[br]of decorations.||1,4557F0
+454398| 1| 56|0|I|Interior Items                          |A huge desk made[br]of logs. Put lots of[br]decorations on it.||1,455810
+4543D1| 1| 50|0|I|Interior Items                          |A huge desk made[br]of rocks. Holds[br]many decorations.||1,455830
+454404| 1| 27|0|I|Interior Items                          |A small chair made[br]for one.||1,455850
+454420| 1| 48|0|I|Interior Items                          |A small chair built[br]in the shape of a[br]POKÈ BALL.||1,455870
+454451| 1| 28|0|I|Interior Items                          |A small chair made[br]of steel.||1,455890
+45446E| 1| 28|0|I|Interior Items                          |A small chair made[br]of glass.||1,4558B0
+45448B| 1| 29|0|I|Interior Items                          |A small chair made[br]of leaves.||1,4558D0
+4544A9| 1| 27|0|I|Interior Items                          |A small chair made[br]of wood.||1,4558F0
+4544C5| 1| 28|0|I|Interior Items                          |A small chair made[br]of brick.||1,455910
+4544E2| 1| 27|0|I|Interior Items                          |A small chair made[br]of logs.||1,455930
+4544FE| 1| 27|0|I|Interior Items                          |A small chair made[br]of rock.||1,455950
+45451A| 1| 25|0|I|Interior Items                          |A vivid red potted[br]plant.||1,455970
+454534| 1| 36|0|I|Interior Items                          |A flowering tropical[br]plant in a pot.||1,455990
+454559| 1| 22|0|I|Interior Items                          |A pot of cute[br]flowers.||1,4559B0
+454570| 1| 39|0|I|Interior Items                          |A large pot with[br]many colorful[br]flowers.||1,4559D0
+454598| 1| 45|0|I|Interior Items                          |A large, umbrella-[br]shaped plant in a[br]big pot.||1,4559F0
+4545C6| 1| 39|0|I|Interior Items                          |A large, impressive[br]plant in a big pot.||1,455A10
+4545EE| 1| 54|0|I|Interior Items                          |A red-colored brick.[br]Decorations can be[br]placed on top.||1,455A30
+454625| 1| 52|0|I|Interior Items                          |A yellow-colored[br]brick. Put some[br]decorations on top.||1,455A50
+45465A| 1| 50|0|I|Interior Items                          |A blue-colored[br]brick. Put some[br]decorations on top.||1,455A70
+45468D| 1| 54|0|I|Interior Items                          |A red balloon filled[br]with water. Bursts[br]if stepped on.||1,455A90
+4546C4| 1| 55|0|I|Interior Items                          |A blue balloon filled[br]with water. Bursts[br]if stepped on.||1,455AB0
+4546FC| 1| 55|0|I|Interior Items                          |A yellow balloon[br]filled with water.[br]Pops if stepped on.||1,455AD0
+454734| 1| 41|0|I|Interior Items                          |A large red tent.[br]You can hide inside[br]it.||1,455AF0
+45475E| 1| 42|0|I|Interior Items                          |A large blue tent.[br]You can hide inside[br]it.||1,455B10
+454789| 1| 45|0|I|Interior Items                          |Place over a hole to[br]cross to the other[br]side.||1,455B30
+4547B7| 1| 36|0|I|Interior Items                          |Use to slide down[br]from the platform.||1,455B50
+4547DC| 1| 34|0|I|Interior Items                          |A small fence that[br]blocks passage.||1,455B70
+4547FF| 1| 34|0|I|Interior Items                          |A small fence that[br]blocks passage.||1,455B90
+454822| 1| 52|0|I|Interior Items                          |An old large tire.[br]Decorations can be[br]placed on top.||1,455BB0
+454857| 1| 28|0|I|Interior Items                          |A large pedestal[br]with steps.||1,455BD0
+454874| 1| 44|0|I|Interior Items                          |A large ball of mud.[br]Crumbles if stepped[br]on.||1,455BF0
+4548A1| 1| 48|0|I|Interior Items                          |A weird door that[br]people can walk[br]right through.||1,455C10
+4548D2| 1| 46|0|I|Interior Items                          |An ornament made[br]of sand. Crumbles if[br]touched.||1,455C30
+454901| 1| 49|0|I|Interior Items                          |Awarded for 50[br]straight wins at[br]the BATTLE TOWER.||1,455C50
+454933| 1| 50|0|I|Interior Items                          |Awarded for 100[br]straight wins at[br]the BATTLE TOWER.||1,455C70
+454966| 1| 56|0|I|Interior Items                          |A glass replica of[br]a famous sculpture[br]at the ART MUSEUM.||1,455C90
+45499F| 1| 30|0|I|Interior Items                          |A small, gray-[br]colored toy TV.||1,455CB0
+4549BE| 1| 42|0|I|Interior Items                          |A toy TV modeled[br]in the image of a[br]SEEDOT.||1,455CD0
+4549E9| 1| 42|0|I|Interior Items                          |A toy TV modeled[br]in the image of a[br]SKITTY.||1,455CF0
+454A14| 1| 39|0|I|Interior Items                          |An odd mat that[br]glitters if stepped[br]on.||1,455D10
+454A3C| 1| 45|0|I|Interior Items                          |A trick mat that[br]jumps when it is[br]stepped on.||1,455D30
+454A6A| 1| 46|0|I|Interior Items                          |A trick mat that[br]spins around when[br]stepped on.||1,455D50
+454A99| 1| 46|0|I|Interior Items                          |A mat that plays[br]a low C note when[br]stepped on.||1,455D70
+454AC8| 1| 42|0|I|Interior Items                          |A mat that plays[br]a D note when[br]stepped on.||1,455D90
+454AF3| 1| 43|0|I|Interior Items                          |A mat that plays[br]an E note when[br]stepped on.||1,455DB0
+454B1F| 1| 43|0|I|Interior Items                          |A mat that plays[br]an F note when[br]stepped on.||1,455DD0
+454B4B| 1| 42|0|I|Interior Items                          |A mat that plays[br]a G note when[br]stepped on.||1,455DF0
+454B76| 1| 43|0|I|Interior Items                          |A mat that plays[br]an A note when[br]stepped on.||1,455E10
+454BA2| 1| 42|0|I|Interior Items                          |A mat that plays[br]a B note when[br]stepped on.||1,455E30
+454BCD| 1| 47|0|I|Interior Items                          |A mat that plays[br]a high C note when[br]stepped on.||1,455E50
+454BFD| 1| 51|0|I|Interior Items                          |A mat designed with[br]a SURF image.[br]Put items on top.||1,455E70
+454C31| 1| 54|0|I|Interior Items                          |A mat designed with[br]a THUNDER image.[br]Put items on top.||1,455E90
+454C68| 1| 57|0|I|Interior Items                          |A mat designed with[br]a FIRE BLAST image.[br]Put items on top.||1,455EB0
+454CA2| 1| 56|0|I|Interior Items                          |A mat with a POWDER[br]SNOW image design.[br]Put items on top.||1,455ED0
+454CDB| 1| 55|0|I|Interior Items                          |A mat designed with[br]an ATTRACT image.[br]Put items on top.||1,455EF0
+454D13| 1| 54|0|I|Interior Items                          |A mat designed with[br]a FISSURE image.[br]Put items on top.||1,455F10
+454D4A| 1| 53|0|I|Interior Items                          |A mat designed with[br]a SPIKES image.[br]Put items on top.||1,455F30
+454D80| 1| 39|0|I|Interior Items                          |A small poster[br]printed with POKÈ[br]BALLS.||1,455F50
+454DA8| 1| 36|0|I|Interior Items                          |A small poster with[br]a TREECKO print.||1,455F70
+454DCD| 1| 36|0|I|Interior Items                          |A small poster with[br]a TORCHIC print.||1,455F90
+454DF2| 1| 35|0|I|Interior Items                          |A small poster with[br]a MUDKIP print.||1,455FB0
+454E16| 1| 37|0|I|Interior Items                          |A small poster with[br]an AZURILL print.||1,455FD0
+454E3C| 1| 46|0|I|Interior Items                          |A large poster with[br]a PIKACHU and[br]PICHU print.||1,455FF0
+454E6B| 1| 36|0|I|Interior Items                          |A large poster with[br]a SEVIPER print.||1,456010
+454E90| 1| 38|0|I|Interior Items                          |A large poster with[br]a RELICANTH print.||1,456030
+454EB7| 1| 36|0|I|Interior Items                          |A large poster with[br]a WINGULL print.||1,456050
+454EDC| 1| 37|0|I|Interior Items                          |A large poster with[br]a SMOOCHUM print.||1,456070
+454F02| 1| 42|0|I|Interior Items                          |A PICHU doll.[br]Place it on a mat[br]or a desk.||1,456090
+454F2D| 1| 44|0|I|Interior Items                          |A PIKACHU doll.[br]Place it on a mat[br]or a desk.||1,4560B0
+454F5A| 1| 43|0|I|Interior Items                          |A MARILL doll.[br]Place it on a mat[br]or a desk.||1,4560D0
+454F86| 1| 43|0|I|Interior Items                          |A TOGEPI doll.[br]Place it on a mat[br]or a desk.||1,4560F0
+454FB2| 1| 46|0|I|Interior Items                          |A CYNDAQUIL doll.[br]Place it on a mat[br]or a desk.||1,456110
+454FE1| 1| 46|0|I|Interior Items                          |A CHIKORITA doll.[br]Place it on a mat[br]or a desk.||1,456130
+455010| 1| 45|0|I|Interior Items                          |A TOTODILE doll.[br]Place it on a mat[br]or a desk.||1,456150
+45503E| 1| 47|0|I|Interior Items                          |A JIGGLYPUFF doll.[br]Place it on a mat[br]or a desk.||1,456170
+45506E| 1| 43|0|I|Interior Items                          |A MEOWTH doll.[br]Place it on a mat[br]or a desk.||1,456190
+45509A| 1| 45|0|I|Interior Items                          |A CLEFAIRY doll.[br]Place it on a mat[br]or a desk.||1,4561B0
+4550C8| 1| 42|0|I|Interior Items                          |A DITTO doll.[br]Place it on a mat[br]or a desk.||1,4561D0
+4550F3| 1| 45|0|I|Interior Items                          |A SMOOCHUM doll.[br]Place it on a mat[br]or a desk.||1,4561F0
+455121| 1| 44|0|I|Interior Items                          |A TREECKO doll.[br]Place it on a mat[br]or a desk.||1,456210
+45514E| 1| 44|0|I|Interior Items                          |A TORCHIC doll.[br]Place it on a mat[br]or a desk.||1,456230
+45517B| 1| 43|0|I|Interior Items                          |A MUDKIP doll.[br]Place it on a mat[br]or a desk.||1,456250
+4551A7| 1| 44|0|I|Interior Items                          |A DUSKULL doll.[br]Place it on a mat[br]or a desk.||1,456270
+4551D4| 1| 43|0|I|Interior Items                          |A WYNAUT doll.[br]Place it on a mat[br]or a desk.||1,456290
+455200| 1| 43|0|I|Interior Items                          |A BALTOY doll.[br]Place it on a mat[br]or a desk.||1,4562B0
+45522C| 1| 44|0|I|Interior Items                          |A KECLEON doll.[br]Place it on a mat[br]or a desk.||1,4562D0
+455259| 1| 45|0|I|Interior Items                          |An AZURILL doll.[br]Place it on a mat[br]or a desk.||1,4562F0
+455287| 1| 43|0|I|Interior Items                          |A SKITTY doll.[br]Place it on a mat[br]or a desk.||1,456310
+4552B3| 1| 43|0|I|Interior Items                          |A SWABLU doll.[br]Place it on a mat[br]or a desk.||1,456330
+4552DF| 1| 43|0|I|Interior Items                          |A GULPIN doll.[br]Place it on a mat[br]or a desk.||1,456350
+45530B| 1| 42|0|I|Interior Items                          |A LOTAD doll.[br]Place it on a mat[br]or a desk.||1,456370
+455336| 1| 43|0|I|Interior Items                          |A SEEDOT doll.[br]Place it on a mat[br]or a desk.||1,456390
+455362| 1| 47|0|I|Interior Items                          |A PIKACHU cushion.[br]Place it on a mat[br]or a desk.||1,4563B0
+455392| 1| 46|0|I|Interior Items                          |A MARILL cushion.[br]Place it on a mat[br]or a desk.||1,4563D0
+4553C1| 1| 48|0|I|Interior Items                          |A SMOOCHUM[br]cushion. Place it on[br]a mat or a desk.||1,4563F0
+4553F2| 1| 49|0|I|Interior Items                          |A ZIGZAGOON[br]cushion. Place it on[br]a mat or a desk.||1,456410
+455424| 1| 46|0|I|Interior Items                          |A SPINDA cushion.[br]Place it on a mat[br]or a desk.||1,456430
+455453| 1| 47|0|I|Interior Items                          |A SABLEYE cushion.[br]Place it on a mat[br]or a desk.||1,456450
+455483| 1| 44|0|I|Interior Items                          |A BALL cushion.[br]Place it on a mat[br]or a desk.||1,456470
+4554B0| 1| 50|0|I|Interior Items                          |A grass-mark[br]cushion. Place it on[br]a mat or a desk.||1,456490
+4554E3| 1| 49|0|I|Interior Items                          |A fire-mark[br]cushion. Place it on[br]a mat or a desk.||1,4564B0
+455515| 1| 50|0|I|Interior Items                          |A water-mark[br]cushion. Place it on[br]a mat or a desk.||1,4564D0
+455548| 1| 42|0|I|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,4564F0
+455573| 1| 42|0|I|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,456510
+45559E| 1| 42|0|I|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,456530
+4555C9| 1| 42|0|I|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,456550
+4555F4| 1| 42|0|I|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,456570
+45561F| 1| 42|0|I|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,456590
+45564A| 1| 42|0|I|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,4565B0
+455675| 1| 42|0|I|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,4565D0
+4556A0| 1| 42|0|I|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,4565F0
+4556CB| 1| 42|0|I|Interior Items                          |A large doll.[br]Place it on a mat[br]or a desk.||1,456610
 4571E0| 1| 59|0|D|Wireless Club                           |The WIRELESS COMMUNICATION[br]SYSTEM search has been canceled.||1,1185B0
 457234| 2| 47|0|D|Wireless Club                           |[var1]! Awaiting[br]communication from another player.||1,115A20;1,115CC0
 457264| 1| 53|0|D|Wireless Club                           |[var1]! Awaiting link![br]Press START when everyone's ready.||1,115CAC
