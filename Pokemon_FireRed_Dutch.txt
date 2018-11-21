@@ -163,8 +163,8 @@
 1744D0| 1| 68|0|D|S.S. Anne                               |Oh, I'm sorry for fussing over you.[br]You look like my little brother[...]|Sorry dat ik zo bezorgd ben om je.[br]Je lijkt op mijn kleine broertje[...]|1,160E30
 174515| 1| 67|0|D|S.S. Anne                               |Oh, I'm sorry for fussing over you.[br]You look like my little sister[...]|Sorry dat ik zo bezorgd ben om je.[br]Je lijkt op mijn kleine zusje[...]|1,160E26
 174559| 1| 65|0|D|Underground Path                        |People often lose things in the[br]darkness of the UNDERGROUND PATH.|Mensen verliezen vaak items in het[br]donker in het ONDERGRONDS PAD.|1,160EC2
-17459B| 1| 61|0|D|Underground Path                        |I heard a sleepy POKÈMON appeared[br]out near CELADON CITY, too.|Ik heb gehoord dat er ook slaperige[br]POKÈMON gezien bij CELADON STAD.|1,160ECC
-1745D9| 1| 82|0|D|Underground Path                        |The DEPARTMENT STORE in CELADON[br]has a great selection.[nb2]Do you go there very often?|De DEPARTMENT STORE winkel [br]in CELADON heeft heel veel keuze.[nb2]Ga je daar vaak?|1,160EE0
+17459B| 1| 61|0|D|Underground Path                        |I heard a sleepy POKÈMON appeared[br]out near CELADON CITY, too.|Ik heb gehoord dat er ook slaperige[br]POKÈMON zijn bij CELADON STAD.|1,160ECC
+1745D9| 1| 82|0|D|Underground Path                        |The DEPARTMENT STORE in CELADON[br]has a great selection.[nb2]Do you go there very often?|De SUPERMARKT in CELADON[br]heeft heel veel keuze.[nb2]Ga je daar vaak?|1,160EE0
 17462C| 1|122|0|D|Diglett's Cave                          |I went inside ROCK TUNNEL, but it's[br]pitch-black and scary in there.[nb2]If I could get a POKÈMON to use[br]FLASH and light it up[...]|Ik ben in de ROTS TUNNEL gegaan[br]maar het is er donker en akelig.[nb2]Kon ik mijn POKÈMON maar FLASH[br]laten gebruiken om licht te hebben[...]|1,160EEA
 1746A7| 1|104|0|D|Diglett's Cave                          |Well, isn't this a surprise![br]DIGLETT dug this long tunnel![nb2]It goes right to VIRIDIAN CITY,[br]they tell me.|Is dit geen verassing![br]DIGLETT hebben deze tunnel gegraven![nb2]Blijkbaar helemaal tot aan[br]VIRIDIAN STAD.|1,160EFE
 174710| 1| 39|0|D|Victory Road                            |I wonder if you are good enough[br]for me?|Ik vraag me af[br]of je goed genoeg bent voor mij?|1,160F6A
@@ -2374,7 +2374,7 @@
 196CA1| 1| 92|0|D|Game Corner                             |They offer rare POKÈMON that can[br]be exchanged for your COINS.[nb2]But, I just can't seem to win!|Ze bieden zeldzame POKÈMON aan[br]die je kan kopen met MUNTEN.[nb2]Maar ik kan maar niet winnen!|1,16C872
 196CFE| 1| 44|0|D|Game Corner                             |Games are scary![br]It's so easy to get hooked!|Gokspellen zijn gevaarlijk![br]Voor je het weet ben je verslaafd!|1,16C892
 196D2B| 1| 27|0|D|Game Corner                             |What's up?[br]Want some COINS?|Hoe gaat het?[br]Wil je wat MUNTEN?|1,16C8AB
-196D47| 1| 39|0|D|Game corner                             |[PLAYER] received 20 COINS[br]from the nice guy.|[PLAYER] heeft 20 MUNTEN gekregen[br]van de lieve menheer.|1,16C8CF
+196D47| 1| 39|0|D|Game corner                             |[PLAYER] received 20 COINS[br]from the nice guy.|[PLAYER] heeft 20 MUNTEN gekregen[br]van de lieve meneer.|1,16C8CF
 196D6F| 1| 23|0|D|Game corner                             |You have lots of COINS!|Jij hebt veel MUNTEN!|1,16C8E4
 196D87| 2| 47|0|D|Game Corner                             |Darn! I need more COINS for the[br]POKÈMON I want!|Dju! Ik heb meer MUNTEN nodig[br]voor de POKÈMON die ik wil!|1,16C8F2;0,5CABB2
 196DB7| 1| 64|0|D|Game Corner                             |Hey, what? You're throwing me off![br]Here are some COINS, so shoo!|HÈ, wat?[br]Je verstoort mijn concentratie![nb]Hier zijn wat MUNTEN, dus schiet je!|1,16C90B
@@ -2700,7 +2700,7 @@
 19C8C1| 1|196|0|D|Trainer Fan Club                        |I have journeyed far and wide[br]across the lands.[nb2]But never have I seen a TRAINER[br]of your magnificence.[nb2]Take courage in your abilities[br]and keep battling on![nb2]Make that a promise to me,[br]my young idol!|Ik heb veel dingen gezien.[nb2]Maar ik heb nog nooit een TRAINER[br]gezien van jouw kaliber.[nb2]Geloof in jezelf en blijf vechten![nb2]Beloof me dat, mijn jonge idool!|1,16F441
 19C986| 1| 78|0|D|Trainer Fan Club                        |Hmm[...][br]And you are?[nb2]Were you hoping to sign up for[br]a membership in our FAN CLUB?|Hmm[...][br]En jij bent?[nb2]Wou je je inschrijven als lid in[br]onze FAN CLUB?|1,16F41D
 19C9D5| 1|166|0|D|Trainer Fan Club                        |Ah, so you are the much-[br]talked-about [PLAYER].[nb2]You certainly do have the look of[br]a winner.[nb2]But for me to accept you as[br]a true POKÈMON great[...][nb2][...] [...][nb2]You've still a ways to go!|Ah, jij ben de befaamde[br][PLAYER] waar iedereen over spreekt.[nb2]Je ziet er zeker uit als een winnaar.[nb2]Maar voor mij jou te aanvaarden[br]als echte POKÈMON meester[...][nb2][...] [...][nb2]Heb je nog een lange[br]weg af te leggen!|1,16F44B
-19CA7C| 1|181|0|D|Trainer Fan Club                        |All of us gathered here are fans[br]of POKÈMON TRAINERS.[nb2]The way they look in battle[...][br]They are the picture of coolness.[nb2]Perhaps you will be talked about[br]here, too, if you keep winning.|Iedereen hier zijn fans van[br]POKÈMON TRAINERS.[nb2]Hoe ze er uit zien in een gevecht[...][br]Is heel erg cool.[nb2]Misschien hebben we het hier ooit[br]wel over jou, als je blijft winnen.|1,16F455
+19CA7C| 1|181|0|D|Trainer Fan Club                        |All of us gathered here are fans[br]of POKÈMON TRAINERS.[nb2]The way they look in battle[...][br]They are the picture of coolness.[nb2]Perhaps you will be talked about[br]here, too, if you keep winning.|Iedereen hier is fan van[br]POKÈMON TRAINERS.[nb2]Hoe ze er uit zien in een gevecht[...][br]Is heel erg cool.[nb2]Misschien hebben we het hier ooit[br]wel over jou, als je blijft winnen.|1,16F455
 19CB32| 1| 47|0|D|Trainer Fan Club                        |It's [PLAYER]![br]It's [PLAYER]![nb2]I want to be like [PLAYER] one day!|Het is [PLAYER]![br]Het is [PLAYER]![nb2]Ik op een dag zijn zoals [PLAYER]!|1,16F349
 19CB62| 1|112|0|D|Trainer Fan Club                        |Everyone stopped being [PLAYER]'s[br]fan[...][nb2]But that means I can have [PLAYER][br]all to myself![nb2]Yay! Go for it![br]My one and only [PLAYER]!|Iedereen is gestopt met fan te zijn[br]van [PLAYER][...][nb2]Maar dat betekend dat ik [PLAYER][br]helemaal voor mezelf heb![nb2]Joehoe! Ga er voor![br]Mijn trainer [PLAYER]!|1,16F353
 19CBD3| 1| 87|0|D|Trainer Fan Club                        |Do you know what?[br]I want to be like SABRINA![nb2]I want to be a psychic girl just[br]like her!|Weet je wat?[br]Ik wil zijn zoals SABRINA![nb2]Een psychische meid zoals zij!|1,16F32F
@@ -3079,7 +3079,7 @@
 1A5483| 1| 93|0|D|PokÈmon Center                          |Welcome to our POKÈMON CENTER![nb2]Would you like me to heal your[br]POKÈMON back to perfect health?|Welkom in ons POKÈMON CENTER![nb2]Wil je dat ik je POKÈMON weer[br]volledig genees?|1,1A6587
 1A54E1| 1| 47|0|D|PokÈmon Center                          |Okay, I'll take your POKÈMON for a[br]few seconds.|Ok, ik moet je POKÈMON[br]even hebben.|1,1A65BB
 1A5511| 3| 25|0|D|PokÈmon Center                          |We hope to see you again!|Tot nog eens!|1,1A662F;1,1A665C;1,1A6665
-1A552B| 2| 66|0|D|PokÈmon Center                          |Thank you for waiting.[br]We've restored your POKÈMON to[nb]full health.|Bedankt om te wachten.[br]Je POKÈMON zijn weer helemaal[nb]gezond.|1,1A661E;1,1A6641
+1A552B| 2| 66|0|D|PokÈmon Center                          |Thank you for waiting.[br]We've restored your POKÈMON to[nb]full health.|Bedankt om te wachten. Je POKÈMON[br]zijn weer helemaal gezond.|1,1A661E;1,1A6641
 1A556E| 1| 54|0|D|Missed text                             |The water is dyed a deep blue[...][br]Would you like to SURF?|Het water is diepblauw[...][br]Wil je SURF gebruiken?|1,1A6AEF
 1A55A5| 1| 13|0|D|Missed text                             |[var1] used SURF!|[var1] gebruikte SURF!|1,1A6B02
 1A55B3| 1| 54|0|D|Missed text                             |The current is much too fast![br]SURF can't be used here[...]|De stroming is hier veel te snel![br]SURF kan niet gebruikt worden[...]|1,1A6B10
@@ -4060,7 +4060,7 @@
 1C101B| 1| 68|0|D|Silph Co. 1F                            |It's a pretty picture of a POKÈMON.[br]It looks like it's feeling good.|Het is een mooie foto van een[br]POKÈMON. Hij ziet er blij uit.|1,1A767D
 1C1060| 1| 59|0|D|Oak's Lab                               |What could this machine be?[br]Better not mess around with it!|Wat zou deze machine doen?[br]Ik blijf er beter af!|1,1A7686
 1C109C| 1| 36|0|D|Misc. House Items                       |It's a telephone.[br]Better not use it.|Dit is de telefoon.[br]Gebruik je beter niet.|1,1A768F
-1C10C1| 1| 58|0|D|Secret House                            |It's all complicated words and[br]numbers that make no sense[...]|Het zijn allemaal ingewikkelde woorden[br]en nummers die ik niet begrijp[...]|1,1A762C
+1C10C1| 1| 58|0|D|Secret House                            |It's all complicated words and[br]numbers that make no sense[...]|Het zijn allemaal ingewikkelde[br]woorden en nummers[...]|1,1A762C
 1C10FC| 1| 55|0|D|misc missed text                        |It's an advertising poster about[br]all kinds of products.|Het is een reclamebord voor[br]allerlei producten.|1,1A7698
 1C1134| 1| 57|0|D|S.S. Anne                               |Oh, that smells tasty![br]It might get the stomach growling!|Oh, dat ruikt lekker.[br]Ik krijg er honger van!|1,1A76A1
 1C116E| 1| 37|0|D|S.S. Anne                               |Inside this[...][br][...][...][nb2]There's nothing here!|Hierin[...][br][...][...][nb2]Vindt ik niets!|1,1A76AA
@@ -6726,12 +6726,12 @@
 3FBF89| 1| 15|0|D|Battle5                                 |[FD0F] SKETCHED[br][FD00]!|[FD0F] TEKENDE[br][FD00]!|1,3FE134
 3FBF99| 1| 37|0|D|Battle5                                 |[FD0F] is trying[br]to take its foe with it!|[FD0F] probeert zijn[br]vijand mee te nemen!|1,3FE138
 3FBFBF| 1| 19|0|D|Battle5                                 |[FD10] took[br][FD0F] with it!|[FD10] nam[br][FD0F] mee!|1,3FE13C
-3FBFD3| 1| 22|0|D|Battle5                                 |Reduced [FD10]'s[br][FD00] by [PLAYER]!|Verlaagde [FD10] zijn[br][FD00] door [PLAYER]!|1,3FE140
+3FBFD3| 1| 22|0|D|Battle5                                 |Reduced [FD10]'s[br][FD00] by [PLAYER]!|Verlaagde [FD10] zijn[br][FD00] met [PLAYER]!|1,3FE140
 3FBFEA| 1| 17|0|D|Battle5                                 |[FD0F] stole[br][FD10]'s [FD16]!|[FD0F] heeft [FD16][br]van [FD10] gestolen!|1,3FE144
 3FBFFC| 1| 20|0|D|Battle5                                 |[FD10] can't[br]escape now!|[FD10] kan nu niet[br]ontsnappen!|1,3FE148
 3FC011| 1| 25|0|D|Battle5                                 |[FD10] fell into[br]a NIGHTMARE!|[FD10] krijgt een[br]NACHTMERRIE!|1,3FE14C
 3FC02B| 1| 28|0|D|Battle5                                 |[FD0F] is locked[br]in a NIGHTMARE!|[FD0F] zit vast in een[br]NACHTMERRIE!|1,3FE150
-3FC048| 1| 41|0|D|Battle5                                 |[FD0F] cut its own HP and[br]laid a CURSE on [FD10]!|[FD0F] betaalt met zijn eigen HP[br]om een VLOEK te leggen op [FD10]!|1,3FE154
+3FC048| 1| 41|0|D|Battle5                                 |[FD0F] cut its own HP and[br]laid a CURSE on [FD10]!|[FD0F] verlaagt zijn eigen HP[br]om een VLOEK te leggen op [FD10]!|1,3FE154
 3FC072| 1| 29|0|D|Battle5                                 |[FD0F] is afflicted[br]by the CURSE!|[FD0F] is beinvloed door[br]de VLOEK!|1,3FE158
 3FC090| 1| 53|0|D|Battle6                                 |SPIKES were scattered all around[br]the opponent's side!|SPIKES werden verspreid aan de[br]kant van de tegenstander!|1,3FE15C
 3FC0C6| 1| 21|0|D|Battle6                                 |[FD13] is hurt[br]by SPIKES!|[FD13] is verwond[br]door SPIKES!|1,3FE160
@@ -7939,11 +7939,11 @@
 41B2D4| 1|  7|0|D|                                        |SP. DEF|SP. AFW|1,459B58
 41B2DC| 1|  8|0|D|                                        |[smllat][<]«[small]||1,11E938
 41B2E5| 1|  7|0|D|                                        |[smllat]-[small]||1,11E934
-41B2ED| 2|  3|0|D|                                        |1, ||1,11D448;1,459998
-41B2F1| 2| 13|0|D|                                        |2, and [...] [...] [...] ||1,11D444;1,45999C
-41B2FF| 1|  6|0|D|                                        |Poof![nb2]||1,4599A0
-41B306| 1| 14|0|D|                                        |[A]  forgot[br][A]¿.[nb2]||1,11D478
-41B315| 1|  5|0|D|                                        |And[...][nb2]||1,11D484
+41B2ED| 2|  3|0|D|                                        |1, |1, |1,11D448;1,459998
+41B2F1| 2| 13|0|D|                                        |2, and [...] [...] [...] |2, en [...] [...] [...] |1,11D444;1,45999C
+41B2FF| 1|  6|0|D|                                        |Poof![nb2]|Poef![nb2]|1,4599A0
+41B306| 1| 14|0|D|                                        |[A]  forgot[br][A]¿.[nb2]|[A]  vergat[br][A]¿.[nb2]|1,11D478
+41B315| 1|  5|0|D|                                        |And[...][nb2]|En[...][nb2]|1,11D484
 41B31B| 1| 13|0|D|                                        |Machine set![nb2]|Machine ingesteld![nb2]|1,11D494
 41B329| 1|  4|0|D|                                        |Huh?||1,11D4D0
 41B32E| 1| 14|0|D|                                        |[A]  learned[br][A]¿!|[A]  heeft[br][A]¿ geleerd!|1,11D400
