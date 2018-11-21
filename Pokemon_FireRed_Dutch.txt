@@ -774,7 +774,7 @@
 17DB78| 1| 31|0|D|Viridian City                           |VIRIDIAN GYM's LEADER returned!|De VIRIDIAN GYM LEIDER is terug!|1,1659EE
 17DB98| 1| 60|0|D|Viridian City                           |You want to know about the two[br]kinds of caterpillar POKÈMON?|Wil je leren over de twee types[br]rups POKÈMON?|1,165A93
 17DBD5| 1| 14|0|D|Viridian City                           |Oh, okay then!|O, ok dan!|1,165ABC
-17DBE4| 1|105|0|D|Viridian City                           |CATERPIE has no poison,[br]but WEEDLE does.[nb2]Watch that your POKÈMON aren't[br]stabbed by WEEDLE's POISON STING.|CATERPIE heeft geen gif,[br]maar WEEDLE wel.[nb2]Let op dat je POKÈMON niet gestoken[br]worden door WEEDLE's POISON STING.|1,165AB2
+17DBE4| 1|105|0|D|Viridian City                           |CATERPIE has no poison,[br]but WEEDLE does.[nb2]Watch that your POKÈMON aren't[br]stabbed by WEEDLE's POISON STING.|CATERPIE heeft geen gif,[br]maar WEEDLE wel.[nb2]Let op dat je POKÈMON niet gestoken[br]worden door WEEDLE's GIFSTEEK.|1,165AB2
 17DC4E| 1| 74|0|D|Viridian City                           |Oh, Grandpa![br]Don't be so mean![nb2]I'm so sorry.[br]He hasn't had his coffee yet.|Oh, grootvader![br]Doe niet zo naar![nb2]Het spijt me.[br]Hij heeft nog geen koffie gehad.|1,165ADD
 17DC99| 1|105|0|D|Viridian City                           |I go shopping in PEWTER CITY[br]occasionally.[nb2]I have to take the winding trail in[br]VIRIDIAN FOREST when I go.|Ik ga soms winkelen in PEWTER STAD.[nb2]Dan moet ik het kronkelig pad[br]door VIRIDIAN BOS volgen.|1,165AD3
 17DD03| 2| 74|0|D|Viridian City                           |I absolutely forbid you from[br]going through here![nb2]This is private property!|Je mag hier echt niet passeren![nb2]Dit is privÈ eigendom![br]|1,165A86;1,165AFB
@@ -833,7 +833,7 @@
 17F01D| 1|148|0|D|Cerulean City                           |If that SLOWBRO wasn't there, you[br]could CUT down the small tree.[nb2]That way, you could get to the[br]other side.[nb2]I think there's a way around it,[br]though.|Als die SLOWBRO daar niet was kon[br]je die kleine boom KAPen.[nb2]Op die manier kan je aan de [br]andere kant.[nb2]Ik denk wel dat er ergens[br]een omweg is.|1,16670B
 17F0B2| 1| 62|0|D|Cerulean City                           |You're making an encyclopedia on[br]POKÈMON? That sounds amusing.|Je maakt een encyclopedie over[br]POKÈMON? Dat klinkt leuk.|1,16671F
 17F0F1| 1|145|0|D|Cerulean City                           |The people here were robbed.[nb2]It's obvious that TEAM ROCKET is[br]behind this most heinous crime![nb2]Even our POLICE FORCE has[br]trouble with the ROCKETS!|Deze mensen werden bestolen.[nb2]Het is duidelijk dat TEAM ROCKET[br]achter deze snode daad zit![nb2]Zelfs onze politiemacht heeft moeite[br]met de ROCKETS!|1,1666EB
-17F183| 1| 29|0|D|Cerulean City                           |Okay! SLOWBRO![br]Use SONICBOOM!|Ok! SLOWBRO![br]Gebruik SONICBOOM!|1,1667B1
+17F183| 1| 29|0|D|Cerulean City                           |Okay! SLOWBRO![br]Use SONICBOOM!|Ok! SLOWBRO![br]Gebruik GELUIDSKNAL!|1,1667B1
 17F1A1| 1| 32|0|D|Cerulean City                           |Come on, SLOWBRO, pay attention!|Komaan, SLOWBRO, let op!|1,1667C4
 17F1C2| 1| 15|0|D|Cerulean City                           |SLOWBRO, punch!|SLOWBRO, sla!|1,1667B7
 17F1D2| 1| 22|0|D|Cerulean City                           |No![br]You blew it again!|Nee![br]Opnieuw fout!|1,1667CD
@@ -1082,7 +1082,7 @@
 183ABF| 1| 34|0|D|Route 4                                 |Fine![br]Which POKÈMON will learn it?|Goed![br]Welke POKÈMON wil de techniek leren?|1,1C497E
 183AE2| 1|145|0|D|Route 4                                 |Now, we are comrades in the way of[br]punching![nb2]You should go before you're seen[br]by the misguided fool who trains[nb]only his silly kicking over there.|Nu zijn we kameraden in ons manier[br]van slaan![nb2]Je gaat beter weg voor je gezien[br]wordt door die idioot daar die enkel[nb]maar schoppen aanleert.|1,1C49AE
 183B74| 1|176|0|D|Route 4                                 |A kick of brutal ferocity![nb2]Packed with destructive power![nb2]When you get right down to it,[br]MEGA KICK is the ultimate attack![nb]Don't you agree?[nb2]Okay![br]I'll teach it to your POKÈMON!|Een woeste schop![nb2]Vol met vernielingskracht![nb2]Als je er goed naar kijkt is MEGA[br]KICK de ultieme aanval![nb2]Denk je niet?[nb2]Ok?[br]Ik leer het aan je POkÈMON!|1,1C49C3
-183C25| 1| 66|0|D|Route 4                                 |You'll come crawling back when you[br]realize the value of MEGA KICK.|Je komt wel terugkrabbelen als je je[br]de sterkte van MEGA KICK realiseert.|1,1C4A0C
+183C25| 1| 66|0|D|Route 4                                 |You'll come crawling back when you[br]realize the value of MEGA KICK.|Je komt wel terugkrabbelen als je[br]de sterkte van MEGA SCHOP[nb]realiseert.|1,1C4A0C
 183C68| 1| 43|0|D|Route 4                                 |All right![br]Which POKÈMON wants to learn it?|Ok![br]Welke POKÈMON wil de techniek leren?|1,1C49E6
 183C94| 1|145|0|D|Route 4                                 |Now, we are soul mates in the way[br]of kicking![nb2]You should run before you're seen[br]by the deluded nitwit who trains[nb]only simple punching over there.|Nu zijn we zielsgenoten in de manier[br]waarop we schoppen![nb2]Je gaat beter weg voor die idioot[br]die enkel maar kloppen aanleert[nb]je kan zien.|1,1C4A16
 183D26| 1|173|0|D|Route 4                                 |Oh, wow, that's the BOULDERBADGE![br]You got it from BROCK, didn't you?[nb2]BROCK is cool. He's not just tough.[br]People like and respect him.[nb2]I want to become a GYM LEADER[br]like him.|Oh, wow, dat is de BOULDERBADGE![br]Je hebt die gekregen van BROCK?[nb2]BROCK is cool,[br]hij is niet alleen sterk.[nb]De mensen houden ook van hem.[nb2]Ik wil een GYM LEIDER worden[br]zoals hij.|1,1ACDFB
@@ -4419,37 +4419,37 @@
 24717E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WHIRLWIND|WERVELWIND|
 24718B| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLY|VLIEG|1,45A6B8
 247198| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BIND||
-2471A5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLAM||
-2471B2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VINE WHIP||
-2471BF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STOMP||
-2471CC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLE KICK||
-2471D9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGA KICK||
-2471E6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |JUMP KICK||
-2471F3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROLLING KICK||
-247200| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SAND-ATTACK||
-24720D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HEADBUTT||
-24721A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HORN ATTACK||
-247227| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FURY ATTACK||
-247234| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HORN DRILL||
+2471A5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLAM|SLAG|
+2471B2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VINE WHIP|LIAANZWEEP|
+2471BF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STOMP|STAMP|
+2471CC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLE KICK|DUBBELSCHOP|
+2471D9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGA KICK|MEGA SCHOP|
+2471E6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |JUMP KICK|SPRING SCHOP|
+2471F3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROLLING KICK|ROLSCHOP|
+247200| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SAND-ATTACK|ZANDAANVAL|
+24720D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HEADBUTT|KOPSTOOT|
+24721A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HORN ATTACK|HOORNAANVAL|
+247227| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FURY ATTACK|WOEDEAANVAL|
+247234| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HORN DRILL|HOORNBOOR|
 247241| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TACKLE||
-24724E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BODY SLAM||
-24725B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WRAP||
-247268| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TAKE DOWN||
-247275| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THRASH||
-247282| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLE-EDGE||
-24728F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TAIL WHIP||
-24729C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON STING||
-2472A9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TWINEEDLE||
-2472B6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PIN MISSILE||
+24724E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BODY SLAM|LICHAAMSSLAG|
+24725B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WRAP|WIKKEL|
+247268| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TAKE DOWN|NEERHAAL|
+247275| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THRASH|RANSEL|
+247282| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLE-EDGE|DUBBELSNEE|
+24728F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TAIL WHIP|STAARTZWEEP|
+24729C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON STING|GIFSTEEK|
+2472A9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TWINEEDLE|DUBBELNAALD|
+2472B6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PIN MISSILE|PINRAKET|
 2472C3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEER|STAAR|
-2472D0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BITE||
+2472D0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BITE|BIJT|
 2472DD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GROWL|GROM|
-2472EA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROAR||
-2472F7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SING||
-247304| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUPERSONIC||
-247311| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SONICBOOM||
-24731E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DISABLE||
-24732B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ACID||
+2472EA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROAR|BRUL|
+2472F7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SING|ZING|
+247304| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUPERSONIC|SUPERSONISCH|
+247311| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SONICBOOM|GELUIDSKNAL|
+24731E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DISABLE|VERGRENDEL|
+24732B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ACID|ZUUR|
 247338| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EMBER||
 247345| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLAMETHROWER||
 247352| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIST||
@@ -4534,7 +4534,7 @@
 247755| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AMNESIA||
 247762| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |KINESIS||
 24776F| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |SOFTBOILED||1,45A6F8
-24777C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HI JUMP KICK||
+24777C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HI JUMP KICK|HOGE SCHOP|
 247789| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GLARE||
 247796| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DREAM EATER||
 2477A3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON GAS||
@@ -4549,7 +4549,7 @@
 247818| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLASH||1,45A6A8
 247825| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYWAVE||
 247832| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPLASH||
-24783F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ACID ARMOR||
+24783F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ACID ARMOR|ZUURHARNAS|
 24784C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CRABHAMMER||
 247859| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EXPLOSION||
 247866| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FURY SWIPES||
@@ -8907,7 +8907,7 @@
 48346C| 1| 59|0|I|Move Desc. (4 half lines)               |The user generates[br]odd sound waves.[br]It may confuse the[br]foe.|De gebruiker maakt[br]rare geluiden die[br]de vijand kunnen[br]verwarren.|1,4887A4
 4834A8| 1| 68|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a shock wave that[br]always inflicts 20-[br]HP damage.|Een schokgolf die[br]altijd 20 HP schade[br]doet aan de vijand.|1,4887A8
 4834ED| 1| 70|0|I|Move Desc. (4 half lines)               |For a few turns,[br]it prevents the foe[br]from using the move[br]it last used.|De vijand kan zijn[br]laatst gebruikte[br]techniek enkele[br]beurten niet doen.|1,4887AC
-483534| 1| 75|0|I|Move Desc. (4 half lines)               |The foe is sprayed[br]with a harsh, hide-[br]melting acid that[br]may lower DEFENSE.|Spuit een bijtend[br]product naar de[br]vijand. Dit kan zijn[br]AFWEER verlagen.|1,4887B0
+483534| 1| 75|0|I|Move Desc. (4 half lines)               |The foe is sprayed[br]with a harsh, hide-[br]melting acid that[br]may lower DEFENSE.|Spuit een bijtend[br]zuur naar de[br]vijand. Dit kan zijn[br]AFWEER verlagen.|1,4887B0
 483580| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with small flames.[br]The foe may suffer[br]a burn.|Aanval met kleine[br]vlammen.[br]De vijand kan een[br]brandwonde krijgen.|1,4887B4
 4835C2| 2| 67|0|I|Move Desc. (4 half lines)               |The foe is scorched[br]with intense flames.[br]The foe may suffer[br]a burn.|De vijand is[br]geroosterd met vuur.[br]Hij kan een[br]brandwonde krijgen.|1,3DE7C0;1,4887B8
 483606| 1| 68|0|I|Move Desc. (4 half lines)               |The ally party is[br]protected by a[br]mist that prevents[br]stat reductions.|Mist omhult de hele[br]groep en beschermt[br]tegen vermindering[br]van eigenschappen.|1,4887BC
@@ -9085,7 +9085,7 @@
 486455| 1| 73|0|I|Move Desc. (4 half lines)               |The user switches[br]out, passing along[br]any stat changes[br]to the new battler.|Wisselt met een[br]andere POKÈMON. Alle[br]status verhogingen[br]worden doorgegeven.|1,488A6C
 48649F| 1| 72|0|I|Move Desc. (4 half lines)               |Makes the foe use[br]the move it last[br]used repeatedly for[br]two to six turns.|Verplicht de vijand[br]zijn laatste actie[br]te herhalen voor[br]2 tot 6 beurten.|1,488A70
 4864E8| 1| 73|0|I|Move Desc. (4 half lines)               |An attack move that[br]works especially[br]well on a foe that[br]is switching out.|Werkt heel erg[br]goed op een vijand[br]die gaat wisselen.|1,488A74
-486532| 1| 70|0|I|Move Desc. (4 half lines)               |An attack that[br]frees the user from[br]BIND, WRAP, LEECH[br]SEED, and SPIKES.|Bevrijd de gebruiker[br]uit BIND, WRAP,[br]LEECH SEED[br]en SPIKES.|1,488A78
+486532| 1| 70|0|I|Move Desc. (4 half lines)               |An attack that[br]frees the user from[br]BIND, WRAP, LEECH[br]SEED, and SPIKES.|Bevrijd de gebruiker[br]uit BIND, WIKKEL,[br]LEECH SEED[br]en SPIKES.|1,488A78
 486579| 1| 69|0|I|Move Desc. (4 half lines)               |Allures the foe to[br]reduce evasiveness.[br]It also attracts[br]wild POKÈMON.|De verliefde vijand[br]ontwijkt minder.[br]Trekt ook wilde[br]POKÈMON aan.|1,488A7C
 4865BF| 2| 70|0|I|Move Desc. (4 half lines)               |An attack with a[br]steel-hard tail.[br]It may lower the[br]foe's DEFENSE stat.|Aanval met staal-[br]harde staart.[br]Kan de vijand zijn[br]AFWEER verlagen.|1,3DE5B0;1,488A80
 486606| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with steel claws.[br]It may also raise[br]the user's ATTACK.|Aanval met stalen[br]klauwen.[br]De gebruiker zijn[br]AANVAL kan stijgen.|1,488A84
