@@ -649,7 +649,7 @@
 17B251| 1| 23|0|D|Icefall Cave                            |We didn't plan on this!|Dit was niet gepland!|1,163E39
 17B269| 1|133|0|D|Icefall Cave                            |LORELEI: Humph.[br]So despicably weak.[nb2]You![br]Tell me![nb2]Where have you taken the captured[br]POKÈMON?[nb2]I'm smashing your ring once and[br]for all!|LORELEI: Pfff.[br]Zo ongelofelijk zwak.[nb2]Jij daar![br]Zeg me eens![nb2]Waar heb je de gevangen[br]POKÈMON naar toe gebracht?[nb2]Ik ga voor eens en voor altijd[br]komaf maken met jullie groep!|1,163E4B
 17B2EF| 1| 35|0|D|Icefall Cave                            |N-no way![br]I'm not telling you that!|N-neen![br]Ik ga je dat niet zeggen!|1,163E55
-17B313| 1|133|0|D|Icefall Cave                            |LORELEI: If you won't confess,[br]we'll deep-freeze you.[nb2]My LAPRAS is furious for what[br]you've done to its friends.[nb2]Go, LAPRAS![br]ICE BEAM[...]|LORELEI: Als je niet bekent bevries[br]ik jullie.[nb2]Mijn LAPRAS is woest voor wat je[br]met zijn vrienden gedaan hebt.[nb2]Ga, LAPRAS![br]ICE BEAM[...]|1,163E5E
+17B313| 1|133|0|D|Icefall Cave                            |LORELEI: If you won't confess,[br]we'll deep-freeze you.[nb2]My LAPRAS is furious for what[br]you've done to its friends.[nb2]Go, LAPRAS![br]ICE BEAM[...]|LORELEI: Als je niet bekent bevries[br]ik jullie.[nb2]Mijn LAPRAS is woest voor wat je[br]met zijn vrienden gedaan hebt.[nb2]Ga, LAPRAS![br]IJS STRAAL[...]|1,163E5E
 17B399| 1|189|0|D|Icefall Cave                            |Wawaah! Okay![br]I'll talk![nb2]The POKÈMON are in the ROCKET[br]WAREHOUSE on FIVE ISLAND.[nb2]There! I said it![br]We'll be going now![nb2][...]But I doubt you'll ever make it[br]into the ROCKET WAREHOUSE![nb2]Heheheheh!|Aaaah! Ok![br]Ik zal praten![nb2]De POKÈMON zitten in het ROCKET[br]MAGAZIJN op FIVE EILAND.[nb2]Ben je nu blij?[br]We gaan nu weg![nb2][...]Maar ik tweifel of je ooit in[br]het ROCKET MAGAZIJN binnen raakt.[nb2]Hahahaha!|1,163E79
 17B457| 2|139|0|D|Icefall Cave                            |[PLAYER], thank you.[br]But this is awful[...][nb2]I was born and raised here on[br]these islands.[nb2]I had no idea that those horrible[br]criminals were loose here[...]|[PLAYER], dank je.[br]Maar het is verschrikkelijk[...][nb2]Ik ben opgegroeid op[br]deze eilanden.[nb2]Ik had geen idee dat deze[br]misdadigers hier rond liepen[...]|1,163ECA;1,163F27
 17B4E3| 1| 46|0|D|Rocket Warehouse                        |There are many POKÈMON locked[br]away in the pen[...]|Er zijn veel POKÈMON opgesloten[br]in de kooi[...]|1,163F66
@@ -2073,9 +2073,9 @@
 19090A| 1| 58|0|D|Pewter Museum                           |There is a beautiful piece of[br]AMBER in a clear gold color.|Er is een mooi stuk AMBER[br]met een heldere gouden kleur.|1,16A50B
 190945| 1| 47|0|D|Pewter Museum                           |AERODACTYL Fossil[br]A primitive and rare POKÈMON.|AERODACTYL fossiel[br]Een primitieve en zeldzame POKÈMON.|1,16A527
 190975| 1| 45|0|D|Pewter Museum                           |KABUTOPS Fossil[br]A primitive and rare POKÈMON.|KABUTOPS fossiel[br]Een primitieve en zeldzame POKÈMON.|1,16A547
-1909A3| 1|261|0|D|Pewter Museum                           |The secrets of space[...][br]The mysteries of earth[...][nb2]There are so many things about[br]which we know so little.[nb2]But that should spur us to study[br]harder, not toss in the towel.[nb2]The only thing you should toss[...][nb2]Well, how about SEISMIC TOSS?[br]Should I teach that to a POKÈMON?|De geheimen van de ruimte[...][br]De mysteries van de aarde[...][nb2]Er zijn zo veel dingen waar[br]we niets van af weten.[nb2]Maar dat moet ons aansporen[br]te studeren en de handdoek[nb]niet in de ring te gooien.[nb2]De enige dingen die je moet gooien[...][nb2]Hmm wat met SEISMIC TOSS?[br]Moet ik dat aan een POKÈMON leren?|1,1C4BCB
+1909A3| 1|261|0|D|Pewter Museum                           |The secrets of space[...][br]The mysteries of earth[...][nb2]There are so many things about[br]which we know so little.[nb2]But that should spur us to study[br]harder, not toss in the towel.[nb2]The only thing you should toss[...][nb2]Well, how about SEISMIC TOSS?[br]Should I teach that to a POKÈMON?|De geheimen van de ruimte[...][br]De mysteries van de aarde[...][nb2]Er zijn zo veel dingen waar[br]we niets van af weten.[nb2]Maar dat moet ons aansporen[br]te studeren en de handdoek[nb]niet in de ring te gooien.[nb2]De enige dingen die je moet gooien[...][nb2]Hmm wat met GROND GOOI?[br]Moet ik dat aan een POKÈMON leren?|1,1C4BCB
 190AA9| 1| 43|0|D|Pewter museum missed text               |Is that so?[br]I'm sure you'll be back for it.|Is dat zo?[br]Ik ben zeker dat je terugkomt.|1,1C4C14
-190AD5| 1| 42|0|D|Pewter museum missed text               |Which POKÈMON wants to learn[br]SEISMIC TOSS?|Welke POKÈMON wil[br]SEISMIC TOSS leren?|1,1C4BEE
+190AD5| 1| 42|0|D|Pewter museum missed text               |Which POKÈMON wants to learn[br]SEISMIC TOSS?|Welke POKÈMON wil[br]GROND GOOI leren?|1,1C4BEE
 190B00| 1| 47|0|D|Pewter museum missed text               |I hope you won't toss in the towel.[br]Keep it up.|Ik hoop dat je niet gaat opgeven.[br]Hou vol.|1,1C4C1E
 190B30| 1| 79|0|D|Pewter Museum                           |MOON STONE, huh?[nb2]What's so special about it?[br]Looks like an ordinary rock to me.|Een MAANSTEEN hÈ?[nb2]Ik zie niet wat er zo speciaal aan is.[br]Het lijkt op een gewone steen.|1,16A555
 190B80| 1|114|0|D|Pewter Museum                           |July 20, 1969![nb2]Humankind first set foot on the[br]moon that day.[nb2]I bought a color TV just so I[br]could watch that news.|20 Juli 1969![nb2]Dan zette de mens eerst voet op[br]de maan.[nb2]Ik kocht een kleurentv speciaal om[br]dat te kunnen bekijken.|1,16A55E
@@ -2119,7 +2119,7 @@
 1919BE| 1|114|0|D|Cerulean House 3                        |The ATTACK stat of all your[br]POKÈMON increases a little bit.[nb2]It also lets you use the move[br]FLASH outside of battle.|De AANVAL status van all je[br]POKÈMON wordt een beetje hoger.[nb2]Je kan ook FLASH gebruiken als je[br]niet aan het vechten bent.|1,16A8FD
 191A31| 1|199|0|D|Cerulean House 3                        |POKÈMON up to Lv. 30 will obey[br]you.[nb2]That includes even outsiders you[br]obtain in trades.[nb2]POKÈMON of higher levels will[br]be unruly in battle, however.[nb2]It also lets you use the move[br]CUT outside of battle.|POKÈMON tot Lv. 30 gehoorzamen je.[nb2]Ook geruilde POKÈMON.[nb2]POKÈMON van een hoger level gaan[br]wel onrustig zijn in een gevecht.[nb2]Je kan ook KAP gebruiken[br]als je niet aan het vechten bent.|1,16A90B
 191AF9| 1|111|0|D|Cerulean House 3                        |The SPEED stat of all your[br]POKÈMON increases a little bit.[nb2]It also lets you use the move[br]FLY outside of battle.|De RAPHEID van al je POKÈMON[br]wordt een beetje hoger.[nb2]Je kan ook VLIEG gebruiken[br]als je niet aan het vechten bent.|1,16A919
-191B69| 1|204|0|D|Cerulean House 3                        |POKÈMON up to Lv. 50 will obey[br]you.[nb2]That includes even outsiders you[br]obtain in trades.[nb2]POKÈMON of higher levels will[br]be unruly in battle, however.[nb2]It also lets you use the move[br]STRENGTH outside of battle.|POKÈMON tot Lv. 50 gehoorzamen je.[nb2]Ook geruilde POKÈMON.[nb2]POKÈMON van een hoger level gaan[br]wel onrustig zijn in een gevecht.[nb2]Je kan ook STRENGTH gebruiken[br]als je niet aan het vechten bent.|1,16A927
+191B69| 1|204|0|D|Cerulean House 3                        |POKÈMON up to Lv. 50 will obey[br]you.[nb2]That includes even outsiders you[br]obtain in trades.[nb2]POKÈMON of higher levels will[br]be unruly in battle, however.[nb2]It also lets you use the move[br]STRENGTH outside of battle.|POKÈMON tot Lv. 50 gehoorzamen je.[nb2]Ook geruilde POKÈMON.[nb2]POKÈMON van een hoger level gaan[br]wel onrustig zijn in een gevecht.[nb2]Je kan ook STERKTE gebruiken[br]als je niet aan het vechten bent.|1,16A927
 191C36| 1|114|0|D|Cerulean House 3                        |The DEFENSE stat of all your[br]POKÈMON increases a little bit.[nb2]It also lets you use the move[br]SURF outside of battle.|De AFWEER status van al je[br]POKÈMON wordt een beetje hoger.[nb2]Je kan ook de SURF gebruiken[br]als je niet aan het vechten bent.|1,16A935
 191CA9| 1|206|0|D|Cerulean House 3                        |POKÈMON up to Lv. 70 will obey[br]you.[nb2]That includes even outsiders you[br]obtain in trades.[nb2]POKÈMON of higher levels will[br]be unruly in battle, however.[nb2]It also lets you use the move[br]ROCK SMASH outside of battle.|POKÈMON tot Lv. 70 gehoorzamen je.[nb2]Ook geruilde POKÈMON.[nb2]POKÈMON van een hoger level gaan[br]wel onrustig zijn in een gevecht.[nb2]Je kan ook ROCK SMASH gebruiken[br]als je niet aan het vechten bent.|1,16A943
 191D78| 1|127|0|D|Cerulean House 3                        |The SP. ATK and SP. DEF stats of[br]all your POKÈMON rise a little bit.[nb2]It also lets you use the move[br]WATERFALL outside of battle.|De SP. AANV and SP. AFW status van[br]je POKÈMON wordt een beetje hoger.[nb2]Je kan ook de WATERFALL gebruiken[br]als je niet aan het vechten bent.|1,16A951
@@ -2297,10 +2297,10 @@
 1958D8| 1| 29|0|D|Department Store                        |A fighting game![br]Looks tough!|Een vechtspel![br]Ziet er moeilijk uit!|1,16BBD5
 1958F6| 1| 16|0|D|Department Store                        |3F: TV GAME SHOP|3e: TV SPELLENWINKEL|1,16BBDE
 195907| 1| 32|0|D|Celadon dept store                      |Red and Green![br]Both are POKÈMON!|Rood en Groen![br]Beide zijn POKÈMON!|1,16BBE7
-195928| 1|163|0|D|Celadon dept store                      |Oh, hi![br]I finally finished POKÈMON.[nb2]Not done yet? How about I teach[br]you a good move?[nb2]The move I have in mind is[br]COUNTER.[nb2]Not like the one I'm leaning on,[br]mind you!|O, hallo,[br]ik ben eindelijk klaar.[nb2]Jij nog niet? Wat als ik je een[br]goede techniek leer?[nb2]Ik denk aan COUNTER.|1,1C4C33
+195928| 1|163|0|D|Celadon dept store                      |Oh, hi![br]I finally finished POKÈMON.[nb2]Not done yet? How about I teach[br]you a good move?[nb2]The move I have in mind is[br]COUNTER.[nb2]Not like the one I'm leaning on,[br]mind you!|O, hallo,[br]ik ben eindelijk klaar.[nb2]Jij nog niet? Wat als ik je een[br]goede techniek leer?[nb2]Ik denk aan PAREER.|1,1C4C33
 1959CC| 1| 59|0|D|Celadon dept store                      |You're not interested? Come see[br]me if you change your mind.|Geen interresse? Kom me opzoeken[br]als je van gedacht verandert.|1,1C4C7C
 195A08| 1| 40|0|D|Celadon dept store                      |Which POKÈMON should I teach[br]COUNTER to?|Aan welke POKÈMON moet ik[br]COUNTER leren?|1,1C4C56
-195A31| 1| 54|0|D|Celadon dept store                      |Are you using that COUNTER move[br]I taught your POKÈMON?|Gebruik je die COUNTER techniek die[br]ik je POKÈMON geleerd heb?|1,1C4C86
+195A31| 1| 54|0|D|Celadon dept store                      |Are you using that COUNTER move[br]I taught your POKÈMON?|Gebruik je die PAREER techniek die[br]ik je POKÈMON geleerd heb?|1,1C4C86
 195A68| 1| 96|0|D|Department Store                        |I'm getting a present for my[br]girlfriend.[nb2]I guess a POKÈ DOLL will be it.[br]It's the popular thing.|Ik zoek een cadeau voor mijn[br]vriendin.[nb2]Een POKÈMON POP zal ze wel leuk[br]vinden denk ik.|1,16BBF1
 195AC9| 1|145|0|D|Department Store                        |I heard something useful.[nb2]If a wild POKÈMON appears, you can[br]distract it with a POKÈ DOLL.[nb2]You can run away while the wild[br]POKÈMON is distracted.|Ik heb iets nuttigs gehoord.[nb2]Als een wilde POKÈMON verschijnt kan[br]je hem afleiden met een POKÈMON POP[nb2]Dan kan je weglopen als hij afgeleid is.|1,16BBFA
 195B5B| 1| 94|0|D|Department Store                        |Express yourself with gifts![br]4F: WISE MAN GIFTS[nb2]Evolution Special![br]Element STONES on sale now!|Zeg het met cadeaus![br]4e: WIJZE MAN CADEAUS[nb2]Evolutie promotie![br]Element STENEN nu te koop!|1,16BC03
@@ -2402,7 +2402,7 @@
 197114| 1|331|0|D|Celadon Gym                             |Hello[...][br]Lovely weather, isn't it?[nb]It's so pleasant[...][nb2][...]Oh, dear[...][br]I must have dozed off. Welcome.[nb2]My name is ERIKA.[br]I am the LEADER of CELADON GYM.[nb2]I am a student of the art of[br]flower arranging.[nb2]My POKÈMON are solely of the[br]GRASS type.[nb2][...]Oh, I'm sorry, I had no idea that[br]you wished to challenge me.[nb2]Very well, but I shall not lose.[FC]Œ[kÈ]¿|Hallo[...][br]Mooi weertje hÈ?[nb]Zo leuk[...][nb2][...]O jee[...][br]Ik ben een beetje suf. Welkom.[nb2]Ik ben ERIKA.[br]De LEIDER van CELADON GYM.[nb2]Ik bestudeer bloemschikken.[nb2]Mijn POKÈMON zijn allemaal[br]GRASS type.[nb2][...]Oh sorry, ik wist niet dat je mij[br]wou uitdagen.[nb2]Goed dan, maar ik ga niet verliezen.[FC]Œ[kÈ]¿|1,16D074
 197260| 1| 87|0|D|Celadon gym                             |Oh![br]I concede defeat.[nb]You are remarkably strong.[nb2]I must confer on you the[br]RAINBOWBADGE.|O![br]Ik geef op.[nb]Jij bent verassend sterk.[nb2]Ik overhandig jou de[br]RAINBOWBADGE.|1,16D078
 1972B8| 1|110|0|D|Celadon Gym                             |You are cataloging POKÈMON?[br]I must say I'm impressed.[nb2]I would never collect POKÈMON if[br]they were unattractive.|Je maakt een POKÈMON kataloog?[br]Ik ben onder de indruk.[nb2]Ik zou nooit POKÈMON verzamelen[br]als ze lelijk waren.|1,16D098
-197327| 1|146|0|D|Celadon Gym                             |The RAINBOWBADGE will make[br]POKÈMON up to Lv. 50 obey.[nb2]It also allows POKÈMON to use[br]STRENGTH in and out of battle.[nb2]Please also take this with you.|Met de RAINBOWBADGE gaan[br]POKÈMON tot Lv. 50 je gehoorzamen.[nb2]Het laat toe dat POKÈMON de[br]STRENGTH techniek gebruiken[nb]als je niet aan het vechten bent.[nb2]Neem ook dit mee.|1,16D0C8
+197327| 1|146|0|D|Celadon Gym                             |The RAINBOWBADGE will make[br]POKÈMON up to Lv. 50 obey.[nb2]It also allows POKÈMON to use[br]STRENGTH in and out of battle.[nb2]Please also take this with you.|Met de RAINBOWBADGE gaan[br]POKÈMON tot Lv. 50 je gehoorzamen.[nb2]Het laat toe dat POKÈMON de[br]STERKTE techniek gebruiken[nb]als je niet aan het vechten bent.[nb2]Neem ook dit mee.|1,16D0C8
 1973BA| 1| 28|0|D|Celadon gym                             |[PLAYER] received TM19[br]from ERIKA.|[PLAYER] heeft TM19 gekregen[br]van ERIKA.|1,16D0E5
 1973D7| 1|133|0|D|Celadon Gym                             |TM19 contains GIGA DRAIN.[nb2]Half the damage it inflicts is[br]drained to heal your POKÈMON.[nb2]Wouldn't you agree that it's a[br]wonderful move?|TM19 bevat GIGA DRAIN.[nb2]De helft van de schade aan de[br]tegenstander is gebruikt om jouw[nb]POKÈMON te genezen.[nb2]Is dat geen mooie zet?|1,16D0FF
 19745D| 1| 30|0|D|Celadon gym                             |You should make room for this.|Je maakt hier best plaats voor.|1,16D109
@@ -3984,10 +3984,10 @@
 1BDFE3| 1| 40|0|D|Missed text                             |This tree looks like it can be CUT[br]down!|Deze boom ziet er uit alsof hij[br]geKAPt kan worden!|1,1BDF89
 1BE09D| 1| 68|0|D|Missed text                             |This rock appears to be breakable.[br]Would you like to use ROCK SMASH?|Deze rots ziet er breekbaar uit.[br]Wil je ROCK SMASH gebruiken?|1,1BE040
 1BE0E2| 1| 58|0|D|Missed text                             |It's a rugged rock, but a POKÈMON[br]may be able to smash it.|Het is een stevige steen, maar een[br]POKÈMON kan hem misschien breken.|1,1BE093
-1BE19A| 1| 95|0|D|Missed text                             |It's a big boulder, but a POKÈMON[br]may be able to push it aside.[nb2]Would you like to use STRENGTH?|Het is een grote rots, maar een[br]POKÈMON kan hem misschien opzij[nb]duwen.[nb2]Wil je STRENGTH gebruiken?|1,1BE152
-1BE1FA| 1| 73|0|D|Missed text                             |[var1] used STRENGTH![nb2][var1]'s STRENGTH made it[br]possible to move boulders around!|[var1] gebruikte STRENGTH![nb2][var1]'s STRENGTH maakte[br]het mogelijk rotsen te verplaatsen!|1,1BE17E
+1BE19A| 1| 95|0|D|Missed text                             |It's a big boulder, but a POKÈMON[br]may be able to push it aside.[nb2]Would you like to use STRENGTH?|Het is een grote rots, maar een[br]POKÈMON kan hem misschien opzij[nb]duwen.[nb2]Wil je STERKTE gebruiken?|1,1BE152
+1BE1FA| 1| 73|0|D|Missed text                             |[var1] used STRENGTH![nb2][var1]'s STRENGTH made it[br]possible to move boulders around!|[var1] gebruikte STERKTE![nb2][var1]'s STERKTE maakte[br]het mogelijk rotsen te verplaatsen!|1,1BE17E
 1BE244| 1| 63|0|D|Missed text                             |It's a big boulder, but a POKÈMON[br]may be able to push it aside.|Het is een grote rots, maar een[br]POKÈMON kan hem misschien opzij[nb]duwen.|1,1BE187
-1BE284| 1| 50|0|D|Missed text                             |STRENGTH made it possible to move[br]boulders around.|STRENGTH maakte het mogelijk[br]rotsen te verplaatsen!|1,1BE190
+1BE284| 1| 50|0|D|Missed text                             |STRENGTH made it possible to move[br]boulders around.|STERKTE maakte het mogelijk[br]rotsen te verplaatsen!|1,1BE190
 1BE30A| 1| 52|0|D|Missed text                             |A wall of water is crashing down[br]with a mighty roar.|Een torenhoge muur van water[br]valt naar beneden.|1,1BE302
 1BE33F| 1| 56|0|D|Missed text                             |It's a large waterfall.[br]Would you like to use WATERFALL?|het is een grote waterval.[br]Wil je WATERFALL gebruiken?|1,1BE2DE
 1BE378| 1| 18|0|D|Missed text                             |[var1] used WATERFALL.|[var1] gebruikte WATERFALL.|1,1BE2F1
@@ -4387,7 +4387,7 @@
 1C615A| 1| 59|0|D|Teachy TV                               |If a POKÈMON develops a status[br]problem, heal it right away.|Als een POKÈMON status problemen[br]krijgt, genees je hem best onmiddelijk.|1,4791C0
 1C6196| 1| 83|0|D|Teachy TV                               |Using an item on a POKÈMON uses[br]up one turn, though.[nb2]Now, it's the opponent's turn!|Een item gebruiken op een[br]POKÈMON kost wel een beurt.[nb2]Nu is het aan de tegenstander!|1,4791C4
 1C61EA| 1| 23|0|D|Teachy TV                               |Yay![br]We managed to win!|Jeuj![br]We zijn gewonnen!|1,4791C8
-1C6202| 1|254|0|D|Teachy TV                               |POKÈ DUDE: The move BUBBLE is[br]a WATER-type attack.[nb2]The targeted ODDISH is a[br]GRASS/POISON-type POKÈMON.[nb2]The WATER-type attack is absorbed[br]by the GRASS-type POKÈMON[...][nb2]As a result, the move becomes not[br]very effective, and inflicts only[nb]half the usual damage.|POKÈ DUDE: De BUBBLE techniek is[br]een WATER-type aanval.[nb2]De doel ODDISH is een[br]GRASS/POISON-type POKÈMON.[nb2]De WATER-type aanval wordt[br]geabsorbeerd door het GRASS-type[nb]POKÈMON[...][nb2]Daardoor word de techniek niet[br]erg effectief, en doet hij slechts[nb]de helft van de gewoonlijke schade.|1,4791CC
+1C6202| 1|254|0|D|Teachy TV                               |POKÈ DUDE: The move BUBBLE is[br]a WATER-type attack.[nb2]The targeted ODDISH is a[br]GRASS/POISON-type POKÈMON.[nb2]The WATER-type attack is absorbed[br]by the GRASS-type POKÈMON[...][nb2]As a result, the move becomes not[br]very effective, and inflicts only[nb]half the usual damage.|POKÈ DUDE: De BUBBEL techniek is[br]een WATER-type aanval.[nb2]De doel ODDISH is een[br]GRASS/POISON-type POKÈMON.[nb2]De WATER-type aanval wordt[br]geabsorbeerd door het GRASS-type[nb]POKÈMON[...][nb2]Daardoor word de techniek niet[br]erg effectief, en doet hij slechts[nb]de helft van de gewoonlijke schade.|1,4791CC
 1C6301| 1|167|0|D|Teachy TV                               |Uh-oh, this is not good![nb2]The ABSORB attack you just saw[br]is a GRASS-type move.[nb2]POLIWAG is a WATER-type POKÈMON.[nb2]So, ABSORB becomes super[br]effective, doubling the damage.|O-Oh, dit is niet goed![nb2]De ABSORB aanval die je net zag[br]is een GRASS-type techniek.[nb2]POLIWAG is een WATER-type POKÈMON.[nb2]Dus, ABSORB wordt super[br]effectief, de schade verdubbelt.|1,4791D0
 1C63A9| 1| 79|0|D|Teachy TV                               |It's not going to be easy to win[br]with this matchup[...][nb2]Let's try shifting POKÈMON!|Het gaat niet gemakkelijk worden[br]om dit gevecht te winnen zo[...][nb2]Laten we POKÈMON wisselen!|1,4791D4
 1C63F9| 1| 76|0|D|Teachy TV                               |Shifting POKÈMON in and out uses[br]up one turn.[nb2]Now, it's the opponent's turn.|POKÈMON wisselen gebruikt een[br]beurt.[nb2]Nu is het aan de tegenstander.|1,4791D8
@@ -4450,36 +4450,36 @@
 247311| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SONICBOOM|GELUIDSKNAL|
 24731E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DISABLE|VERGRENDEL|
 24732B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ACID|ZUUR|
-247338| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EMBER||
-247345| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLAMETHROWER||
+247338| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EMBER|VLAMMETJE|
+247345| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLAMETHROWER|VLAMMWERPER|
 247352| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIST||
-24735F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WATER GUN||
-24736C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYDRO PUMP||
+24735F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WATER GUN|WATERPISTOOL|
+24736C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYDRO PUMP|WATERPOMP|
 247379| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |SURF||1,45A6C8
-247386| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICE BEAM||
-247393| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BLIZZARD||
-2473A0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYBEAM||
-2473AD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BUBBLEBEAM||
-2473BA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AURORA BEAM||
-2473C7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYPER BEAM||
-2473D4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PECK||
-2473E1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRILL PECK||
-2473EE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUBMISSION||
-2473FB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LOW KICK||
-247408| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COUNTER||
-247415| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SEISMIC TOSS||
-247422| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |STRENGTH||1,45A6C0
+247386| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICE BEAM|IJS STRAAL|
+247393| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BLIZZARD|SNEEUWSTORM|
+2473A0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYBEAM|PSY STRAAL|
+2473AD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BUBBLEBEAM|BUBBELSTRAAL|
+2473BA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AURORA BEAM|AURORASTRAAL|
+2473C7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYPER BEAM|HYPER STRAAL|
+2473D4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PECK|PIK|
+2473E1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRILL PECK|BOOR PIK|
+2473EE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUBMISSION|OVERGAVE|
+2473FB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LOW KICK|LAGE SCHOP|
+247408| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COUNTER|PAREER|
+247415| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SEISMIC TOSS|GROND GOOI|
+247422| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |STRENGTH|STERKTE|1,45A6C0
 24742F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ABSORB||
-24743C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGA DRAIN||
-247449| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEECH SEED||
-247456| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GROWTH||
-247463| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAZOR LEAF||
-247470| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SOLARBEAM||
-24747D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISONPOWDER||
-24748A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STUN SPORE||
-247497| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLEEP POWDER||
-2474A4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PETAL DANCE||
-2474B1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STRING SHOT||
+24743C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGA DRAIN|MEGA OPZUIG|
+247449| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEECH SEED|STEELZAAD|
+247456| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GROWTH|GROEI|
+247463| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAZOR LEAF|SCHEERBLAD|
+247470| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SOLARBEAM|ZONNESTRAAL|
+24747D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISONPOWDER|GIFPOEDER|
+24748A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STUN SPORE|VERLAMZWAM|
+247497| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLEEP POWDER|SLAAP POEDER|
+2474A4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PETAL DANCE|BLAD DANS|
+2474B1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STRING SHOT|WEBSHOT|
 2474BE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRAGON RAGE||
 2474CB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FIRE SPIN||
 2474D8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDERSHOCK||
@@ -4537,13 +4537,13 @@
 24777C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HI JUMP KICK|HOGE SCHOP|
 247789| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GLARE||
 247796| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DREAM EATER||
-2477A3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON GAS||
+2477A3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON GAS|GIFGAS|
 2477B0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BARRAGE||
 2477BD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEECH LIFE||
 2477CA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LOVELY KISS||
 2477D7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKY ATTACK||
 2477E4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TRANSFORM||
-2477F1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BUBBLE||
+2477F1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BUBBLE|BUBBEL|
 2477FE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DIZZY PUNCH||
 24780B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPORE||
 247818| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLASH||1,45A6A8
@@ -4703,7 +4703,7 @@
 247FEA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |NEEDLE ARM||
 247FF7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLACK OFF||
 248004| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYPER VOICE||
-248011| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON FANG||
+248011| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON FANG|GIFBEET|
 24801E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CRUSH CLAW||
 24802B| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |BLAST BURN||1,0CCC50
 248038| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYDRO CANNON||1,0CCC84
@@ -4740,7 +4740,7 @@
 2481CB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BULK UP||
 2481D8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BOUNCE||
 2481E5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MUD SHOT||
-2481F2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON TAIL||
+2481F2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON TAIL|GIFSTAART|
 2481FF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COVET||
 24820C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VOLT TACKLE||
 248219| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MAGICAL LEAF||
@@ -4756,7 +4756,7 @@
 24F1A0| 5|  6|0|D|                                        |NORMAL||1,0309C8;1,0D8510;1,11972C;1,11977C;1,456E74
 24F1A7| 1|  5|0|D|                                        |FIGHT||1,456EC4
 24F1AE| 1|  6|0|D|                                        |FLYING||1,456EB4
-24F1B5| 1|  6|0|D|                                        |POISON||1,456ECC
+24F1B5| 1|  6|0|D|                                        |POISON|VERGIF|1,456ECC
 24F1BC| 1|  6|0|D|                                        |GROUND||1,456EA4
 24F1C3| 1|  4|0|D|                                        |ROCK||1,456EAC
 24F1F4| 1|  5|0|D|                                        |GRASS||1,456E94
@@ -6692,7 +6692,7 @@
 3FBC62| 1| 17|0|D|Battle4                                 |[FD28]'s [FD00][br]wore off!|[FD28] zijn [FD00][br]is uitgewerkt!|1,3FE488
 3FBC74| 1| 14|0|D|Battle4                                 |[FD10] was seeded!|[FD10] was gezaaid!|1,3FE0AC
 3FBC83| 1| 21|0|D|Battle4                                 |[FD10] evaded[br]the attack!|[FD10] ontweek[br]de aanval!|1,3FE0B0
-3FBC99| 1| 36|0|D|Battle4                                 |[FD0F]'s health is[br]sapped by LEECH SEED!|[FD0F] zijn gezondheid is[br]afgetapt door LEECH SEED!|1,3FE0B4
+3FBC99| 1| 36|0|D|Battle4                                 |[FD0F]'s health is[br]sapped by LEECH SEED!|[FD0F] zijn gezondheid is[br]afgetapt door STEELZAAD!|1,3FE0B4
 3FBCBE| 1| 18|0|D|Battle4                                 |[FD0F] is fast[br]asleep.|[FD0F] is diep[br]in slaap.|1,3FE0B8
 3FBCD1| 1| 11|0|D|Battle4                                 |[FD0F] woke up!|[FD0F] werd waker!|1,3FE0BC
 3FBCDD| 1| 30|0|D|Battle4                                 |But [FD13]'s UPROAR[br]kept it awake!|Maar [FD13] zijn UPROAR[br]hield hem wakker!|1,3FE0C0
@@ -6743,7 +6743,7 @@
 3FC140| 1| 39|0|D|Battle6                                 |[FD0F] cut its own HP[br]and maximized ATTACK!|[FD0F] verlaagde zijn HP[br]en maximaliseerde zijn AANVAL!|1,3FE178
 3FC168| 1| 28|0|D|Battle6                                 |[FD0F] copied[br][FD10]'s stat changes!|[FD0F] kopieerde[br][FD10] zijn status aanpassingen!|1,3FE17C
 3FC185| 1| 23|0|D|Battle6                                 |[FD0F] got free of[br][FD10]'s [FD00]!|[FD0F] geraakte uit[br][FD10] zijn [FD00]!|1,3FE180
-3FC19D| 1| 19|0|D|Battle6                                 |[FD0F] shed[br]LEECH SEED!|[FD0F] lostte[br]LEECH SEED!|1,3FE184
+3FC19D| 1| 19|0|D|Battle6                                 |[FD0F] shed[br]LEECH SEED!|[FD0F] lostte[br]STEELZAAD!|1,3FE184
 3FC1B1| 1| 20|0|D|Battle6                                 |[FD0F] blew away[br]SPIKES!|[FD0F] blies SPIKES weg!|1,3FE188
 3FC1C6| 1| 20|0|D|Battle6                                 |[FD0F] fled from[br]battle!|[FD0F] vluchtte van het[br]gevecht!|1,3FE18C
 3FC1DB| 1| 21|0|D|Battle6                                 |[FD0F] foresaw[br]an attack!|[FD0F] voorspelde[br]een aanval!|1,3FE190
@@ -7868,7 +7868,7 @@
 41ABAB| 1| 33|0|I|Previously                              |[var1] used the Hidden Move[br]CUT here.|[var1] gebruikte hier de [br]HM KAP.|1,456C24
 41ABCD| 1| 43|0|I|Previously                              |[var1] used the Hidden Move[br]FLY and flew to [var2].|[var1] gebruikte de HM[br]VLIEG en vloog naar [var2].|1,456C28
 41ABF9| 1| 48|0|I|Previously                              |[var1] used the Hidden Move[br]SURF and rode the waves.|[var1] gebruikte de HM[br]SURF en surfte op de golven.|1,456C30
-41AC2A| 1| 38|0|I|Previously                              |[var1] used the Hidden Move[br]STRENGTH here.|[var1] gebruikte hier de [br]HM STRENGTH.|1,456C2C
+41AC2A| 1| 38|0|I|Previously                              |[var1] used the Hidden Move[br]STRENGTH here.|[var1] gebruikte hier de [br]HM STERKTE.|1,456C2C
 41AC51| 1| 65|0|I|Previously                              |[var1] used the Hidden Move[br]FLASH and illuminated a pitch-black[br]cave.|[var1] gebruikte de HM[br]FLASH en verlichtte een pikdonkere[br]grot.|1,456C20
 41AC93| 1| 40|0|I|Previously                              |[var1] used the Hidden Move[br]ROCK SMASH here.|[var1] gebruikte hier de [br]HM ROCK SMASH.|1,456C34
 41ACBC| 1| 60|0|I|Previously                              |[var1] used the Hidden Move[br]WATERFALL to scale a raging torrent.|[var1] gebruikte de HM WATERFALL[br]om de watermassa te bestijgen.|1,456C38
@@ -8347,7 +8347,7 @@
 447FEE| 1|106|0|I|PokÈmon flavor text                     |Its two long pincer horns are powerful.[br]Once they grip an enemy, they won't[br]release until the foe is torn.||1,44FA3C
 44805A| 1| 83|0|I|PokÈmon flavor text                     |When it is about to TACKLE, it whips[br]its body repeatedly with its three[br]long tails.||1,44FA60
 4480AF| 1|114|0|I|PokÈmon flavor text                     |It is virtually worthless in terms of both[br]power and speed. It is the most weak and[br]pathetic POKÈMON in the world.||1,44FA84
-448123| 1|111|0|I|PokÈmon flavor text                     |It has an extremely aggressive nature.[br]The HYPER BEAM it shoots from its mouth[br]totally incinerates all targets.||1,44FAA8
+448123| 1|111|0|I|PokÈmon flavor text                     |It has an extremely aggressive nature.[br]The HYPER BEAM it shoots from its mouth[br]totally incinerates all targets.|Heel erg agressief. De HYPER STRAAL[br]die uit de mond geschoten kan worden[br]vernietigt alle doelwitten.|1,44FAA8
 448194| 1| 98|0|I|PokÈmon flavor text                     |Its high intelligence enables it to[br]understand human speech. It likes to ferry[br]people on its back.||1,44FACC
 4481F8| 1| 87|0|I|PokÈmon flavor text                     |It can freely recombine its own cellular[br]structure to transform into other life-[br]forms.||1,44FAF0
 448251| 1| 93|0|I|PokÈmon flavor text                     |An extremely rare POKÈMON that may[br]evolve in a number of different ways[br]depending on stimuli.||1,44FB14
@@ -9085,7 +9085,7 @@
 486455| 1| 73|0|I|Move Desc. (4 half lines)               |The user switches[br]out, passing along[br]any stat changes[br]to the new battler.|Wisselt met een[br]andere POKÈMON. Alle[br]status verhogingen[br]worden doorgegeven.|1,488A6C
 48649F| 1| 72|0|I|Move Desc. (4 half lines)               |Makes the foe use[br]the move it last[br]used repeatedly for[br]two to six turns.|Verplicht de vijand[br]zijn laatste actie[br]te herhalen voor[br]2 tot 6 beurten.|1,488A70
 4864E8| 1| 73|0|I|Move Desc. (4 half lines)               |An attack move that[br]works especially[br]well on a foe that[br]is switching out.|Werkt heel erg[br]goed op een vijand[br]die gaat wisselen.|1,488A74
-486532| 1| 70|0|I|Move Desc. (4 half lines)               |An attack that[br]frees the user from[br]BIND, WRAP, LEECH[br]SEED, and SPIKES.|Bevrijd de gebruiker[br]uit BIND, WIKKEL,[br]LEECH SEED[br]en SPIKES.|1,488A78
+486532| 1| 70|0|I|Move Desc. (4 half lines)               |An attack that[br]frees the user from[br]BIND, WRAP, LEECH[br]SEED, and SPIKES.|Bevrijd de gebruiker[br]uit BIND, WIKKEL,[br]STEELZAAD[br]en SPIKES.|1,488A78
 486579| 1| 69|0|I|Move Desc. (4 half lines)               |Allures the foe to[br]reduce evasiveness.[br]It also attracts[br]wild POKÈMON.|De verliefde vijand[br]ontwijkt minder.[br]Trekt ook wilde[br]POKÈMON aan.|1,488A7C
 4865BF| 2| 70|0|I|Move Desc. (4 half lines)               |An attack with a[br]steel-hard tail.[br]It may lower the[br]foe's DEFENSE stat.|Aanval met staal-[br]harde staart.[br]Kan de vijand zijn[br]AFWEER verlagen.|1,3DE5B0;1,488A80
 486606| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with steel claws.[br]It may also raise[br]the user's ATTACK.|Aanval met stalen[br]klauwen.[br]De gebruiker zijn[br]AANVAL kan stijgen.|1,488A84
@@ -9133,7 +9133,7 @@
 487163| 1| 61|0|I|Move Desc. (4 half lines)               |The user randomly[br]picks and uses a[br]move of an allied[br]POKÈMON.|Kiest een willekeurige[br]techniek van een[br]bevriende POKÈMON[br]uit de groep.|1,488B2C
 4871A1| 1| 71|0|I|Move Desc. (4 half lines)               |The user lays roots[br]that restore HP on[br]every turn.[br]It can't switch out.|De gebruiker schiet[br]wortel die hem HP[br]opbrengen elke beurt.[br]Hij kan niet wisselen.|1,488B30
 4871E9| 1| 74|0|I|Move Desc. (4 half lines)               |A powerful attack,[br]but it also lowers[br]the user's ATTACK[br]and DEFENSE stats.|Een krachtige aanval[br]maar de AANVAL en[br]AFWEER van de[br]gebruiker zakt wel.|1,488B34
-487234| 1| 65|0|I|Move Desc. (4 half lines)               |Reflects back the[br]foe's LEECH SEED[br]and any status-[br]damaging move.|Kaatst LEECH SEED[br]en andere status[br]veranderende acties[br]terug.|1,488B38
+487234| 1| 65|0|I|Move Desc. (4 half lines)               |Reflects back the[br]foe's LEECH SEED[br]and any status-[br]damaging move.|Kaatst STEELZAAD[br]en andere status[br]veranderende acties[br]terug.|1,488B38
 487276| 1| 51|0|I|Move Desc. (4 half lines)               |A move that[br]recycles a used[br]item for use once[br]more.|Recycleert een[br]gebruikt item[br]zodat het nog eens[br]gebruikt kan worden.|1,488B3C
 4872AA| 1| 71|0|I|Move Desc. (4 half lines)               |An attack move that[br]gains in intensity if[br]the target has hurt[br]the user.|Techniek die meer[br]schade doet als de[br]vijand je al pijn[br]heeft gedaan.|1,488B40
 4872F2| 2| 69|0|I|Move Desc. (4 half lines)               |An attack that also[br]breaks any barrier[br]like LIGHT SCREEN[br]and REFLECT.|Breekt door elke[br]muur zoals LIGHT[br]SCREEN en REFLECT.|1,3DE710;1,488B44
