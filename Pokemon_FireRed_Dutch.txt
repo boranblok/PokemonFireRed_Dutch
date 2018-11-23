@@ -226,7 +226,7 @@
 175007| 1| 50|0|D|Rocket Hideout B1F                      |Okay, I'll talk[...][br]Take the elevator to see my BOSS.|Ok, ik zal praten[...][nb2]Neem de lift om naar[br]mijn BAAS te gaan.|1,161203
 17503A| 1| 31|0|D|Rocket Hideout B1F                      |Are you lost, you little mouse?|Ben je verloren gelopen kleine muis?|1,161210
 17505A| 1|  5|0|D|Rocket Hideout B1F                      |Why[...]?|Waarom[...]?|1,161214
-175060| 1| 43|0|D|Rocket Hideout B1F                      |Uh-oh, that ruckus somehow opened[br]the door!|Oh-oh, die commotie heeft op een of[br]andere manier de deur geopend!|1,16121E
+175060| 1| 43|0|D|Rocket Hideout B1F                      |Uh-oh, that ruckus somehow opened[br]the door!|Oh-oh, ons gevecht heeft op een[br]of andere manier de deur geopend!|1,16121E
 17508C| 1| 50|0|D|Rocket Hideout B2F                      |BOSS said you can see ghosts with[br]the SILPH SCOPE.|De BAAS heeft gezegd dat je spoken[br]kan zien met de SILPH KIJKER.|1,1612A8
 1750BF| 1| 12|0|D|Rocket Hideout B2F                      |I surrender!|Ik geef me over!|1,1612AC
 1750CC| 1| 77|0|D|Rocket Hideout B2F                      |The TEAM ROCKET HQ has four[br]underground floors.[nb2]Think you can reach the BOSS?|De TEAM ROCKET BASIS heeft[br]vier kelderverdiepingen.[nb2]Denk je dat je tot bij de BAAS[br]kan komen?|1,1612B2
@@ -238,7 +238,7 @@
 1751E0| 1| 69|0|D|Rocket Hideout B3F                      |Go ahead and go![nb2]But you can't run the elevator[br]without the LIFT KEY.|Ga maar verder![nb2]Maar je kan de lift niet bedienen[br]zonder de LIFT SLEUTEL.|1,1612E1
 175226| 1|241|0|D|Rocket Hideout B4F                      |So! I must say, I am impressed you[br]got here.[nb2]TEAM ROCKET captures POKÈMON from[br]around the world.[nb2]They're important tools for keeping[br]our criminal enterprise going.[nb2]I am the leader, GIOVANNI![nb2]For your insolence, you will feel a[br]world of pain!|Zo! Ik ben onder de indruk dat[br]je hier geraakt bent.[nb2]TEAM ROCKET vangt POKÈMON van[br]over heel de wereld.[nb2]Dat is belangrijk om onze criminele[br]organisatie draaiende te houden.[nb2]Ik ben de leider, GIOVANNI![nb2]Voor je onbeschaamdheid[br]ga ik jou straffen!|1,161327
 175318| 1| 20|0|D|Rocket Hideout B4F                      |WHAT![br]This can't be!|WAT![br]Dit kan niet!|1,161337
-17532D| 1|162|0|D|Rocket Hideout B4F                      |I see that you raise POKÈMON with[br]utmost care.[nb2]A child like you would never[br]understand what I hope to achieve.[nb2]I shall step aside this time![nb2]I hope we meet again[...]|Ik zie dat je erg veel geeft om[br]je POKÈMON.[nb2]Een kind zoals jij gaat nooit verstaan[br]wat ik probeer te bereiken.[nb2]Ik ga je nu niet[br]meer in de weg staan![nb2]Ik hoop dat we elkaar[br]nog eens zien[...]|1,16133D
+17532D| 1|162|0|D|Rocket Hideout B4F                      |I see that you raise POKÈMON with[br]utmost care.[nb2]A child like you would never[br]understand what I hope to achieve.[nb2]I shall step aside this time![nb2]I hope we meet again[...]|Ik zie dat je erg veel geeft om[br]je POKÈMON.[nb2]Een kind zoals jij verstaat niet[br]wat ik probeer te bereiken.[nb2]Ik ga je nu niet[br]meer in de weg staan![nb2]Ik hoop dat we elkaar[br]nog eens zien[...]|1,16133D
 1753D0| 1| 45|0|D|Rocket Hideout B4F                      |I know you![br]You ruined our plans at MT. MOON!|Ik herken jou![br]Jij hebt onze plannen[nb]verpest op MT. MOON!|1,1613D4
 1753FE| 1| 13|0|D|Rocket Hideout B4F                      |Burned again!|Nogmaals verbrand!|1,1613D8
 17540C| 1| 42|0|D|Rocket Hideout B4F                      |Do you have something against TEAM[br]ROCKET?|Heb je iets tegen TEAM ROCKET?|1,1613E2
@@ -247,7 +247,7 @@
 17546A| 1| 29|0|D|Rocket Hideout B4F                      |BOSS![br]I'm sorry I failed you!|BAAS![br]Sorry dat ik je teleurstel!|1,16142C
 175488| 1| 48|0|D|Rocket Hideout B4F                      |The elevator doesn't work?[br]Who has the LIFT KEY?|De lift werkt niet?[br]Wie heeft er de LIFT SLEUTEL?|1,161387
 1754B9| 1|  3|0|D|Rocket Hideout B4F                      |No!|Nee!|1,16138B
-1754BD| 2| 31|0|D|Rocket Hideout B4F                      |Oh, no![br]I dropped the LIFT KEY!|Oh nee! [br]De LIFT SLEUTEL viel!|1,161395;1,16139F
+1754BD| 2| 31|0|D|Rocket Hideout B4F                      |Oh, no![br]I dropped the LIFT KEY!|Oh nee![br]De LIFT SLEUTEL viel!|1,161395;1,16139F
 1754DD| 1| 25|0|D|Rocket Hideout B4F                      |It appears to need a key.|Het heeft een sleutel nodig.|1,16161D
 1754F7| 1| 50|0|D|Silph Co. 1F                            |Welcome.[nb2]The PRESIDENT is in the boardroom[br]on 11F.|Welkom,[nb2]De PRESIDENT zit in de[br]directiekamer op het 11e.|1,161631
 175549| 1| 24|0|D|Silph Co. 1F                            |SILPH CO. HEAD OFFICE[br]1F|SILPH CO. HOOFDKANTOOR[br]1e|1,16163A
@@ -362,7 +362,7 @@
 1769CF| 1| 45|0|D|Silph Co. 8F                            |If you don't turn back[...][br]I'll call for backup!|Als je niet terug keert[...][br]Toep ik om hulp!|1,161CC0
 1769FD| 1| 27|0|D|Silph Co. 8F                            |You're causing us problems!|Je veroorzaakt problemen!|1,161C9F
 176A19| 1| 12|0|D|Silph Co. 8F                            |Huh?[br]I lost?|Huh?[br]Ik verloor?|1,161CA3
-176A26| 1| 47|0|D|Silph Co. 8F                            |So, what do you think of SILPH[br]BUILDING's maze?|Zo, wat denk je van het doolhod[br]in het SILPH GEBOUW?|1,161CA9
+176A26| 1| 47|0|D|Silph Co. 8F                            |So, what do you think of SILPH[br]BUILDING's maze?|Zo, wat denk je van het doolhof[br]in het SILPH GEBOUW?|1,161CA9
 176A56| 1| 37|0|D|Silph Co. 8F                            |I am one of the four ROCKET[br]BROTHERS!|Ik ben een van de vier ROCKET[br]BROERS!|1,161CCD
 176A7C| 2| 19|0|D|Silph Co. 8F                            |Whoo![br]Oh, Brothers!|Whoo![br]Oh broeders!|1,161CD1;1,5D6E01
 176A90| 1| 33|0|D|Silph Co. 8F                            |I'll leave you up to my brothers.|Mijn broers gaan je wel stoppen.|1,161CD7
@@ -2194,7 +2194,7 @@
 1936EE| 1| 16|0|D|Volunteer House                         |PSYDUCK: Gwappa!|PSYDUCK: Gwappa!|1,16B208
 1936FF| 1|189|0|D|Volunteer House                         |MR. FUJI: [PLAYER][...][nb2]Your POKÈDEX quest is one that[br]requires strong dedication.[nb2]Without deep love for POKÈMON,[br]your quest may fail.[nb2]I'm not sure if this will help you,[br]but I'd like you to have it.|MR. FUJI: [PLAYER][...][nb2]Jouw POKÈDEX opdracht vraagt[br]een sterk doorzettingsvermogen.[nb2]Zonder liefde voor POKÈMON[br]kan je opdracht falen.[nb2]Ik weet niet of dit je gaat helpen,[br]maar hier is iets voor jou.|1,16B157
 1937BD| 1| 39|0|D|Volunteer House                         |[PLAYER] received a POKÈ FLUTE[br]from MR. FUJI.|[PLAYER] kreeg een POKÈ FLUIT[br]van MR. FUJI.|1,16B177
-1937E5| 1|117|0|D|Volunteer House                         |Upon hearing the POKÈ FLUTE,[br]sleeping POKÈMON will spring awake.[nb2]Try using it on POKÈMON that are[br]sleeping obstacles.|Als ze de POKÈ FLUTE horen[br]worden slapende POKÈMON wakker.[nb2]Probeer het maar te gebruiken op[br]slapende POKÈMON die in de weg liggen.|1,16B18E
+1937E5| 1|117|0|D|Volunteer House                         |Upon hearing the POKÈ FLUTE,[br]sleeping POKÈMON will spring awake.[nb2]Try using it on POKÈMON that are[br]sleeping obstacles.|Als ze de POKÈ FLUIT horen[br]worden slapende POKÈMON wakker.[nb2]Probeer het maar op slapende[br]POKÈMON die in de weg liggen.|1,16B18E
 19385B| 1| 28|0|D|Volunteer House                         |You must make room for this!|Je moet plaats maken hiervoor!|1,16B1A2
 193878| 1| 39|0|D|Volunteer House                         |MR. FUJI: Has my POKÈ FLUTE[br]helped you?|MR. FUJI: heeft mijn POKÈ FLUIT[br]je geholpen?|1,16B198
 1938A0| 1|138|0|D|Volunteer House                         |POKÈMON FAN MAGAZINE[br]Monthly Grand Prize Drawing![nb2]The application form is[...][nb2]Gone! It's been clipped out.[br]Someone must have applied already.|POKÈMON FAN MAGAZINE[br]Maandelijkse loterij![nb2]Het invulformulier is[...][nb2]Weg! Iemand heeft het al[br]uitgeknipt en opgestuurd.|1,16B221
