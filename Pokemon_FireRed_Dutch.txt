@@ -5094,18 +5094,18 @@
 3DAF52| 1| 58|0|I|Inventory flavor text (max 3 lines)     |A jar for storing BERRY POWDER[br]made using a BERRY CRUSHER.|Een pot om BESSENPOEDER, gemaakt[br]met de BESSENSTAMPER, te bewaren.|1,3DF02C
 3DAF8D| 1| 72|0|I|Inventory flavor text (max 3 lines)     |An exquisitely beautiful gem that[br]has a red glow.[br]It symbolizes passion.|Een fabuleus mooie diamant met[br]een rode gloed.[br]Het vertegenwoordigt passie.|1,3DF058
 3DAFD6| 1| 73|0|I|Inventory flavor text (max 3 lines)     |An exquisitely beautiful gem that[br]has a blue glow.[br]It symbolizes honesty.|Een fabuleus mooie diamant met[br]een blauwe gloed.[br]Het vertegenwoordigt eerlijkheid.|1,3DF084
-3DB054| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MASTER BALL||
-3DB080| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ULTRA BALL||
-3DB0AC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GREAT BALL||
-3DB0D8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POKé BALL||
-3DB104| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SAFARI BALL||
-3DB130| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NET BALL||
-3DB15C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DIVE BALL||
-3DB188| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NEST BALL||
-3DB1B4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |REPEAT BALL||
-3DB1E0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TIMER BALL||
-3DB20C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LUXURY BALL||
-3DB238| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PREMIER BALL||
+3DB054| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MASTER BALL|MEESTER BAL|
+3DB080| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ULTRA BALL|ULTRA BAL|
+3DB0AC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GREAT BALL|GROTE BAL|
+3DB0D8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POKé BALL|POKé BAL|
+3DB104| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SAFARI BALL|SAFARI BAL|
+3DB130| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NET BALL|NET BAL|
+3DB15C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DIVE BALL|DUIK BAL|
+3DB188| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NEST BALL|NEST BAL|
+3DB1B4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |REPEAT BALL|HERHAAL BAL|
+3DB1E0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TIMER BALL|TIJDSBAL|
+3DB20C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LUXURY BALL|LUXE BAL|
+3DB238| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PREMIER BALL|PRESIDENTBAL|
 3DB264| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POTION||
 3DB290| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ANTIDOTE||
 3DB2BC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BURN HEAL||
