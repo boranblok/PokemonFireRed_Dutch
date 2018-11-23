@@ -165,7 +165,7 @@
 174559| 1| 65|0|D|Underground Path                        |People often lose things in the[br]darkness of the UNDERGROUND PATH.|Mensen verliezen vaak items in het[br]donker in het ONDERGRONDS PAD.|1,160EC2
 17459B| 1| 61|0|D|Underground Path                        |I heard a sleepy POKÈMON appeared[br]out near CELADON CITY, too.|Ik heb gehoord dat er ook slaperige[br]POKÈMON zijn bij CELADON STAD.|1,160ECC
 1745D9| 1| 82|0|D|Underground Path                        |The DEPARTMENT STORE in CELADON[br]has a great selection.[nb2]Do you go there very often?|De SUPERMARKT in CELADON[br]heeft heel veel keuze.[nb2]Ga je daar vaak?|1,160EE0
-17462C| 1|122|0|D|Diglett's Cave                          |I went inside ROCK TUNNEL, but it's[br]pitch-black and scary in there.[nb2]If I could get a POKÈMON to use[br]FLASH and light it up[...]|Ik ben in de ROTS TUNNEL gegaan[br]maar het is er donker en akelig.[nb2]Kon ik mijn POKÈMON maar FLASH[br]laten gebruiken om licht te hebben[...]|1,160EEA
+17462C| 1|122|0|D|Diglett's Cave                          |I went inside ROCK TUNNEL, but it's[br]pitch-black and scary in there.[nb2]If I could get a POKÈMON to use[br]FLASH and light it up[...]|Ik ben in de ROTS TUNNEL gegaan[br]maar het is er donker en akelig.[nb2]Konden mijn POKÈMON maar FLITS[br]zodat ik licht had[...]|1,160EEA
 1746A7| 1|104|0|D|Diglett's Cave                          |Well, isn't this a surprise![br]DIGLETT dug this long tunnel![nb2]It goes right to VIRIDIAN CITY,[br]they tell me.|Is dit geen verassing![br]DIGLETT hebben deze tunnel gegraven![nb2]Blijkbaar helemaal tot aan[br]VIRIDIAN STAD.|1,160EFE
 174710| 1| 39|0|D|Victory Road                            |I wonder if you are good enough[br]for me?|Ik vraag me af[br]of je goed genoeg bent voor mij?|1,160F6A
 174738| 1| 11|0|D|Victory Road                            |I lost out[...]|Ik verloor[...]|1,160F6E
@@ -264,9 +264,9 @@
 1756D8| 1|  9|0|D|Silph Co. 2F                            |I goofed!|Ik verloor!|1,1616B8
 1756E2| 1| 46|0|D|Silph Co. 2F                            |SILPH CO. will be associated with[br]TEAM ROCKET!|SILPH CO. gaat werken voor[br]TEAM ROCKET!|1,1616BE
 175711| 1|139|0|D|Silph Co. 2F                            |Eeek![br]No! Stop! Help![nb2]Oh, you're not with TEAM ROCKET.[br]I'm sorry, I thought[...][nb2]Will you forgive me if I teach[br]you the THUNDER WAVE technique?|Aaah![br]Nee! Stop! Help![nb2]Oh, je bent niet bij TEAM ROCKET.[br]Sorry, ik dacht[...][nb2]Wil je me vergeven als ik je de[br]THUNDER WAVE techniek leer?|1,1C4823
-17579D| 1| 35|0|D|Silph Co. 2F                            |Oh[...][br]But THUNDER WAVE is convenient[...]|O[...][br]Maar DONDERSCHOK is handig[...]|1,1C486C
-1757C1| 1| 42|0|D|Silph Co. 2F                            |Which POKÈMON should I teach[br]THUNDER WAVE?|Welke POKÈMON moet ik[br]DONDERSCHOK leren?|1,1C4846
-1757EC| 1|167|0|D|Silph Co. 2F                            |THUNDER WAVE causes paralysis in[br]the target POKÈMON.[nb2]A paralyzed POKÈMON may be unable[br]to move in battle.[nb2]It's an ELECTRIC-type move, so it[br]won't work on some POKÈMON.|DONDERSCHOK veroorzaakt verlamming[br]bij het doelwit.[nb2]De verlamde POKÈMON kan bijna[br]niet meer bewegen in het gevecht.[nb2]Het is een ELECTRIC-type techniek,[br]dus het gaat niet werken op sommige[nb]POKÈMON.|1,1C4876
+17579D| 1| 35|0|D|Silph Co. 2F                            |Oh[...][br]But THUNDER WAVE is convenient[...]|O[...][br]Maar DONDERGOLF is handig[...]|1,1C486C
+1757C1| 1| 42|0|D|Silph Co. 2F                            |Which POKÈMON should I teach[br]THUNDER WAVE?|Welke POKÈMON moet ik[br]DONDERGOLF leren?|1,1C4846
+1757EC| 1|167|0|D|Silph Co. 2F                            |THUNDER WAVE causes paralysis in[br]the target POKÈMON.[nb2]A paralyzed POKÈMON may be unable[br]to move in battle.[nb2]It's an ELECTRIC-type move, so it[br]won't work on some POKÈMON.|DONDERGOLF veroorzaakt verlamming[br]bij het doelwit.[nb2]De verlamde POKÈMON kan bijna[br]niet meer bewegen in het gevecht.[nb2]Het is een ELECTRIC-type techniek,[br]dus het gaat niet werken op sommige[nb]POKÈMON.|1,1C4876
 175894| 1| 24|0|D|Silph Co. 2F                            |SILPH CO. HEAD OFFICE[br]2F|SILPH CO. HOOFDKANTOOR[br]2e|1,161662
 1758AD| 1| 37|0|D|Silph Co. 3F                            |I work for SILPH CO.[br]What am I to do?|Ik werk voor SILPH CO.[br]Wat moet ik nu doen?|1,1616ED
 1758D3| 1| 34|0|D|Silph Co. 3F                            |[PLAYER]![br]You and your POKÈMON saved us!|[PLAYER]![br]Jij en je POKÈMON hebben ons gered!|1,1616F7
@@ -538,9 +538,9 @@
 179968| 1| 46|0|D|Rock Tunnel                             |I draw illustrations of POKÈMON[br]when I'm home.|Ik maak tekeningen van POKÈMON[br]als ik thuis ben.|1,162F32
 179997| 1| 20|0|D|Rock Tunnel                             |Whew[...][br]I'm exhausted[...]|Zucht[...][br]Ik ben uitgeput[...]|1,162F36
 1799AC| 1| 51|0|D|Rock Tunnel                             |I'm an artist, not a fighter.[br]I'll go home to draw.|Ik ben een artiest, geen vechter.[br]Ik ga thuis wat tekenen.|1,162F3C
-1799E0| 1|223|0|D|Rock Tunnel                             |When you're up on a rocky mountain[br]like this, rockslides are a threat.[nb2]Can you imagine?[br]Boulders tumbling down on you?[nb2]That'd be, like, waaaaaaaaaaah![br]Total terror![nb2]You don't seem to be scared.[br]Want to try using ROCK SLIDE?|Als je op een berg zit zoals deze[br]zijn aardverschuivingen gevaarlijk.[nb2]Kan je het inbeelden?[br]Rotsen die op jou vallen?[nb2]Waaaaaaaaah![nb2]Je ziet er niet bang uit.[br]Wil je ROCK SLIDE uitproberen?|1,1C488B
+1799E0| 1|223|0|D|Rock Tunnel                             |When you're up on a rocky mountain[br]like this, rockslides are a threat.[nb2]Can you imagine?[br]Boulders tumbling down on you?[nb2]That'd be, like, waaaaaaaaaaah![br]Total terror![nb2]You don't seem to be scared.[br]Want to try using ROCK SLIDE?|Als je op een berg zit zoals deze[br]zijn aardverschuivingen gevaarlijk.[nb2]Kan je het inbeelden?[br]Rotsen die op jou vallen?[nb2]Waaaaaaaaah![nb2]Je ziet er niet bang uit.[br]Wil je STEENLAWINE uitproberen?|1,1C488B
 179AC0| 1| 32|0|D|Rock Tunnel                             |Oh, so you are scared after all.|O, je bent dus toch bang.|1,1C48D4
-179AE1| 1| 40|0|D|Rock Tunnel                             |Which POKÈMON should I teach[br]ROCK SLIDE?|Welke POKÈMON moet ik ROCK SLIDE[br]aanleren?|1,1C48AE
+179AE1| 1| 40|0|D|Rock Tunnel                             |Which POKÈMON should I teach[br]ROCK SLIDE?|Welke POKÈMON moet ik STEENLAWINE[br]aanleren?|1,1C48AE
 179B0A| 1| 43|0|D|Rock Tunnel                             |It might be scary to use it in this[br]tunnel[...]|Het is misschien wel akelig om[br]het in deze tunnel te gebruiken[...]|1,1C48DE
 179B36| 1| 46|0|D|Seafoam Islands                         |Hint: Boulders might change the[br]flow of water.|Tip: Rotsen kunnen de richting van[br]het water aanpassen.|1,163225
 179B65| 1| 20|0|D|Seafoam Islands                         |DANGER[br]Fast current!|OPGEPAST[br]Gevaarlijke stroming!|1,16322E
@@ -924,8 +924,8 @@
 1808AE| 1| 75|0|D|Fuchsia City                            |Name: OMANYTE[br]An extremely rare POKÈMON that was[nb]regenerated from a fossil.|Naam: OMANYTE[br]Een erg zelfdzame POKÈMON die[nb]opnieuw tot leven gebracht is[nb]uit een fossiel.|1,166ECD
 1808FA| 1| 74|0|D|Fuchsia City                            |Name: KABUTO[br]An extremely rare POKÈMON that was[nb]regenerated from a fossil.|Naam: KABUTO[br]Een extreem zeldzame POKÈMON terug[nb]tot leven gewekt uit een fossiel.|1,166EB5
 180948|67|233|0|D|Fuchsia City                            |Aww, I wish I was a KANGASKHAN[br]baby.[nb2]I'd love to be a substitute for the[br]baby[...][nb2]And snuggle in the mother[br]KANGASKHAN's belly pouch.[nb2]But only POKÈMON can use the[br]technique SUBSTITUTE[...][nb2]Want me to teach SUBSTITUTE to[br]one of your POKÈMON?|Aww, ik wou dat ik een KANGASKHAN[br]baby was.[nb2]Dan kon ik lekker gezellig en warm[br]zitten in de buidel van KANGASKHAN[nb2]Maar enkel POKÈMON kunnen[br]de VERVANGER techniek gebruiken[...][nb2]Wil je dat ik VERVANGER leer aan ÈÈn[br]van je POKÈMON?|1,00A5A5;1,0129A3;1,033AE9;1,0463CF;1,04FA83;1,07BF65;1,07CA1B;1,07DA47;1,080EB3;1,08AF99;1,08F7D9;1,08F8AD;1,08FBF5;1,09182B;1,0935A5;1,09DEF3;1,09DF47;1,09E02D;1,09F93B;1,0A1F01;1,0BABA3;1,0BFCF7;1,0C03CD;1,0C079D;1,0C1041;1,0C173B;1,0C1A7B;1,0C1DC9;1,0C24A5;1,0C2799;1,0C2941;1,0C2B2F;1,0C2FA7;1,0CD901;1,0CD92D;1,0E5DE5;1,0E7023;1,0ED14D;1,0FA79B;1,0FB80B;1,12CD65;1,12D1CB;1,130AF1;1,1344EB;1,135185;1,135451;1,135F05;1,136025;1,136B93;1,139849;1,149435;1,14F5E9;1,1538F5;1,154B0D;1,155423;1,1559D7;1,155D7D;1,156087;1,15B177;1,15B183;1,15E2C3;1,15E3E9;1,15E5D7;1,15E9DD;1,15ED57;1,1C4AFB;1,703DF8
-180A32| 1| 36|0|D|Fuchsia City                            |Oh, really?[br]SUBSTITUTE seems so fun[...]|O, echt?[br]VERVANG lijkt zo leuk[...]|1,1C4B44
-180A57| 1| 40|0|D|Fuchsia City                            |Which POKÈMON wants to learn[br]SUBSTITUTE?|welke POKÈMON wil de VERVANG[br]techniek leren?|1,1C4B1E
+180A32| 1| 36|0|D|Fuchsia City                            |Oh, really?[br]SUBSTITUTE seems so fun[...]|O, echt?[br]VERVANGER lijkt zo leuk[...]|1,1C4B44
+180A57| 1| 40|0|D|Fuchsia City                            |Which POKÈMON wants to learn[br]SUBSTITUTE?|welke POKÈMON wil de VERVANGER[br]techniek leren?|1,1C4B1E
 180A80| 1| 60|0|D|Fuchsia City                            |Boy, what I'd give to crawl inside[br]a KANGASKHAN belly pouch[...]|Tjonge, wat ik er niet voor zou[br]doen om in de buidel van een[nb]KANGASKHAN te kruipen[...]|1,1C4B4E
 180ABD| 1| 98|0|D|Fuchsia City                            |My father is the GYM LEADER of[br]this town.[nb2]I'm training to use POISON POKÈMON[br]as well as my father.|Mijn vader is de GYM LEIDER in[br]deze stad.[nb2]Ik ben aan het trainen met[br]GIF POKÈMON net zoals mijn vader.|1,166DD2
 180B20| 1| 19|0|D|Cinnabar Island                         |The door is locked[...]|De deur is gesloten[...]|1,1671DA
@@ -1151,7 +1151,7 @@
 18477A| 2| 60|0|D|Route 8                                 |Don't think you're all special and[br]all just because of this.|Denk nu maar niet dat je speciaal[br]bent omdat je eens gewonnen hebt.|1,1AA433;1,1AA44A
 1847B7| 1| 39|0|D|Route 9                                 |You have POKÈMON with you![br]You're mine!|Je hebt POKÈMON bij jou![br]Komaan!|1,1A9E77
 1847DF| 2| 16|0|D|Route 9                                 |You deceived me[...]|Je hebt me misleid[...]|1,1A9E7B;1,1A9EA2
-1847F0| 2| 83|0|D|Route 9                                 |The tunnel coming up is pitch-black[br]inside.[nb2]You'll need FLASH to get through[br]there.|De tunnel waar we naar toe gaan is[br]pikkedonker van binnen.[nb2]Je gaat FLASH nodig hebben om[br]er door te raken.|1,1A9E91;1,1A9EA8
+1847F0| 2| 83|0|D|Route 9                                 |The tunnel coming up is pitch-black[br]inside.[nb2]You'll need FLASH to get through[br]there.|De tunnel waar we naar toe gaan is[br]pikkedonker van binnen.[nb2]Je gaat FLITS nodig hebben om[br]er door te raken.|1,1A9E91;1,1A9EA8
 184844| 1| 57|0|D|Route 9                                 |Who's that walking there with those[br]good-looking POKÈMON?|Wie loopt er hier met al die mooie[br]POKÈMON?|1,1A9DFB
 18487E| 2| 17|0|D|Route 9                                 |Out like a light!|Knock out!|1,1A9DFF;1,1A9E26
 184890| 2| 13|0|D|Route 9                                 |Keep walking!|Stap verder!|1,1A9E15;1,1A9E2C
@@ -1348,7 +1348,7 @@
 18668D| 2| 67|0|D|Route 15                                |Maybe I'm not cut out for battles.[br]I'm not the right type, I guess.|Misschien zijn POKÈMON gevechten[br]niet voor mij weggelegd.|1,1AAD0B;1,1AAD22
 1866D1| 1| 53|0|D|Route 15                                |Hmm? My birds are shivering![br]You're good, aren't you?|HÈ? Mijn vogens zitten te bibberen![br]Jij ben zeker een sterke TRAINER?|1,1AAD2F
 186707| 2| 18|0|D|Route 15                                |Just as I thought!|Zoals ik al dacht!|1,1AAD33;1,1AAD5A
-18671A| 2|112|0|D|Route 15                                |This is so obvious, you should know[br]this, but[...][nb2]Moves like EARTHQUAKE and FISSURE[br]have no effect on bird POKÈMON.|Je zou dit wel al moeten weten,[br]maar[...][nb2]Technieken zoals EARTHQUAKE en [br]FISSURE hebben geen effect op[nb]vogel POKÈMON.|1,1AAD49;1,1AAD60
+18671A| 2|112|0|D|Route 15                                |This is so obvious, you should know[br]this, but[...][nb2]Moves like EARTHQUAKE and FISSURE[br]have no effect on bird POKÈMON.|Je zou dit wel al moeten weten,[br]maar[...][nb2]Technieken zoals AARDBEVING en [br]AFGROND hebben geen effect op[nb]vogel POKÈMON.|1,1AAD49;1,1AAD60
 18678B| 1| 53|0|D|Route 15                                |Oh, you're a little cutie![br]So like a darling POKÈMON!|Oh, wat ben jij schattig![br]Net een kleine POKÈMON!|1,1AAC75
 1867C1| 2| 24|0|D|Route 15                                |You looked so cute, too!|Je zag er nog zo schattig uit ook!|1,1AAC79;1,1AACA0
 1867DA| 2| 49|0|D|Route 15                                |I forgive you.[br]I can take it.[nb]I'm a big girl now.|Ik vergeef je.[br]Ik kan het aan.[nb]Ik ben een grote meid.|1,1AAC8F;1,1AACA6
@@ -2002,7 +2002,7 @@
 18F4A2| 1|227|0|D|Viridian Gym                            |Having lost in this fashion, [br]I can't face my followers.[nb]I have betrayed their trust.[nb2]As of today, TEAM ROCKET is[br]finished forever![nb2]As for myself, I shall dedicate[br]my life to training again.[nb2]Let us meet again someday![br]Farewell!|Nu ik zo verloren heb kan ik[br]mijn volgers niet onder ogen komen.[nb]Ik heb hun vertrouwen verraden.[nb2]Vanaf vandaag is TEAM ROCKET[br]voorgoed gedaan.[nb2]Ik ga mijn leven opnieuw[br]aan training wijden.[nb2]Tot nog eens![br]Vaarwel!|1,169EF4
 18F586| 1|238|0|D|Viridian Gym                            |The EARTHBADGE makes POKÈMON of[br]any level obey without question.[nb2]It is evidence of your mastery as[br]a POKÈMON TRAINER.[nb2]With it, you can challenge the[br]POKÈMON LEAGUE.[nb2]Also, take this TM.[nb2]Consider it a gift for your POKÈMON[br]LEAGUE challenge.|De EARTHBADGE zorgt dat POKÈMON[br]van elk level je gehoorzamen.[nb2]Het is bewijs dat je een meester[br]POKÈMON TRAINER bent.[nb2]Daarmee kan je de POKÈMON LEAGUE[br]uitdagen.[nb2]Neem ook deze TM.[nb2]Beschouw het als een gift voor[br]POKÈMON LEAGUE uitdaging.|1,169F31
 18F675| 1| 31|0|D|Viridian gym missed text                |[PLAYER] received TM26[br]from GIOVANNI.|[PLAYER] kreeg TM26[br]van GIOVANNI.|1,169F4E
-18F695| 1|133|0|D|Viridian Gym                            |TM26 contains EARTHQUAKE.[nb2]It is a powerful attack that causes[br]a massive tremor.[nb2]I made it when I ran the GYM here,[br]far too long ago[...] |TM26 bevat EARTHQUAKE.[nb2]Het is een krachtige aanval die de[br]aarde doet beven.[nb2]Ik heb het lang geleden gemaakt[br]toen ik de GYM hier leidde[...] |1,169F68
+18F695| 1|133|0|D|Viridian Gym                            |TM26 contains EARTHQUAKE.[nb2]It is a powerful attack that causes[br]a massive tremor.[nb2]I made it when I ran the GYM here,[br]far too long ago[...] |TM26 bevat AARDBEVING.[nb2]Het is een krachtige aanval die de[br]aarde doet beven.[nb2]Ik heb het lang geleden gemaakt[br]toen ik de GYM hier leidde[...] |1,169F68
 18F71B| 1| 31|0|D|Viridian gym missed text                |You do not have space for this!|Je hebt hier geen plaats voor!|1,169F72
 18F73B| 1| 45|0|D|Viridian Gym                            |Heh![br]You must be running out of steam[nb]by now!|Heh![br]Je moet nu wel bijna uitgeput zijn!|1,16A00A
 18F769| 1| 17|0|D|Viridian gym missed text                |I ran out of gas!|Ik zit zonder gas!|1,16A00E
@@ -2085,7 +2085,7 @@
 190C81| 1| 13|0|D|Pewter Museum                           |Space Shuttle|Ruimteshuttle|1,16A582
 190C8F| 1| 68|0|D|Pewter Museum                           |A meteorite that fell on MT. MOON.[br]It is thought to be a MOON STONE.|Een meteoriet van op MT. MOON.[br]Men denkt dat het een MAANSTEEN is.|1,16A58B
 190CD4| 1|378|0|D|Pewter Gym                              |So, you're here. I'm BROCK.[br]I'm PEWTER's GYM LEADER.[nb2]My rock-hard willpower is evident[br]even in my POKÈMON.[nb2]My POKÈMON are all rock hard, and[br]have true-grit determination.[nb2]That's right - my POKÈMON are all[br]the ROCK type![nb2]Fuhaha! You're going to challenge[br]me knowing that you'll lose?[nb2]That's the TRAINER's honor that[br]compels you to challenge me.[nb2]Fine, then![br]Show me your best![FC]Œ[kÈ]¿|Zo, je bent er. Ik ben BROCK.[br]De GYM LEIDER van PEWTER.[nb2]Mijn keiharde wilskracht straalt[br]uit mijn POKÈMON.[nb2]Mijn POKÈMON zijn zo sterk als een[br]rots.[nb2]Dat klopt - mijn POKÈMON zijn[br]allemaal van het ROCK type![nb2]Haha! Je gaat me uitdagen wetende[br]dat je gaat verliezen?[nb2]Het is de eer van de TRAINER die[br]je dwingt me uit te dagen.[nb2]Goed dan![br]Toon me wat je hebt![FC]Œ[kÈ]¿|1,16A5A6
-190E4F| 1|369|0|D|Pewter gym missed text                  |I took you for granted, and so[br]I lost.[nb2]As proof of your victory, I confer[br]on you this[...]the official POKÈMON[nb]LEAGUE BOULDERBADGE.[nb2][small][PLAYER] received the BOULDERBADGE[br]from BROCK![pMus][FC]Œ«¿[pausTim][br][pausTim][kÈ][rMus][nb2][fnt]«Just having the BOULDERBADGE makes[br]your POKÈMON more powerful.[nb2]It also enables the use of the[br]move FLASH outside of battle.[nb2]Of course, a POKÈMON must know the[br]move FLASH to use it.|Ik heb je verkeerd ingeschat,[br]en zo heb ik verloren.[nb2]Als bewijs van je overwinning, geef ik[br]jou dit[...] de officiÎle POKÈMON[nb]LEAGUE BOULDERBADGE.[nb2][small][PLAYER] heeft de BOULDERBADGE[br]van BROCK gekregen![pMus][FC]Œ«¿[pausTim][nb][pausTim][kÈ][rMus][nb2][fnt]«Enkel door de BOULDERBADGE te[br]hebben worden je POKÈMON al sterker.[nb2]Het laat ook toe om FLASH te[br]gebruiken buiten een gevecht.[nb2]Natuurlijk heb je een POKÈMON nodig[br]die FLASH kent om dit te kunnen doen.|1,16A5AA
+190E4F| 1|369|0|D|Pewter gym missed text                  |I took you for granted, and so[br]I lost.[nb2]As proof of your victory, I confer[br]on you this[...]the official POKÈMON[nb]LEAGUE BOULDERBADGE.[nb2][small][PLAYER] received the BOULDERBADGE[br]from BROCK![pMus][FC]Œ«¿[pausTim][br][pausTim][kÈ][rMus][nb2][fnt]«Just having the BOULDERBADGE makes[br]your POKÈMON more powerful.[nb2]It also enables the use of the[br]move FLASH outside of battle.[nb2]Of course, a POKÈMON must know the[br]move FLASH to use it.|Ik heb je verkeerd ingeschat,[br]en zo heb ik verloren.[nb2]Als bewijs van je overwinning, geef ik[br]jou dit[...] de officiÎle POKÈMON[nb]LEAGUE BOULDERBADGE.[nb2][small][PLAYER] heeft de BOULDERBADGE[br]van BROCK gekregen![pMus][FC]Œ«¿[pausTim][nb][pausTim][kÈ][rMus][nb2][fnt]«Enkel door de BOULDERBADGE te[br]hebben worden je POKÈMON al sterker.[nb2]Het laat ook toe om FLITS te[br]gebruiken buiten een gevecht.[nb2]Natuurlijk heb je een POKÈMON nodig[br]die FLITS kent om dit te kunnen doen.|1,16A5AA
 190FC1| 1| 25|0|D|Pewter Gym                              |Wait![br]Take this with you.|Wacht![br]Neem dit met je mee.|1,16A5F5
 190FDB| 1| 28|0|D|Pewter gym missed text                  |[PLAYER] received TM39[br]from BROCK.|[PLAYER] heeft TM39[br]van BROCK gekregen.|1,16A612
 190FF8| 1|278|0|D|Pewter Gym                              |A TM, Technical Machine, contains a[br]technique for POKÈMON.[nb2]Using a TM teaches the move it[br]contains to a POKÈMON.[nb2]A TM is good for only one use.[nb2]So, when you use one, pick the[br]POKÈMON carefully.[nb2]Anyways[...][br]TM39 contains ROCK TOMB.[nb2]It hurls boulders at the foe and[br]lowers its SPEED.|Een TM, Techniek Machine, bevat een[br]techniek voor POKÈMON.[nb2]Gebruik een TM om de techniek aan[br]ÈÈn POKÈMON te leren.[nb2]een TM kan slechts ÈÈn keer[br]gebruikt worden.[nb2]Dus kies goed aan welke[br]POKÈMON je het leert.[nb2]In elk geval[...][br]TM39 bevat ROCK TOMB.[nb2]Het gooit rotsen naar de vijand[br]en verlaagd zijn RAPHEID.|1,16A62C
@@ -2116,16 +2116,16 @@
 1918E7| 1|127|0|D|Cerulean House 3                        |Only skilled TRAINERS can collect[br]POKÈMON BADGES.[nb2]I see you have at least one.[nb2]Those BADGES have amazing secrets,[br]did you know?|Enkel goede TRAINERS kunnen[br]POKÈMON BADGES verzamelen.[nb2]Ik zie dat je er al hebt.[nb2]Wist je dat elke badge[br]een geheim heeft?|1,16A7F4
 191967| 2| 54|0|D|Cerulean House 3                        |Now then[...][nb2]Which of the eight BADGES should[br]I describe?|Ok dan[...][nb2]Welke van de acht BADGES moet[br]ik omschrijven?|1,16A7FB;1,16A87E
 19199E| 1| 31|0|D|Cerulean house 3 missed text            |Come visit me anytime you wish.|Je mag altijd langskomen op bezoek.|1,16A96D
-1919BE| 1|114|0|D|Cerulean House 3                        |The ATTACK stat of all your[br]POKÈMON increases a little bit.[nb2]It also lets you use the move[br]FLASH outside of battle.|De AANVAL status van all je[br]POKÈMON wordt een beetje hoger.[nb2]Je kan ook FLASH gebruiken als je[br]niet aan het vechten bent.|1,16A8FD
+1919BE| 1|114|0|D|Cerulean House 3                        |The ATTACK stat of all your[br]POKÈMON increases a little bit.[nb2]It also lets you use the move[br]FLASH outside of battle.|De AANVAL status van all je[br]POKÈMON wordt een beetje hoger.[nb2]Je kan ook FLITS gebruiken als je[br]niet aan het vechten bent.|1,16A8FD
 191A31| 1|199|0|D|Cerulean House 3                        |POKÈMON up to Lv. 30 will obey[br]you.[nb2]That includes even outsiders you[br]obtain in trades.[nb2]POKÈMON of higher levels will[br]be unruly in battle, however.[nb2]It also lets you use the move[br]CUT outside of battle.|POKÈMON tot Lv. 30 gehoorzamen je.[nb2]Ook geruilde POKÈMON.[nb2]POKÈMON van een hoger level gaan[br]wel onrustig zijn in een gevecht.[nb2]Je kan ook KAP gebruiken[br]als je niet aan het vechten bent.|1,16A90B
 191AF9| 1|111|0|D|Cerulean House 3                        |The SPEED stat of all your[br]POKÈMON increases a little bit.[nb2]It also lets you use the move[br]FLY outside of battle.|De RAPHEID van al je POKÈMON[br]wordt een beetje hoger.[nb2]Je kan ook VLIEG gebruiken[br]als je niet aan het vechten bent.|1,16A919
 191B69| 1|204|0|D|Cerulean House 3                        |POKÈMON up to Lv. 50 will obey[br]you.[nb2]That includes even outsiders you[br]obtain in trades.[nb2]POKÈMON of higher levels will[br]be unruly in battle, however.[nb2]It also lets you use the move[br]STRENGTH outside of battle.|POKÈMON tot Lv. 50 gehoorzamen je.[nb2]Ook geruilde POKÈMON.[nb2]POKÈMON van een hoger level gaan[br]wel onrustig zijn in een gevecht.[nb2]Je kan ook STERKTE gebruiken[br]als je niet aan het vechten bent.|1,16A927
 191C36| 1|114|0|D|Cerulean House 3                        |The DEFENSE stat of all your[br]POKÈMON increases a little bit.[nb2]It also lets you use the move[br]SURF outside of battle.|De AFWEER status van al je[br]POKÈMON wordt een beetje hoger.[nb2]Je kan ook de SURF gebruiken[br]als je niet aan het vechten bent.|1,16A935
 191CA9| 1|206|0|D|Cerulean House 3                        |POKÈMON up to Lv. 70 will obey[br]you.[nb2]That includes even outsiders you[br]obtain in trades.[nb2]POKÈMON of higher levels will[br]be unruly in battle, however.[nb2]It also lets you use the move[br]ROCK SMASH outside of battle.|POKÈMON tot Lv. 70 gehoorzamen je.[nb2]Ook geruilde POKÈMON.[nb2]POKÈMON van een hoger level gaan[br]wel onrustig zijn in een gevecht.[nb2]Je kan ook ROCK SMASH gebruiken[br]als je niet aan het vechten bent.|1,16A943
-191D78| 1|127|0|D|Cerulean House 3                        |The SP. ATK and SP. DEF stats of[br]all your POKÈMON rise a little bit.[nb2]It also lets you use the move[br]WATERFALL outside of battle.|De SP. AANV and SP. AFW status van[br]je POKÈMON wordt een beetje hoger.[nb2]Je kan ook de WATERFALL gebruiken[br]als je niet aan het vechten bent.|1,16A951
+191D78| 1|127|0|D|Cerulean House 3                        |The SP. ATK and SP. DEF stats of[br]all your POKÈMON rise a little bit.[nb2]It also lets you use the move[br]WATERFALL outside of battle.|De SP. AANV and SP. AFW status van[br]je POKÈMON wordt een beetje hoger.[nb2]Je kan ook de WATERVAL gebruiken[br]als je niet aan het vechten bent.|1,16A951
 191DF8| 1| 26|0|D|Cerulean House 3                        |All POKÈMON will obey you!|Alle POKÈMON luisteren naar jou!|1,16A95F
-191E13| 1|196|0|D|Damaged House                           |Those miserable ROCKETS![nb2]Look what they've done to my[br]house![nb2]They stole a TM for teaching[br]POKÈMON how to DIG holes![nb2]I was going to use it on a[br]MANKEY or a SANDSHREW[...][nb2]That cost me a bundle, it did!|Die ambetante ROCKETS![nb2]Kijk wat ze mijn huis hebben [br]aangedaan![nb2]Ze hebben een TM gestolen om[br]DIG aan POKÈMON te leren, zodat ze[nb]kunnen GRAVEN.[nb2]Ik ging het gebruiken voor mijn[br]MANKEY of SANDSHREW[...][nb2]Het was ook zo duur!|1,16A983
-191ED8| 1| 81|0|D|Cerulean missed text                    |I figure what's lost is lost.[nb2]I decided to teach DIGLETT how to[br]DIG without a TM.|Ik dacht, wat verloren is is weg.[nb2]Ik heb dan beslist DIGLETT[br]DIG te leren zonder een TM.|1,16A98D
+191E13| 1|196|0|D|Damaged House                           |Those miserable ROCKETS![nb2]Look what they've done to my[br]house![nb2]They stole a TM for teaching[br]POKÈMON how to DIG holes![nb2]I was going to use it on a[br]MANKEY or a SANDSHREW[...][nb2]That cost me a bundle, it did!|Die ambetante ROCKETS![nb2]Kijk wat ze mijn huis hebben [br]aangedaan![nb2]Ze hebben een TM gestolen om[br]GRAAF aan POKÈMON te leren.[nb2]Ik ging het gebruiken voor mijn[br]MANKEY of SANDSHREW[...][nb2]Het was ook zo duur!|1,16A983
+191ED8| 1| 81|0|D|Cerulean missed text                    |I figure what's lost is lost.[nb2]I decided to teach DIGLETT how to[br]DIG without a TM.|Ik dacht, wat verloren is is weg.[nb2]Ik heb dan beslist DIGLETT[br]GRAAF te leren zonder een TM.|1,16A98D
 191F2A| 1| 57|0|D|Damaged House                           |TEAM ROCKET must be trying to DIG[br]their way into no good!|TEAM ROCKET GRAAFT zich vast[br]en zeker in moeilijkheden!|1,16A997
 191F64| 1| 27|0|D|Cerulean missed text                    |TEAM ROCKET left a way out!|TEAM ROCKET heeft een[br]uitweg gelaten!|1,16A9A0
 191F80| 1|122|0|D|Cerulean House 2                        |My husband likes trading POKÈMON.[nb2]You're collecting POKÈMON for your[br]POKÈDEX, aren't you?[nb2]Would you please trade with him?|Mijn man houd van POKÈMON ruilen.[nb2]Jij verzamelt POKÈMON voor je[br]POKÈDEX nietwaar?[nb2]Wil je alsjeblieft met hem ruilen?|1,16A9AA
@@ -2313,9 +2313,9 @@
 195DAD| 1| 38|0|D|Celadon dept store                      |[PLAYER] received a [var2][br]from the little girl.|[PLAYER] heeft een [var2][br]van het kleine meisje gekregenl.|1,16BFA4
 195DD4| 1| 94|0|D|Celadon dept store                      |TM16 contains LIGHT SCREEN.[nb2]It's a move that weakens the power[br]of special attacks by your foe.|TM16 bevat LICHTSCHERM.[nb2]Het is een techniek die speciale[br]aanvallen van je tegenstanderverzwakt.|1,16BFE3
 195E33| 1| 52|0|D|Department Store                        |Yay![nb2]SODA POP![nb2]Thank you![br]You can have this from me!|Jeuj![nb2]SODA POP![nb2]Dank je![br]Je krijgt dit van mij!|1,16BF4F
-195E68| 1| 86|0|D|Celadon dept store                      |TM20 contains SAFEGUARD.[nb2]It's a move that prevents status[br]problems among your POKÈMON.|TM20 bevat SAFEGUARD.[nb2]Het is een techniek die status[br]problemen bij jouw POKÈMON voorkomt.|1,16BFEF
+195E68| 1| 86|0|D|Celadon dept store                      |TM20 contains SAFEGUARD.[nb2]It's a move that prevents status[br]problems among your POKÈMON.|TM20 bevat BESCHERMING.[nb2]Het is een techniek die status[br]problemen bij jouw POKÈMON voorkomt.|1,16BFEF
 195EBF| 1| 52|0|D|Department Store                        |Yay![nb2]LEMONADE![nb2]Thank you![br]You can have this from me!|Jeuj![nb2]LIMONADE![nb2]Dank je![br]Je krijgt dit van mij!|1,16BF70
-195EF4| 1| 90|0|D|Celadon dept store                      |TM33 contains REFLECT.[nb2]It's a move that weakens the power[br]of physical attacks by your foe.|TM33 bevat REFLECT.[nb2]Het is een techniek die de kracht van[br]fysieke aanvallen van je tegenstander[nb]verzwakt.|1,16BFFB
+195EF4| 1| 90|0|D|Celadon dept store                      |TM33 contains REFLECT.[nb2]It's a move that weakens the power[br]of physical attacks by your foe.|TM33 bevat KAATS TERUG.[nb2]Het is een techniek die de kracht[br]van fysieke aanvallen van je[nb]tegenstander verzwakt.|1,16BFFB
 195F4F| 1| 30|0|D|Celadon dept store                      |You don't have space for this!|Je hebt hier geen plaats voor!|1,16C004
 195F6E| 1| 41|0|D|Celadon dept store                      |No, thank you![br]I'm not thirsty after all!|Nee, dank je![br]Ik heb toch geen dorst!|1,16C01A
 195F98| 1| 86|0|D|Department Store                        |My sister is a TRAINER, believe it[br]or not.[nb2]But, she's so immature, she drives[br]me nuts!|Mijn zus is een TRAINER,[br]geloof het of niet.[nb2]Maar ze is zo kinderachtig,[br]ze maakt me zot!|1,16C024
@@ -2466,10 +2466,10 @@
 198285| 1|168|0|D|Safari Zone Office                      |WARDEN SLOWPOKE is running a[br]promotion campaign right now.[nb2]Try to get to the farthest corner[br]of the SAFARI ZONE.[nb2]If you can make it, you'll win a[br]very convenient prize.|BEHEERDER SLOWPOKE is nu bezig[br]met een promotie actie.[nb2]Probeer tot aan de verste hoek[br]van de SAFARI ZONE te komen.[nb2]Als je daar kan komen krijg je[br]een mooie prijs.|1,16D546
 19832E| 1|277|0|D|Fuchsia Gym                             |KOGA: Fwahahaha![nb2]A mere child like you dares to[br]challenge me?[nb2]The very idea makes me shiver[br]with mirth![nb2]Very well, I shall show you true[br]terror as a ninja master.[nb2]Poison brings steady doom.[br]Sleep renders foes helpless.[nb2]Despair to the creeping horror of[br]POISON-type POKÈMON![FC]Œ[kÈ]¿|KOGA: Fwahahaha![nb2]Een klein kind zoals jij daagt [br]me uit?[nb2]Wat een belachelijk idee![nb2]Ok dan, ik zal je mijn ware kracht[br]tonen als ninja meester.[nb2]Gif brengt langzame dood.[br]Slaap maakt vijanden hulpeloos.[nb2]Wanhoop bij het zicht van mijn[br]POISON-type POKÈMON![FC]Œ[kÈ]¿|1,16D561
 198444| 1| 60|0|D|Fuchsia gym                             |Humph![br]You have proven your worth![nb2]Here![br]Take the SOULBADGE!|Hmmh![br]Je hebt je waarde bewezen![nb2]Hier![br]Pak de SOULBADGE!|1,16D565
-198481| 1|140|0|D|Fuchsia Gym                             |When afflicted by TOXIC, a POKÈMON[br]suffers more and more.[nb2]It suffers worsening damage as the[br]battle wears on![nb2]It will surely terrorize foes!|Als een POKÈMON TOXIC heeft[br]gekregen krijgt hij meer[nb]en meer schade naarmate[nb]het gevecht vordert.[nb2]Het gaat je vijanden[br]zeker bang maken!|1,16D578
+198481| 1|140|0|D|Fuchsia Gym                             |When afflicted by TOXIC, a POKÈMON[br]suffers more and more.[nb2]It suffers worsening damage as the[br]battle wears on![nb2]It will surely terrorize foes!|Als een POKÈMON GIFTIG heeft[br]gekregen krijgt hij meer[nb]en meer schade naarmate[nb]het gevecht vordert.[nb2]Het gaat je vijanden[br]zeker bang maken!|1,16D578
 19850E| 1|128|0|D|Fuchsia Gym                             |Now that you have the SOULBADGE,[br]the DEFENSE of your POKÈMON rises.[nb2]It also lets you SURF outside of[br]battle.[nb2]Ah![br]Take this, too!|Nu je de SOULBADGE hebt verhoogt[br]de AFWEER van je POKÈMON wat.[nb2]Je kan nu ook SURF gebruiken als[br]je niet aan het vechten bent.[nb2]Ah![br]Ik heb nog iets voor jou!|1,16D5A8
 19858F| 1| 27|0|D|Fuchsia gym                             |[PLAYER] received TM06[br]from KOGA.|[PLAYER] heeft TM06 gekregen[br]van KOGA.|1,16D5C5
-1985AB| 1| 97|0|D|Fuchsia Gym                             |Sealed within that TM06 lies[br]TOXIC![nb2]It is a secret technique dating[br]back some four hundred years.|Verzegeld in die TM06 zit[br]TOXIC![nb2]Het is een geheime techniek[br]van meer dan vierhonderd jaar oud.|1,16D5DF
+1985AB| 1| 97|0|D|Fuchsia Gym                             |Sealed within that TM06 lies[br]TOXIC![nb2]It is a secret technique dating[br]back some four hundred years.|Verzegeld in die TM06 zit[br]GIFTIG![nb2]Het is een geheime techniek[br]van meer dan vierhonderd jaar oud.|1,16D5DF
 19860D| 1| 27|0|D|Fuchsia gym                             |Make space for this, child!|Maak hier plaats voor kleine!|1,16D5E9
 198629| 1|138|0|D|Fuchsia Gym                             |Strength isn't the key for POKÈMON.[br]Do you understand this?[nb2]POKÈMON is about strategy![nb2]I'll show you how strategy can[br]beat brute strength.|Sterkte is niet het belangrijste[br]voor POKÈMON. Versta je?[nb2]POKÈMON gaat over strategie![nb2]Ik ga je demonstreren hoe strategie[br]brute kracht verslaat.|1,16D660
 1986B4| 1| 20|0|D|Fuchsia gym                             |What?[br]Extraordinary!|Wat?[br]Spectaculair!|1,16D664
@@ -2527,10 +2527,10 @@
 19951F| 1| 35|0|D|Fuchsia House 1                         |What?[br]No EGG should know any moves.|Wat?[br]Een EI kent geen technieken.|1,16D939
 199543| 1|182|0|D|Cinnabar Gym                            |Hah![nb2]I am BLAINE, the red-hot LEADER[br]of CINNABAR GYM![nb2]My fiery POKÈMON are all rough[br]and ready with intense heat![nb2]They incinerate all challengers![nb2]Hah![br]You better have BURN HEAL![FC]Œ[kÈ]¿|Ha!,[nb2]Ik ben BLAINE, de vurige LEIDER[br]van de CINNABAR GYM![nb2]Mijn vlammende POKÈMON staan[br]klaar om een vuurtje te stoken![nb2]Ze verkolen elke tegenstander![nb2]Ik hoop dat[br]je wat BURN HEAL hebt![FC]Œ[kÈ]¿|1,16D9E7
 1995FA| 1| 87|0|D|Cinnabar gym                            |I have burned down to nothing![br]Not even ashes remain![nb2]You have earned the VOLCANOBADGE.|Ik ben helemaal verbrand![br]Er blijft zelfs geen as over![nb2]Jij hebt de VOLCANOBADGE verdiend!|1,16D9EB
-199652| 1| 75|0|D|Cinnabar Gym                            |FIRE BLAST is the ultimate fire[br]technique.[nb2]Don't waste it on WATER POKÈMON.|FIRE BLAST is de ultieme vuur[br]techniek.[nb2]Verspil het niet aan een[br]WATER POKÈMON.|1,16DA6D
+199652| 1| 75|0|D|Cinnabar Gym                            |FIRE BLAST is the ultimate fire[br]technique.[nb2]Don't waste it on WATER POKÈMON.|VUURBAL is de ultieme vuur[br]techniek.[nb2]Verspil het niet aan een[br]WATER POKÈMON.|1,16DA6D
 19969E| 1| 96|0|D|Cinnabar Gym                            |Hah![nb2]The VOLCANOBADGE heightens the[br]SPECIAL stats of your POKÈMON.[nb2]Here, you can have this, too!|Ha![nb2]De VOLCANOBADGE verhoogt de[br]SPECIAL eigenschappen van je[nb]POKÈMON.[nb2]Hier, je mag dit ook hebben!|1,16DA36
 1996FF| 1| 29|0|D|Cinnabar gym                            |[PLAYER] received TM38[br]from BLAINE.|[PLAYER] heeft TM38 gekregen[br]van BLAINE.|1,16DA53
-19971D| 1|107|0|D|Cinnabar Gym                            |TM38 contains FIRE BLAST.[br]Teach it to FIRE-type POKÈMON.[nb2]VULPIX or CHARMELEON would be[br]ideal for that move.|TM38 bevat FIRE BLAST.[br]Leer het aan een VUUR-type POKÈMON.[nb2]VULPIX of CHARMELEON zou ideaal[br]zijn voor deze techniek.|1,16D9FE
+19971D| 1|107|0|D|Cinnabar Gym                            |TM38 contains FIRE BLAST.[br]Teach it to FIRE-type POKÈMON.[nb2]VULPIX or CHARMELEON would be[br]ideal for that move.|TM38 bevat VUURBAL.[br]Leer het aan een VUUR-type POKÈMON.[nb2]VULPIX of CHARMELEON zou ideaal[br]zijn voor deze techniek.|1,16D9FE
 199789| 1| 27|0|D|Cinnabar gym                            |Make space for this, child!|Maak hier plaats voor kleine!|1,16DA77
 1997A5| 1| 48|0|D|Cinnabar Gym                            |Do you know how hot POKÈMON fire[br]breath can get?|Weet je hoe warm POKÈMON vuur[br]adem kan worden?|1,16DA85
 1997D6| 1| 19|0|D|Cinnabar gym                            |Yow![br]Hot, hot, hot!|Ow![br]Heet, heet, heet!|1,16DA89
@@ -2579,7 +2579,7 @@
 19A137| 1|147|0|D|PokÈmon Lab                             |Tch-tch-tch![br]I'll teach you a nifty move.[nb2]Teach it to a POKÈMON, and watch[br]the fun unfold![nb2]It's a move called METRONOME.[br]Does it strike your fancy?|Tsss![br]Ik ga je een super techniek leren.[nb2]Leer het aan een POKÈMON en zie[br]maar wat er gebeurt![nb2]De techniek noemt METRONOOM.[br]Vindt je het leuk?|1,1C4C9B
 19A1CB| 1| 30|0|D|PokÈmon Lab                             |I tell you, it's a lot of fun!|Ik zeg het je, het is veel plezier!|1,1C4CE4
 19A1EA| 1| 35|0|D|PokÈmon Lab                             |Okay![br]Which POKÈMON should I teach?|Ok![br]Aan welke POKÈMON moet ik[nb]de techniek leren?|1,1C4CBE
-19A20E| 1|115|0|D|PokÈmon Lab                             |Tch-tch-tch![br]That's the sound of a METRONOME.[nb2]It tweaks your POKÈMON's brain into[br]using moves it doesn't even know.|Tik-tok-tik![br]Dat is het geluid van METRONOME.[nb2]Het verstoort het hoofd van je[br]POKÈMON zodat hij technieke kan[nb]gebruiken die hij zelfs niet kent.|1,1C4CEE
+19A20E| 1|115|0|D|PokÈmon Lab                             |Tch-tch-tch![br]That's the sound of a METRONOME.[nb2]It tweaks your POKÈMON's brain into[br]using moves it doesn't even know.|Tik-tok-tik![br]Dat is het geluid van METRONOOM.[nb2]Het verstoort de gedachten van je[br]POKÈMON zodat hij technieken kan[nb]gebruiken die hij zelfs niet kent.|1,1C4CEE
 19A282| 4|145|0|D|PokÈmon Lab                             |Hiya![nb2]I am important doctor.[br]Yes, very much so, indeed.[nb2]Here, I study rare POKÈMON fossils.[br]All the time, I study.[nb2]You![br]Have you a fossil for me?|Hallo![nb2]Belangrijke dokter ben ik.[br]Ja erg belangrijk.[nb2]Hier studeer ik zeldzame POKÈMON[br]fossielen. Heel de tijd.[nb2]Jij![br]Heb je een fossiel voor mij?|1,16E4E0;1,16E545;1,16E587;1,16E5C9
 19A314| 1| 15|0|D|PokÈmon Lab                             |No![br]Is too bad!|Nee![br]Jammer!|1,16E53C
 19A34F| 3| 78|0|D|PokÈmon Lab                             |You late.[br]Where were you?[nb2]Your fossil is back to life![br]It was [var1] like I think!|Jij laat.[br]Waar bleef je?[nb2]Je fossiel is terug in leven![br]Het was [var1] zoals ik dacht!|1,16E763;1,16E7A8;1,16E7ED
@@ -2606,9 +2606,9 @@
 19AC4B| 1| 20|0|D|Copycat's House                         |CHANSEY: Chaan! Sii!|CHANSEY: Chaan! Sii!|1,16EB53
 19AC60| 1|144|0|D|Copycat house                           |[PLAYER]: Hi![br]Do you like POKÈMON?[nb2][PLAYER]: Uh, no, I just asked you.[nb2][PLAYER]: Huh?[br]You're strange![nb2]COPYCAT: Hmm? Quit mimicking?[br]But, that's my favorite hobby!|[PLAYER]: Hallo![br]Hou jij van POKÈMON?[nb2][PLAYER]: Uh, nee, ik heb dat[br]net aan jou gevraagd.[nb2][PLAYER]: Huh?[br]Jij bent raar![nb2]COPYCAT: Hmm? Stop met nadoen?[br]Maar dat is mijn favoriete hobby!|1,16EBB9
 19ACF1| 1|147|0|D|Copycat's House                         |[PLAYER]: Hi.[br]You must like POKÈMON.[nb2][PLAYER]: No, not me.[br]I asked you.[nb2][PLAYER]: Pardon?[br]You're weird![nb] [nb]COPYCAT: Hmm? Quit mimicking?[nb]But that's my favorite hobby!|[PLAYER]: Hallo.[br]Jij houd zo te zien van POKÈMON.[nb2][PLAYER]: Nee, niet ik.[br]Ik vroeg het aan jou.[nb2][PLAYER]: Pardon?[br]Jij bent raar![nb] [nb]COPYCAT: Hmm? Niet nabootsen?[nb]Maar dat is mijn favoriete bezigheid!|1,16EBC2
-19AD85| 1| 82|0|D|Copycat's House                         |Oh wow![br]A POKÈ DOLL![nb2]For me?[br]Thank you![nb2]You know what?[br]I can teach the move MIMIC.|O wow![br]Een POKÈ DOLL![nb2]Voor mij?[br]Bedankt![nb2]Weet je wat?[br]Ik kan de MIMIC techniek leren.|1,1C4D01
-19ADD8| 1| 21|0|D|Copycat house                           |Don't you like MIMIC?|Hou je niet van MIMIC?|1,1C4D51
-19ADEE| 1| 45|0|D|Copycat house                           |I really love MIMIC![br]Who's going to learn it?|Ik hou erg veel van MIMIC![br]Wie gaat de techniek leren?|1,1C4D24
+19AD85| 1| 82|0|D|Copycat's House                         |Oh wow![br]A POKÈ DOLL![nb2]For me?[br]Thank you![nb2]You know what?[br]I can teach the move MIMIC.|O wow![br]Een POKÈ DOLL![nb2]Voor mij?[br]Bedankt![nb2]Weet je wat?[br]Ik kan de DOE NA techniek leren.|1,1C4D01
+19ADD8| 1| 21|0|D|Copycat house                           |Don't you like MIMIC?|Hou je niet van DOE NA?|1,1C4D51
+19ADEE| 1| 45|0|D|Copycat house                           |I really love MIMIC![br]Who's going to learn it?|Ik hou erg veel van DOE NA![br]Wie gaat de techniek leren?|1,1C4D24
 19AE1C| 1|115|0|D|Copycat house                           |[PLAYER]: Hi![br]Thanks for earlier![nb2][PLAYER]: Pardon?[nb2][PLAYER]: Is it that fun to mimic my[br]every move?[nb2]COPYCAT: You bet![br]It's a scream!|[PLAYER]: Hallo![br]Bedankt voor je hulp![nb2][PLAYER]: Pardon?[nb2][PLAYER]: Is het dan zo leuk om[br]mij altijd na te doen?[nb2]COPYCAT: Zeker weten![br]Ik amuseer me rot!|1,1C4D74
 19AE90| 1|137|0|D|Copycat's House                         |[PLAYER]: Hi![br]Thanks for what you did for us.[nb2][PLAYER]: Pardon?[nb2][PLAYER]: Is it really that fun to[br]copy what I say and do?[nb2]COPYCAT: You bet![br]It's a scream!|[PLAYER]: Hallo! Bedankt wat je[br]voor ons gedaan hebt.[nb2][PLAYER]: Pardon?[nb2][PLAYER]: Is het echt zo leuk om[br]na te doen wat ik zeg en doe?[nb2]COPYCAT: zeker![br]Ik amuseer me rot!|1,1C4D7D
 19B030| 1| 64|0|D|Copycat's House                         |DODUO: Giiih![nb2]PRETTY MIRROR LOOK AT ME,[br]SEE HOW PRETTY I CAN BE?|DODUO: Giiih![nb2]SIPEGELTJE, SPIEGELTJE AAN DE[br]WAND, ZIE JE HOE MOOI IK BEN?|1,16EB67
@@ -2653,7 +2653,7 @@
 19B96D| 1| 42|0|D|Saffron Gym                             |PSYCHIC POKÈMON fear only ghosts[br]and bugs!|PSYCHIC POKÈMON zijn enkel bang[br]van spoken en insecten.|1,16EE98
 19B998| 1| 83|0|D|Saffron Gym                             |POKÈMON take on the appearance of[br]their TRAINERS.[nb2]Your POKÈMON must be tough, then!|POKÈMON beginnen te lijken[br]op hun TRAINERS.[nb2]Jouw POKÈMON moeten wel sterk zijn!|1,16EF0E
 19B9EC| 1| 10|0|D|Saffron gym                             |I knew it!|Ik wist het!|1,16EF12
-19B9F7| 1| 77|0|D|Saffron Gym                             |I have much to learn still[...][nb2]I must master PSYCHIC and teach it[br]to my POKÈMON[...]|Ik heb nog veel te leren[...][nb2]Ik moet meester woren van PSYCHIC[br]en het aan mijn POKÈMON leren[...]|1,16EF18
+19B9F7| 1| 77|0|D|Saffron Gym                             |I have much to learn still[...][nb2]I must master PSYCHIC and teach it[br]to my POKÈMON[...]|Ik heb nog veel te leren[...][nb2]Ik moet meester worden van MENTAAL[br]en het aan mijn POKÈMON leren[...]|1,16EF18
 19BA45| 1| 88|0|D|Saffron Gym                             |You understand, don't you?[nb2]That power alone isn't enough to[br]win in the world of POKÈMON?|Je verstaat het hÈ?[nb2]Dat sterk zijn alleen niet genoeg is[br]om te winnen in POKÈMON gevechten?|1,16EEA5
 19BA9E| 1| 21|0|D|Saffron gym                             |I don't believe this!|Ik kan het niet geloven!|1,16EEA9
 19BAB4| 1| 51|0|D|Saffron Gym                             |SABRINA just wiped out the KARATE[br]MASTER next door.|SABRINA heeft zojuist de vloer[br]aangeveegd met de KARATE MEESTER[nb]van hiernaast.|1,16EEBC
@@ -2682,7 +2682,7 @@
 19C102| 1| 63|0|D|Saffron Center                          |TEAM ROCKET took off![br]We can go out safely again![nb]That's great!|TEAM ROCKET is weg![br]We kunnen weer veilig buiten spelen![nb]Dat is leuk!|1,16F02F
 19C142| 1| 41|0|D|Mr. Psychic's House                     |[...]Wait! Don't say a word![nb2]You wanted this!|[...]Wacht, zeg nog niets![nb2]Dit is wat je wou!|1,16F06C
 19C16C| 1| 34|0|D|Mr. Psychic's House                     |[PLAYER] received TM29[br]from MR. PSYCHIC.|[PLAYER] heeft TM29 gekregen[br]van MR. PSYCHIC.|1,16F089
-19C18F| 2|108|0|D|Mr. Psychic's House                     |You already know, don't you?[br]TM29 is PSYCHIC.[nb2]It's an attack that may also lower[br]the target's special stats.|Je weet het al hÈ?[br]TM29 is PSYCHIC.[nb2]Het is een aanval die ook speciale[br]stats van een doelwit kan verlagen.|1,16F0A0;1,16F0B7
+19C18F| 2|108|0|D|Mr. Psychic's House                     |You already know, don't you?[br]TM29 is PSYCHIC.[nb2]It's an attack that may also lower[br]the target's special stats.|Je weet het al hÈ?[br]TM29 is MENTAAL.[nb2]Het is een aanval die ook speciale[br]stats van een doelwit kan verlagen.|1,16F0A0;1,16F0B7
 19C1FC| 1| 46|0|D|Mr. Psychic's House                     |Where do you plan to put this?[br]You've no room.|Waar denk je dit te steken?[br]Je hebt geen plaats.|1,16F0AD
 19C22B| 1|  9|0|D|Trainer Fan Club                        |Huh?[br]You[...]|HÈ?[br]Jij[...]|1,16F0FA
 19C235| 1|346|0|D|Trainer Fan Club                        |Are you maybe[...][br][...] [...][nb2]You are![br]You are [PLAYER]![nb2]We were just talking about you![nb2]We were talking about how an[br]incredibly good TRAINER appeared.[nb2]And that someone is you![br]You're so cool![nb2]So, we decided that we'll become[br]your FAN CLUB![nb2]We all hope you'll keep battling[br]and show us how cool you are.[nb2]That way, maybe other people will[br]become fans just like me.|Ben jij misschien[...][br][...] [...][nb2]Ja![br]Jij bent [PLAYER]![nb2]We hadden het net over jou![nb2]We zeiden net dat er een ongelofelijk[br]goede TRAINER was opgedoken.[nb2]En die TRAINER ben jij![br]Je bent zo cool![nb2]Dus we hebben besloten om jouw[br]FAN CLUB te worden.[nb2]We hopen allemaal dat je blijft [br]vechten, en ons toont[nb]hoe cool je bent.[nb2]Op die manier gaan er nog meer[br]fans bij komen!|1,16F117
@@ -2728,8 +2728,8 @@
 19D64F| 1|254|0|D|Route 2 House 2                         |Hi! Remember me?[br]I'm one of PROF. OAK's AIDES.[nb2]If your POKÈDEX has complete data[br]on ten species, I'm supposed to[nb]give you a reward.[nb2]PROF. OAK entrusted me with[br]HM05 for you.[nb2]So, [PLAYER], let me ask you.[nb2]Have you gathered data on at least[br]ten kinds of POKÈMON?|HÈ! Ken je me nog?[br]Ik ben een assistent van PROF. OAK.[nb2]Als je POKÈDEX gegevens heeft[br]van tien POKÈMON moest ik jou een[nb]beloning geven.[nb2]Het is HM05 van PROF. OAK voor jou.[nb2]Dus, [PLAYER], heb je al gegevens[br]van minstens tien POKÈMON verzameld?|1,16F691
 19D74E| 1| 82|0|D|Route 2 House 2                         |Great! You have caught or owned[br][var3] kinds of POKÈMON![nb2]Congratulations![br]Here you go!|Goed! Je hebt [var3] soorten[br]POKÈMON gevangen of gekregen![nb2]Gefeliciteerd![br]Hier, voor jou!|1,16F6C2
 19D7A1| 1| 31|0|D|Route 2 House 2                         |[PLAYER] received HM05[br]from the AIDE.|[PLAYER] heeft HM05 gekregen[br]van de ASSISTENT.|1,16F6DF
-19D7C1| 2| 92|0|D|Route 2 House 2                         |HM05 contains the hidden move[br]FLASH.[nb2]FLASH lights up even the darkest[br]of caves and dungeons.|HM05 bevat de verborgen techniek[br]FLASH.[nb2]FLASH geeft licht in zelfs de[br]donkerste grotten en gangen.|1,16F6F9;1,16F703
-19D81E| 1| 61|0|D|Route 2 House 2                         |Once a POKÈMON learns FLASH, you[br]can get through ROCK TUNNEL.|Zodra een POKÈMON FLASH geleerd[br]heeft kan je door de ROTS TUNNEL.|1,16F716
+19D7C1| 2| 92|0|D|Route 2 House 2                         |HM05 contains the hidden move[br]FLASH.[nb2]FLASH lights up even the darkest[br]of caves and dungeons.|HM05 bevat de verborgen techniek[br]FLITS.[nb2]FLITS geeft licht in zelfs de[br]donkerste grotten en gangen.|1,16F6F9;1,16F703
+19D81E| 1| 61|0|D|Route 2 House 2                         |Once a POKÈMON learns FLASH, you[br]can get through ROCK TUNNEL.|Zodra een POKÈMON FLITS geleerd[br]heeft kan je door de ROTS TUNNEL.|1,16F716
 19D85C| 1|115|0|D|Route 2                                 |Many POKÈMON live only in forests [br]and caves.[nb2]You need to be persistent and look[br]everywhere to get different kinds.|Veel POKÈMON leven enkel in bossen[br]en grotten.[nb2]Je moet volharden en overal zoeken[br]om verschillende soorten te vinden.|1,16F720
 19D8D0| 1|106|0|D|Route 2                                 |Have you noticed the skinny trees[br]on the roadside?[nb2]They can be cut down by a special[br]POKÈMON move, I hear.|Heb je de kleine boompjes aan de[br]kant van de weg al gezien?[nb2]Ik heb gehoord dat je die kan[br]omhakken met een speciale POKÈMON[nb]techniek.|1,16F729
 19D93B| 1|152|0|D|Route 2                                 |Do you know the evolution-cancel[br]technique?[nb2]When a POKÈMON is evolving, you[br]can stop the process.[nb2]It's a technique for raising[br]POKÈMON the way they are.|Ken je de evolutie-stop techniek?[nb2]Als een POKÈMON aan het evolueren[br]is kan je het proces stoppen.[nb2]Het is een techniek om POKÈMON[br]te houden zoals ze zijn.|1,16F732
@@ -3145,7 +3145,7 @@
 1A6C51| 1| 81|0|D|Oak Pokedex evaluation                  |OAK: Good to see you![br]How is your POKÈDEX coming along?[nb2]Here, let me take a look.|OAK: [PLAYER] leuk je te zien![br]Hoe is het met je POKÈDEX?[nb2]Laat me eens kijken.|1,1A73AF
 1A6CA3| 1|115|0|D|Oak Pokedex evaluation                  |The amount of progress you've made[br]on your POKÈDEX is:[nb2][var1] POKÈMON seen and[br][var2] POKÈMON owned.[nb2][small]PROF. OAK's rating:|De voortgang van je POKÈDEX is:[nb2][var1] POKÈMON gezien[br][var2] POKÈMON in bezit.[nb2][small]PROF. OAK's oordeel:|1,1A740E
 1A6D17| 1| 85|0|D|Oak Pokedex evaluation                  |You still have lots to do.[nb2]Go into every patch of grass you[br]see and look for POKÈMON!|Je hebt nog veel werk voor de boeg.[nb2]Ga in elk stuk lang gras en zoek[br]naar POKÈMON!|1,0CA510
-1A6D6D| 1|113|0|D|Oak Pokedex evaluation                  |It looks as if you're getting on[br]the right track![nb2]I've given one of my AIDES a FLASH[br]HM. Make sure you go get it!|Je bent zo te zien goed bezig![nb2]Ik heb een van mijn[br]ASSISTENTEN FLASH gegeven.[nb]Vergeet het niet op te halen!|1,0CA444
+1A6D6D| 1|113|0|D|Oak Pokedex evaluation                  |It looks as if you're getting on[br]the right track![nb2]I've given one of my AIDES a FLASH[br]HM. Make sure you go get it!|Je bent zo te zien goed bezig![nb2]Ik heb een van mijn[br]ASSISTENTEN FLITS gegeven.[nb]Vergeet het niet op te halen!|1,0CA444
 1A6DDF| 1| 86|0|D|Oak Pokedex evaluation                  |Your POKÈDEX could use a bit more[br]volume still![nb2]Try to catch other species of[br]POKÈMON!|Je POKÈDEX is nog wat leeg![nb2]Probeer wat andere soorten[br]POKÈMON te vangen!|1,0CA450
 1A6E36| 1|109|0|D|Oak Pokedex evaluation                  |Good, it's apparent that you're[br]trying hard![nb2]I've given one of my AIDES an[br]ITEMFINDER. Be sure to collect it!|Goed, ik kan zien dat[br]je je best doet![nb2]Ik heb een van mijn ASSISTENTEN[br]een ITEMZOEKER gegeven.[nb]Vergeet het niet op te halen!|1,0CA45C
 1A6EA4| 1|102|0|D|Oak Pokedex evaluation                  |Your POKÈDEX is coming along quite[br]well![nb2]I've given one of my AIDES an[br]AMULET COIN. Be sure to get it!|Je POKÈDEX begint al wat vorm te[br]krijgen![nb2]Ik heb een van mijn ASSISTENTEN[br]een AMULET MUNT gegeven.[nb]Vergeet het niet op te halen!|1,0CA468
@@ -3989,8 +3989,8 @@
 1BE244| 1| 63|0|D|Missed text                             |It's a big boulder, but a POKÈMON[br]may be able to push it aside.|Het is een grote rots, maar een[br]POKÈMON kan hem misschien opzij[nb]duwen.|1,1BE187
 1BE284| 1| 50|0|D|Missed text                             |STRENGTH made it possible to move[br]boulders around.|STERKTE maakte het mogelijk[br]rotsen te verplaatsen!|1,1BE190
 1BE30A| 1| 52|0|D|Missed text                             |A wall of water is crashing down[br]with a mighty roar.|Een torenhoge muur van water[br]valt naar beneden.|1,1BE302
-1BE33F| 1| 56|0|D|Missed text                             |It's a large waterfall.[br]Would you like to use WATERFALL?|het is een grote waterval.[br]Wil je WATERFALL gebruiken?|1,1BE2DE
-1BE378| 1| 18|0|D|Missed text                             |[var1] used WATERFALL.|[var1] gebruikte WATERFALL.|1,1BE2F1
+1BE33F| 1| 56|0|D|Missed text                             |It's a large waterfall.[br]Would you like to use WATERFALL?|het is een grote waterval.[br]Wil je WATERVAL gebruiken?|1,1BE2DE
+1BE378| 1| 18|0|D|Missed text                             |[var1] used WATERFALL.|[var1] gebruikte WATERVAL.|1,1BE2F1
 1BE42B| 1| 61|0|D|Missed text                             |The sea is deep here. A POKÈMON[br]may be able to go underwater.|De zee is hier diep, een POKÈMON[br]kan hier waarschijnlijk onder water.|1,1BE3CC
 1BE469| 1| 49|0|D|Missed text                             |The sea is deep here.[br]Would you like to use DIVE?|De zee is hier diep.[br]Wil je DIVE gebruiken?|1,1BE3A8
 1BE49B| 2| 13|0|D|Missed text                             |[var1] used DIVE.|[var1] gebruikte DIVE.|1,1BE3BB;1,1BE404
@@ -4410,7 +4410,7 @@
 247109| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDERPUNCH|DONDERSLAG|
 247116| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SCRATCH|KRAB|
 247123| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VICEGRIP|HOUDGREEP|
-247130| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GUILLOTINE||
+247130| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GUILLOTINE|GUILLOTINE|
 24713D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAZOR WIND|SCHEERWIND|
 24714A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWORDS DANCE|ZWAARDDANS|
 247157| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |CUT|KAP|1,45A6B0
@@ -4418,7 +4418,7 @@
 247171| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WING ATTACK|VLEUGELVLAAG|
 24717E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WHIRLWIND|WERVELWIND|
 24718B| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLY|VLIEG|1,45A6B8
-247198| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BIND||
+247198| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BIND|BIND|
 2471A5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLAM|SLAG|
 2471B2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VINE WHIP|LIAANZWEEP|
 2471BF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STOMP|STAMP|
@@ -4441,7 +4441,7 @@
 24729C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON STING|GIFSTEEK|
 2472A9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TWINEEDLE|DUBBELNAALD|
 2472B6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PIN MISSILE|PINRAKET|
-2472C3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEER|STAAR|
+2472C3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEER|GLUUR|
 2472D0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BITE|BIJT|
 2472DD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GROWL|GROM|
 2472EA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROAR|BRUL|
@@ -4469,7 +4469,7 @@
 247408| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COUNTER|PAREER|
 247415| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SEISMIC TOSS|GROND GOOI|
 247422| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |STRENGTH|STERKTE|1,45A6C0
-24742F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ABSORB||
+24742F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ABSORB|ABSORBEER|
 24743C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGA DRAIN|MEGA OPZUIG|
 247449| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEECH SEED|STEELZAAD|
 247456| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GROWTH|GROEI|
@@ -4480,157 +4480,157 @@
 247497| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLEEP POWDER|SLAAP POEDER|
 2474A4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PETAL DANCE|BLAD DANS|
 2474B1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STRING SHOT|WEBSHOT|
-2474BE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRAGON RAGE||
-2474CB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FIRE SPIN||
-2474D8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDERSHOCK||
-2474E5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDERBOLT||
-2474F2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDER WAVE||
-2474FF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDER||
-24750C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROCK THROW||
-247519| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EARTHQUAKE||
-247526| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FISSURE||
-247533| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |DIG||1,45A6E8
-247540| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TOXIC||
-24754D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONFUSION||
-24755A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYCHIC||
-247567| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYPNOSIS||
-247574| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEDITATE||
-247581| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AGILITY||
-24758E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |QUICK ATTACK||
-24759B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAGE||
-2475A8| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |TELEPORT||1,45A6E0
-2475B5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |NIGHT SHADE||
-2475C2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIMIC||
-2475CF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SCREECH||
-2475DC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLE TEAM||
-2475E9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RECOVER||
-2475F6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HARDEN||
-247603| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MINIMIZE||
-247610| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SMOKESCREEN||
-24761D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONFUSE RAY||
-24762A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WITHDRAW||
-247637| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DEFENSE CURL||
-247644| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BARRIER||
-247651| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LIGHT SCREEN||
-24765E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HAZE||
-24766B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REFLECT||
-247678| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FOCUS ENERGY||
-247685| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BIDE||
-247692| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |METRONOME||
-24769F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIRROR MOVE||
-2476AC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SELFDESTRUCT||
-2476B9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EGG BOMB||
-2476C6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LICK||
-2476D3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SMOG||
-2476E0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLUDGE||
-2476ED| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BONE CLUB||
-2476FA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FIRE BLAST||
-247707| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |WATERFALL||1,45A6D8
-247714| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CLAMP||
-247721| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWIFT||
-24772E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKULL BASH||
-24773B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPIKE CANNON||
-247748| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONSTRICT||
-247755| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AMNESIA||
+2474BE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRAGON RAGE|DRAKENWOEDE|
+2474CB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FIRE SPIN|VUURDRAAI|
+2474D8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDERSHOCK|DONDERSCHOK|
+2474E5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDERBOLT|BLIKSEM|
+2474F2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDER WAVE|DONDERGOLF|
+2474FF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDER|DONDER|
+24750C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROCK THROW|GOOI ROTS|
+247519| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EARTHQUAKE|AARDBEVING|
+247526| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FISSURE|AFGROND|
+247533| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |DIG|GRAAF|1,45A6E8
+247540| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TOXIC|GIFTIG|
+24754D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONFUSION|VERWARRING|
+24755A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYCHIC|MENTAAL|
+247567| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYPNOSIS|HYPNOSE|
+247574| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEDITATE|MEDITEER|
+247581| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AGILITY|LENIGHEID|
+24758E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |QUICK ATTACK|SNELLE AANVAL|
+24759B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAGE|WOEDE|
+2475A8| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |TELEPORT|TELEPORT|1,45A6E0
+2475B5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |NIGHT SHADE|NACHTSCHADUW|
+2475C2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIMIC|DOE NA|
+2475CF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SCREECH|KRIJS|
+2475DC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLE TEAM|DUBBEL TEAM|
+2475E9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RECOVER|HERSTEL|
+2475F6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HARDEN|VERARD|
+247603| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MINIMIZE|VERKLEIN|
+247610| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SMOKESCREEN|ROOKGORDIJN|
+24761D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONFUSE RAY|VERWARSTRAAL|
+24762A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WITHDRAW|TREK TERUG|
+247637| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DEFENSE CURL|ROL OP|
+247644| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BARRIER|OBSTAKEL|
+247651| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LIGHT SCREEN|LICHTSCHERM|
+24765E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HAZE|WAAS|
+24766B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REFLECT|KAATS TERUG|
+247678| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FOCUS ENERGY|FOCUS ENERGIE|
+247685| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BIDE|WACHT AF|
+247692| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |METRONOME|METRONOOM|
+24769F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIRROR MOVE|SPIEGEL ACTIE|
+2476AC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SELFDESTRUCT|ZELFOPBLAAS|
+2476B9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EGG BOMB|EI BOM|
+2476C6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LICK|LIK|
+2476D3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SMOG|SMOG|
+2476E0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLUDGE|SLIJK|
+2476ED| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BONE CLUB|BEEN KNUPPEL|
+2476FA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FIRE BLAST|VUURBAL|
+247707| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |WATERFALL|WATERVAL|1,45A6D8
+247714| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CLAMP|KLEM|
+247721| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWIFT|SNEL|
+24772E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKULL BASH|SCHEDELSLAG|
+24773B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPIKE CANNON|PUNT KANON|
+247748| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONSTRICT|VERSTIK|
+247755| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AMNESIA|VERGEET|
 247762| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |KINESIS||
-24776F| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |SOFTBOILED||1,45A6F8
+24776F| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |SOFTBOILED|ZACHTGEKOOKT|1,45A6F8
 24777C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HI JUMP KICK|HOGE SCHOP|
-247789| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GLARE||
-247796| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DREAM EATER||
+247789| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GLARE|STAAR|
+247796| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DREAM EATER|DROOM ETER|
 2477A3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON GAS|GIFGAS|
-2477B0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BARRAGE||
-2477BD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEECH LIFE||
-2477CA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LOVELY KISS||
-2477D7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKY ATTACK||
-2477E4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TRANSFORM||
+2477B0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BARRAGE|BEKOGELING|
+2477BD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEECH LIFE|STEEL LEVEN|
+2477CA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LOVELY KISS|GROTE ZOEN|
+2477D7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKY ATTACK|LUCHTAANVAL|
+2477E4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TRANSFORM|VERANDER|
 2477F1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BUBBLE|BUBBEL|
-2477FE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DIZZY PUNCH||
-24780B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPORE||
-247818| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLASH||1,45A6A8
-247825| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYWAVE||
-247832| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPLASH||
+2477FE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DIZZY PUNCH|DUIZELSLAG|
+24780B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPORE|SPOREN|
+247818| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLASH|FLITS|1,45A6A8
+247825| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYWAVE|PSY GOLF|
+247832| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPLASH|PLONS|
 24783F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ACID ARMOR|ZUURHARNAS|
-24784C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CRABHAMMER||
-247859| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EXPLOSION||
-247866| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FURY SWIPES||
-247873| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BONEMERANG||
-247880| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REST||
-24788D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROCK SLIDE||
-24789A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYPER FANG||
-2478A7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SHARPEN||
-2478B4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONVERSION||
-2478C1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TRI ATTACK||
-2478CE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUPER FANG||
-2478DB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLASH||
-2478E8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUBSTITUTE||
-2478F5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STRUGGLE||
-247902| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKETCH||
-24790F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TRIPLE KICK||
-24791C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THIEF||
-247929| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPIDER WEB||
-247936| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIND READER||
-247943| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |NIGHTMARE||
-247950| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLAME WHEEL||
-24795D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SNORE||
-24796A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CURSE||
-247977| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLAIL||
-247984| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONVERSION 2||
-247991| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AEROBLAST||
-24799E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COTTON SPORE||
-2479AB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REVERSAL||
-2479B8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPITE||
-2479C5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POWDER SNOW||
-2479D2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PROTECT||
-2479DF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MACH PUNCH||
-2479EC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SCARY FACE||
-2479F9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FAINT ATTACK||
-247A06| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWEET KISS||
-247A13| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BELLY DRUM||
-247A20| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLUDGE BOMB||
-247A2D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MUD-SLAP||
-247A3A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |OCTAZOOKA||
-247A47| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPIKES||
-247A54| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ZAP CANNON||
-247A61| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FORESIGHT||
-247A6E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DESTINY BOND||
-247A7B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PERISH SONG||
-247A88| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICY WIND||
-247A95| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DETECT||
-247AA2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BONE RUSH||
-247AAF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LOCK-ON||
-247ABC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |OUTRAGE||
-247AC9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SANDSTORM||
-247AD6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GIGA DRAIN||
-247AE3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ENDURE||
-247AF0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CHARM||
-247AFD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROLLOUT||
-247B0A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FALSE SWIPE||
-247B17| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWAGGER||
-247B24| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |MILK DRINK||1,45A6F0
-247B31| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPARK||
-247B3E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FURY CUTTER||
-247B4B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STEEL WING||
-247B58| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEAN LOOK||
-247B65| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ATTRACT||
-247B72| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLEEP TALK||
-247B7F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HEAL BELL||
-247B8C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RETURN||
-247B99| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PRESENT||
-247BA6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FRUSTRATION||
-247BB3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SAFEGUARD||
-247BC0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PAIN SPLIT||
-247BCD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SACRED FIRE||
-247BDA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MAGNITUDE||
-247BE7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DYNAMICPUNCH||
-247BF4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGAHORN||
-247C01| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRAGONBREATH||
-247C0E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BATON PASS||
-247C1B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ENCORE||
-247C28| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PURSUIT||
-247C35| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAPID SPIN||
-247C42| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWEET SCENT||1,45A700
-247C4F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |IRON TAIL||
-247C5C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |METAL CLAW||
+24784C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CRABHAMMER|KRABHAMER|
+247859| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EXPLOSION|EXPLOSIE|
+247866| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FURY SWIPES|WOEDE SLAGEN|
+247873| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BONEMERANG|BEENMERANG|
+247880| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REST|RUST|
+24788D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROCK SLIDE|STEENLAWINE|
+24789A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYPER FANG|HYPER BIJT|
+2478A7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SHARPEN|SLIJP|
+2478B4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONVERSION|AANPASSING|
+2478C1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TRI ATTACK|DRIE AANVAL|
+2478CE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUPER FANG|SUPER BIJT|
+2478DB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLASH|SNIJ|
+2478E8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUBSTITUTE|VERVANGER|
+2478F5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STRUGGLE|WORSTEL|
+247902| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKETCH|TEKEN|
+24790F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TRIPLE KICK|DRIE SCHOP|
+24791C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THIEF|DIEF|
+247929| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPIDER WEB|SPINNENWEB|
+247936| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIND READER|GEDACHTENLEES|
+247943| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |NIGHTMARE|NACHTMERRIE|
+247950| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLAME WHEEL|VLAMMENWIEL|
+24795D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SNORE|SNURK|
+24796A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CURSE|VLOEK|
+247977| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLAIL|ZWAAI|
+247984| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONVERSION 2|AANPASSING 2|
+247991| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AEROBLAST|LUCHTSTOOT|
+24799E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COTTON SPORE|KATOENBOLLEN|
+2479AB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REVERSAL|OMMEKEER|
+2479B8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPITE|WRAAK|
+2479C5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POWDER SNOW|POEDERSNEEUW|
+2479D2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PROTECT|BESCHERM|
+2479DF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MACH PUNCH|MACH KLOP|
+2479EC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SCARY FACE|ENG GEZICHT|
+2479F9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FAINT ATTACK|SLAPAANVAL|
+247A06| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWEET KISS|ZOETE ZOEN|
+247A13| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BELLY DRUM|BUIKTROM|
+247A20| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLUDGE BOMB|SLIJKBOM|
+247A2D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MUD-SLAP|MODDERSLAG|
+247A3A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |OCTAZOOKA|ACHTKANON|
+247A47| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPIKES|PINNEN|
+247A54| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ZAP CANNON|ZAP KANON|
+247A61| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FORESIGHT|VOORUITZICHT|
+247A6E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DESTINY BOND|LOTVERBINDING|
+247A7B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PERISH SONG|VERGANGLIED|
+247A88| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICY WIND|IJSWIND|
+247A95| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DETECT|ONTDEK|
+247AA2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BONE RUSH|BEEN HAAST|
+247AAF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LOCK-ON|MIKPUNT|
+247ABC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |OUTRAGE|RAZERNIJ|
+247AC9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SANDSTORM|ZANDSTORM|
+247AD6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GIGA DRAIN|GIGA OPZUIG|
+247AE3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ENDURE|DOORSTA|
+247AF0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CHARM|CHARME|
+247AFD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROLLOUT|UITROL|
+247B0A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FALSE SWIPE|VALSE SLAG|
+247B17| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWAGGER|ZWIER|
+247B24| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |MILK DRINK|MELKDRANK|1,45A6F0
+247B31| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPARK|VONK|
+247B3E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FURY CUTTER|WOEDE SNEDES|
+247B4B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STEEL WING|STAALVLEUGEL|
+247B58| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEAN LOOK|GEMENE BLIK|
+247B65| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ATTRACT|LOK|
+247B72| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLEEP TALK|SLAAP PRAAT|
+247B7F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HEAL BELL|GENEES BEL|
+247B8C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RETURN|KEER TERUG|
+247B99| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PRESENT|CADEAU|
+247BA6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FRUSTRATION|FRUSTRATIE|
+247BB3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SAFEGUARD|BESCHERMING|
+247BC0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PAIN SPLIT|DEEL PIJN|
+247BCD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SACRED FIRE|HEILIG VUUR|
+247BDA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MAGNITUDE|BEVING|
+247BE7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DYNAMICPUNCH|VARIABELSLAG|
+247BF4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGAHORN|MEGA HOORN|
+247C01| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRAGONBREATH|DRAKEN ADEM|
+247C0E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BATON PASS|AFLOSSING|
+247C1B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ENCORE|HERHALING|
+247C28| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PURSUIT|ACHTERVOLG|
+247C35| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAPID SPIN|SNELDRAAI|
+247C42| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWEET SCENT|ZOETE GEUR|1,45A700
+247C4F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |IRON TAIL|IJZER STAART|
+247C5C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |METAL CLAW|METAAL KLAUW|
 247C69| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VITAL THROW||
 247C76| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MORNING SUN||
 247C83| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SYNTHESIS||
@@ -4641,8 +4641,8 @@
 247CC4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAIN DANCE||
 247CD1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUNNY DAY||
 247CDE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CRUNCH||
-247CEB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIRROR COAT||
-247CF8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYCH UP||
+247CEB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIRROR COAT|SPIEGELMANTEL|
+247CF8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYCH UP|PSY STIJG|
 247D05| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EXTREMESPEED||
 247D12| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ANCIENTPOWER||
 247D1F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SHADOW BALL||
@@ -4732,7 +4732,7 @@
 248163| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BULLET SEED||
 248170| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AERIAL ACE||
 24817D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICICLE SPEAR||
-24818A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |IRON DEFENSE||
+24818A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |IRON DEFENSE|IJZER AFWEER|
 248197| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BLOCK||
 2481A4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HOWL||
 2481B1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRAGON CLAW||
@@ -4752,7 +4752,7 @@
 248267| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SHOCK WAVE||
 248274| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WATER PULSE||
 248281| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOOM DESIRE||
-24828E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYCHO BOOST||
+24828E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYCHO BOOST|PSY BOOST|
 24F1A0| 5|  6|0|D|                                        |NORMAL||1,0309C8;1,0D8510;1,11972C;1,11977C;1,456E74
 24F1A7| 1|  5|0|D|                                        |FIGHT||1,456EC4
 24F1AE| 1|  6|0|D|                                        |FLYING||1,456EB4
@@ -5538,7 +5538,7 @@
 3E827D| 1| 11|0|D|Profile keywords                        |WHITE SMOKE||1,3E86F0
 3E8289| 1| 11|0|D|Profile keywords                        |SYNCHRONIZE||1,3E86FC
 3E8295| 1|  8|0|D|Profile keywords                        |OVERGROW||1,3E8708
-3E829E| 1| 10|0|D|Profile keywords                        |SWIFT SWIM||1,3E8714
+3E829E| 1| 10|0|D|Profile keywords                        |SWIFT SWIM|ZWEM SNEL|1,3E8714
 3E82A9| 1| 11|0|D|Profile keywords                        |SAND STREAM||1,3E8720
 3E82B5| 1|  9|0|D|Profile keywords                        |SAND VEIL||1,3E872C
 3E82BF| 1|  8|0|D|Profile keywords                        |KEEN EYE||1,3E8738
@@ -6624,7 +6624,7 @@
 3FB5E2| 1| 21|0|D|Battle2                                 |[FD0F] is hurt[br]by poison!|[FD0F] is ziek[br]van het vergif!|1,3FDFB4
 3FB5F8| 1| 23|0|D|Battle2                                 |[FD10] is already[br]poisoned.|[FD10] is reeds[br]vergiftigd.|1,3FDFB8
 3FB610| 1| 21|0|D|Battle2                                 |[FD11] is badly[br]poisoned!|[FD11] is ernstig[br]vergiftigd!|1,3FDFBC
-3FB626| 1| 26|0|D|Battle2                                 |[FD10] had its[br]energy drained!|Er is energie uit [FD10] [br]gezogen!|1,3FDFC0
+3FB626| 1| 26|0|D|Battle2                                 |[FD10] had its[br]energy drained!|Er is HP uit [FD10] [br]gezogen!|1,3FDFC0
 3FB641| 1| 14|0|D|Battle2                                 |[FD11] was burned!|[FD11] is verbrand!|1,3FDFC4
 3FB650| 1| 18|0|D|Battle2                                 |[FD13]'s [FD1A][br]burned [FD11]!|[FD13] zijn [FD1A][br]verbrandde [FD11]!|1,3FDFC8
 3FB663| 1| 23|0|D|Battle2                                 |[FD0F] is hurt[br]by its burn!|[FD0F] heeft pijn[br]aan zijn brandwonde!|1,3FDFCC
@@ -6662,8 +6662,8 @@
 3FB97F| 1| 23|0|D|Battle3                                 |[FD2A]'s [FD14][br]raised DEFENSE!|[FD2A] zijn [FD14][br]verhoogde AFWEER!|1,3FE044
 3FB997| 1| 32|0|D|Battle3                                 |[FD2A]'s [FD14][br]raised DEFENSE a little!|[FD2A] zijn [FD14] verhoogde[br]AFWEER een klein beetje!|1,3FE48C
 3FB9B8| 1| 32|0|D|Battle3                                 |[FD2A]'s party is covered[br]by a veil!|[FD2A] zijn groep is bedekt door[br]een sluier!|1,3FE048
-3FB9D9| 1| 37|0|D|Battle3                                 |[FD10]'s party is protected[br]by SAFEGUARD!|[FD10] zijn groep is beschermd[br]door SAFEGUARD!|1,3FE04C
-3FB9FF| 1| 47|0|D|Battle3                                 |[FD][x2C]'s party is no longer[br]protected by SAFEGUARD!|[FD][x2C] zijn groep is niet meer[br]beschermd door SAFEGUARD!|1,3FE050
+3FB9D9| 1| 37|0|D|Battle3                                 |[FD10]'s party is protected[br]by SAFEGUARD!|[FD10] zijn groep is beschermd[br]door BESCHERMING!|1,3FE04C
+3FB9FF| 1| 47|0|D|Battle3                                 |[FD][x2C]'s party is no longer[br]protected by SAFEGUARD!|[FD][x2C] zijn groep is niet meer[br]beschermd door BESCHERMING!|1,3FE050
 3FBA2F| 1| 17|0|D|Battle3                                 |[FD0F] went[br]to sleep!|[FD0F] ging[br]slapen!|1,3FE054
 3FBA41| 1| 28|0|D|Battle3                                 |[FD0F] slept and[br]became healthy!|[FD0F] sliep en[br]is weer fit en gezond!|1,3FE058
 3FBA5E| 1| 26|0|D|Battle3                                 |[FD0F] whipped[br]up a whirlwind!|[FD0F] maakte[br]een wervelwind!|1,3FE05C
@@ -6720,8 +6720,8 @@
 3FBF0C| 1| 22|0|D|Battle5                                 |[FD10]'s RAGE[br]is building!|[FD10] zijn WOEDE[br]verhoogt!|1,3FE118
 3FBF23| 1| 21|0|D|Battle5                                 |[FD10]'s [FD00][br]was disabled!|[FD10] zijn [FD00][br]was vergrendeld!|1,3FE11C
 3FBF39| 1| 23|0|D|Battle5                                 |[FD0F] is disabled[br]no more!|[FD0F] is niet meer[br]vergrendeld!|1,3FE124
-3FBF51| 1| 17|0|D|Battle5                                 |[FD10] got[br]an ENCORE!|[FD10] kreeg[br]een ENCORE!|1,3FE128
-3FBF63| 1| 18|0|D|Battle5                                 |[FD0F]'s ENCORE[br]ended!|[FD0F] zijn ENCORE[br]eindigde!|1,3FE12C
+3FBF51| 1| 17|0|D|Battle5                                 |[FD10] got[br]an ENCORE!|[FD10] mocht[br]HERHALEN!|1,3FE128
+3FBF63| 1| 18|0|D|Battle5                                 |[FD0F]'s ENCORE[br]ended!|[FD0F] zijn HERHALING[br]eindigde!|1,3FE12C
 3FBF76| 1| 18|0|D|Battle5                                 |[FD0F] took aim[br]at [FD10]!|[FD0F] mikte[br]op [FD10]!|1,3FE130
 3FBF89| 1| 15|0|D|Battle5                                 |[FD0F] SKETCHED[br][FD00]!|[FD0F] TEKENDE[br][FD00]!|1,3FE134
 3FBF99| 1| 37|0|D|Battle5                                 |[FD0F] is trying[br]to take its foe with it!|[FD0F] probeert zijn[br]vijand mee te nemen!|1,3FE138
@@ -6733,22 +6733,22 @@
 3FC02B| 1| 28|0|D|Battle5                                 |[FD0F] is locked[br]in a NIGHTMARE!|[FD0F] zit vast in een[br]NACHTMERRIE!|1,3FE150
 3FC048| 1| 41|0|D|Battle5                                 |[FD0F] cut its own HP and[br]laid a CURSE on [FD10]!|[FD0F] verlaagt zijn eigen HP[br]om een VLOEK te leggen op [FD10]!|1,3FE154
 3FC072| 1| 29|0|D|Battle5                                 |[FD0F] is afflicted[br]by the CURSE!|[FD0F] is beinvloed door[br]de VLOEK!|1,3FE158
-3FC090| 1| 53|0|D|Battle6                                 |SPIKES were scattered all around[br]the opponent's side!|SPIKES werden verspreid aan de[br]kant van de tegenstander!|1,3FE15C
-3FC0C6| 1| 21|0|D|Battle6                                 |[FD13] is hurt[br]by SPIKES!|[FD13] is verwond[br]door SPIKES!|1,3FE160
+3FC090| 1| 53|0|D|Battle6                                 |SPIKES were scattered all around[br]the opponent's side!|PINNEN werden verspreid aan de[br]kant van de tegenstander!|1,3FE15C
+3FC0C6| 1| 21|0|D|Battle6                                 |[FD13] is hurt[br]by SPIKES!|[FD13] is verwond[br]door PINNEN!|1,3FE160
 3FC0DC| 1| 17|0|D|Battle6                                 |[FD0F] identified[br][FD10]!|[FD0F] identificeerde[br][FD10]!|1,3FE164
-3FC0EE| 1| 29|0|D|Battle6                                 |[FD0F]'s PERISH count[br]fell to [FD00]!|[FD0F] zijn aantal PERISH[br]zakte naar [FD00]!|1,3FE168
+3FC0EE| 1| 29|0|D|Battle6                                 |[FD0F]'s PERISH count[br]fell to [FD00]!|[FD0F] zijn aantal VERGING[br]zakte naar [FD00]!|1,3FE168
 3FC10C| 1| 17|0|D|Battle6                                 |[FD0F] braced[br]itself!|[FD0F] maakte zich[br]klaar!|1,3FE16C
-3FC11E| 1| 19|0|D|Battle6                                 |[FD10] ENDURED[br]the hit!|[FD10] ENDURED[br]de aanval!|1,3FE170
+3FC11E| 1| 19|0|D|Battle6                                 |[FD10] ENDURED[br]the hit!|[FD10] DOORSTOND[br]de aanval!|1,3FE170
 3FC132| 1| 13|0|D|Battle6                                 |MAGNITUDE [FD00]!|RICHTER SCHAAL [FD00]!|1,3FE174
 3FC140| 1| 39|0|D|Battle6                                 |[FD0F] cut its own HP[br]and maximized ATTACK!|[FD0F] verlaagde zijn HP[br]en maximaliseerde zijn AANVAL!|1,3FE178
 3FC168| 1| 28|0|D|Battle6                                 |[FD0F] copied[br][FD10]'s stat changes!|[FD0F] kopieerde[br][FD10] zijn status aanpassingen!|1,3FE17C
 3FC185| 1| 23|0|D|Battle6                                 |[FD0F] got free of[br][FD10]'s [FD00]!|[FD0F] geraakte uit[br][FD10] zijn [FD00]!|1,3FE180
 3FC19D| 1| 19|0|D|Battle6                                 |[FD0F] shed[br]LEECH SEED!|[FD0F] lostte[br]STEELZAAD!|1,3FE184
-3FC1B1| 1| 20|0|D|Battle6                                 |[FD0F] blew away[br]SPIKES!|[FD0F] blies SPIKES weg!|1,3FE188
+3FC1B1| 1| 20|0|D|Battle6                                 |[FD0F] blew away[br]SPIKES!|[FD0F] blies PINNEN weg!|1,3FE188
 3FC1C6| 1| 20|0|D|Battle6                                 |[FD0F] fled from[br]battle!|[FD0F] vluchtte van het[br]gevecht!|1,3FE18C
 3FC1DB| 1| 21|0|D|Battle6                                 |[FD0F] foresaw[br]an attack!|[FD0F] voorspelde[br]een aanval!|1,3FE190
 3FC1F1| 1| 22|0|D|Battle6                                 |[FD10] took the[br][FD00] attack!|[FD10] nam de[br][FD00] aanval!|1,3FE194
-3FC208| 1| 27|0|D|Battle6                                 |[FD0F] chose[br][FD14] as its destiny!|[FD0F] koos[br][FD14] als bestemming!!|1,3FE448
+3FC208| 1| 27|0|D|Battle6                                 |[FD0F] chose[br][FD14] as its destiny!|[FD0F] koos[br][FD14] als band!!|1,3FE448
 3FC224| 1| 12|0|D|Battle6                                 |[FD00]'s attack!|[FD00] zijn aanval!|1,3FE198
 3FC231| 1| 34|0|D|Battle6                                 |[FD0F] became the[br]center of attention!|[FD0F] werd het centrum[br]van alle aandacht!|1,3FE19C
 3FC254| 1| 24|0|D|Battle6                                 |[FD0F] began[br]charging power!|[FD0F] begon[br]kracht op te slaan!|1,3FE1A0
@@ -6822,7 +6822,7 @@
 3FC9AA| 1| 28|0|D|Battle8                                 |[FD10]'s [FD19][br]made [FD14] ineffective!|[FD10] zijn [FD19][br]maakte [FD14] nutteloos!|1,3FE3E8
 3FC9C7| 1| 29|0|D|Battle8                                 |[FD13]'s [FD1A][br]cured its [FD00] problem!|[FD13] zijn [FD1A][br]lostte zijn [FD00] probleem op!|1,3FE3EC
 3FC9E5| 1| 29|0|D|battle9                                 |It sucked up the[br]LIQUID OOZE!|Het zoog de [br]LIQUID OOZE op!|1,3FE3F0
-3FCA03| 1| 15|0|D|battle9                                 |[FD13] transformed!|[FD13] transformeerde!|1,3FE3F4
+3FCA03| 1| 15|0|D|battle9                                 |[FD13] transformed!|[FD13] veranderde!|1,3FE3F4
 3FCA13| 1| 24|0|D|battle9                                 |[FD10]'s [FD19][br]took the attack!|[FD10] zijn [FD19][br]nam de aanval!|1,3FE444
 3FCA2C| 1| 28|0|D|battle9                                 |[FD00]'s [FD17][br]prevents switching![nb2]|[FD00] zijn [FD17] zorgt[br]dat er niet gewisseld kan worden![nb2]|1,0443EC
 3FCA49| 1| 39|0|D|battle9                                 |[FD10]'s [FD19][br]prevented [FD13]'s[nb][FD00] from working!|[FD10] zijn [FD19][br]voorkwam dat [FD13] zijn[nb][FD00] werkte!|1,3FE460
@@ -6868,7 +6868,7 @@
 3FCDF2| 1| 21|0|D|Battle 10                               |But nothing happened!|Maar er gebeurde niets!|1,3FE29C
 3FCE08| 1| 14|0|D|Battle 10                               |But it failed!|Maar het mislukte!|1,3FE2A0
 3FCE17| 1| 32|0|D|Battle 10                               |It hurt itself in its[br]confusion!|Hij verwondde zichzelf in[br]zijn verwarring!|1,3FE2A4
-3FCE38| 1| 23|0|D|Battle 10                               |The MIRROR MOVE failed!|De MIRROR MOVE is mislukt!|1,3FE2A8
+3FCE38| 1| 23|0|D|Battle 10                               |The MIRROR MOVE failed!|De SPIEGEL ACTIE is mislukt!|1,3FE2A8
 3FCE50| 1| 19|0|D|Battle 10                               |It started to rain!|Het begon te regenen!|1,3FE2AC
 3FCE64| 1| 19|0|D|Battle 10                               |A downpour started!|Een stortbui!|1,3FE2B0
 3FCE78| 1| 23|0|D|Battle 10                               |Rain continues to fall.|Het blijft regenen.|1,3FE2B4
@@ -6888,7 +6888,7 @@
 3FCFC2| 1| 33|0|D|Battle 11                               |The wind turned into a[br]HEAT WAVE!|De wind veranderde in een[br]HITTEGOLF!|1,3FE2EC
 3FCFE4| 1| 33|0|D|Battle 11                               |All stat changes were[br]eliminated!|Alle status veranderingen[br]zijn ongedaan gemaakt!|1,3FE2F0
 3FD006| 1| 27|0|D|Battle 11                               |Coins scattered everywhere!|Geld vliegt overal in het rond!|1,3FE2F4
-3FD022| 1| 37|0|D|Battle 11                               |It was too weak to make[br]a SUBSTITUTE!|Het was te zwak om een[br]SIBSTITUTE te maken!|1,3FE2F8
+3FD022| 1| 37|0|D|Battle 11                               |It was too weak to make[br]a SUBSTITUTE!|Het was te zwak om een[br]VERVANGER te maken!|1,3FE2F8
 3FD048| 1| 31|0|D|Battle 11                               |The battlers shared[br]their pain!|De vechters delen[br]hun pijn!|1,3FE2FC
 3FD068| 1| 14|0|D|Battle 11                               |A bell chimed!|Er weerklinkt een bel!|1,3FE300
 3FD077| 1| 47|0|D|Battle 11                               |All affected POKÈMON will[br]faint in three turns!|Alle getroffen POKÈMON gaan[br]flauw vallen in drie beurten!|1,3FE304
@@ -7355,7 +7355,7 @@
 41756E| 1| 20|0|D|                                        |Move heavy boulders.||1,45A388
 417583| 1| 18|0|D|                                        |Light up darkness.||1,45A37C
 417596| 1| 23|0|D|                                        |Shatter a cracked rock.||1,45A390
-4175AE| 1| 18|0|D|                                        |Climb a waterfall.||1,45A394
+4175AE| 1| 18|0|D|                                        |Climb a waterfall.|Klim een waterval.|1,45A394
 4175CC| 1| 17|0|D|                                        |Escape from here.|Ontsnap hieruit.|1,45A39C
 4175DE| 1| 18|0|D|                                        |Lure wild POKÈMON.|Lok wilde POKÈMON.|1,45A3A8
 4175F1| 2|  9|0|D|                                        |Share HP.||1,45A3A0;1,45A3A4
@@ -7851,8 +7851,8 @@
 41A896| 1| 61|0|I|Previously                              |Sold items including [A]¿ at[br]the POKÈMON MART in [A] ,[br]worth $[A]¡.|Verkocht items, waaronder[br][A]¿ aan de POKÈMON MART in[br][A] ,voor een totaal van $[A]¡.|1,1156D4
 41A8D4| 1|  8|0|I|Previously                              |just one|slechts ÈÈn|1,115644
 41A8DD| 1|  2|0|I|Previously                              |[A]«|[A]«|1,115684
-41A8E0| 1| 43|0|I|Previously                              |[var1] shared its HP using the move[br]SOFTBOILED.|[var1] deelde zijn HP door middel [br]van de SOFTBOILED techniek.|1,456C48
-41A90C| 1| 43|0|I|Previously                              |[var1] shared its HP using the move[br]MILK DRINK.|[var1] deelde zijn HP door middel [br]van de MILK DRINK techniek.|1,456C44
+41A8E0| 1| 43|0|I|Previously                              |[var1] shared its HP using the move[br]SOFTBOILED.|[var1] deelde zijn HP door middel [br]van de ZACHTGEKOOKT techniek.|1,456C48
+41A90C| 1| 43|0|I|Previously                              |[var1] shared its HP using the move[br]MILK DRINK.|[var1] deelde zijn HP door middel [br]van de MELKDRANK techniek.|1,456C44
 41A938| 1| 44|0|I|Previously                              |[var1] securely learned the move[br][var2] using an HM.|[var1] leerde de techniek[br][var2] op een veilige manier dankzij[br]een HM.|1,114130
 41A965| 1| 67|0|I|Previously                              |[var1] securely learned the move[br][var2] using an HM and forgot[br]the move [var3].|[var1] leerde de techniek[br][var2] op een dankzij een HM[br]en vergat de [var3] techniek.|1,114100
 41A9A9| 1| 42|0|I|Previously                              |[A]» managed to defeat the POKÈMON[br][A]¿ in [A] .|[A]» slaagde er in de POKÈMON[br][A]¿ in [A]  te verslaan.|1,114F44
@@ -7869,11 +7869,11 @@
 41ABCD| 1| 43|0|I|Previously                              |[var1] used the Hidden Move[br]FLY and flew to [var2].|[var1] gebruikte de HM[br]VLIEG en vloog naar [var2].|1,456C28
 41ABF9| 1| 48|0|I|Previously                              |[var1] used the Hidden Move[br]SURF and rode the waves.|[var1] gebruikte de HM[br]SURF en surfte op de golven.|1,456C30
 41AC2A| 1| 38|0|I|Previously                              |[var1] used the Hidden Move[br]STRENGTH here.|[var1] gebruikte hier de [br]HM STERKTE.|1,456C2C
-41AC51| 1| 65|0|I|Previously                              |[var1] used the Hidden Move[br]FLASH and illuminated a pitch-black[br]cave.|[var1] gebruikte de HM[br]FLASH en verlichtte een pikdonkere[br]grot.|1,456C20
+41AC51| 1| 65|0|I|Previously                              |[var1] used the Hidden Move[br]FLASH and illuminated a pitch-black[br]cave.|[var1] gebruikte de HM[br]FLITS en verlichtte een pikdonkere[br]grot.|1,456C20
 41AC93| 1| 40|0|I|Previously                              |[var1] used the Hidden Move[br]ROCK SMASH here.|[var1] gebruikte hier de [br]HM ROCK SMASH.|1,456C34
-41ACBC| 1| 60|0|I|Previously                              |[var1] used the Hidden Move[br]WATERFALL to scale a raging torrent.|[var1] gebruikte de HM WATERFALL[br]om de watermassa te bestijgen.|1,456C38
-41AD1D| 1| 30|0|I|Previously                              |[var1] used DIG to escape from[br][var2].|[var1] gebruikte DIG om uit[br][var2] te ontsnappen.|1,456C40
-41AD3C| 1| 44|0|I|Previously                              |[var1] used SWEET SCENT to attract[br]wild POKÈMON.|[var1] gebruikte SWEET SCENT om[br]wilde POKÈMON aan te trekken.|1,456C4C
+41ACBC| 1| 60|0|I|Previously                              |[var1] used the Hidden Move[br]WATERFALL to scale a raging torrent.|[var1] gebruikte de HM WATERVAL[br]om de watermassa te bestijgen.|1,456C38
+41AD1D| 1| 30|0|I|Previously                              |[var1] used DIG to escape from[br][var2].|[var1] gebruikte GRAAF om uit[br][var2] te ontsnappen.|1,456C40
+41AD3C| 1| 44|0|I|Previously                              |[var1] used SWEET SCENT to attract[br]wild POKÈMON.|[var1] gebruikte ZOETE GEUR om[br]wilde POKÈMON aan te trekken.|1,456C4C
 41AD69| 1| 52|0|I|Previously                              |[var1] used TELEPORT, transporting[br]the party to [var2]'s[br][var3].|[var1] gebruikte TELEPORT[br]en verplaatste de hele groep naar[br][var2]'s [var3].|1,456C3C
 41AD9E| 1| 41|0|I|Previously                              |[PLAYER] left [var1]'s[br][var2] for the next[br]destination.|[PLAYER] verliet [var1]'s[br][var2] op weg naar de volgende[br]bestemming.|1,456BC0
 41ADC8| 1| 54|0|I|Previously                              |Played a lot of games at the ROCKET[br]GAME CORNER in [var1].|Speelde veel spelletjes in de ROCKET[br]GAME CORNER in [var1].|1,456BC4
@@ -8238,7 +8238,7 @@
 4453BA| 1|103|0|I|PokÈmon flavor text                     |It spreads its gorgeous wings widely to[br]intimidate enemies. It races through the[br]skies at Mach-2 speed.||1,44EAE8
 445423| 1|107|0|I|PokÈmon flavor text                     |Its fangs are long and very sharp.[br]They grow continuously, so it gnaws on[br]hard things to whittle them down.||1,44EB0C
 445490| 1| 87|0|I|PokÈmon flavor text                     |Its rear feet have three toes each.[br]They are webbed, enabling it to swim[br]across rivers.||1,44EB30
-4454E9| 1|104|0|I|PokÈmon flavor text                     |It busily flits around here and there.[br]Even if it is frail, it can be a tough[br]foe that uses MIRROR MOVE.||1,44EB54
+4454E9| 1|104|0|I|PokÈmon flavor text                     |It busily flits around here and there.[br]Even if it is frail, it can be a tough[br]foe that uses MIRROR MOVE.|Beweegt snel overal heen en weer.[br]Hoe breekbaar het ook lijkt, het is[br]erg sterk met SPIEGEL ACTIE.|1,44EB54
 445553| 1|110|0|I|PokÈmon flavor text                     |Its huge and magnificent wings can keep it[br]aloft in the sky. It can remain flying a[br]whole day without landing.||1,44EB78
 4455C3| 1|107|0|I|PokÈmon flavor text                     |A very common sight in grassland, etc.[br]It flicks its tongue in and out to sense[br]danger in its surroundings.||1,44EB9C
 445630| 1|112|0|I|PokÈmon flavor text                     |The pattern on its belly appears to be a[br]frightening face. Weak foes will flee just[br]at the sight of the pattern.||1,44EBC0
@@ -8317,7 +8317,7 @@
 4473F8| 1|107|0|I|PokÈmon flavor text                     |It carries a pendulum-like device. There[br]once was an incident in which it took [br]away a child it hypnotized.||1,44F604
 447465| 1| 96|0|I|PokÈmon flavor text                     |It can be found near the sea. The large[br]pincers grow back if they are torn out of[br]their sockets.||1,44F628
 4474C7| 1|105|0|I|PokÈmon flavor text                     |Its large and hard pincer has 10,000-[br]horsepower strength. However, being so[br]big, it is unwieldy to move.||1,44F64C
-447532| 1| 86|0|I|PokÈmon flavor text                     |A life-form whose identity is unknown.[br]It is said to SCREECH or suddenly[br]SELFDESTRUCT.||1,44F670
+447532| 1| 86|0|I|PokÈmon flavor text                     |A life-form whose identity is unknown.[br]It is said to SCREECH or suddenly[br]SELFDESTRUCT.|Een onbekende levensvorm.[br]Bekend om de KRIJSEN of plots[br]zichzelf op te blazen.|1,44F670
 44758A| 1| 98|0|I|PokÈmon flavor text                     |It explodes in response to even minor[br]stimuli. It is feared, with the nickname[br]of ´The Bomb Ball.ª||1,44F694
 4475EE| 1|107|0|I|PokÈmon flavor text                     |Even though it appears to be eggs of[br]some sort, it was discovered to be a life-[br]form more like plant seeds.||1,44F6B8
 44765B| 1| 98|0|I|PokÈmon flavor text                     |It is called ´The Walking Tropical[br]Rainforest.ª Each of the nuts has[br]a face and a will of its own.||1,44F6DC
@@ -8664,10 +8664,10 @@
 454BCD| 1| 47|0|I|Interior Items                          |A mat that plays[br]a high C note when[br]stepped on.||1,455E50
 454BFD| 1| 51|0|I|Interior Items                          |A mat designed with[br]a SURF image.[br]Put items on top.||1,455E70
 454C31| 1| 54|0|I|Interior Items                          |A mat designed with[br]a THUNDER image.[br]Put items on top.||1,455E90
-454C68| 1| 57|0|I|Interior Items                          |A mat designed with[br]a FIRE BLAST image.[br]Put items on top.||1,455EB0
+454C68| 1| 57|0|I|Interior Items                          |A mat designed with[br]a FIRE BLAST image.[br]Put items on top.|Een mat met een[br]VUURBAL tekening op.[br]Zet er items op.|1,455EB0
 454CA2| 1| 56|0|I|Interior Items                          |A mat with a POWDER[br]SNOW image design.[br]Put items on top.||1,455ED0
-454CDB| 1| 55|0|I|Interior Items                          |A mat designed with[br]an ATTRACT image.[br]Put items on top.||1,455EF0
-454D13| 1| 54|0|I|Interior Items                          |A mat designed with[br]a FISSURE image.[br]Put items on top.||1,455F10
+454CDB| 1| 55|0|I|Interior Items                          |A mat designed with[br]an ATTRACT image.[br]Put items on top.|Een mat met een[br]LOK afbeelding.[br]Zet er items op.|1,455EF0
+454D13| 1| 54|0|I|Interior Items                          |A mat designed with[br]a FISSURE image.[br]Put items on top.|Mat met een tekening[br]van een AFGROND.[br]Zet er iets op.|1,455F10
 454D4A| 1| 53|0|I|Interior Items                          |A mat designed with[br]a SPIKES image.[br]Put items on top.||1,455F30
 454D80| 1| 39|0|I|Interior Items                          |A small poster[br]printed with POKÈ[br]BALLS.||1,455F50
 454DA8| 1| 36|0|I|Interior Items                          |A small poster with[br]a TREECKO print.||1,455F70
@@ -8946,7 +8946,7 @@
 483EC2| 2| 64|0|I|Move Desc. (4 half lines)               |A brutal lightning[br]attack that may[br]also leave the foe[br]paralyzed.|Een bliksemaanval[br]die de vijand kan[br]verlammen.|1,3DE608;1,488840
 483F03| 1| 64|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with a shower of[br]small, easily[br]thrown rocks.|De vijand wordt[br]bekogeld met een[br]regen van kleine[br]stenen.|1,488844
 483F44| 2| 68|0|I|Move Desc. (4 half lines)               |An earthquake that[br]strikes all POKÈMON[br]in battle excluding[br]the user.|Een aardbeving die[br]alle POKÈMON in het[br]gevecht treft.[br]Behalve de gebruiker.|1,3DE634;1,488848
-483F89| 1| 61|0|I|Move Desc. (4 half lines)               |The foe is dropped[br]into a fissure.[br]The foe faints if it[br]hits.|Doet de vijand[br]vallen in een schacht[br]De vijand valt flauw[br]als de aanval raakt.|1,48884C
+483F89| 1| 61|0|I|Move Desc. (4 half lines)               |The foe is dropped[br]into a fissure.[br]The foe faints if it[br]hits.|Doet de vijand[br]vallen in een afgrond[br]De vijand valt flauw[br]als de aanval raakt.|1,48884C
 483FC7| 2| 71|0|I|Move Desc. (4 half lines)               |An attack that hits[br]on the 2nd turn.[br]Can also be used[br]to exit dungeons.|Deze aanval raakt[br]op de 2e beurt.[br]Ook gebruikt om[br]kerkers te verlaten.|1,3DE68C;1,488850
 48400F| 2| 72|0|I|Move Desc. (4 half lines)               |A move that badly[br]poisons the foe.[br]Its poison damage[br]worsens every turn.|De vijand word heel[br]erg vergiftigd. De[br]schade word elke[br]beurt hoger.|1,3DE2C4;1,488854
 484058| 1| 63|0|I|Move Desc. (4 half lines)               |A weak telekinetic[br]attack that may[br]also leave the foe[br]confused.|Telekinetische[br]aanval die [br]de vijand[br]kan verwarren.|1,488858
@@ -8978,7 +8978,7 @@
 48475E| 1| 67|0|I|Move Desc. (4 half lines)               |The user counters[br]the move last used[br]by the foe with the[br]same move.|Gebruikt de laatst[br]gebruikte actie van[br]de vijand als tegen-[br]actie.|1,4888C0
 4847A2| 1| 69|0|I|Move Desc. (4 half lines)               |The user blows up[br]to inflict severe[br]damage, even[br]making itself faint.|Blaast zichzelf op[br]om heel veel schade[br]te doen. Valt hier[br]bij zelf flauw.|1,4888C4
 4847E8| 1| 68|0|I|Move Desc. (4 half lines)               |A large egg is[br]hurled with great[br]force at the foe to[br]inflict damage.|Een groot ei word[br]gegooid naar de[br]vijand om schade[br]te doen.|1,4888C8
-48482D| 1| 67|0|I|Move Desc. (4 half lines)               |The foe is licked[br]and hit with a long[br]tongue. It may[br]also paralyze.|Lekt de vijand met[br]een lang tong.[br]Kan de vijand[br]verlammen.|1,4888CC
+48482D| 1| 67|0|I|Move Desc. (4 half lines)               |The foe is licked[br]and hit with a long[br]tongue. It may[br]also paralyze.|Likt de vijand met[br]een lang tong.[br]Kan de vijand[br]verlammen.|1,4888CC
 484871| 1| 67|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with exhaust gases.[br]It may also poison[br]the foe.|Aanval met[br]uitlaatgassen.[br]Kan de vijand[br]vergiftigen.|1,4888D0
 4848B5| 1| 60|0|I|Move Desc. (4 half lines)               |Toxic sludge is[br]hurled at the foe.[br]It may poison the[br]target.|Giftig slijm word[br]gegooid naar de[br]vijand. De vijand kan[br]vergiftigd worden.|1,4888D4
 4848F2| 1| 72|0|I|Move Desc. (4 half lines)               |The foe is clubbed[br]with a bone held in[br]hand. It may make[br]the foe flinch.|Slaat de vijand met[br]een bot.[br]Kan de vijand doen[br]terugdeinzen.|1,4888D8
@@ -9006,7 +9006,7 @@
 484EE5| 1| 58|0|I|Move Desc. (4 half lines)               |The user scatters[br]bursts of fine[br]spores that induce[br]sleep.|Verspreid een hele[br]hoop sporen die[br]slaap verwekken bij[br]de tegenstander.|1,488930
 484F20| 2| 73|0|I|Move Desc. (4 half lines)               |A blast of light[br]that cuts the foe's[br]accuracy. It also[br]illuminates caves.|Een lichtflits die[br]de vijand zijn[br]precisie verlaagt.[br]Verlicht ook grotten.|1,3DEB30;1,488934
 484F6A| 1| 74|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with an odd, hot[br]energy wave that[br]varies in intensity.|Een aanval met een[br]hete enrgiestraal[br]die niet ontweken[br]kan worden.|1,488938
-484FB5| 1| 66|0|I|Move Desc. (4 half lines)               |The user just flops[br]and splashes around[br]without having any[br]effect.|Flippert en splatst[br]wat in het rond[br]zonder enig effect.|1,48893C
+484FB5| 1| 66|0|I|Move Desc. (4 half lines)               |The user just flops[br]and splashes around[br]without having any[br]effect.|Flippert en plonst[br]wat in het rond[br]zonder enig effect.|1,48893C
 484FF8| 1| 70|0|I|Move Desc. (4 half lines)               |The user alters its[br]cells to liquefy[br]itself and sharply[br]raise DEFENSE.|De gebruiker word[br]vloeibaar, dit[br]verhoogt AFWEER[br]heel veel.|1,488940
 48503F| 1| 75|0|I|Move Desc. (4 half lines)               |A large pincer is[br]used to hammer the[br]foe. It has a high[br]critical-hit ratio.|Een grote schaar[br]word gebruikt om de[br]vijand te slaan. Veel[br]kans op superslagen.|1,488944
 48508B| 1| 72|0|I|Move Desc. (4 half lines)               |The user explodes[br]to inflict terrible[br]damage even while[br]fainting itself.|explodeert zichzelf[br]om heel veel schade[br]te doen. Valt hier[br]bij zelf flauw.|1,488948
@@ -9136,7 +9136,7 @@
 487234| 1| 65|0|I|Move Desc. (4 half lines)               |Reflects back the[br]foe's LEECH SEED[br]and any status-[br]damaging move.|Kaatst STEELZAAD[br]en andere status[br]veranderende acties[br]terug.|1,488B38
 487276| 1| 51|0|I|Move Desc. (4 half lines)               |A move that[br]recycles a used[br]item for use once[br]more.|Recycleert een[br]gebruikt item[br]zodat het nog eens[br]gebruikt kan worden.|1,488B3C
 4872AA| 1| 71|0|I|Move Desc. (4 half lines)               |An attack move that[br]gains in intensity if[br]the target has hurt[br]the user.|Techniek die meer[br]schade doet als de[br]vijand je al pijn[br]heeft gedaan.|1,488B40
-4872F2| 2| 69|0|I|Move Desc. (4 half lines)               |An attack that also[br]breaks any barrier[br]like LIGHT SCREEN[br]and REFLECT.|Breekt door elke[br]muur zoals LIGHT[br]SCREEN en REFLECT.|1,3DE710;1,488B44
+4872F2| 2| 69|0|I|Move Desc. (4 half lines)               |An attack that also[br]breaks any barrier[br]like LIGHT SCREEN[br]and REFLECT.|Breekt door elke[br]muur zoals[br]LICHTSCHERM[br]en KAATS TERUG.|1,3DE710;1,488B44
 487338| 1| 63|0|I|Move Desc. (4 half lines)               |A huge yawn lulls[br]the foe into falling[br]asleep on the next[br]turn.|Een grote geeuw[br]versuft de vijand[br]zodat hij volgende[br]beurt in slaap valt.|1,488B48
 487378| 1| 69|0|I|Move Desc. (4 half lines)               |Knocks down the[br]foe's held item to[br]prevent its use[br]during the battle.|Voorkomt dat de[br]vijand zijn item[br]gebruikt tijdens[br]het gevecht.|1,488B4C
 4873BE| 1| 60|0|I|Move Desc. (4 half lines)               |Gains power the[br]fewer HP the user[br]has compared with[br]the foe.|Hoe lager de HP van[br]de gebruiker in[br]vergelijking met de[br]vijand, hoe sterker.|1,488B50
