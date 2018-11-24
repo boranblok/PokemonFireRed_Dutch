@@ -4011,34 +4011,34 @@
 1BF28E| 1|126|0|D|Pewter Center                           |Hmhm[...][nb2]Your profile really says something[br]about who you are.[nb2]Now that I know you better, it [br]makes us better friends than ever!|Hmmm[...][nb2]Je profiel zegt echt iets over[br]wie je bent.[nb2]Nu ik je beter ken maakt dit ons[br]nog dikkere vrienden!|1,1BEEBB
 1BF30D| 1| 92|0|D|Profile                                 |Oh, I've heard that before[...][nb2]My cousin, who lives far away,[br]always used to say that, I think.||1,1BEF52
 1BF36A| 1| 45|0|D|Profile                                 |Please tell me more about[br]yourself next time!||1,1BEE3C
-1BF555| 1|141|0|D|Day-care                                |I'm the DAY-CARE MAN.[nb2]I help take care of the precious[br]POKÈMON of TRAINERS.[nb2]If you'd like me to raise your[br]POKÈMON, have a word with my wife.||1,167D93
-1BF5E3| 1|182|0|D|Day-care                                |Ah, it's you![nb2]We were raising your POKÈMON, and[br]my goodness, were we surprised![nb2]Your POKÈMON had an EGG![nb2]We don't know how it got there,[br]but your POKÈMON had it.[nb2]You do want it, yes?||1,167D9D
-1BF69A| 1| 52|0|D|Day-care                                |Ah, it's you! Good to see you.[br]Your [var1]'s doing fine.||1,167E11
-1BF6CF| 1| 32|0|D|Day-care                                |Well then, I'll keep it.[br]Thanks!||1,167DC3
-1BF6F0| 1| 57|0|D|Day-care                                |You have no room for it[...][br]Come back when you've made room.||1,167DE3
-1BF72A| 1| 42|0|D|Day-care                                |[PLAYER] received the EGG from[br]the DAY-CARE MAN.||1,167DEE
-1BF755| 1| 21|0|D|Day-care                                |Take good care of it.||1,167DFE
-1BF789| 1| 44|0|D|Day-care                                |Ah, it's you! Your [var1] and[br][var2] are doing fine.||1,167E1E
-1BF7B6| 1| 45|0|D|Day-care                                |I really will keep it.[br]You do want this, yes?||1,167DB0
-1BF7E4| 1| 84|0|D|Day-care                                |I'm the DAY-CARE LADY.[nb2]We can raise POKÈMON for you.[nb2]Would you like us to raise one?||1,171978
-1BF839| 1| 38|0|D|Day-care                                |Which POKÈMON should we raise for[br]you?||1,1719A5
-1BF860| 1| 62|0|D|Day-care                                |Fine, we'll raise your [var1][br]for a while.[nb2]Come back for it later.||1,1719D9
-1BF89F| 2| 86|0|D|Day-care                                |We can raise two of your POKÈMON.[nb2]Would you like us to raise one[br]more POKÈMON for you?||1,171A03;1,171A66
-1BF8F6| 1| 31|0|D|Day-care                                |My husband was looking for you.||1,171A30
-1BF916| 1| 27|0|D|Day-care                                |Oh, fine, then.[br]Come again.||1,17198B
+1BF555| 1|141|0|D|Day-care                                |I'm the DAY-CARE MAN.[nb2]I help take care of the precious[br]POKÈMON of TRAINERS.[nb2]If you'd like me to raise your[br]POKÈMON, have a word with my wife.|Ik ben de OPPAS.[nb2]Ik draag zorg voor de kostbare[br]POKÈMON van TRAINERS.[nb2]Als je graag hebt dat ik op je[br]POKÈMON pas spreek eens met mijn[nb]vrouw.|1,167D93
+1BF5E3| 1|182|0|D|Day-care                                |Ah, it's you![nb2]We were raising your POKÈMON, and[br]my goodness, were we surprised![nb2]Your POKÈMON had an EGG![nb2]We don't know how it got there,[br]but your POKÈMON had it.[nb2]You do want it, yes?|Ah, jij bent het![nb2]We waren op je POKÈMON aan het[br]passen en tjonge wat waren we[nb]verrast![nb2]Je POKÈMON heeft een EI gelegd![nb2]We weten niet hoe het er gekomen is[br]maar je POKÈMON had het.[nb2]Wil je het hebben?|1,167D9D
+1BF69A| 1| 52|0|D|Day-care                                |Ah, it's you! Good to see you.[br]Your [var1]'s doing fine.|Ah, jij bent het! Goed je te zien.[br]Je [var1] stelt het goed.|1,167E11
+1BF6CF| 1| 32|0|D|Day-care                                |Well then, I'll keep it.[br]Thanks!|Well, dan hou ik het zelf.|1,167DC3
+1BF6F0| 1| 57|0|D|Day-care                                |You have no room for it[...][br]Come back when you've made room.|Je hebt er geen plaats voor[...][br]Kom terug als je meer plaats hebt.|1,167DE3
+1BF72A| 1| 42|0|D|Day-care                                |[PLAYER] received the EGG from[br]the DAY-CARE MAN.|[PLAYER] kreeg het EI van[br]de OPPAS.|1,167DEE
+1BF755| 1| 21|0|D|Day-care                                |Take good care of it.|Draag er zorg voor.|1,167DFE
+1BF789| 1| 44|0|D|Day-care                                |Ah, it's you! Your [var1] and[br][var2] are doing fine.|Ah, jij bent het! Je [var1] en[br][var2] stellen het goed.|1,167E1E
+1BF7B6| 1| 45|0|D|Day-care                                |I really will keep it.[br]You do want this, yes?|Ik ga het echt houden.[br]Wil je het zeker niet hebben?|1,167DB0
+1BF7E4| 1| 84|0|D|Day-care                                |I'm the DAY-CARE LADY.[nb2]We can raise POKÈMON for you.[nb2]Would you like us to raise one?|Ik ben de OPPAS VROUW.[nb2]We kunnen op je POKÈMON passen.[nb2]Wil je dat we op ÈÈn van je[br]POKÈMON passen?|1,171978
+1BF839| 1| 38|0|D|Day-care                                |Which POKÈMON should we raise for[br]you?|Welke POKÈMON ga je hier achter[br]laten?|1,1719A5
+1BF860| 1| 62|0|D|Day-care                                |Fine, we'll raise your [var1][br]for a while.[nb2]Come back for it later.|OK, we gaan een tijdje op jouw[br][var1] passen.[nb2]Kom er later maar terug om.|1,1719D9
+1BF89F| 2| 86|0|D|Day-care                                |We can raise two of your POKÈMON.[nb2]Would you like us to raise one[br]more POKÈMON for you?|We kunnen op twee van je POKÈMON[br]passen.[nb2]Wil je dat we op nog een POKÈMON[br]passen?|1,171A03;1,171A66
+1BF8F6| 1| 31|0|D|Day-care                                |My husband was looking for you.|Mij man zoekt je.|1,171A30
+1BF916| 1| 27|0|D|Day-care                                |Oh, fine, then.[br]Come again.|Oh, ok dan.[br]Tot nog eens.|1,17198B
 1BF932| 1| 28|0|D|Day-care                                |You don't have enough money[...]|Je hebt niet genoeg geld.|1,171AFD
-1BF94F| 1| 38|0|D|Day-care                                |Will you take back the other one,[br]too?||1,171B50
-1BF976| 3| 17|0|D|Day-care                                |Fine.[br]Come again.||1,1719F9;1,171BB7;1,171BE2
-1BF988| 2| 67|0|D|Day-care                                |Ah, it's you![br]Good to see you.[nb2]Your POKÈMON can only be doing[br]good!||1,171A54;1,171B88
-1BF9CC| 1| 34|0|D|Day-care                                |By level, your [var1] has[br]grown by [var2].||1,171A3A
-1BF9EF| 1| 56|0|D|Day-care                                |Your POKÈMON party is full.[br]Make room, then come see me.||1,171B69
-1BFA3B| 1| 43|0|D|Day-care                                |If you want your [var1] back,[br]it will cost $[var2].||1,171AD4
-1BFA67| 2| 29|0|D|Day-care                                |Perfect![br]Here's your POKÈMON.||1,171B1C;1,171BDA
-1BFA85| 1| 39|0|D|Day-care                                |[PLAYER] took back [var1] from[br]the DAY-CARE LADY.||1,171B2C
-1BFAAD| 1| 58|0|D|Day-care                                |Oh? But you have just one[br]POKÈMON.[nb2]Come back another time.||1,171A1C
-1BFAE8| 2| 32|0|D|Day-care                                |Will you take your POKÈMON back?||1,171A79;1,171BA4
-1BFB09| 1| 80|0|D|Day-care                                |If you leave me that POKÈMON,[br]what will you battle with?[nb2]Come back another time.||1,171A26
-1BFB5A| 1|  4|0|D|Day-care                                |Huh?||1,1BF549
+1BF94F| 1| 38|0|D|Day-care                                |Will you take back the other one,[br]too?|Ga je je andere POKÈMON ook[br]terug mee pakken?|1,171B50
+1BF976| 3| 17|0|D|Day-care                                |Fine.[br]Come again.|Ok dan.[br]Tot nog eens.|1,1719F9;1,171BB7;1,171BE2
+1BF988| 2| 67|0|D|Day-care                                |Ah, it's you![br]Good to see you.[nb2]Your POKÈMON can only be doing[br]good!|Ah, jij bent het![br]Goed je te zien.[nb2]Je POKÈMON kan het alleen maar[br]goed stellen!|1,171A54;1,171B88
+1BF9CC| 1| 34|0|D|Day-care                                |By level, your [var1] has[br]grown by [var2].|Jouw [var1] is al[br][var2] levels gegroeid.|1,171A3A
+1BF9EF| 1| 56|0|D|Day-care                                |Your POKÈMON party is full.[br]Make room, then come see me.|Je hebt al zes POKÈMON bij je.[br]Maak wat plaats en kom dan terug.|1,171B69
+1BFA3B| 1| 43|0|D|Day-care                                |If you want your [var1] back,[br]it will cost $[var2].|Als je je [var1] terug wil[br]gaat je dat $[var2] kosten.|1,171AD4
+1BFA67| 2| 29|0|D|Day-care                                |Perfect![br]Here's your POKÈMON.|Perfect![br]Hier is je POKÈMON.|1,171B1C;1,171BDA
+1BFA85| 1| 39|0|D|Day-care                                |[PLAYER] took back [var1] from[br]the DAY-CARE LADY.|[PLAYER] nam [var1] terug[br]van de OPPASS VROUW.|1,171B2C
+1BFAAD| 1| 58|0|D|Day-care                                |Oh? But you have just one[br]POKÈMON.[nb2]Come back another time.|O? Maar je hebt maar ÈÈn[br]POKÈMON bij je.[nb2]Kom later nog eens terug.|1,171A1C
+1BFAE8| 2| 32|0|D|Day-care                                |Will you take your POKÈMON back?|Neem je je POKÈMON terug mee?|1,171A79;1,171BA4
+1BFB09| 1| 80|0|D|Day-care                                |If you leave me that POKÈMON,[br]what will you battle with?[nb2]Come back another time.|Als je die POKÈMON hier achter[br]laat, waarmee ga je dan vechten?[nb2]Kom later nog eens terug.|1,171A26
+1BFB5A| 1|  4|0|D|Day-care                                |Huh?|Hu?|1,1BF549
 1BFB6E| 1| 24|0|D|Missed text                             |REPEL's effect wore off[...]|Het effect van VERJAAG[br]is gestopt[...]|1,1BFB67
 1BFBE9| 1| 49|0|D|Safari zone announcements               |Would you like to exit the SAFARI[br]ZONE right now?|Wil je nu de SAFARI ZONE[br]reeds verlaten?|1,1BFBAD
 1BFC1B| 1| 55|0|D|Safari zone announcements               |PA: Ding-dong![nb2]Time's up![nb2]PA: Your SAFARI GAME is over!|PA: Ding-dong![nb2]De tijd is op![nb2]PA: Je SAFARI SPEL is gedaan!|1,1BFBCB
@@ -4073,7 +4073,7 @@
 1C12A7| 1| 46|0|D|misc missed text                        |It's the latest video game![br]It sure looks fun!|Het is het nieuwse video spel![br]Het ziet er leuk uit!|1,1A7623
 1C12D6| 1| 41|0|D|Damaged House                           |There are obvious signs of burglary[br]here[...]|Hier is duidelijk ingebroken[...]|1,1A7647
 1C1300| 1| 55|0|D|Misc. House Items                       |There's a POKÈMON on TV![br]It looks like it's having fun.|Er is een POKÈMON op TV![br]Hij lijkt plezier te hebben.|1,1A7650
-1C139A| 1| 59|0|D|VS Seeker                               |gh.[nb2]No. of steps required to fully[br]charge the battery: [var1][pausBtn]||1,003821
+1C137C| 1| 89|0|D|VS Seeker                               |The battery isn't charged enough.[nb2]No. of steps required to fully[br]charge the battery: [var1][pausBtn]||1,10C6CC
 1C13D6| 1| 82|0|D|VS Seeker                               |There are no TRAINERS within range[br]who can battle[...][nb2]The VS SEEKER was turned off.[pausBtn]||1,10C6E8
 1C1429| 1| 80|0|D|VS Seeker                               |The other TRAINERS don't appear[br]to be ready for battle.[nb2]Let's wait till later.[pausBtn]||1,10C934
 1C147A| 1| 34|0|D|VS Seeker                               |Hey![br]I saw you in VIRIDIAN FOREST!|HÈ![br]Ik heb je gezien in VIRIDIAN BOS!|1,1A9472
