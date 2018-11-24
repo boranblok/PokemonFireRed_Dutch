@@ -4073,243 +4073,243 @@
 1C12A7| 1| 46|0|D|misc missed text                        |It's the latest video game![br]It sure looks fun!|Het is het nieuwse video spel![br]Het ziet er leuk uit!|1,1A7623
 1C12D6| 1| 41|0|D|Damaged House                           |There are obvious signs of burglary[br]here[...]|Hier is duidelijk ingebroken[...]|1,1A7647
 1C1300| 1| 55|0|D|Misc. House Items                       |There's a POKÈMON on TV![br]It looks like it's having fun.|Er is een POKÈMON op TV![br]Hij lijkt plezier te hebben.|1,1A7650
-1C137C| 1| 89|0|D|VS Seeker                               |The battery isn't charged enough.[nb2]No. of steps required to fully[br]charge the battery: [var1][pausBtn]||1,10C6CC
-1C13D6| 1| 82|0|D|VS Seeker                               |There are no TRAINERS within range[br]who can battle[...][nb2]The VS SEEKER was turned off.[pausBtn]||1,10C6E8
-1C1429| 1| 80|0|D|VS Seeker                               |The other TRAINERS don't appear[br]to be ready for battle.[nb2]Let's wait till later.[pausBtn]||1,10C934
+1C137C| 1| 89|0|D|VS Seeker                               |The battery isn't charged enough.[nb2]No. of steps required to fully[br]charge the battery: [var1][pausBtn]|De batterij is leeg.[nb2]Aantal stappen nodig om de batterij[br]helemaal op te laden: [var1][pausBtn]|1,10C6CC
+1C13D6| 1| 82|0|D|VS Seeker                               |There are no TRAINERS within range[br]who can battle[...][nb2]The VS SEEKER was turned off.[pausBtn]|Er zijn geen TRAINERS binnen[br]bereik die kunnen vechten[...][nb2]De VS ZOEKER is uitgezet.[pausBtn]|1,10C6E8
+1C1429| 1| 80|0|D|VS Seeker                               |The other TRAINERS don't appear[br]to be ready for battle.[nb2]Let's wait till later.[pausBtn]|De andere TRAINERS zijn zo te[br]zien nog niet klaar om te vechten.[nb2]Laten we wachten tot later.[pausBtn]|1,10C934
 1C147A| 1| 34|0|D|VS Seeker                               |Hey![br]I saw you in VIRIDIAN FOREST!|HÈ![br]Ik heb je gezien in VIRIDIAN BOS!|1,1A9472
-1C149D| 1| 85|0|D|VS Seeker                               |Hi! I like shorts![br]They're comfy and easy to wear![nb2]You should be wearing shorts, too!||1,1A93F6
-1C14F3| 1| 45|0|D|VS Seeker                               |Excuse me![br]You keep looking at me, don't you?||1,1A952C
-1C1521| 1| 59|0|D|VS Seeker                               |You're a TRAINER, aren't you?[br]Let's get with it right away!||1,1A94B0
-1C155D| 1| 42|0|D|VS Seeker                               |That look you give me[...][br]It intrigues me so!||1,1A956A
-1C1588| 1| 60|0|D|VS Seeker                               |Hey! What's wrong with you?[br]You're still not wearing shorts!||1,1A9434
-1C15C5| 1| 51|0|D|VS Seeker                               |I'll battle you with the POKÈMON[br]I started raising.||1,1A94EE
-1C15F9| 1| 21|0|D|VS Seeker                               |Eek![br]Did you push me?||1,1A95A8
-1C160F| 2| 44|0|D|VS Seeker                               |I always catch mushroom POKÈMON[br]on MT. MOON.||1,1A95E6;1,4B763A
-1C163C| 1| 48|0|D|VS Seeker                               |Oh! You're that nosy kid who[br]eavesdropped on us!||1,1A9A42
-1C166D| 1|116|0|D|VS Seeker                               |Excuse me! Didn't I tell you that[br]this is a private conversation?[nb2]You shouldn't be listening in,[br]you uncouth person!||1,1A9ABE
-1C16E2| 1| 64|0|D|VS Seeker                               |I'm trying to find something good[br]that's not a BUG POKÈMON, but[...]||1,1A99C6
-1C1723| 1| 34|0|D|VS Seeker                               |Huh?[br]You want to go with me again?||1,1A9A80
-1C1746| 1| 36|0|D|VS Seeker                               |Me?[br]Well, okay. I'll play this once.||1,1A9AFC
-1C176B| 1| 39|0|D|VS Seeker                               |Hey, long time![br]Have you gotten better?||1,1A9A04
-1C1793| 1| 57|0|D|VS Seeker                               |You are good at POKÈMON, but how[br]is your chemistry grade?||1,1AA240
-1C17CD| 1| 35|0|D|VS Seeker                               |All right![br]Let's play another game!||1,1AA2FA
-1C17F1| 1| 66|0|D|VS Seeker                               |You need strategy to win at[br]battling.[nb2]Are you following my advice?||1,1AA27E
-1C1834| 1| 62|0|D|VS Seeker                               |I've collected many NIDORAN.[br]I don't want them to evolve, but[...]||1,1AA148
-1C1873| 1| 54|0|D|VS Seeker                               |School is fun, but I still think[br]POKÈMON are fun, too.||1,1AA2BC
-1C18AA| 1| 49|0|D|VS Seeker                               |MEOWTH and PERSIAN are so cute,[br]meow, meow, meow!||1,1AA186
-1C18DC| 1| 66|0|D|VS Seeker                               |We may look silly standing here[br]like this, but I can still battle.||1,1AA1C4
-1C191F| 1| 53|0|D|VS Seeker                               |I'm a rambling, gaming dude![br]I'm on a winning streak!||1,1AA338
-1C1955| 1| 70|0|D|VS Seeker                               |What's a cute, round, and fluffy[br]POKÈMON?[nb2]You already know, don't you?||1,1AA202
-1C199C| 1| 31|0|D|VS Seeker                               |My bike's still acting up, man.||1,1AA402
-1C19BC| 1| 40|0|D|VS Seeker                               |Okay, kid![br]Don't expect mercy this time!||1,1AA440
-1C19E5| 1| 39|0|D|VS Seeker                               |ELI: Our twin power became even[br]better!||1,1AA37A
-1C1A0D| 1| 32|0|D|VS Seeker                               |ANNE: Our twin power powered up!||1,1AA3C0
-1C1A2E| 1| 46|0|D|VS Seeker                               |We're to battle again?[br]This time, you're mine!||1,1A9E9E
-1C1A5D| 1| 61|0|D|VS Seeker                               |I haven't forgotten you were with[br]those good-looking POKÈMON.||1,1A9E22
+1C149D| 1| 85|0|D|VS Seeker                               |Hi! I like shorts![br]They're comfy and easy to wear![nb2]You should be wearing shorts, too!|Hallo! Ik hou van shorts![br]Ze zijn gemakkelijk te dragen![nb2]Je draagt ook beter shorts!|1,1A93F6
+1C14F3| 1| 45|0|D|VS Seeker                               |Excuse me![br]You keep looking at me, don't you?|Excuseer![br]Je blijft naar mij kijken hÈ?|1,1A952C
+1C1521| 1| 59|0|D|VS Seeker                               |You're a TRAINER, aren't you?[br]Let's get with it right away!|Jij bent een TRAINER hÈ?[br]Laten we direct beginnen!|1,1A94B0
+1C155D| 1| 42|0|D|VS Seeker                               |That look you give me[...][br]It intrigues me so!|De manier waarop je naar me kijkt[...][br]Is intrigerend!|1,1A956A
+1C1588| 1| 60|0|D|VS Seeker                               |Hey! What's wrong with you?[br]You're still not wearing shorts!|Wat scheelt er toch met jou?[br]Je draagt nog steeds geen shorts!|1,1A9434
+1C15C5| 1| 51|0|D|VS Seeker                               |I'll battle you with the POKÈMON[br]I started raising.|Ik ga vechten met jou met de[br]POKÈMON die ik train.|1,1A94EE
+1C15F9| 1| 21|0|D|VS Seeker                               |Eek![br]Did you push me?|HÈ![br]Heb jij me geduwd?|1,1A95A8
+1C160F| 2| 44|0|D|VS Seeker                               |I always catch mushroom POKÈMON[br]on MT. MOON.|Ik vang paddestoel POKÈMON[br]op MT. MOON.|1,1A95E6;1,4B763A
+1C163C| 1| 48|0|D|VS Seeker                               |Oh! You're that nosy kid who[br]eavesdropped on us!|O! Jij bent die nieuwschierige kleine[br]die ons afluisterde!|1,1A9A42
+1C166D| 1|116|0|D|VS Seeker                               |Excuse me! Didn't I tell you that[br]this is a private conversation?[nb2]You shouldn't be listening in,[br]you uncouth person!|Excuseer! Had ik je al niet gezegd[br]dat dit een privÈ gesprek is?[nb2]Je moet zo niet afluisteren,[br]jij deugniet!|1,1A9ABE
+1C16E2| 1| 64|0|D|VS Seeker                               |I'm trying to find something good[br]that's not a BUG POKÈMON, but[...]|Ik probeer een goede niet[br]BUG POKÈMON te vinden maar[...]|1,1A99C6
+1C1723| 1| 34|0|D|VS Seeker                               |Huh?[br]You want to go with me again?|Hu?[br]Wil je nog eens met me vechten?|1,1A9A80
+1C1746| 1| 36|0|D|VS Seeker                               |Me?[br]Well, okay. I'll play this once.|Ik?[br]Wel ok. Maar alleen deze keer.|1,1A9AFC
+1C176B| 1| 39|0|D|VS Seeker                               |Hey, long time![br]Have you gotten better?|HÈ, lang geleden![br]Ben je beter geworden?|1,1A9A04
+1C1793| 1| 57|0|D|VS Seeker                               |You are good at POKÈMON, but how[br]is your chemistry grade?|Je bent goed met POKÈMON,[br]maar hoe is je kennis van chemie?|1,1AA240
+1C17CD| 1| 35|0|D|VS Seeker                               |All right![br]Let's play another game!|Ok dan![br]Laten we nog eens spelen!|1,1AA2FA
+1C17F1| 1| 66|0|D|VS Seeker                               |You need strategy to win at[br]battling.[nb2]Are you following my advice?|Je hebt strategie nodig om te[br]winnen in een gevecht.[nb2]Volg je mijn advies?|1,1AA27E
+1C1834| 1| 62|0|D|VS Seeker                               |I've collected many NIDORAN.[br]I don't want them to evolve, but[...]|Ik heb al veel NIDORAN verzameld.[br]Ik wil niet dat ze allemaal[nb]evolueren, maar[...]|1,1AA148
+1C1873| 1| 54|0|D|VS Seeker                               |School is fun, but I still think[br]POKÈMON are fun, too.|School is leuk, maar ik vind[br]POKÈMON ook leuk.|1,1AA2BC
+1C18AA| 1| 49|0|D|VS Seeker                               |MEOWTH and PERSIAN are so cute,[br]meow, meow, meow!|MEOWTH en PERSIAN zijn zo schattig,[br]miauw, miauw, miauw!|1,1AA186
+1C18DC| 1| 66|0|D|VS Seeker                               |We may look silly standing here[br]like this, but I can still battle.|We zien er misschien idioot uit[br]zoals we hier staan, maar we kunnen[nb]nog steeds vechten.|1,1AA1C4
+1C191F| 1| 53|0|D|VS Seeker                               |I'm a rambling, gaming dude![br]I'm on a winning streak!|Ik ben een vechtmens![br]Ik ben goed aan het winnen!|1,1AA338
+1C1955| 1| 70|0|D|VS Seeker                               |What's a cute, round, and fluffy[br]POKÈMON?[nb2]You already know, don't you?|Wat is een schattige, wollige, ronde[br]POKÈMON?[nb2]Je weet het al nietwaar?|1,1AA202
+1C199C| 1| 31|0|D|VS Seeker                               |My bike's still acting up, man.|Mijn moto doet nog steeds lastig.|1,1AA402
+1C19BC| 1| 40|0|D|VS Seeker                               |Okay, kid![br]Don't expect mercy this time!|Ok kleine![br]Verwacht geen medelijden nu!|1,1AA440
+1C19E5| 1| 39|0|D|VS Seeker                               |ELI: Our twin power became even[br]better!|ELI: Onze tweelingkracht is nog[br]beter geworden!|1,1AA37A
+1C1A0D| 1| 32|0|D|VS Seeker                               |ANNE: Our twin power powered up!|ANNE: Onze tweelingkracht is[br]vergroot!|1,1AA3C0
+1C1A2E| 1| 46|0|D|VS Seeker                               |We're to battle again?[br]This time, you're mine!|Nog eens vechten?[br]Deze keer ga ik winnen!|1,1A9E9E
+1C1A5D| 1| 61|0|D|VS Seeker                               |I haven't forgotten you were with[br]those good-looking POKÈMON.|Ik ben je niet vergeten. Jij had[br]die goed uitziende POKÈMON.|1,1A9E22
 1C1A9B| 1| 95|0|D|VS Seeker                               |I'm taking ROCK TUNNEL to go to[br]LAVENDER[...][nb2]But I keep getting stopped by[br]everyone along the way[...]|Ik neem de ROTS TUNNEL om naar[br]LAVENDER TOWN te raken[...][nb2]Maar iedereen stopt me[br]onderweg[...]|1,1A9E60
-1C1AFB| 1| 59|0|D|VS Seeker                               |Don't you dare patronize me today![br]We're playing for keeps!||1,1A9EDC
-1C1B37| 1| 38|0|D|VS Seeker                               |Bwahaha![br]Great! I was bored again, eh!||1,1A9F96
-1C1B5E| 1| 36|0|D|VS Seeker                               |Hahaha![br]A little toughie, as always!||1,1A9F58
-1C1B83| 1| 58|0|D|VS Seeker                               |I got up early every day to train[br]my POKÈMON from cocoons!||1,1A9DA6
-1C1BBE| 1| 29|0|D|VS Seeker                               |Hahahaha![br]I'll win this time!||1,1A9F1A
-1C1BDC| 1| 29|0|D|VS Seeker                               |Go win, my super BUG POKÈMON!||1,1A9DE4
-1C1BFA| 1| 84|0|D|VS Seeker                               |Wow, you came here again?[br]Maybe you're a POKÈMANIAC, too?[nb]Want to see my collection?||1,1AA050
-1C1C4F| 1| 38|0|D|VS Seeker                               |Ha-hahah-ah-ha![br]I can't stop sneezing!||1,1AA0CC
-1C1C76| 1| 35|0|D|VS Seeker                               |Hi, kid![br]Did I show you my POKÈMON?||1,1AA08E
-1C1C9A| 1| 56|0|D|VS Seeker                               |I went out to a POKÈMON GYM again.[nb2][...]But I lost as usual.||1,1A9FD4
-1C1CD3| 1| 64|0|D|VS Seeker                               |Ah![br]This mountain air is delicious![nb]It's so good, I can't leave!||1,1AA10A
-1C1D14| 1| 59|0|D|VS Seeker                               |My head is starting to spin.[br]I've been hiking for too long[...]||1,1AA012
-1C1D50| 1| 40|0|D|VS Seeker                               |Win, lose, or draw![br]Now for our rematch!||1,1A9CAE
-1C1D79| 1| 59|0|D|VS Seeker                               |Competing is the ultimate thrill.[br]I still can't get enough!||1,1A9CEC
-1C1DB5| 1| 43|0|D|VS Seeker                               |You know, right?[br]Let's go, but don't cheat!||1,1A9B3A
-1C1DE1| 1| 61|0|D|VS Seeker                               |Hi, there![nb2]But be careful![br]I'm still laying down some cables!||1,1A9C32
-1C1E1F| 1| 55|0|D|VS Seeker                               |I became a TRAINER a while ago.[br]But, I think I can win.||1,1A9B78
-1C1E57| 1| 71|0|D|VS Seeker                               |Fwahaha![br]I have never lost![nb2][...]And if I did, I've forgotten all[br]about it!||1,1A9D2A
-1C1E9F| 1| 66|0|D|VS Seeker                               |I have never won before[...][nb2]Perhaps I am destined to remain[br]that way[...]||1,1A9D68
-1C1EE2| 1| 58|0|D|VS Seeker                               |I'm the best in my class.[br]I train every morning and night!||1,1A9BB6
-1C1F1D| 2| 34|0|D|VS Seeker                               |Keep your eyes out for live wires!||1,1A9C70;1,4DBE8C
-1C1F40| 1| 92|0|D|VS Seeker                               |I raised my POKÈMON carefully.[br]They should be ready by now.[nb]This time, they should win, too.||1,1A9BF4
-1C1F9D| 1| 58|0|D|VS Seeker                               |Yeah![br]I got a bite, here![nb]Th-this might be the real thing!||1,1AA47E
-1C1FD8| 1| 47|0|D|VS Seeker                               |You're finally here.[br]Fishing is a waiting game.||1,1AA4BC
-1C2008| 1| 50|0|D|VS Seeker                               |Still can't find a MOON STONE[...][br]Have you found one?||1,1AA5F2
-1C203B| 1| 96|0|D|VS Seeker                               |Electricity has always been my[br]specialty.[nb2]I don't know a thing about POKÈMON[br]of the sea, though.||1,1AA5B4
-1C209C| 1| 55|0|D|VS Seeker                               |The FISHING FOOL vs. POKÈMON KID![br]Another round, fight!||1,1AA4FA
-1C20D4| 1| 95|0|D|VS Seeker                               |I love fishing, don't get me wrong.[br]But, I wish I had more work[...][nb][...]It's hard to give up fishing!||1,1AA538
-1C2134| 2| 54|0|D|VS Seeker                               |What's catching?[nb2]You'll never know unless you beat[br]me!||1,14EE83;1,1AA576
-1C216B| 1| 47|0|D|VS Seeker                               |JES: I'll win here today and[br]propose to my GIA.||1,1AA634
-1C219B| 1| 82|0|D|VS Seeker                               |GIA: Hey, JES[...][br]I've been waiting a long time now.[nb2]If we win today, I'll marry you!||1,1AA67A
-1C21EE| 1| 29|0|D|VS Seeker                               |My bird POKÈMON remember you!||1,1AA776
+1C1AFB| 1| 59|0|D|VS Seeker                               |Don't you dare patronize me today![br]We're playing for keeps!|Kleineer me niet vandaag![br]Deze keer is het voor het echt!|1,1A9EDC
+1C1B37| 1| 38|0|D|VS Seeker                               |Bwahaha![br]Great! I was bored again, eh!|Hahaha! Goed![br]Ik was me weer aan het vervelen!|1,1A9F96
+1C1B5E| 1| 36|0|D|VS Seeker                               |Hahaha![br]A little toughie, as always!|Hahaha![br]Een kleine sterke zoals altijd!|1,1A9F58
+1C1B83| 1| 58|0|D|VS Seeker                               |I got up early every day to train[br]my POKÈMON from cocoons!|Ik ben vroeg opgestaan om mijn[br]POKÈMON kokonnen te trainen!|1,1A9DA6
+1C1BBE| 1| 29|0|D|VS Seeker                               |Hahahaha![br]I'll win this time!|Hahahaha![br]Deze keer win ik!|1,1A9F1A
+1C1BDC| 1| 29|0|D|VS Seeker                               |Go win, my super BUG POKÈMON!|Ga, en win, mijn super BUG POKÈMON!|1,1A9DE4
+1C1BFA| 1| 84|0|D|VS Seeker                               |Wow, you came here again?[br]Maybe you're a POKÈMANIAC, too?[nb]Want to see my collection?|Wauw, je bent terug gekomen![br]Misschien ben je ook een POKÈMON[nb]MANIAK?[nb2]Wil je mijn verzameling zien?|1,1AA050
+1C1C4F| 1| 38|0|D|VS Seeker                               |Ha-hahah-ah-ha![br]I can't stop sneezing!|Ha-hahah-ah![br]Ik kan niet ophouden met niezen.|1,1AA0CC
+1C1C76| 1| 35|0|D|VS Seeker                               |Hi, kid![br]Did I show you my POKÈMON?|Hallo kleine![br]Heb ik je mijn POKÈMON al getoond?|1,1AA08E
+1C1C9A| 1| 56|0|D|VS Seeker                               |I went out to a POKÈMON GYM again.[nb2][...]But I lost as usual.|Ik ben nog eens naar een POKÈMON[br]GYM gegaan.[nb2][...]Maar verloor zoals gewoonlijk.|1,1A9FD4
+1C1CD3| 1| 64|0|D|VS Seeker                               |Ah![br]This mountain air is delicious![nb]It's so good, I can't leave!|Ah![br]Deze berglucht is verrukkelijk![nb2]Het is zo goed,[br]ik kan het niet laten!|1,1AA10A
+1C1D14| 1| 59|0|D|VS Seeker                               |My head is starting to spin.[br]I've been hiking for too long[...]|Mijn hoofd is aan het draaien.[br]Ik ben al te lang aan het stappen[...]|1,1AA012
+1C1D50| 1| 40|0|D|VS Seeker                               |Win, lose, or draw![br]Now for our rematch!|Win, verlies of gelijk![br]Nu de terugwedstrijd!|1,1A9CAE
+1C1D79| 1| 59|0|D|VS Seeker                               |Competing is the ultimate thrill.[br]I still can't get enough!|Wedstrijden zijn heel spannend.[br]Ik kan er niet genoeg van krijgen!|1,1A9CEC
+1C1DB5| 1| 43|0|D|VS Seeker                               |You know, right?[br]Let's go, but don't cheat!|Je weet wel he?[br]Komaan, maar niet vals spelen!|1,1A9B3A
+1C1DE1| 1| 61|0|D|VS Seeker                               |Hi, there![nb2]But be careful![br]I'm still laying down some cables!|Hallo daar![nb2]Opgepast! Ik ben nog wat[br]kabels aan het leggen.|1,1A9C32
+1C1E1F| 1| 55|0|D|VS Seeker                               |I became a TRAINER a while ago.[br]But, I think I can win.|Ik ben nog niet zo lang TRAINER.[br]Maar ik denk dat ik kan winnen.|1,1A9B78
+1C1E57| 1| 71|0|D|VS Seeker                               |Fwahaha![br]I have never lost![nb2][...]And if I did, I've forgotten all[br]about it!|Hahahaha![br]Ik heb nog nooit verloren![nb2][...]En als ik verloren heb, ben ik[br]het helemaal vergeten!|1,1A9D2A
+1C1E9F| 1| 66|0|D|VS Seeker                               |I have never won before[...][nb2]Perhaps I am destined to remain[br]that way[...]|Ik heb nog nooit gewonnen[...][nb2]Is het gedoemd om zo[br]te blijven.|1,1A9D68
+1C1EE2| 1| 58|0|D|VS Seeker                               |I'm the best in my class.[br]I train every morning and night!|Ik ben de beste van de klas.[br]Ik oefen elke ochtend en avond!|1,1A9BB6
+1C1F1D| 2| 34|0|D|VS Seeker                               |Keep your eyes out for live wires!|Let op voor draden onder stroom!|1,1A9C70;1,4DBE8C
+1C1F40| 1| 92|0|D|VS Seeker                               |I raised my POKÈMON carefully.[br]They should be ready by now.[nb]This time, they should win, too.|Ik heb mijn POKÈMON goed opgevoed.[br]Nu zouden ze wel klaar moeten zijn.[nb]Deze keer moeten we ook winnen.|1,1A9BF4
+1C1F9D| 1| 58|0|D|VS Seeker                               |Yeah![br]I got a bite, here![nb]Th-this might be the real thing!|Ja![br]Ik heb beet![nb]De-deze keer is het echt!|1,1AA47E
+1C1FD8| 1| 47|0|D|VS Seeker                               |You're finally here.[br]Fishing is a waiting game.|Je bent eindelijk gekomen![br]Om te vissen moet je geduld hebben.|1,1AA4BC
+1C2008| 1| 50|0|D|VS Seeker                               |Still can't find a MOON STONE[...][br]Have you found one?|Ik kan nog steeds geen MAANSTEEN[br]vinden[...][nb2]Heb jij een gevonden?|1,1AA5F2
+1C203B| 1| 96|0|D|VS Seeker                               |Electricity has always been my[br]specialty.[nb2]I don't know a thing about POKÈMON[br]of the sea, though.|Electriciteit is al altijd mijn[br]specialiteit geweest.[nb2]Ik weet wel niets van zee[br]POKÈMON.|1,1AA5B4
+1C209C| 1| 55|0|D|VS Seeker                               |The FISHING FOOL vs. POKÈMON KID![br]Another round, fight!|De VIS IDIOOT tegen POKÈMON KID![br]Tweede ronde!|1,1AA4FA
+1C20D4| 1| 95|0|D|VS Seeker                               |I love fishing, don't get me wrong.[br]But, I wish I had more work[...][nb][...]It's hard to give up fishing!|Ik hou van vissen maar, ik wou[br]dat ik meer werk had[...][nb2][...]Het is moeilijk om vissen op[br]te geven.|1,1AA538
+1C2134| 2| 54|0|D|VS Seeker                               |What's catching?[nb2]You'll never know unless you beat[br]me!|Vang je iets?[nb2]Je gaat niets vangen tot[br]je me verslaat!|1,14EE83;1,1AA576
+1C216B| 1| 47|0|D|VS Seeker                               |JES: I'll win here today and[br]propose to my GIA.|JES: Ik ga vandaag winnen en[br]GIA ten huwelijk vragen.|1,1AA634
+1C219B| 1| 82|0|D|VS Seeker                               |GIA: Hey, JES[...][br]I've been waiting a long time now.[nb2]If we win today, I'll marry you!|GIA: HÈ JES[...][br]Ik ben al lang aan het wachten nu.[nb2]Als we vandaag winnen[br]trouw ik met je!|1,1AA67A
+1C21EE| 1| 29|0|D|VS Seeker                               |My bird POKÈMON remember you!|Mijn vogel POKÈMON herinneren je!|1,1AA776
 1C220C| 1| 47|0|D|VS Seeker                               |I want to be the best TRAINER [br]while I'm a kid!|Ik wil de beste TRAINER worden[br]nu ik nog klein ben!|1,1AA86E
-1C223C| 1| 30|0|D|VS Seeker                               |Wow![br]You got more cool BADGES!||1,1AA8AC
-1C225B| 1| 61|0|D|VS Seeker                               |My cutely grown POKÈMON wish to[br]become reacquainted with you.||1,1AA8EA
-1C2299| 1| 48|0|D|VS Seeker                               |I cleaned out my savings and[br]bought more CARBOS.||1,1AA830
-1C22CA| 1| 59|0|D|VS Seeker                               |I'm not going to lose this time.[br]The wind's blowing my way!||1,1AA7B4
-1C2306| 1| 57|0|D|VS Seeker                               |Oh, you're back?[nb2]Sure, I'll play again with you,[br]sweetie.||1,1AA6FA
-1C2340| 1| 42|0|D|VS Seeker                               |Can't you forget that you battled[br]with me?||1,1AA738
-1C236B| 1| 23|0|D|VS Seeker                               |What're you starin' at?||1,1AA6BC
-1C2383| 1| 61|0|D|VS Seeker                               |I always go with bird POKÈMON.[br]I've dedicated myself to them.||1,1AA7F2
-1C23C1| 1| 45|0|D|VS Seeker                               |I used TMs to teach good moves[br]to my POKÈMON.||1,1AAA9C
-1C23EF| 1| 53|0|D|VS Seeker                               |My bird POKÈMON should be ready[br]for battle this time.||1,1AAADA
-1C2425| 1| 59|0|D|VS Seeker                               |Are you using TMs on POKÈMON?[br]Just holding them is useless.||1,1AAB18
-1C2461| 1|105|0|D|VS Seeker                               |Have you taught your bird POKÈMON[br]how to FLY?[nb2]You'll be able to soar with it into[br]the sky! Give it a try.||1,1AAB56
-1C24CB| 1| 57|0|D|VS Seeker                               |The legend of the winged mirages[...][br]You've heard it, right?||1,1AAA20
-1C2505| 1| 43|0|D|VS Seeker                               |I'm really not into it, but okay.[br]Let's go!||1,1AAA5E
-1C2531| 1| 64|0|D|VS Seeker                               |Hey![br]I remember you![nb2]C'mon, c'mon.[br]Let's go, let's go, let's go!||1,1AA966
-1C2572| 1| 43|0|D|VS Seeker                               |You're here again, huh?[br]Shut up and battle.||1,1AA9A4
-1C259E| 1| 55|0|D|VS Seeker                               |We've been riding here because of[br]the wide-open spaces.||1,1AA9E2
-1C25D6| 1| 36|0|D|VS Seeker                               |POKÈMON battle, right?[br]Cool! Rumble!||1,1AA928
-1C25FB| 1| 31|0|D|VS Seeker                               |KIRI: JAN, I hope we win today.||1,1AAB98
-1C261B| 1| 52|0|D|VS Seeker                               |JAN: KIRI, here we go![br]Let's win for sure this time!||1,1AABDE
-1C2650| 1| 60|0|D|VS Seeker                               |I'm going to keep battling with the[br]POKÈMON I got in trades.||1,1AADD2
-1C268D| 1| 69|0|D|VS Seeker                               |You look gentle, so I think I can[br]beat you.[nb2]I'll give it one more go!||1,1AAE10
-1C26D3| 1| 67|0|D|VS Seeker                               |When I whistle, bird POKÈMON[br]gather around.[nb2]They're amazingly cute!||1,1AAD18
-1C2717| 1| 59|0|D|VS Seeker                               |Hmm? My birds are shivering![br]Wait, aren't you that TRAINER[...]||1,1AAD56
-1C2753| 1| 73|0|D|VS Seeker                               |Oh, you're a little cutie![br]So like a darling POKÈMON![nb]I remember you now!||1,1AAC9C
-1C279D| 1| 73|0|D|VS Seeker                               |I raise POKÈMON for protection[br]because I live alone.[nb2]That hasn't changed.||1,1AACDA
-1C27E7| 1| 44|0|D|VS Seeker                               |Hey, kid! C'mon![br]I got these off some loser!||1,1AAC20
-1C2814| 1| 49|0|D|VS Seeker                               |Fork over all your cash when you[br]lose to me, kid!||1,1AAC5E
-1C2846| 1| 54|0|D|VS Seeker                               |What's cool and happening?[br]Trading POKÈMON, of course.||1,1AAE4E
-1C287D| 1| 35|0|D|VS Seeker                               |Want to play with my POKÈMON[br]again?||1,1AAD94
-1C28A1| 1| 74|0|D|VS Seeker                               |MYA: Hi, we keep meeting,[br]don't we?[nb2]Help me train my little brother[br]again?||1,1AAE90
-1C28EC| 1| 38|0|D|VS Seeker                               |RON: My sister's gotten more[br]powerful[...]||1,1AAED6
-1C2913| 1| 17|0|D|VS Seeker                               |What do you want?||1,1AAF18
-1C2925| 1| 30|0|D|VS Seeker                               |Nice BIKE![br]Hand it over quick!||1,1AAFD2
-1C2944| 1| 54|0|D|VS Seeker                               |Come out and play, little mouse.[br]I'll treat you right!||1,1AB010
-1C297B| 1| 52|0|D|VS Seeker                               |Hey, wait a second![br]Don't call me and then run away!||1,1AAF56
-1C29B0| 1| 58|0|D|VS Seeker                               |I'm feeling hungry and mean![br]I really need a punching bag!||1,1AB04E
-1C29EB| 1| 45|0|D|VS Seeker                               |Hey, there![br]We'll have ourselves a good time!||1,1AAF94
-1C2A19| 2| 57|0|D|VS Seeker                               |JED: Are you here to see our[br]love, which knows no bounds?||1,0F2363;1,1AB090
-1C2A53| 1| 52|0|D|VS Seeker                               |LEA: Sometimes, the intensity of[br]our love scares me.||1,1AB0D6
-1C2A88| 1| 59|0|D|VS Seeker                               |I told you, there's no getting rich[br]quick in battling kids.||1,1AB210
-1C2AC4| 1| 43|0|D|VS Seeker                               |I'm mighty proud of my bod, kiddo.[br]Come on!||1,1AB24E
-1C2AF0| 1| 21|0|D|VS Seeker                               |You out for a stroll?||1,1AB346
-1C2B06| 1| 37|0|D|VS Seeker                               |We're BIKERS![br]We rule the roads, man!||1,1AB118
-1C2B2C| 1| 49|0|D|VS Seeker                               |VOLTORB's going to seriously[br]electrify you today!||1,1AB156
-1C2B5E| 1| 61|0|D|VS Seeker                               |I leveled up my POKÈMON, but it[br]absolutely won't evolve. Why?||1,1AB28C
-1C2B9C| 1| 61|0|D|VS Seeker                               |Gaah! I really need to exercise[br]and seriously trim some flab!||1,1AB2CA
-1C2BDA| 1| 11|0|D|VS Seeker                               |Be a rebel!||1,1AB308
-1C2BE6| 1| 41|0|D|VS Seeker                               |Yep, that's a nice BIKE![br]How's it handle?||1,1AB194
-1C2C10| 1| 26|0|D|VS Seeker                               |Get lost, kid![br]I'm bushed!||1,1AB1D2
-1C2C2B| 1| 79|0|D|VS Seeker                               |I've been checking every grassy[br]area for new POKÈMON.[nb2]But it's not always easy[...]||1,1AB384
-1C2C7B| 1| 44|0|D|VS Seeker                               |Koorukukukoo![br]Is my birdcall getting better?||1,1AB3C2
-1C2CA8| 1| 69|0|D|VS Seeker                               |I warned you before, this is my[br]turf![nb2]I don't want you coming around.||1,1AB400
-1C2CEE| 1| 42|0|D|VS Seeker                               |I'm almost warmed up to go[br]out for a swim.||1,1AB43E
-1C2D19| 1| 49|0|D|VS Seeker                               |Wait! Slow down![br]What if you have a heart attack?||1,1AB47C
-1C2D4B| 1| 49|0|D|VS Seeker                               |I love swimming![br]I guess you're the surfing type.||1,1AB4BA
-1C2D7D| 1| 41|0|D|VS Seeker                               |What's beyond the horizon?[br]Have you seen?||1,1AB4F8
-1C2DA7| 1| 65|0|D|VS Seeker                               |I tried diving for POKÈMON again,[br]but it was a no-go like before.||1,1AB536
-1C2DE9| 1| 96|0|D|VS Seeker                               |I look at the sea to forget all[br]the bad things that happened.[nb2][...]Like losing to you the last time!||1,1AB574
-1C2E4A| 1| 82|0|D|VS Seeker                               |You always get to ride your[br]POKÈMON[...][nb2]It looks so relaxing.[br]Can I have it if I win?||1,1AB5F0
-1C2E9D| 1| 34|0|D|VS Seeker                               |Swimming's great![br]Sunburns aren't!||1,1AB62E
-1C2EC0| 1| 59|0|D|VS Seeker                               |These waters are treacherous![br]You shouldn't come back here!||1,1AB5B2
-1C2EFC| 1| 68|0|D|VS Seeker                               |I swam here with my friends[...][br]I'm tired[...][nb]Must we really battle again?||1,1AB66C
-1C2F41| 1|108|0|D|VS Seeker                               |LIA: You know my brother just[br]became a TRAINER, right?[nb2]I want to make him better, so I[br]need your help again.||1,1AB6AE
-1C2FAE| 1| 68|0|D|VS Seeker                               |LUC: My big sis taught me all[br]about POKÈMON.[nb2]I wonder if I'm better?||1,1AB6F4
-1C2FF3| 1| 58|0|D|VS Seeker                               |The water is shallow here.[br]There are many people swimming.||1,1AB736
-1C302E| 1| 48|0|D|VS Seeker                               |Are you jealous that I'm[br]vacationing on SEAFOAM?||1,1AB8AA
-1C305F| 1| 53|0|D|VS Seeker                               |I love floating with the fishes[br]here among the waves.||1,1AB7F0
-1C3095| 1| 26|0|D|VS Seeker                               |Were you on vacation, too?||1,1AB964
-1C30B0| 1| 60|0|D|VS Seeker                               |Check out my physique![nb2]It's even more buff than ever[br]before!||1,1AB774
-1C30ED| 1| 62|0|D|VS Seeker                               |Why are you riding a POKÈMON?[br]Haven't you learned to swim yet?||1,1AB7B2
-1C312C| 1| 28|0|D|VS Seeker                               |I rode my bird POKÈMON here.||1,1AB8E8
-1C3149| 2| 59|0|D|VS Seeker                               |My boyfriend gave me big pearls.[br]And, they've grown bigger!||1,1AB82E;1,6A872D
-1C3185| 1| 62|0|D|VS Seeker                               |I swam here from CINNABAR ISLAND.[br]It wasn't easy, like I said.||1,1AB926
-1C31C4| 1| 67|0|D|VS Seeker                               |CINNABAR, in the west, has a LAB[br]for POKÈMON.[nb2]My daddy works there.||1,1AB86C
-1C3208| 1| 40|0|D|VS Seeker                               |You want to know if the fish are[br]biting?||1,1AB9A2
-1C3231| 1| 50|0|D|VS Seeker                               |I got a big haul again![br]Wanna go for it once more?||1,1ABA1E
-1C3264| 1| 34|0|D|VS Seeker                               |The sea cleanses my body and soul!||1,1ABA9A
-1C3298| 1| 58|0|D|VS Seeker                               |I caught my POKÈMON at sea.[br]And that's where I train them.||1,1ABAD8
-1C32D3| 1| 41|0|D|VS Seeker                               |Right now, I'm in another triathlon[br]meet!||1,1ABB16
-1C32FD| 1| 31|0|D|VS Seeker                               |Ahh![br]Feel the sun and the wind!||1,1ABB54
-1C331D| 1| 56|0|D|VS Seeker                               |Hey, cut it out already.[br]You always scare away the fish!||1,1AB9E0
-1C3356| 1| 33|0|D|VS Seeker                               |Keep me company till I get a hit.||1,1ABA5C
-1C3378| 1| 53|0|D|VS Seeker                               |LIL: Huh? A battle again?[br]IAN, can't you do it alone?||1,1ABB96
-1C33AE| 1| 56|0|D|VS Seeker                               |IAN: My sis is still a slob.[br]Help me get her into shape!||1,1ABBDC
-1C33E7| 1| 28|0|D|VS Seeker                               |I won't lose while I'm here!||1,1A9798
-1C3404| 1| 64|0|D|VS Seeker                               |Dad took me to a great party on[br]the S.S. ANNE at VERMILION CITY.||1,1A97D6
-1C3445| 1| 86|0|D|VS Seeker                               |I'm a cool guy.[br]I've got a girlfriend![nb2]I'll show her how cool I am for[br]sure this time!||1,1A9988
-1C349C| 1| 55|0|D|VS Seeker                               |Hi![br]My boyfriend is cool![nb]My conditioning's good today!||1,1A9852
-1C34D4| 1| 53|0|D|VS Seeker                               |I had this feeling[...][br]I knew I had to battle you again!||1,1A9814
-1C350A| 1| 48|0|D|VS Seeker                               |My friend has many cute POKÈMON.[br]I'm so jealous!||1,1A9890
-1C353B| 1| 66|0|D|VS Seeker                               |I just trained up on MT. MOON,[br]but I've still got gas in the tank!||1,1A98CE
-1C357E| 1| 61|0|D|VS Seeker                               |A POKÈMANIAC lives on the cape.[br]Have you seen his collection?||1,1A990C
-1C35BC| 1| 49|0|D|VS Seeker                               |You're going to see BILL again?[br]First, we battle!||1,1A994A
-1C35EE| 1| 31|0|D|VS Seeker                               |I saw your feat from the grass!||1,1A971C
-1C360E| 1| 21|0|D|VS Seeker                               |Okay![br]I'll stomp you!||1,1A975A
-1C3624| 1| 50|0|D|VS Seeker                               |You always look so busy[...][br]Aren't you getting tired?||1,1A96A0
+1C223C| 1| 30|0|D|VS Seeker                               |Wow![br]You got more cool BADGES!|Waauw![br]Je hebt nog meer coole BADGES!|1,1AA8AC
+1C225B| 1| 61|0|D|VS Seeker                               |My cutely grown POKÈMON wish to[br]become reacquainted with you.|Mijn schattige POKÈMON willen je[br]nog eens ontmoeten.|1,1AA8EA
+1C2299| 1| 48|0|D|VS Seeker                               |I cleaned out my savings and[br]bought more CARBOS.|Ik heb mijn spaargeld opgebruikt om[br]nog meer CARBOS te kopen.|1,1AA830
+1C22CA| 1| 59|0|D|VS Seeker                               |I'm not going to lose this time.[br]The wind's blowing my way!|Ik ga deze keer niet verliezen.[br]De wind staat goed!|1,1AA7B4
+1C2306| 1| 57|0|D|VS Seeker                               |Oh, you're back?[nb2]Sure, I'll play again with you,[br]sweetie.|O, je bent terug?[nb2]Ik wil zeker wel nog eens met[br]jou spelen hoor.|1,1AA6FA
+1C2340| 1| 42|0|D|VS Seeker                               |Can't you forget that you battled[br]with me?|Kan je niet vergeten dat je[br]met mij gevochten hebt?|1,1AA738
+1C236B| 1| 23|0|D|VS Seeker                               |What're you starin' at?|Waar zit jij naar te staren?|1,1AA6BC
+1C2383| 1| 61|0|D|VS Seeker                               |I always go with bird POKÈMON.[br]I've dedicated myself to them.|Ik gebruik altijd vogel POKÈMON.[br]Ik ben helemaal toegwijd aan hen.|1,1AA7F2
+1C23C1| 1| 45|0|D|VS Seeker                               |I used TMs to teach good moves[br]to my POKÈMON.|Ik heb TM's gebruikt om goede[br]technieken aan mijn POKÈMON te leren.|1,1AAA9C
+1C23EF| 1| 53|0|D|VS Seeker                               |My bird POKÈMON should be ready[br]for battle this time.|Mijn vogel POKÈMON zouden nu wel[br]klaar moeten zijn voor het gevecht.|1,1AAADA
+1C2425| 1| 59|0|D|VS Seeker                               |Are you using TMs on POKÈMON?[br]Just holding them is useless.|Gebruik je je TM's op je POKÈMON?[br]Ze gewoon bij houden is nutteloos.|1,1AAB18
+1C2461| 1|105|0|D|VS Seeker                               |Have you taught your bird POKÈMON[br]how to FLY?[nb2]You'll be able to soar with it into[br]the sky! Give it a try.|Heb je je vogel POKÈMON VLIEG[br]geleerd?[nb2]Je kan met hen mee vliegen zo![br]Probeer het maar eens.|1,1AAB56
+1C24CB| 1| 57|0|D|VS Seeker                               |The legend of the winged mirages[...][br]You've heard it, right?|De legende van de gevleugelde[br]spoken[...][nb2]Heb je er al van gehoord?|1,1AAA20
+1C2505| 1| 43|0|D|VS Seeker                               |I'm really not into it, but okay.[br]Let's go!|Ik heb niet veel zin, maar ok.[br]Laten we nog eens vechten.|1,1AAA5E
+1C2531| 1| 64|0|D|VS Seeker                               |Hey![br]I remember you![nb2]C'mon, c'mon.[br]Let's go, let's go, let's go!|HÈ![br]Ik herinner jou![nb2]Komaan, komaan.[br]Laten we nog eens vechten!|1,1AA966
+1C2572| 1| 43|0|D|VS Seeker                               |You're here again, huh?[br]Shut up and battle.|Je bent hier nog eens hÈ?[br]Zwijg en vecht!|1,1AA9A4
+1C259E| 1| 55|0|D|VS Seeker                               |We've been riding here because of[br]the wide-open spaces.|We rijden hier omdat we heel[br]veel ruimte hebben.|1,1AA9E2
+1C25D6| 1| 36|0|D|VS Seeker                               |POKÈMON battle, right?[br]Cool! Rumble!|Een POKÈMON gevecht?[br]Cool, laten we beginnen!|1,1AA928
+1C25FB| 1| 31|0|D|VS Seeker                               |KIRI: JAN, I hope we win today.|KIRI: JAN, ik hoop dat we winnen[br]vandaag.|1,1AAB98
+1C261B| 1| 52|0|D|VS Seeker                               |JAN: KIRI, here we go![br]Let's win for sure this time!|JAN: KIRI, hier gaan we![br]Laten we deze keer winnen!|1,1AABDE
+1C2650| 1| 60|0|D|VS Seeker                               |I'm going to keep battling with the[br]POKÈMON I got in trades.|Ik ga blijven vechten met de[br]POKÈMON die ik geruild heb.|1,1AADD2
+1C268D| 1| 69|0|D|VS Seeker                               |You look gentle, so I think I can[br]beat you.[nb2]I'll give it one more go!|Je ziet er zo zachtaardig uit.[nb2]Ik denk dat ik je kan verslaan!|1,1AAE10
+1C26D3| 1| 67|0|D|VS Seeker                               |When I whistle, bird POKÈMON[br]gather around.[nb2]They're amazingly cute!|Als ik fluit komen er allemaal[br]vogel POKÈMON om me heen.[nb2]Ze zijn heel erg schattig.|1,1AAD18
+1C2717| 1| 59|0|D|VS Seeker                               |Hmm? My birds are shivering![br]Wait, aren't you that TRAINER[...]|Hmm? Mijn vogels beven![nb2]Wacht eens even,[br]ben jij niet die TRAINER[...]|1,1AAD56
+1C2753| 1| 73|0|D|VS Seeker                               |Oh, you're a little cutie![br]So like a darling POKÈMON![nb]I remember you now!|Ben jij geen schatje![nb2]Net als een kleine POKÈMON![br]Ik herinner je nu!|1,1AAC9C
+1C279D| 1| 73|0|D|VS Seeker                               |I raise POKÈMON for protection[br]because I live alone.[nb2]That hasn't changed.|Ik heb POKÈMON om me te[br]beschermen, want ik leef alleen.[nb2]Dat is niet veranderd.|1,1AACDA
+1C27E7| 1| 44|0|D|VS Seeker                               |Hey, kid! C'mon![br]I got these off some loser!|HÈ kleine, kom op![br]Ik heb deze gestolen!|1,1AAC20
+1C2814| 1| 49|0|D|VS Seeker                               |Fork over all your cash when you[br]lose to me, kid!|Geef me al je geld[br]als je verliest kleine!|1,1AAC5E
+1C2846| 1| 54|0|D|VS Seeker                               |What's cool and happening?[br]Trading POKÈMON, of course.|Wat gebeurt er allemaal?[br]POKÈMON ruil natuurlijk.|1,1AAE4E
+1C287D| 1| 35|0|D|VS Seeker                               |Want to play with my POKÈMON[br]again?|Wil je nog eens met mijn[br]POKÈMON spelen?|1,1AAD94
+1C28A1| 1| 74|0|D|VS Seeker                               |MYA: Hi, we keep meeting,[br]don't we?[nb2]Help me train my little brother[br]again?|MYA: Hallo, we blijven elkaar[br]ontmoeten hÈ?[nb2]Help je nog eens mijn kleine[br]broertje trainen?|1,1AAE90
+1C28EC| 1| 38|0|D|VS Seeker                               |RON: My sister's gotten more[br]powerful[...]|RON: Mijn zus is sterker geworden[...]|1,1AAED6
+1C2913| 1| 17|0|D|VS Seeker                               |What do you want?|Wat wil je?|1,1AAF18
+1C2925| 1| 30|0|D|VS Seeker                               |Nice BIKE![br]Hand it over quick!|Mooie FIETS![br]Geef hem maar snel hier!|1,1AAFD2
+1C2944| 1| 54|0|D|VS Seeker                               |Come out and play, little mouse.[br]I'll treat you right!|Kom tevoorschijn kleine muis.[br]Ik ga je een lesje leren!|1,1AB010
+1C297B| 1| 52|0|D|VS Seeker                               |Hey, wait a second![br]Don't call me and then run away!|HÈ, wacht eens even![br]Roep me niet om dan weg te lopen!|1,1AAF56
+1C29B0| 1| 58|0|D|VS Seeker                               |I'm feeling hungry and mean![br]I really need a punching bag!|Ik voel me hongerig en knorrig![br]Ik moet me wat af reageren!|1,1AB04E
+1C29EB| 1| 45|0|D|VS Seeker                               |Hey, there![br]We'll have ourselves a good time!|Hallo daar![br]Laten we samen plezier maken!|1,1AAF94
+1C2A19| 2| 57|0|D|VS Seeker                               |JED: Are you here to see our[br]love, which knows no bounds?|JED: Ben je hier om onze[br]grenzeloze liefde te bewonderen?|1,0F2363;1,1AB090
+1C2A53| 1| 52|0|D|VS Seeker                               |LEA: Sometimes, the intensity of[br]our love scares me.|LEA: Soms ben ik overweldigd door[br]onze grote liefde.|1,1AB0D6
+1C2A88| 1| 59|0|D|VS Seeker                               |I told you, there's no getting rich[br]quick in battling kids.|Ik heb het al verteld. Er is niet[br]veel te verdienen door met[nb]kinderen te vechten.|1,1AB210
+1C2AC4| 1| 43|0|D|VS Seeker                               |I'm mighty proud of my bod, kiddo.[br]Come on!|Ik ben heel trots op mezelf kleine,[br]kom maar op!|1,1AB24E
+1C2AF0| 1| 21|0|D|VS Seeker                               |You out for a stroll?|Aan het wandelen?|1,1AB346
+1C2B06| 1| 37|0|D|VS Seeker                               |We're BIKERS![br]We rule the roads, man!|We zijn MOTARDS![br]Heersers van de weg!|1,1AB118
+1C2B2C| 1| 49|0|D|VS Seeker                               |VOLTORB's going to seriously[br]electrify you today!|VOLTORB gaat je vandaag[br]echt schokken!|1,1AB156
+1C2B5E| 1| 61|0|D|VS Seeker                               |I leveled up my POKÈMON, but it[br]absolutely won't evolve. Why?|Ik heb mijn POKÈMON hun level[br]verhoogd, maar toch evolueren[nb]ze niet. Waarom?|1,1AB28C
+1C2B9C| 1| 61|0|D|VS Seeker                               |Gaah! I really need to exercise[br]and seriously trim some flab!|Aaah! Ik moet echt wat oeferen[br]en wat vet kwijt raken!|1,1AB2CA
+1C2BDA| 1| 11|0|D|VS Seeker                               |Be a rebel!|Wees een rebel!|1,1AB308
+1C2BE6| 1| 41|0|D|VS Seeker                               |Yep, that's a nice BIKE![br]How's it handle?|Dat is een mooie FIETS![br]Rijd hij goed?|1,1AB194
+1C2C10| 1| 26|0|D|VS Seeker                               |Get lost, kid![br]I'm bushed!|Ga weg kleine![br]Ik heb geen zin!|1,1AB1D2
+1C2C2B| 1| 79|0|D|VS Seeker                               |I've been checking every grassy[br]area for new POKÈMON.[nb2]But it's not always easy[...]|Ik heb in al het lang gras gezocht[br]naar nieuwe POKÈMON.[nb2]Maar het is niet altijd gemakkelijk[...]|1,1AB384
+1C2C7B| 1| 44|0|D|VS Seeker                               |Koorukukukoo![br]Is my birdcall getting better?|Kukelekuuu![br]Is mijn vogelroep beter geworden?|1,1AB3C2
+1C2CA8| 1| 69|0|D|VS Seeker                               |I warned you before, this is my[br]turf![nb2]I don't want you coming around.|Ik heb je al gewaarschuwd,[br]dit is mijn terrein![nb2]Ik wil je hier niet in de buurt!|1,1AB400
+1C2CEE| 1| 42|0|D|VS Seeker                               |I'm almost warmed up to go[br]out for a swim.|Ik ben bijna klaar om te gaan[br]zwemmen.|1,1AB43E
+1C2D19| 1| 49|0|D|VS Seeker                               |Wait! Slow down![br]What if you have a heart attack?|Wacht! Niet zo snel![br]Wat als je een hartaanval krijgt?|1,1AB47C
+1C2D4B| 1| 49|0|D|VS Seeker                               |I love swimming![br]I guess you're the surfing type.|Ik hou van zwemmen![br]Ik zie dat jij meer van SURF houd.|1,1AB4BA
+1C2D7D| 1| 41|0|D|VS Seeker                               |What's beyond the horizon?[br]Have you seen?|Wat is er voorbij de horizon?[br]Heb je het al gezien?|1,1AB4F8
+1C2DA7| 1| 65|0|D|VS Seeker                               |I tried diving for POKÈMON again,[br]but it was a no-go like before.|Ik heb geprobeerd om nog eens[br]achter POKÈMON te duiken.[nb]Maar weeral niets gevonden.|1,1AB536
+1C2DE9| 1| 96|0|D|VS Seeker                               |I look at the sea to forget all[br]the bad things that happened.[nb2][...]Like losing to you the last time!|Ik kijk naar de zee om alle slechte[br]dingen te vergeten.[nb2][...]Zoals de vorige keer dat ik[br]tegen jou verloren heb!|1,1AB574
+1C2E4A| 1| 82|0|D|VS Seeker                               |You always get to ride your[br]POKÈMON[...][nb2]It looks so relaxing.[br]Can I have it if I win?|Jij mag altijd op je POKÈMON[br]rijden[...][nb2]Het ziet er zo leuk uit.[br]Mag ik hem hebben als ik win?|1,1AB5F0
+1C2E9D| 1| 34|0|D|VS Seeker                               |Swimming's great![br]Sunburns aren't!|Zwemmen is leuk![br]Zonnebrand krijgen niet!|1,1AB62E
+1C2EC0| 1| 59|0|D|VS Seeker                               |These waters are treacherous![br]You shouldn't come back here!|Het water is hier veraderlijk![br]Je komt hiet beter niet terug!|1,1AB5B2
+1C2EFC| 1| 68|0|D|VS Seeker                               |I swam here with my friends[...][br]I'm tired[...][nb]Must we really battle again?|Ik heb hier met mijn vrienden[br]gezwommen[...] Ik ben moe[...][nb]Moeten we echt nog eens vechten?|1,1AB66C
+1C2F41| 1|108|0|D|VS Seeker                               |LIA: You know my brother just[br]became a TRAINER, right?[nb2]I want to make him better, so I[br]need your help again.|LIA: Je weet dat mijn broer net[br]een TRAINER geworden is hÈ?[nb2]Ik wil hem beter maken, dus ik heb[br]nog eens je hulp nodig.|1,1AB6AE
+1C2FAE| 1| 68|0|D|VS Seeker                               |LUC: My big sis taught me all[br]about POKÈMON.[nb2]I wonder if I'm better?|LUC: Mijn grote zus heeft me alles[br]over POKÈMON geleerd.[nb2]Ik vraag me af of ik nu beter ben.|1,1AB6F4
+1C2FF3| 1| 58|0|D|VS Seeker                               |The water is shallow here.[br]There are many people swimming.|Het water is hier niet diep.[br]Er zwemmen echt veel mensen.|1,1AB736
+1C302E| 1| 48|0|D|VS Seeker                               |Are you jealous that I'm[br]vacationing on SEAFOAM?|Ben je jaloers dat ik vakantie heb[br]op SEAFOAM EILAND?|1,1AB8AA
+1C305F| 1| 53|0|D|VS Seeker                               |I love floating with the fishes[br]here among the waves.|Ik hou er van te drijven samen[br]met de vissen tussen de golven.|1,1AB7F0
+1C3095| 1| 26|0|D|VS Seeker                               |Were you on vacation, too?|Ben jij ook op vakantie?|1,1AB964
+1C30B0| 1| 60|0|D|VS Seeker                               |Check out my physique![nb2]It's even more buff than ever[br]before!|Kijk eens naar mijn lichaam![nb2]Ik heb nog meer spieren dan[br]de vorige keer!|1,1AB774
+1C30ED| 1| 62|0|D|VS Seeker                               |Why are you riding a POKÈMON?[br]Haven't you learned to swim yet?|Waarom rij je op een POKÈMON?[br]Kan je nog niet zwemmen?|1,1AB7B2
+1C312C| 1| 28|0|D|VS Seeker                               |I rode my bird POKÈMON here.|Ik ben op mijn vogel POKÈMON naar[br]hier gekomen.|1,1AB8E8
+1C3149| 2| 59|0|D|VS Seeker                               |My boyfriend gave me big pearls.[br]And, they've grown bigger!|Mijn grote parels zijn[br]nog groter geworden!|1,1AB82E;1,6A872D
+1C3185| 1| 62|0|D|VS Seeker                               |I swam here from CINNABAR ISLAND.[br]It wasn't easy, like I said.|Ik ben naar hier gezwommen van[br]CINNABAR EILAND. Het was niet[nb]gemakkelijk.|1,1AB926
+1C31C4| 1| 67|0|D|VS Seeker                               |CINNABAR, in the west, has a LAB[br]for POKÈMON.[nb2]My daddy works there.|CINNABAR, in het westen, heeft een[br]POKÈMON LABORATORIUM.[nb2]Mijn papa werkt daar.|1,1AB86C
+1C3208| 1| 40|0|D|VS Seeker                               |You want to know if the fish are[br]biting?|Je wil weten of de vissen[br]wat bijten?|1,1AB9A2
+1C3231| 1| 50|0|D|VS Seeker                               |I got a big haul again![br]Wanna go for it once more?|Ik heb weer veel gevangen![br]Wil je nog eens vechten?|1,1ABA1E
+1C3264| 1| 34|0|D|VS Seeker                               |The sea cleanses my body and soul!|De zee kuist mijn lichaam en ziel!|1,1ABA9A
+1C3298| 1| 58|0|D|VS Seeker                               |I caught my POKÈMON at sea.[br]And that's where I train them.|Ik heb mijn POKÈMON op zee[br]gevangen. En dat is waar ik ze train.|1,1ABAD8
+1C32D3| 1| 41|0|D|VS Seeker                               |Right now, I'm in another triathlon[br]meet!|Op dit moment ben ik bezig met nog[br]een triathlon!|1,1ABB16
+1C32FD| 1| 31|0|D|VS Seeker                               |Ahh![br]Feel the sun and the wind!|Aah![br]Voel de zon en de wind!|1,1ABB54
+1C331D| 1| 56|0|D|VS Seeker                               |Hey, cut it out already.[br]You always scare away the fish!|HÈ, stop daar mee.[br]Je maakt altijd de vissen bang!|1,1AB9E0
+1C3356| 1| 33|0|D|VS Seeker                               |Keep me company till I get a hit.|Hou me wat gezelschap tot ik[br]iets vang.|1,1ABA5C
+1C3378| 1| 53|0|D|VS Seeker                               |LIL: Huh? A battle again?[br]IAN, can't you do it alone?|LIL: Nog eens vechten?[br]IAN, kan je het niet alleen?|1,1ABB96
+1C33AE| 1| 56|0|D|VS Seeker                               |IAN: My sis is still a slob.[br]Help me get her into shape!|IAN: Mijn zus is nog steeds lui,[br]help me haar trainen!|1,1ABBDC
+1C33E7| 1| 28|0|D|VS Seeker                               |I won't lose while I'm here!|Ik ga hier niet verliezen!|1,1A9798
+1C3404| 1| 64|0|D|VS Seeker                               |Dad took me to a great party on[br]the S.S. ANNE at VERMILION CITY.|Vader heeft me mee genomen op[br]de S.S. ANNE in VERMILION STAD.|1,1A97D6
+1C3445| 1| 86|0|D|VS Seeker                               |I'm a cool guy.[br]I've got a girlfriend![nb2]I'll show her how cool I am for[br]sure this time!|Ik ben een stoere jongen.[br]Ik heb een vriendin![nb2]Deze keer ga ik echt tonen[br]hoe stoer ik wel ben!|1,1A9988
+1C349C| 1| 55|0|D|VS Seeker                               |Hi![br]My boyfriend is cool![nb]My conditioning's good today!|Hallo![br]Mijn vriendje is stoer!|1,1A9852
+1C34D4| 1| 53|0|D|VS Seeker                               |I had this feeling[...][br]I knew I had to battle you again!|Ik had het gevoel[...][nb2]Ik wist dat ik nog eens met jou[br]ging vechten!|1,1A9814
+1C350A| 1| 48|0|D|VS Seeker                               |My friend has many cute POKÈMON.[br]I'm so jealous!|Mijn vriend heeft veel schattige[br]POKÈMON. Ik ben zo jaloers!|1,1A9890
+1C353B| 1| 66|0|D|VS Seeker                               |I just trained up on MT. MOON,[br]but I've still got gas in the tank!|Ik heb net getraind op MT. MOON,[br]maar ik heb nog wat reserve!|1,1A98CE
+1C357E| 1| 61|0|D|VS Seeker                               |A POKÈMANIAC lives on the cape.[br]Have you seen his collection?|Er woont een POKÈMON MANIAK op[br]de kaap. Heb je zijn verzameling[nb]al gezien?|1,1A990C
+1C35BC| 1| 49|0|D|VS Seeker                               |You're going to see BILL again?[br]First, we battle!|Je gaat BILL nog eens bezoeken?[br]Maar eerst vechten we!|1,1A994A
+1C35EE| 1| 31|0|D|VS Seeker                               |I saw your feat from the grass!|Ik heb je voeten gezien door[br]het gras!|1,1A971C
+1C360E| 1| 21|0|D|VS Seeker                               |Okay![br]I'll stomp you!|Ok![br]Ik ga je verslaan!|1,1A975A
+1C3624| 1| 50|0|D|VS Seeker                               |You always look so busy[...][br]Aren't you getting tired?|Je ziet er altijd zo bezig uit[...][br]Word je daar niet moe van?|1,1A96A0
 1C3657| 1| 45|0|D|VS Seeker                               |You really must love coming to[br]NUGGET BRIDGE.|Je moet de NUGGET BRUG[br]echt wel leuk vinden.|1,1A9624
-1C3685| 1| 84|0|D|VS Seeker                               |The time we battled[...][nb2]Even though I was the second in[br]line, I was the best, wasn't I?||1,1A96DE
+1C3685| 1| 84|0|D|VS Seeker                               |The time we battled[...][nb2]Even though I was the second in[br]line, I was the best, wasn't I?|Die keer dat we vochten[...][nb2]Zelfs als tweede, was ik de beste[br]nietwaar?|1,1A96DE
 1C36DA| 1|152|0|D|VS Seeker                               |People call this the NUGGET[br]BRIDGE![nb2]You've already beaten us, so you're[br]not allowed to take the challenge[...][nb2][...]But, you're welcome to battle with[br]us again.|Mensen noemen dit de NUGGET[br]BRUG![nb2]Je hebt ons al eens verslagen,[br]dus je mag de uitdaging niet nog[nb]eens doen[...][nb2][...]Maar je mag wel nog eens met[br]ons vechten.|1,1A9662
-1C3773| 1| 65|0|D|VS Seeker                               |Lying back, rocked by the waves[...][br]I don't notice time slipping by[...]||1,1ABF54
-1C37B5| 1| 49|0|D|VS Seeker                               |The weather's gorgeous![br]I'll try not to spoil it.||1,1ABC1E
-1C37E7| 1| 31|0|D|VS Seeker                               |My sunburn is starting to hurt[...]||1,1ABC5C
-1C3807| 1| 45|0|D|VS Seeker                               |The fire bird's mountain casts[br]a huge shadow[...]||1,1ABC9A
-1C3835| 1| 52|0|D|VS Seeker                               |I have this strong feeling that[br]I can win this time!||1,1ABCD8
-1C386A| 1| 52|0|D|VS Seeker                               |Wait! Wait a second![br]I'm sure I've hooked a big one!||1,1ABD16
-1C389F| 1| 42|0|D|VS Seeker                               |You'll help me out with my[br]training again?||1,1ABD54
-1C38CA| 1| 47|0|D|VS Seeker                               |We haven't missed a single day of[br]training yet!||1,1ABD92
-1C38FA| 2| 72|0|D|VS Seeker                               |Every morning, before breakfast,[br]I swim around this island[...][nb]Three times!||1,13020D;1,1ABDD0
-1C3943| 1| 67|0|D|VS Seeker                               |Dress appropriately for battle![br]Lose that frivolous outfit, I said!||1,1ABE0E
-1C3987| 1| 62|0|D|VS Seeker                               |You know, everything tastes great[br]when you're out in the wild.||1,1ABE4C
-1C39C6| 1| 62|0|D|VS Seeker                               |I ate too much again, so will you[br]battle us for some exercise?||1,1ABE8A
-1C3A05| 1| 79|0|D|VS Seeker                               |KIA: My big brother and I make[br]an awesome combination![nb2]We won't lose this time!||1,1ABECC
-1C3A55| 1| 81|0|D|VS Seeker                               |MIK: Together with KIA, we're[br]afraid of nothing![nb2]We'll prove it to you this time!||1,1ABF12
-1C3AA7| 1| 23|0|D|VS Seeker                               |Are we to battle again?||1,1ABF92
-1C3ABF| 1| 50|0|D|VS Seeker                               |From where have you come, and[br]where are you bound?||1,1ABFD0
-1C3AF2| 1| 42|0|D|VS Seeker                               |I want to swim without my float[br]ring soon.||1,1AC00E
-1C3B1D| 1| 18|0|D|VS Seeker                               |Yay, yay![br]POKÈMON!||1,1AC04C
-1C3B30| 1| 61|0|D|VS Seeker                               |Oh, no, didn't I tell you already?[br]Please, stay away from me!||1,1AC08A
-1C3B6E| 1| 42|0|D|VS Seeker                               |JOY: We've gotten stronger![br]Lots and lots!||1,1AC0CC
-1C3B99| 1| 29|0|D|VS Seeker                               |MEG: You can't beat us today!||1,1AC112
-1C3BB7| 1| 62|0|D|VS Seeker                               |Oh, hello![nb2]Are you raising your POKÈMON in a[br]good environment?||1,1AC306
-1C3BF6| 1| 49|0|D|VS Seeker                               |With these hands, I will create[br]my victory today.||1,1AC154
-1C3C28| 1| 71|0|D|VS Seeker                               |Must I repeat myself?[br]I'm trying to paint.[nb]Please keep out of my sight!||1,1AC192
-1C3C70| 1| 63|0|D|VS Seeker                               |I haven't made any progress[...][br]I still can't get the right angle[...]||1,1AC1D0
-1C3CB0| 1| 64|0|D|VS Seeker                               |Oh, you will give me another[br]opportunity to match wits with you?||1,1AC20E
-1C3CF1| 1| 85|0|D|VS Seeker                               |They're almost finished making the[br]pool for my POKÈMON.[nb2]You must drop in for a visit.||1,1AC24C
-1C3D47| 1| 43|0|D|VS Seeker                               |I'm a good runner.[br]I've gotten even faster!||1,1AC28A
-1C3D73| 1| 46|0|D|VS Seeker                               |I say, friend![br]Let us enjoy our time together!||1,1AC2C8
-1C3DA2| 1|108|0|D|VS Seeker                               |I'm the eldest of the BIRD[br]BROTHERS. Remember me?[nb2]That's right, I'm the one who loves[br]birds for their beaks!||1,1AC344
-1C3E0F| 1| 90|0|D|VS Seeker                               |I'm the middle kid of the BIRD[br]BROTHERS.[nb2]I'm the one that loves wings.[br]Let's battle again!||1,1AC382
-1C3E6A| 1|101|0|D|VS Seeker                               |I'm the youngest of the BIRD[br]BROTHERS.[nb2]I love birds for their down.[br]I didn't think I'd see you again!||1,1AC3C0
-1C3ED0| 1| 64|0|D|VS Seeker                               |I'm still having no luck at all.[br]A battle'd be a change of pace!||1,1AC3FE
-1C3F11| 1| 63|0|D|VS Seeker                               |Gasp[...] Gasp[...][nb2]I swam here from SIX ISLAND's port[br]in one go again.||1,1AC43C
-1C3F51| 1| 41|0|D|VS Seeker                               |You always come along while I'm[br]swimming.||1,1AC47A
-1C3F7B| 1| 55|0|D|VS Seeker                               |AVA: Let's have another[br]two-on-two marine battle today!||1,1AC4BC
-1C3FB3| 1| 53|0|D|VS Seeker                               |GEB: My big sister and I are way[br]tougher than before!||1,1AC502
-1C3FE9| 1| 62|0|D|VS Seeker                               |[...]Huh?[nb2]I envision my house, but TELEPORT[br]always brings me here!||1,1AC544
-1C4028| 1| 46|0|D|VS Seeker                               |Oh, hello.[br]A pleasant breeze is blowing again.||1,1AC582
-1C4057| 1| 39|0|D|VS Seeker                               |Hehehe, I'm practicing in secret[br]again.||1,1AC5C0
-1C407F| 1| 89|0|D|VS Seeker                               |What, you're sick of seeing[br]SWIMMERS like me?[nb2]Aww, don't be hatin'![br]Battle with me again.||1,1AC5FE
-1C40D9| 1| 32|0|D|VS Seeker                               |Sigh[...][br]My boyfriend's busy again[...]||1,1AC63C
-1C40FA| 1| 61|0|D|VS Seeker                               |Come on, tell me, where are the[br]mountains around these parts?||1,1AC706
-1C4138| 1| 45|0|D|VS Seeker                               |MIU: Hello, POKÈMON![br]It's time to play again!||1,1AC67E
-1C4166| 1| 47|0|D|VS Seeker                               |MIA: Hello, POKÈMON![br]It's time to battle again!||1,1AC6C4
-1C4196| 1| 61|0|D|VS Seeker                               |There appear to be many secrets[br]still unsolved in this world.||1,1AC744
-1C41D4| 1| 59|0|D|VS Seeker                               |Hi, didn't we meet before?[br]What compelled you to come back?||1,1AC782
-1C4210| 1|111|0|D|VS Seeker                               |It's been said that there are[br]mysterious stones on this island.[nb2]Have you discovered anything since[br]we last met?||1,1AC7C0
-1C4280| 1| 31|0|D|VS Seeker                               |A rematch with you, so high up!||1,1AC7FE
-1C42A0| 1| 53|0|D|VS Seeker                               |I'm pretty familiar with the land[br]around these parts.||1,1AC83C
-1C42D6| 1| 23|0|D|VS Seeker                               |I sensed your approach.||1,1AC87A
-1C42EE| 1| 56|0|D|VS Seeker                               |Somewhere on this island, peculiar[br]POKÈMON are sleeping.||1,1AC8B8
-1C4327| 1| 76|0|D|VS Seeker                               |Kyahaha![nb2]Coming back won't change a thing.[br]I'll flick you away effortlessly!||1,1AC8F6
-1C4374| 1| 56|0|D|VS Seeker                               |Howdy! You're a member of my[br]fan club, isn't that right?||1,1AC9C0
-1C43AD| 1| 62|0|D|VS Seeker                               |This island is too spread out[...][br]Patrolling the place is a drag[...]||1,1AC9FE
-1C43EC| 1| 41|0|D|VS Seeker                               |I don't forgive people who abuse[br]POKÈMON!||1,1ACA3C
-1C4416| 1| 53|0|D|VS Seeker                               |EVE: I'll team up with JON and[br]battle together again.||1,1AC938
-1C444C| 1| 68|0|D|VS Seeker                               |JON: When I'm with EVE, it feels[br]like we could never lose, not ever.||1,1AC97E
-1C4491| 1| 57|0|D|VS Seeker                               |Let's have another battle.[br]My conditioning's in top form!||1,1ACA7A
-1C44CB| 1|130|0|D|VS Seeker                               |It doesn't matter if you happen to[br]have the strongest POKÈMON[...][nb2]It doesn't mean a thing if you don't[br]know how to use them properly!||1,1ACAB8
-1C454E| 1| 63|0|D|VS Seeker                               |I work to protect the environment.[br]In turn, nature protects me!||1,1ACAF6
-1C458E| 1| 51|0|D|VS Seeker                               |Every time we meet, you have those[br]snazzy shoes on.||1,1ACB34
-1C45C2| 1| 56|0|D|VS Seeker                               |You must have gotten tougher.[br]Let me battle you, please!||1,1ACB72
-1C45FB| 1|102|0|D|VS Seeker                               |I was given the best possible[br]education to become this strong.[nb2]I won't lose this time.[br]Absolutely not!||1,1ACBB0
-1C4662| 1| 54|0|D|VS Seeker                               |LEX: My darling NYA, together[br]we will win for certain!||1,1ACBF2
-1C4699| 1| 57|0|D|VS Seeker                               |NYA: I won't drag down my mentor[br]LEX! We're going to win!||1,1ACC38
-1C46D3| 1| 54|0|D|VS Seeker                               |Have you discovered anything about[br]this stone chamber?||1,1ACC7A
-1C470A| 1| 46|0|D|VS Seeker                               |A mystic POKÈMON is said to sleep[br]inside here.||1,1ACCB8
-1C4739| 1| 48|0|D|VS Seeker                               |My teacher is showing me how to[br]paint some more.||1,1ACCF6
-1C476A| 1| 67|0|D|VS Seeker                               |Today, in addition to our lesson,[br]we came to see the chamber again.||1,1ACD34
+1C3773| 1| 65|0|D|VS Seeker                               |Lying back, rocked by the waves[...][br]I don't notice time slipping by[...]|Zo op mijn rug, gewiegd door[br]de golven[...][nb2]Merkte ik niet dat het al zo laat[br]was[...]|1,1ABF54
+1C37B5| 1| 49|0|D|VS Seeker                               |The weather's gorgeous![br]I'll try not to spoil it.|Het is mooi weer vandaag![nb2]Ik ga proberen het[br]niet te verpesten.|1,1ABC1E
+1C37E7| 1| 31|0|D|VS Seeker                               |My sunburn is starting to hurt[...]|Mijn zonnebrand[br]begint pijn te doen[...]|1,1ABC5C
+1C3807| 1| 45|0|D|VS Seeker                               |The fire bird's mountain casts[br]a huge shadow[...]|De vuurvogel berg geeft heel[br]veel schaduw[...]|1,1ABC9A
+1C3835| 1| 52|0|D|VS Seeker                               |I have this strong feeling that[br]I can win this time!|Ik heb een sterk vermoeden[br]dat ik deze keer wel kan winnen!|1,1ABCD8
+1C386A| 1| 52|0|D|VS Seeker                               |Wait! Wait a second![br]I'm sure I've hooked a big one!|Wacht! Wacht eens even![br]Ik denk dat ik een grote beet heb!|1,1ABD16
+1C389F| 1| 42|0|D|VS Seeker                               |You'll help me out with my[br]training again?|Ga je me nog eens helpen[br]met mijn training?|1,1ABD54
+1C38CA| 1| 47|0|D|VS Seeker                               |We haven't missed a single day of[br]training yet!|We hebben nog geen enkele dag[br]de training over geslagen!|1,1ABD92
+1C38FA| 2| 72|0|D|VS Seeker                               |Every morning, before breakfast,[br]I swim around this island[...][nb]Three times!|Elke morgen zwem ik drie[br]keer rond dit eiland[...][nb2]Drie keer!|1,13020D;1,1ABDD0
+1C3943| 1| 67|0|D|VS Seeker                               |Dress appropriately for battle![br]Lose that frivolous outfit, I said!|Kleed je goed om te vechten![br]Niet zo idioot!|1,1ABE0E
+1C3987| 1| 62|0|D|VS Seeker                               |You know, everything tastes great[br]when you're out in the wild.|Weet je, in het wild smaakt[br]alles heel lekker.|1,1ABE4C
+1C39C6| 1| 62|0|D|VS Seeker                               |I ate too much again, so will you[br]battle us for some exercise?|Ik heb weer te veel gegeten,[br]Ga je met ons vechten als oefening?|1,1ABE8A
+1C3A05| 1| 79|0|D|VS Seeker                               |KIA: My big brother and I make[br]an awesome combination![nb2]We won't lose this time!|KIA: Mijn grote broer en ik zijn[br]een goed paar![nb2]We gaan deze keer niet verliezen!|1,1ABECC
+1C3A55| 1| 81|0|D|VS Seeker                               |MIK: Together with KIA, we're[br]afraid of nothing![nb2]We'll prove it to you this time!|MIK: Samen met KIA ben ik[br]nergens bang van![nb2]We gaan het je bewijzen!|1,1ABF12
+1C3AA7| 1| 23|0|D|VS Seeker                               |Are we to battle again?|Gaan we nog eens vechten?|1,1ABF92
+1C3ABF| 1| 50|0|D|VS Seeker                               |From where have you come, and[br]where are you bound?|Waar kom je vandaan,[br]en waar ga je naar toe?|1,1ABFD0
+1C3AF2| 1| 42|0|D|VS Seeker                               |I want to swim without my float[br]ring soon.|Ik wil leren zwemmen zonder[br]bandjes.|1,1AC00E
+1C3B1D| 1| 18|0|D|VS Seeker                               |Yay, yay![br]POKÈMON!|Jeuj, jeuj![br]POKÈMON!|1,1AC04C
+1C3B30| 1| 61|0|D|VS Seeker                               |Oh, no, didn't I tell you already?[br]Please, stay away from me!|O nee! Heb ik je het al niet[br]gevraagd? Blijf uit mijn buurt!|1,1AC08A
+1C3B6E| 1| 42|0|D|VS Seeker                               |JOY: We've gotten stronger![br]Lots and lots!|JOY: We zijn sterker geworden![br]Veel sterker!|1,1AC0CC
+1C3B99| 1| 29|0|D|VS Seeker                               |MEG: You can't beat us today!|MEG: Vandaag kan je[br]ons niet verslaan!|1,1AC112
+1C3BB7| 1| 62|0|D|VS Seeker                               |Oh, hello![nb2]Are you raising your POKÈMON in a[br]good environment?|O, hallo![nb2]Voed je je POKÈMON goed op?|1,1AC306
+1C3BF6| 1| 49|0|D|VS Seeker                               |With these hands, I will create[br]my victory today.|Vandaag bereik ik mijn overwinning[br]met mijn eigen handen.|1,1AC154
+1C3C28| 1| 71|0|D|VS Seeker                               |Must I repeat myself?[br]I'm trying to paint.[nb]Please keep out of my sight!|Moet ik me altijd herhalen?[br]Ik probeer te verven.[nb]Blijf uit mijn buurt!|1,1AC192
+1C3C70| 1| 63|0|D|VS Seeker                               |I haven't made any progress[...][br]I still can't get the right angle[...]|Ik heb geen vooruitgang geboekt[...][br]Ik vind de juiste hoek niet[...]|1,1AC1D0
+1C3CB0| 1| 64|0|D|VS Seeker                               |Oh, you will give me another[br]opportunity to match wits with you?|O, geef je me nog een kans om[br]met jou te vechten?|1,1AC20E
+1C3CF1| 1| 85|0|D|VS Seeker                               |They're almost finished making the[br]pool for my POKÈMON.[nb2]You must drop in for a visit.|Ze zijn bijna gedaan met het[br]zwembad te maken voor mijn POKÈMON.[nb2]Kom maar eens langs op bezoek.|1,1AC24C
+1C3D47| 1| 43|0|D|VS Seeker                               |I'm a good runner.[br]I've gotten even faster!|Ik ben een snelle loper.[br]Ik ben zelfs nog sneller geworden!|1,1AC28A
+1C3D73| 1| 46|0|D|VS Seeker                               |I say, friend![br]Let us enjoy our time together!|Kom, laten we samen[br]plezier maken!|1,1AC2C8
+1C3DA2| 1|108|0|D|VS Seeker                               |I'm the eldest of the BIRD[br]BROTHERS. Remember me?[nb2]That's right, I'm the one who loves[br]birds for their beaks!|Ik ben de oudste van de VOGEL[br]BROERS. Herinner je me?[nb2]Dat klopt, ik hou van de vogels[br]hun bek!|1,1AC344
+1C3E0F| 1| 90|0|D|VS Seeker                               |I'm the middle kid of the BIRD[br]BROTHERS.[nb2]I'm the one that loves wings.[br]Let's battle again!|Ik ben de middelste van de[br]VOGEL BROERS.[nb2]Ik hou van vleugels.[br]Laten we nog eens vechten!|1,1AC382
+1C3E6A| 1|101|0|D|VS Seeker                               |I'm the youngest of the BIRD[br]BROTHERS.[nb2]I love birds for their down.[br]I didn't think I'd see you again!|Ik ben de jongste van de VOGEL[br]BROERS.[nb2]Ik hou van vogels hun dons.[br]Ik dacht niet dat ik je nog[nb]eens zou zien!|1,1AC3C0
+1C3ED0| 1| 64|0|D|VS Seeker                               |I'm still having no luck at all.[br]A battle'd be a change of pace!|Ik heb nog steeds geen geluk.[nb2]Een gevecht zou een goede[br]afwisseling zijn.|1,1AC3FE
+1C3F11| 1| 63|0|D|VS Seeker                               |Gasp[...] Gasp[...][nb2]I swam here from SIX ISLAND's port[br]in one go again.|Hap[...] Hap[...][nb2]Ik ben naar hier gezwommen uit de[br]haven van SIX EILAND.|1,1AC43C
+1C3F51| 1| 41|0|D|VS Seeker                               |You always come along while I'm[br]swimming.|Je bent hier altijd als ik zwem.|1,1AC47A
+1C3F7B| 1| 55|0|D|VS Seeker                               |AVA: Let's have another[br]two-on-two marine battle today!|AVA: Laten we nog eens een[br]dubbel-zee-gevecht houden!|1,1AC4BC
+1C3FB3| 1| 53|0|D|VS Seeker                               |GEB: My big sister and I are way[br]tougher than before!|GEB: Mijn zus en ik zijn nu[br]veel sterker dan vroeger!|1,1AC502
+1C3FE9| 1| 62|0|D|VS Seeker                               |[...]Huh?[nb2]I envision my house, but TELEPORT[br]always brings me here!|[...]Hu?[nb2]Ik denk aan mijn huis, maar TELEPORT[br]brengt me altijd hier naar toe!|1,1AC544
+1C4028| 1| 46|0|D|VS Seeker                               |Oh, hello.[br]A pleasant breeze is blowing again.|A, hallo.[br]Er staat weer een aangename wind.|1,1AC582
+1C4057| 1| 39|0|D|VS Seeker                               |Hehehe, I'm practicing in secret[br]again.|HÈhÈ, ik oefen weer in het geheim.|1,1AC5C0
+1C407F| 1| 89|0|D|VS Seeker                               |What, you're sick of seeing[br]SWIMMERS like me?[nb2]Aww, don't be hatin'![br]Battle with me again.|Wat? ben je het beu om[br]zwemmers te zien?[nb2]Ach, trek het je niet aan![br]Vecht nog eens.|1,1AC5FE
+1C40D9| 1| 32|0|D|VS Seeker                               |Sigh[...][br]My boyfriend's busy again[...]|Zucht[...][nb2]Mijn vriendje is opnieuw bezig[...]|1,1AC63C
+1C40FA| 1| 61|0|D|VS Seeker                               |Come on, tell me, where are the[br]mountains around these parts?|Komaan, vertel me, zijn er hier[br]bergen in de buurt?|1,1AC706
+1C4138| 1| 45|0|D|VS Seeker                               |MIU: Hello, POKÈMON![br]It's time to play again!|MIU: Hallo POKÈMON[br]Het is nog eens tijd om te spelen!|1,1AC67E
+1C4166| 1| 47|0|D|VS Seeker                               |MIA: Hello, POKÈMON![br]It's time to battle again!|MIA: Hallo POKÈMON[br]Het is nog eens tijd om te vechten!|1,1AC6C4
+1C4196| 1| 61|0|D|VS Seeker                               |There appear to be many secrets[br]still unsolved in this world.|Er zijn nog heel veel geheimen in[br]deze wereld.|1,1AC744
+1C41D4| 1| 59|0|D|VS Seeker                               |Hi, didn't we meet before?[br]What compelled you to come back?|Hallo, heb ik jou niet al ontmoet?[br]Waarom ben je terug gekomen?|1,1AC782
+1C4210| 1|111|0|D|VS Seeker                               |It's been said that there are[br]mysterious stones on this island.[nb2]Have you discovered anything since[br]we last met?|Men zegt dat er mysterieuze stenen[br]liggen op dit eiland.[nb2]Heb je al iets gevonden sinds de[br]vorige keer dat ik je zag?|1,1AC7C0
+1C4280| 1| 31|0|D|VS Seeker                               |A rematch with you, so high up!|Nog eens een erg hoog gevecht!|1,1AC7FE
+1C42A0| 1| 53|0|D|VS Seeker                               |I'm pretty familiar with the land[br]around these parts.|Ik ken het land hier in de buurt[br]heel goed.|1,1AC83C
+1C42D6| 1| 23|0|D|VS Seeker                               |I sensed your approach.|Ik voelde al dat je kwam.|1,1AC87A
+1C42EE| 1| 56|0|D|VS Seeker                               |Somewhere on this island, peculiar[br]POKÈMON are sleeping.|Op dit eiland ergens, slapen[br]er heel speciale POKÈMON.|1,1AC8B8
+1C4327| 1| 76|0|D|VS Seeker                               |Kyahaha![nb2]Coming back won't change a thing.[br]I'll flick you away effortlessly!|Hahaha![nb2]Terugkomen zal niets veranderen.[br]Ik ga je moeiteloos verslaan!|1,1AC8F6
+1C4374| 1| 56|0|D|VS Seeker                               |Howdy! You're a member of my[br]fan club, isn't that right?|Hallo! Ben jij een lid van mijn[br]fanclub?|1,1AC9C0
+1C43AD| 1| 62|0|D|VS Seeker                               |This island is too spread out[...][br]Patrolling the place is a drag[...]|Dit eiland is te groot[...][br]Hier rondwandelen is vermoeiend[...]|1,1AC9FE
+1C43EC| 1| 41|0|D|VS Seeker                               |I don't forgive people who abuse[br]POKÈMON!|Ik vergeef niemand die POKÈMON[br]misbruikt!|1,1ACA3C
+1C4416| 1| 53|0|D|VS Seeker                               |EVE: I'll team up with JON and[br]battle together again.|EVE: Ik vecht nog eens samen[br]met JON.|1,1AC938
+1C444C| 1| 68|0|D|VS Seeker                               |JON: When I'm with EVE, it feels[br]like we could never lose, not ever.|JON: Als ik samen met EVE ben[br]voelt het alsof ik nooit verlies.|1,1AC97E
+1C4491| 1| 57|0|D|VS Seeker                               |Let's have another battle.[br]My conditioning's in top form!|Laten we nog eens vechten.[br]Ik ben in topvorm!|1,1ACA7A
+1C44CB| 1|130|0|D|VS Seeker                               |It doesn't matter if you happen to[br]have the strongest POKÈMON[...][nb2]It doesn't mean a thing if you don't[br]know how to use them properly!|Het maakt niet uit of je[br]de sterkste POKÈMON hebt[...][nb2]Als je ze niet goed kan gebruiken[...]|1,1ACAB8
+1C454E| 1| 63|0|D|VS Seeker                               |I work to protect the environment.[br]In turn, nature protects me!|Ik werk om de natuur te beschermen.[br]En in ruil beschermt de natuur mij.|1,1ACAF6
+1C458E| 1| 51|0|D|VS Seeker                               |Every time we meet, you have those[br]snazzy shoes on.|Elke keer ik je zie heb je die[br]coole schoenen aan.|1,1ACB34
+1C45C2| 1| 56|0|D|VS Seeker                               |You must have gotten tougher.[br]Let me battle you, please!|Je moet ondertussen al sterker[br]geworden zijn.[nb2]Laat me je nog eens vechten!|1,1ACB72
+1C45FB| 1|102|0|D|VS Seeker                               |I was given the best possible[br]education to become this strong.[nb2]I won't lose this time.[br]Absolutely not!|Ik heb de beste opleiding gekregen[br]om sterk te worden.[nb2]Deze keer ga ik[br]zeker niet verliezen!|1,1ACBB0
+1C4662| 1| 54|0|D|VS Seeker                               |LEX: My darling NYA, together[br]we will win for certain!|LEX: Mijn schat NYA, deze keer[br]gaan we samen winnen!|1,1ACBF2
+1C4699| 1| 57|0|D|VS Seeker                               |NYA: I won't drag down my mentor[br]LEX! We're going to win!|NYA: Ik ga LEX niet teleurstellen,[br]deze keer winnen we!|1,1ACC38
+1C46D3| 1| 54|0|D|VS Seeker                               |Have you discovered anything about[br]this stone chamber?|Heb je al iets ontdekt over de[br]stenen kamer?|1,1ACC7A
+1C470A| 1| 46|0|D|VS Seeker                               |A mystic POKÈMON is said to sleep[br]inside here.|Men zegt dat er hier een[br]mysterieuze POKÈMON slaapt.|1,1ACCB8
+1C4739| 1| 48|0|D|VS Seeker                               |My teacher is showing me how to[br]paint some more.|Mijn leeraar toont mij hoe ik[br]wat beter kan verven.|1,1ACCF6
+1C476A| 1| 67|0|D|VS Seeker                               |Today, in addition to our lesson,[br]we came to see the chamber again.|Vandaag, kwamen we hier nog[br]eens om de kamer te bekijken.|1,1ACD34
 1C55C9| 1| 32|0|D|Save game                               |Would you like to save the game?|Wil je het spel opslaan?|1,06F7D4
 1C55EA| 1| 58|0|D|Save game                               |There is already a saved file.[br]Is it okay to overwrite it?|Er is al een opgeslagen bestand.[br]Mag dit overschreven worden?|1,06F89C
 1C5625| 1| 33|0|D|Save game                               |SAVING[...][br]DON'T TURN OFF THE POWER.|BEZIG MET OPSLAAN[...][br]ZET DE STROOM NIET AF.|1,06F938
