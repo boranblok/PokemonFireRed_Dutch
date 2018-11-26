@@ -62,8 +62,8 @@
 172E3E| 1| 12|0|D|Mt. Moon                                |I'm steamed!|Ik ben geroosterd!|1,160833
 172E4B| 1| 43|0|D|Mt. Moon                                |POKÈMON lived here long before[br]people came.|Er leefden hier POKÈMON[br]lang voor er mensen waren.|1,160839
 172E77| 1| 28|0|D|Mt. Moon                                |Do you want the DOME FOSSIL?|Wil je het DOME FOSSIL?|1,16071F
-172E94| 1| 29|0|D|Mt. Moon                                |Do you want the HELIX FOSSIL?|Wil je het HELIX FOSSIL?|1,160783
-172EB2| 1| 26|0|D|Mt. Moon                                |Obtained the HELIX FOSSIL!|Het HELIX FOSSIEL gekregen!|1,16079E
+172E94| 1| 29|0|D|Mt. Moon                                |Do you want the HELIX FOSSIL?|Wil je het HELIXFOSSIEL?|1,160783
+172EB2| 1| 26|0|D|Mt. Moon                                |Obtained the HELIX FOSSIL!|Het HELIXFOSSIEL gekregen!|1,16079E
 172ECD| 1| 25|0|D|Mt. Moon                                |Obtained the DOME FOSSIL!|Het DOME FOSSIEL gekregen!|1,16073A
 172EE7| 1|120|0|D|S.S. Anne                               |Bonjour![br]I am le waiter on this ship![nb2]I will be happy to serve you[br]anything you please![nb2][...] [...] [...][br]Ah! Le strong silent type!|Bonjour![br]Ik ben le waiter op dit schip![nb2]Het is mijn plezier u te dienen,[br]maak uw keuze.[nb2][...] [...] [...][br]Ah! Stille waters!|1,1608CE
 172F60| 1| 98|0|D|S.S. Anne                               |The passengers are restless from[br]this long voyage.[nb2]You might be challenged by the[br]more bored ones!|De passagiers zijn rusteloos van[br]de lange reis.[nb2]Sommige gaan je misschien zelfs[br]uitdagen.|1,1608D7
@@ -4399,360 +4399,360 @@
 1C6787| 1|195|0|D|Teachy TV                               |This will make the POKÈMON a lot[br]easier to catch![nb2]Oh, yes. If you paralyze a[br]POKÈMON, you can't make it fall[nb]asleep on top of paralysis.[nb2]In other words, you can't double[br]up status problems, okay?|Dit maakt de POKÈMON veel[br]gemakkelijker te vangen![nb2]O, voor ik het vergeet. Als je een[br]POKÈMON verlamt kan je hem niet[nb]ook nog in slaap laten vallen.[nb2]Met andere woorden, je kan geen[br]dubbele status problemen geven.|1,4791F4
 1C684B| 1| 32|0|D|Teachy TV                               |Okay![br]Let me throw my POKÈ BALL!|Ok![br]Laat me mijn POKÈ BAL gooien!|1,4791F8
 1C686C| 1|125|0|D|Teachy TV                               |Before you throw a POKÈ BALL,[br]consider the condition and the[nb]type of POKÈMON, and pick the kind[nb]of BALL that would work best.|Voor je een POKÈ BAL gooit,[br]kijk naar de toestand en het type[nb]POKÈMON en pak het soort BAL[nb]die het best gaat werken.|1,4791FC
-2470A1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POUND|KLOP|
-2470AE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |KARATE CHOP|KARATESLAG|
-2470BB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLESLAP|DUBBELSLAG|
-2470C8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COMET PUNCH|KOMEET SLAG|
-2470D5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGA PUNCH|MEGA SLAG|
-2470E2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PAY DAY|BETAALDAG|
-2470EF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FIRE PUNCH|VUURSLAG|
-2470FC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICE PUNCH|IJS SLAG|
-247109| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDERPUNCH|DONDERSLAG|
-247116| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SCRATCH|KRAB|
-247123| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VICEGRIP|HOUDGREEP|
-247130| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GUILLOTINE|GUILLOTINE|
-24713D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAZOR WIND|SCHEERWIND|
-24714A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWORDS DANCE|ZWAARDDANS|
-247157| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |CUT|KAP|1,45A6B0
-247164| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GUST|WINDVLAAG|
-247171| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WING ATTACK|VLEUGELVLAAG|
-24717E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WHIRLWIND|WERVELWIND|
-24718B| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLY|VLIEG|1,45A6B8
-247198| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BIND|BIND|
-2471A5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLAM|SLAG|
-2471B2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VINE WHIP|LIAANZWEEP|
-2471BF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STOMP|STAMP|
-2471CC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLE KICK|DUBBELSCHOP|
-2471D9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGA KICK|MEGA SCHOP|
-2471E6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |JUMP KICK|SPRING SCHOP|
-2471F3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROLLING KICK|ROLSCHOP|
-247200| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SAND-ATTACK|ZANDAANVAL|
-24720D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HEADBUTT|KOPSTOOT|
-24721A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HORN ATTACK|HOORNAANVAL|
-247227| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FURY ATTACK|WOEDEAANVAL|
-247234| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HORN DRILL|HOORNBOOR|
-247241| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TACKLE||
-24724E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BODY SLAM|LICHAAMSSLAG|
-24725B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WRAP|WIKKEL|
-247268| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TAKE DOWN|NEERHAAL|
-247275| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THRASH|RANSEL|
-247282| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLE-EDGE|DUBBELSNEE|
-24728F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TAIL WHIP|STAARTZWEEP|
-24729C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON STING|GIFSTEEK|
-2472A9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TWINEEDLE|DUBBELNAALD|
-2472B6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PIN MISSILE|PINRAKET|
-2472C3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEER|GLUUR|
-2472D0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BITE|BIJT|
-2472DD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GROWL|GROM|
-2472EA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROAR|BRUL|
-2472F7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SING|ZING|
-247304| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUPERSONIC|SUPERSONISCH|
-247311| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SONICBOOM|GELUIDSKNAL|
-24731E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DISABLE|VERGRENDEL|
-24732B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ACID|ZUUR|
-247338| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EMBER|VLAMMETJE|
-247345| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLAMETHROWER|VLAMMWERPER|
-247352| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIST||
-24735F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WATER GUN|WATERPISTOOL|
-24736C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYDRO PUMP|WATERPOMP|
-247379| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |SURF||1,45A6C8
-247386| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICE BEAM|IJS STRAAL|
-247393| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BLIZZARD|SNEEUWSTORM|
-2473A0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYBEAM|PSY STRAAL|
-2473AD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BUBBLEBEAM|BUBBELSTRAAL|
-2473BA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AURORA BEAM|AURORASTRAAL|
-2473C7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYPER BEAM|HYPER STRAAL|
-2473D4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PECK|PIK|
-2473E1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRILL PECK|BOOR PIK|
-2473EE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUBMISSION|OVERGAVE|
-2473FB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LOW KICK|LAGE SCHOP|
-247408| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COUNTER|PAREER|
-247415| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SEISMIC TOSS|GROND GOOI|
-247422| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |STRENGTH|STERKTE|1,45A6C0
-24742F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ABSORB|ABSORBEER|
-24743C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGA DRAIN|MEGA OPZUIG|
-247449| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEECH SEED|STEELZAAD|
-247456| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GROWTH|GROEI|
-247463| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAZOR LEAF|SCHEERBLAD|
-247470| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SOLARBEAM|ZONNESTRAAL|
-24747D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISONPOWDER|GIFPOEDER|
-24748A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STUN SPORE|VERLAMZWAM|
-247497| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLEEP POWDER|SLAAP POEDER|
-2474A4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PETAL DANCE|BLAD DANS|
-2474B1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STRING SHOT|WEBSHOT|
-2474BE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRAGON RAGE|DRAKENWOEDE|
-2474CB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FIRE SPIN|VUURDRAAI|
-2474D8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDERSHOCK|DONDERSCHOK|
-2474E5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDERBOLT|BLIKSEM|
-2474F2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDER WAVE|DONDERGOLF|
-2474FF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THUNDER|DONDER|
-24750C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROCK THROW|GOOI ROTS|
-247519| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EARTHQUAKE|AARDBEVING|
-247526| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FISSURE|AFGROND|
-247533| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |DIG|GRAAF|1,45A6E8
-247540| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TOXIC|GIFTIG|
-24754D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONFUSION|VERWARRING|
-24755A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYCHIC|MENTAAL|
-247567| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYPNOSIS|HYPNOSE|
-247574| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEDITATE|MEDITEER|
-247581| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AGILITY|LENIGHEID|
-24758E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |QUICK ATTACK|SNELLE AANVAL|
-24759B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAGE|WOEDE|
-2475A8| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |TELEPORT|TELEPORT|1,45A6E0
-2475B5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |NIGHT SHADE|NACHTSCHADUW|
-2475C2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIMIC|DOE NA|
-2475CF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SCREECH|KRIJS|
-2475DC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOUBLE TEAM|DUBBEL TEAM|
-2475E9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RECOVER|HERSTEL|
-2475F6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HARDEN|VERARD|
-247603| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MINIMIZE|VERKLEIN|
-247610| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SMOKESCREEN|ROOKGORDIJN|
-24761D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONFUSE RAY|VERWARSTRAAL|
-24762A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WITHDRAW|TREK TERUG|
-247637| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DEFENSE CURL|ROL OP|
-247644| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BARRIER|OBSTAKEL|
-247651| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LIGHT SCREEN|LICHTSCHERM|
-24765E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HAZE|WAAS|
-24766B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REFLECT|KAATS TERUG|
-247678| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FOCUS ENERGY|FOCUS ENERGIE|
-247685| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BIDE|WACHT AF|
-247692| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |METRONOME|METRONOOM|
-24769F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIRROR MOVE|SPIEGEL ACTIE|
-2476AC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SELFDESTRUCT|ZELFOPBLAAS|
-2476B9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EGG BOMB|EI BOM|
-2476C6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LICK|LIK|
-2476D3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SMOG|SMOG|
-2476E0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLUDGE|SLIJK|
-2476ED| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BONE CLUB|BEEN KNUPPEL|
-2476FA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FIRE BLAST|VUURBAL|
-247707| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |WATERFALL|WATERVAL|1,45A6D8
-247714| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CLAMP|KLEM|
-247721| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWIFT|SNEL|
-24772E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKULL BASH|SCHEDELSLAG|
-24773B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPIKE CANNON|PUNT KANON|
-247748| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONSTRICT|VERSTIK|
-247755| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AMNESIA|VERGEET|
-247762| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |KINESIS||
-24776F| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |SOFTBOILED|ZACHTGEKOOKT|1,45A6F8
-24777C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HI JUMP KICK|HOGE SCHOP|
-247789| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GLARE|STAAR|
-247796| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DREAM EATER|DROOM ETER|
-2477A3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON GAS|GIFGAS|
-2477B0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BARRAGE|BEKOGELING|
-2477BD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEECH LIFE|STEEL LEVEN|
-2477CA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LOVELY KISS|GROTE ZOEN|
-2477D7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKY ATTACK|LUCHTAANVAL|
-2477E4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TRANSFORM|VERANDER|
-2477F1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BUBBLE|BUBBEL|
-2477FE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DIZZY PUNCH|DUIZELSLAG|
-24780B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPORE|SPOREN|
-247818| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLASH|FLITS|1,45A6A8
-247825| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYWAVE|PSY GOLF|
-247832| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPLASH|PLONS|
-24783F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ACID ARMOR|ZUURHARNAS|
-24784C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CRABHAMMER|KRABHAMER|
-247859| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EXPLOSION|EXPLOSIE|
-247866| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FURY SWIPES|WOEDE SLAGEN|
-247873| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BONEMERANG|BEENMERANG|
-247880| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REST|RUST|
-24788D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROCK SLIDE|STEENLAWINE|
-24789A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYPER FANG|HYPER BIJT|
-2478A7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SHARPEN|SLIJP|
-2478B4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONVERSION|AANPASSING|
-2478C1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TRI ATTACK|DRIE AANVAL|
-2478CE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUPER FANG|SUPER BIJT|
-2478DB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLASH|SNIJ|
-2478E8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUBSTITUTE|VERVANGER|
-2478F5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STRUGGLE|WORSTEL|
-247902| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKETCH|TEKEN|
-24790F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TRIPLE KICK|DRIE SCHOP|
-24791C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |THIEF|DIEF|
-247929| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPIDER WEB|SPINNENWEB|
-247936| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIND READER|GEDACHTENLEES|
-247943| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |NIGHTMARE|NACHTMERRIE|
-247950| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLAME WHEEL|VLAMMENWIEL|
-24795D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SNORE|SNURK|
-24796A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CURSE|VLOEK|
-247977| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLAIL|ZWAAI|
-247984| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CONVERSION 2|AANPASSING 2|
-247991| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AEROBLAST|LUCHTSTOOT|
-24799E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COTTON SPORE|KATOENBOLLEN|
-2479AB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REVERSAL|OMMEKEER|
-2479B8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPITE|WRAAK|
-2479C5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POWDER SNOW|POEDERSNEEUW|
-2479D2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PROTECT|BESCHERM|
-2479DF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MACH PUNCH|MACH KLOP|
-2479EC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SCARY FACE|ENG GEZICHT|
-2479F9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FAINT ATTACK|SLAPAANVAL|
-247A06| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWEET KISS|ZOETE ZOEN|
-247A13| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BELLY DRUM|BUIKTROM|
-247A20| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLUDGE BOMB|SLIJKBOM|
-247A2D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MUD-SLAP|MODDERSLAG|
-247A3A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |OCTAZOOKA|ACHTKANON|
-247A47| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPIKES|PINNEN|
-247A54| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ZAP CANNON|ZAP KANON|
-247A61| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FORESIGHT|VOORUITZICHT|
-247A6E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DESTINY BOND|LOTVERBINDING|
-247A7B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PERISH SONG|VERGANGLIED|
-247A88| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICY WIND|IJSWIND|
-247A95| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DETECT|ONTDEK|
-247AA2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BONE RUSH|BEEN HAAST|
-247AAF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LOCK-ON|MIKPUNT|
-247ABC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |OUTRAGE|RAZERNIJ|
-247AC9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SANDSTORM|ZANDSTORM|
-247AD6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GIGA DRAIN|GIGA OPZUIG|
-247AE3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ENDURE|DOORSTA|
-247AF0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CHARM|CHARME|
-247AFD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROLLOUT|UITROL|
-247B0A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FALSE SWIPE|VALSE SLAG|
-247B17| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWAGGER|ZWIER|
-247B24| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |MILK DRINK|MELKDRANK|1,45A6F0
-247B31| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPARK|VONK|
-247B3E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FURY CUTTER|WOEDE SNEDES|
-247B4B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STEEL WING|STAALVLEUGEL|
-247B58| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEAN LOOK|GEMENE BLIK|
-247B65| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ATTRACT|LOK|
-247B72| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLEEP TALK|SLAAP PRAAT|
-247B7F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HEAL BELL|GENEES BEL|
-247B8C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RETURN|KEER TERUG|
-247B99| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PRESENT|CADEAU|
-247BA6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FRUSTRATION|FRUSTRATIE|
-247BB3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SAFEGUARD|BESCHERMING|
-247BC0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PAIN SPLIT|DEEL PIJN|
-247BCD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SACRED FIRE|HEILIG VUUR|
-247BDA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MAGNITUDE|BEVING|
-247BE7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DYNAMICPUNCH|VARIABELSLAG|
-247BF4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEGAHORN|MEGA HOORN|
-247C01| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRAGONBREATH|DRAKEN ADEM|
-247C0E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BATON PASS|AFLOSSING|
-247C1B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ENCORE|HERHALING|
-247C28| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PURSUIT|ACHTERVOLG|
-247C35| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAPID SPIN|SNELDRAAI|
-247C42| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWEET SCENT|ZOETE GEUR|1,45A700
-247C4F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |IRON TAIL|IJZER STAART|
-247C5C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |METAL CLAW|METAAL KLAUW|
-247C69| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VITAL THROW|VITALE WORP|
-247C76| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MORNING SUN|OCHTENDZON|
-247C83| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SYNTHESIS|SAMENVATTING|
-247C90| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MOONLIGHT|MAANLICHT|
-247C9D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HIDDEN POWER|OCCULTKRACHT|
-247CAA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CROSS CHOP|KRUIS SLAG|
-247CB7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TWISTER|DRAAIER|
-247CC4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RAIN DANCE|REGENDANS|
-247CD1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUNNY DAY|ZONNIGE DAG|
-247CDE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CRUNCH|KRAAK|
-247CEB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIRROR COAT|SPIEGELMANTEL|
-247CF8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYCH UP|PSY STIJG|
-247D05| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EXTREMESPEED|EXTREEM SNEL|
-247D12| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ANCIENTPOWER|OUDE KRACHT|
-247D1F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SHADOW BALL|SCHADUW BAL|
-247D2C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FUTURE SIGHT|TOEKOMSTZICHT|
-247D39| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROCK SMASH|ROTS BREEK|1,45A6D0
-247D46| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WHIRLPOOL|DRAAIKOLK|
-247D53| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BEAT UP|SLA IN ELKAAR|
-247D60| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FAKE OUT|DOE ALSOF|
-247D6D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |UPROAR|KABAAL|
-247D7A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |STOCKPILE|VERZAMEL|
-247D87| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SPIT UP|SPUUG UIT|
-247D94| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SWALLOW|SLIK IN|
-247DA1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HEAT WAVE|HITTEGOLF|
-247DAE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HAIL|HAGEL|
-247DBB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TORMENT|KWELLING|
-247DC8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FLATTER|VLEI|
-247DD5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WILL-O-WISP|DWAALLICHT|
-247DE2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MEMENTO|AANDENKEN|
-247DEF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FACADE|SCHIJN|
-247DFC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FOCUS PUNCH|FOCUS SLAG|
-247E09| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SMELLINGSALT|REUKZOUT|
-247E16| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FOLLOW ME|VOLG MIJ|
-247E23| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |NATURE POWER|NATUURKRACHT|
-247E30| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CHARGE|TEN AANVAL|
-247E3D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TAUNT|SPOT|
-247E4A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HELPING HAND|HELPENDE HAND|
-247E57| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TRICK|TRUC|
-247E64| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROLE PLAY|ROLLENSPEL|
-247E71| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WISH|WENS|
-247E7E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ASSIST|ASSISTEREN|
-247E8B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |INGRAIN|VERSTERK|
-247E98| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SUPERPOWER|SUPERKRACHT|
-247EA5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MAGIC COAT|MAGIEMANTEL|
-247EB2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |RECYCLE|RECYCLEER|
-247EBF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REVENGE|VERGELDING|
-247ECC| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BRICK BREAK|STREEN BREEK|
-247ED9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |YAWN|GEEUW|
-247EE6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |KNOCK OFF|SLA AF|
-247EF3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ENDEAVOR|ONDERNEMING|
-247F00| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ERUPTION|UITBARSTING|
-247F0D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKILL SWAP|TECHNIEKRUIL|
-247F1A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |IMPRISON|SLUIT OP|
-247F27| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |REFRESH|VERVERS|
-247F34| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GRUDGE|WROK|
-247F41| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SNATCH|GRIJP|
-247F4E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SECRET POWER|GEHEIMKRACHT|
-247F5B| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DIVE|DUIK|
-247F68| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ARM THRUST|ARMSTOOT|
-247F75| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CAMOUFLAGE||
-247F82| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TAIL GLOW|STAARTGLOEI|
-247F8F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LUSTER PURGE|GLANS WEG|
-247F9C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MIST BALL|MIST BAL|
-247FA9| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FEATHERDANCE|VERENDANS|
-247FB6| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TEETER DANCE|SCHOMMELDANS|
-247FC3| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BLAZE KICK|VUUR SCHOP|
-247FD0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MUD SPORT|MODDERWORP|
-247FDD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICE BALL|IJSBAL|
-247FEA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |NEEDLE ARM|NAALD ARM|
-247FF7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SLACK OFF|RUSTIG AAN|
-248004| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYPER VOICE|HYPER STEM|
-248011| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON FANG|GIFBEET|
-24801E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CRUSH CLAW|PERSKLAUW|
-24802B| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |BLAST BURN|BRANDEXPLOSIE|1,0CCC50
-248038| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |HYDRO CANNON|WATERKANON|1,0CCC84
-248045| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |METEOR MASH|METEORIETSLAG|
-248052| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ASTONISH|VERBAAS|
-24805F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WEATHER BALL|WEERBAL|
-24806C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AROMATHERAPY|AROMATHERAPIE|
-248079| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |FAKE TEARS|VALSE TRANEN|
-248086| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AIR CUTTER|LUCHT SNIJDER|
-248093| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |OVERHEAT|OVERHIT|
-2480A0| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ODOR SLEUTH|SPEURNEUS|
-2480AD| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROCK TOMB|STENEN GRAF|
-2480BA| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SILVER WIND|ZILVERWIND|
-2480C7| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |METAL SOUND|METAALGELUID|
-2480D4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |GRASSWHISTLE|GRASFLUIT|
-2480E1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |TICKLE|KIETEL|
-2480EE| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COSMIC POWER|KOSMOS KRACHT|
-2480FB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WATER SPOUT|WATERSPUIT|
-248108| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SIGNAL BEAM|SIGNAALSTRAAL|
-248115| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SHADOW PUNCH|SCHADUWKLOP|
-248122| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |EXTRASENSORY|PARANORMAAL|
-24812F| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SKY UPPERCUT|LUCHT SLAG|
-24813C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SAND TOMB|ZANDGRAF|
-248149| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SHEER COLD|PURE KOU|
-248156| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MUDDY WATER|MODDERWATER|
-248163| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BULLET SEED|KOGELZAAD|
-248170| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |AERIAL ACE|LUCHTVECHTER|
-24817D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ICICLE SPEAR|IJS SPEER|
-24818A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |IRON DEFENSE|IJZER AFWEER|
-248197| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BLOCK|BLOKKEER|
-2481A4| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |HOWL|HUIL|
-2481B1| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRAGON CLAW|DRAKENKLAUW|
-2481BE| 1| 13|0|D|Movedescriptions MAX LENGTH 13!         |FRENZY PLANT|RAZENDE PLANT|1,0CCC28
-2481CB| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BULK UP|MEER SPIEREN|
-2481D8| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |BOUNCE|STUITER|
-2481E5| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MUD SHOT|MODDERSCHOT|
-2481F2| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |POISON TAIL|GIFSTAART|
-2481FF| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |COVET|BEGEER|
-24820C| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |VOLT TACKLE||
-248219| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |MAGICAL LEAF|MAGISCH BLAD|
-248226| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WATER SPORT|WATERSPORT|
-248233| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |CALM MIND|KALM HOOFD|
-248240| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |LEAF BLADE|BLADMES|
-24824D| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DRAGON DANCE|DRAKENDANS|
-24825A| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |ROCK BLAST|ROTSEXPLOSIE|
-248267| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |SHOCK WAVE|SCHOKGOLF|
-248274| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |WATER PULSE|WATERSTOOT|
-248281| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |DOOM DESIRE|ONHEIL|
-24828E| 0| 13|0|D|Movedescriptions MAX LENGTH 13!         |PSYCHO BOOST|PSY BOOST|
+2470A1| 0| 12|0|D|Move names MAX LENGTH 12!               |POUND|KLOP|
+2470AE| 0| 12|0|D|Move names MAX LENGTH 12!               |KARATE CHOP|KARATESLAG|
+2470BB| 0| 12|0|D|Move names MAX LENGTH 12!               |DOUBLESLAP|DUBBELSLAG|
+2470C8| 0| 12|0|D|Move names MAX LENGTH 12!               |COMET PUNCH|KOMEET SLAG|
+2470D5| 0| 12|0|D|Move names MAX LENGTH 12!               |MEGA PUNCH|MEGA SLAG|
+2470E2| 0| 12|0|D|Move names MAX LENGTH 12!               |PAY DAY|BETAALDAG|
+2470EF| 0| 12|0|D|Move names MAX LENGTH 12!               |FIRE PUNCH|VUURSLAG|
+2470FC| 0| 12|0|D|Move names MAX LENGTH 12!               |ICE PUNCH|IJS SLAG|
+247109| 0| 12|0|D|Move names MAX LENGTH 12!               |THUNDERPUNCH|DONDERSLAG|
+247116| 0| 12|0|D|Move names MAX LENGTH 12!               |SCRATCH|KRAB|
+247123| 0| 12|0|D|Move names MAX LENGTH 12!               |VICEGRIP|HOUDGREEP|
+247130| 0| 12|0|D|Move names MAX LENGTH 12!               |GUILLOTINE|GUILLOTINE|
+24713D| 0| 12|0|D|Move names MAX LENGTH 12!               |RAZOR WIND|SCHEERWIND|
+24714A| 0| 12|0|D|Move names MAX LENGTH 12!               |SWORDS DANCE|ZWAARDDANS|
+247157| 1| 12|0|D|Move names MAX LENGTH 12!               |CUT|KAP|1,45A6B0
+247164| 0| 12|0|D|Move names MAX LENGTH 12!               |GUST|WINDVLAAG|
+247171| 0| 12|0|D|Move names MAX LENGTH 12!               |WING ATTACK|VLEUGELVLAAG|
+24717E| 0| 12|0|D|Move names MAX LENGTH 12!               |WHIRLWIND|WERVELWIND|
+24718B| 1| 12|0|D|Move names MAX LENGTH 12!               |FLY|VLIEG|1,45A6B8
+247198| 0| 12|0|D|Move names MAX LENGTH 12!               |BIND|BIND|
+2471A5| 0| 12|0|D|Move names MAX LENGTH 12!               |SLAM|SLAG|
+2471B2| 0| 12|0|D|Move names MAX LENGTH 12!               |VINE WHIP|LIAANZWEEP|
+2471BF| 0| 12|0|D|Move names MAX LENGTH 12!               |STOMP|STAMP|
+2471CC| 0| 12|0|D|Move names MAX LENGTH 12!               |DOUBLE KICK|DUBBELSCHOP|
+2471D9| 0| 12|0|D|Move names MAX LENGTH 12!               |MEGA KICK|MEGA SCHOP|
+2471E6| 0| 12|0|D|Move names MAX LENGTH 12!               |JUMP KICK|SPRING SCHOP|
+2471F3| 0| 12|0|D|Move names MAX LENGTH 12!               |ROLLING KICK|ROLSCHOP|
+247200| 0| 12|0|D|Move names MAX LENGTH 12!               |SAND-ATTACK|ZANDAANVAL|
+24720D| 0| 12|0|D|Move names MAX LENGTH 12!               |HEADBUTT|KOPSTOOT|
+24721A| 0| 12|0|D|Move names MAX LENGTH 12!               |HORN ATTACK|HOORNAANVAL|
+247227| 0| 12|0|D|Move names MAX LENGTH 12!               |FURY ATTACK|WOEDEAANVAL|
+247234| 0| 12|0|D|Move names MAX LENGTH 12!               |HORN DRILL|HOORNBOOR|
+247241| 0| 12|0|D|Move names MAX LENGTH 12!               |TACKLE||
+24724E| 0| 12|0|D|Move names MAX LENGTH 12!               |BODY SLAM|LICHAAMSSLAG|
+24725B| 0| 12|0|D|Move names MAX LENGTH 12!               |WRAP|WIKKEL|
+247268| 0| 12|0|D|Move names MAX LENGTH 12!               |TAKE DOWN|NEERHAAL|
+247275| 0| 12|0|D|Move names MAX LENGTH 12!               |THRASH|RANSEL|
+247282| 0| 12|0|D|Move names MAX LENGTH 12!               |DOUBLE-EDGE|DUBBELSNEE|
+24728F| 0| 12|0|D|Move names MAX LENGTH 12!               |TAIL WHIP|STAARTZWEEP|
+24729C| 0| 12|0|D|Move names MAX LENGTH 12!               |POISON STING|GIFSTEEK|
+2472A9| 0| 12|0|D|Move names MAX LENGTH 12!               |TWINEEDLE|DUBBELNAALD|
+2472B6| 0| 12|0|D|Move names MAX LENGTH 12!               |PIN MISSILE|PINRAKET|
+2472C3| 0| 12|0|D|Move names MAX LENGTH 12!               |LEER|GLUUR|
+2472D0| 0| 12|0|D|Move names MAX LENGTH 12!               |BITE|BIJT|
+2472DD| 0| 12|0|D|Move names MAX LENGTH 12!               |GROWL|GROM|
+2472EA| 0| 12|0|D|Move names MAX LENGTH 12!               |ROAR|BRUL|
+2472F7| 0| 12|0|D|Move names MAX LENGTH 12!               |SING|ZING|
+247304| 0| 12|0|D|Move names MAX LENGTH 12!               |SUPERSONIC|SUPERSONISCH|
+247311| 0| 12|0|D|Move names MAX LENGTH 12!               |SONICBOOM|GELUIDSKNAL|
+24731E| 0| 12|0|D|Move names MAX LENGTH 12!               |DISABLE|VERGRENDEL|
+24732B| 0| 12|0|D|Move names MAX LENGTH 12!               |ACID|ZUUR|
+247338| 0| 12|0|D|Move names MAX LENGTH 12!               |EMBER|VLAMMETJE|
+247345| 0| 12|0|D|Move names MAX LENGTH 12!               |FLAMETHROWER|VLAMMWERPER|
+247352| 0| 12|0|D|Move names MAX LENGTH 12!               |MIST||
+24735F| 0| 12|0|D|Move names MAX LENGTH 12!               |WATER GUN|WATERPISTOOL|
+24736C| 0| 12|0|D|Move names MAX LENGTH 12!               |HYDRO PUMP|WATERPOMP|
+247379| 1| 12|0|D|Move names MAX LENGTH 12!               |SURF||1,45A6C8
+247386| 0| 12|0|D|Move names MAX LENGTH 12!               |ICE BEAM|IJS STRAAL|
+247393| 0| 12|0|D|Move names MAX LENGTH 12!               |BLIZZARD|SNEEUWSTORM|
+2473A0| 0| 12|0|D|Move names MAX LENGTH 12!               |PSYBEAM|PSY STRAAL|
+2473AD| 0| 12|0|D|Move names MAX LENGTH 12!               |BUBBLEBEAM|BUBBELSTRAAL|
+2473BA| 0| 12|0|D|Move names MAX LENGTH 12!               |AURORA BEAM|AURORASTRAAL|
+2473C7| 0| 12|0|D|Move names MAX LENGTH 12!               |HYPER BEAM|HYPER STRAAL|
+2473D4| 0| 12|0|D|Move names MAX LENGTH 12!               |PECK|PIK|
+2473E1| 0| 12|0|D|Move names MAX LENGTH 12!               |DRILL PECK|BOOR PIK|
+2473EE| 0| 12|0|D|Move names MAX LENGTH 12!               |SUBMISSION|OVERGAVE|
+2473FB| 0| 12|0|D|Move names MAX LENGTH 12!               |LOW KICK|LAGE SCHOP|
+247408| 0| 12|0|D|Move names MAX LENGTH 12!               |COUNTER|PAREER|
+247415| 0| 12|0|D|Move names MAX LENGTH 12!               |SEISMIC TOSS|GROND GOOI|
+247422| 1| 12|0|D|Move names MAX LENGTH 12!               |STRENGTH|STERKTE|1,45A6C0
+24742F| 0| 12|0|D|Move names MAX LENGTH 12!               |ABSORB|ABSORBEER|
+24743C| 0| 12|0|D|Move names MAX LENGTH 12!               |MEGA DRAIN|MEGA OPZUIG|
+247449| 0| 12|0|D|Move names MAX LENGTH 12!               |LEECH SEED|STEELZAAD|
+247456| 0| 12|0|D|Move names MAX LENGTH 12!               |GROWTH|GROEI|
+247463| 0| 12|0|D|Move names MAX LENGTH 12!               |RAZOR LEAF|SCHEERBLAD|
+247470| 0| 12|0|D|Move names MAX LENGTH 12!               |SOLARBEAM|ZONNESTRAAL|
+24747D| 0| 12|0|D|Move names MAX LENGTH 12!               |POISONPOWDER|GIFPOEDER|
+24748A| 0| 12|0|D|Move names MAX LENGTH 12!               |STUN SPORE|VERLAMZWAM|
+247497| 0| 12|0|D|Move names MAX LENGTH 12!               |SLEEP POWDER|SLAAP POEDER|
+2474A4| 0| 12|0|D|Move names MAX LENGTH 12!               |PETAL DANCE|BLAD DANS|
+2474B1| 0| 12|0|D|Move names MAX LENGTH 12!               |STRING SHOT|WEBSHOT|
+2474BE| 0| 12|0|D|Move names MAX LENGTH 12!               |DRAGON RAGE|DRAKENWOEDE|
+2474CB| 0| 12|0|D|Move names MAX LENGTH 12!               |FIRE SPIN|VUURDRAAI|
+2474D8| 0| 12|0|D|Move names MAX LENGTH 12!               |THUNDERSHOCK|DONDERSCHOK|
+2474E5| 0| 12|0|D|Move names MAX LENGTH 12!               |THUNDERBOLT|BLIKSEM|
+2474F2| 0| 12|0|D|Move names MAX LENGTH 12!               |THUNDER WAVE|DONDERGOLF|
+2474FF| 0| 12|0|D|Move names MAX LENGTH 12!               |THUNDER|DONDER|
+24750C| 0| 12|0|D|Move names MAX LENGTH 12!               |ROCK THROW|GOOI ROTS|
+247519| 0| 12|0|D|Move names MAX LENGTH 12!               |EARTHQUAKE|AARDBEVING|
+247526| 0| 12|0|D|Move names MAX LENGTH 12!               |FISSURE|AFGROND|
+247533| 1| 12|0|D|Move names MAX LENGTH 12!               |DIG|GRAAF|1,45A6E8
+247540| 0| 12|0|D|Move names MAX LENGTH 12!               |TOXIC|GIFTIG|
+24754D| 0| 12|0|D|Move names MAX LENGTH 12!               |CONFUSION|VERWARRING|
+24755A| 0| 12|0|D|Move names MAX LENGTH 12!               |PSYCHIC|MENTAAL|
+247567| 0| 12|0|D|Move names MAX LENGTH 12!               |HYPNOSIS|HYPNOSE|
+247574| 0| 12|0|D|Move names MAX LENGTH 12!               |MEDITATE|MEDITEER|
+247581| 0| 12|0|D|Move names MAX LENGTH 12!               |AGILITY|LENIGHEID|
+24758E| 0| 12|0|D|Move names MAX LENGTH 12!               |QUICK ATTACK|SNELAANVAL|
+24759B| 0| 12|0|D|Move names MAX LENGTH 12!               |RAGE|WOEDE|
+2475A8| 1| 12|0|D|Move names MAX LENGTH 12!               |TELEPORT|TELEPORT|1,45A6E0
+2475B5| 0| 12|0|D|Move names MAX LENGTH 12!               |NIGHT SHADE|NACHTSCHADUW|
+2475C2| 0| 12|0|D|Move names MAX LENGTH 12!               |MIMIC|DOE NA|
+2475CF| 0| 12|0|D|Move names MAX LENGTH 12!               |SCREECH|KRIJS|
+2475DC| 0| 12|0|D|Move names MAX LENGTH 12!               |DOUBLE TEAM|DUBBEL TEAM|
+2475E9| 0| 12|0|D|Move names MAX LENGTH 12!               |RECOVER|HERSTEL|
+2475F6| 0| 12|0|D|Move names MAX LENGTH 12!               |HARDEN|VERARD|
+247603| 0| 12|0|D|Move names MAX LENGTH 12!               |MINIMIZE|VERKLEIN|
+247610| 0| 12|0|D|Move names MAX LENGTH 12!               |SMOKESCREEN|ROOKGORDIJN|
+24761D| 0| 12|0|D|Move names MAX LENGTH 12!               |CONFUSE RAY|VERWARSTRAAL|
+24762A| 0| 12|0|D|Move names MAX LENGTH 12!               |WITHDRAW|TREK TERUG|
+247637| 0| 12|0|D|Move names MAX LENGTH 12!               |DEFENSE CURL|ROL OP|
+247644| 0| 12|0|D|Move names MAX LENGTH 12!               |BARRIER|OBSTAKEL|
+247651| 0| 12|0|D|Move names MAX LENGTH 12!               |LIGHT SCREEN|LICHTSCHERM|
+24765E| 0| 12|0|D|Move names MAX LENGTH 12!               |HAZE|WAAS|
+24766B| 0| 12|0|D|Move names MAX LENGTH 12!               |REFLECT|KAATS TERUG|
+247678| 0| 12|0|D|Move names MAX LENGTH 12!               |FOCUS ENERGY|FOCUS KRACHT|
+247685| 0| 12|0|D|Move names MAX LENGTH 12!               |BIDE|WACHT AF|
+247692| 0| 12|0|D|Move names MAX LENGTH 12!               |METRONOME|METRONOOM|
+24769F| 0| 12|0|D|Move names MAX LENGTH 12!               |MIRROR MOVE|SPIEGELACTIE|
+2476AC| 0| 12|0|D|Move names MAX LENGTH 12!               |SELFDESTRUCT|ZELFOPBLAAS|
+2476B9| 0| 12|0|D|Move names MAX LENGTH 12!               |EGG BOMB|EI BOM|
+2476C6| 0| 12|0|D|Move names MAX LENGTH 12!               |LICK|LIK|
+2476D3| 0| 12|0|D|Move names MAX LENGTH 12!               |SMOG|SMOG|
+2476E0| 0| 12|0|D|Move names MAX LENGTH 12!               |SLUDGE|SLIJK|
+2476ED| 0| 12|0|D|Move names MAX LENGTH 12!               |BONE CLUB|BEEN KNUPPEL|
+2476FA| 0| 12|0|D|Move names MAX LENGTH 12!               |FIRE BLAST|VUURBAL|
+247707| 1| 12|0|D|Move names MAX LENGTH 12!               |WATERFALL|WATERVAL|1,45A6D8
+247714| 0| 12|0|D|Move names MAX LENGTH 12!               |CLAMP|KLEM|
+247721| 0| 12|0|D|Move names MAX LENGTH 12!               |SWIFT|SNEL|
+24772E| 0| 12|0|D|Move names MAX LENGTH 12!               |SKULL BASH|SCHEDELSLAG|
+24773B| 0| 12|0|D|Move names MAX LENGTH 12!               |SPIKE CANNON|PUNT KANON|
+247748| 0| 12|0|D|Move names MAX LENGTH 12!               |CONSTRICT|VERSTIK|
+247755| 0| 12|0|D|Move names MAX LENGTH 12!               |AMNESIA|VERGEET|
+247762| 0| 12|0|D|Move names MAX LENGTH 12!               |KINESIS||
+24776F| 1| 12|0|D|Move names MAX LENGTH 12!               |SOFTBOILED|ZACHTGEKOOKT|1,45A6F8
+24777C| 0| 12|0|D|Move names MAX LENGTH 12!               |HI JUMP KICK|HOGE SCHOP|
+247789| 0| 12|0|D|Move names MAX LENGTH 12!               |GLARE|STAAR|
+247796| 0| 12|0|D|Move names MAX LENGTH 12!               |DREAM EATER|DROOM ETER|
+2477A3| 0| 12|0|D|Move names MAX LENGTH 12!               |POISON GAS|GIFGAS|
+2477B0| 0| 12|0|D|Move names MAX LENGTH 12!               |BARRAGE|BEKOGELING|
+2477BD| 0| 12|0|D|Move names MAX LENGTH 12!               |LEECH LIFE|STEEL LEVEN|
+2477CA| 0| 12|0|D|Move names MAX LENGTH 12!               |LOVELY KISS|GROTE ZOEN|
+2477D7| 0| 12|0|D|Move names MAX LENGTH 12!               |SKY ATTACK|LUCHTAANVAL|
+2477E4| 0| 12|0|D|Move names MAX LENGTH 12!               |TRANSFORM|VERANDER|
+2477F1| 0| 12|0|D|Move names MAX LENGTH 12!               |BUBBLE|BUBBEL|
+2477FE| 0| 12|0|D|Move names MAX LENGTH 12!               |DIZZY PUNCH|DUIZELSLAG|
+24780B| 0| 12|0|D|Move names MAX LENGTH 12!               |SPORE|SPOREN|
+247818| 1| 12|0|D|Move names MAX LENGTH 12!               |FLASH|FLITS|1,45A6A8
+247825| 0| 12|0|D|Move names MAX LENGTH 12!               |PSYWAVE|PSY GOLF|
+247832| 0| 12|0|D|Move names MAX LENGTH 12!               |SPLASH|PLONS|
+24783F| 0| 12|0|D|Move names MAX LENGTH 12!               |ACID ARMOR|ZUURHARNAS|
+24784C| 0| 12|0|D|Move names MAX LENGTH 12!               |CRABHAMMER|KRABHAMER|
+247859| 0| 12|0|D|Move names MAX LENGTH 12!               |EXPLOSION|EXPLOSIE|
+247866| 0| 12|0|D|Move names MAX LENGTH 12!               |FURY SWIPES|WOEDE SLAGEN|
+247873| 0| 12|0|D|Move names MAX LENGTH 12!               |BONEMERANG|BEENMERANG|
+247880| 0| 12|0|D|Move names MAX LENGTH 12!               |REST|RUST|
+24788D| 0| 12|0|D|Move names MAX LENGTH 12!               |ROCK SLIDE|STEENLAWINE|
+24789A| 0| 12|0|D|Move names MAX LENGTH 12!               |HYPER FANG|HYPER BIJT|
+2478A7| 0| 12|0|D|Move names MAX LENGTH 12!               |SHARPEN|SLIJP|
+2478B4| 0| 12|0|D|Move names MAX LENGTH 12!               |CONVERSION|AANPASSING|
+2478C1| 0| 12|0|D|Move names MAX LENGTH 12!               |TRI ATTACK|DRIE AANVAL|
+2478CE| 0| 12|0|D|Move names MAX LENGTH 12!               |SUPER FANG|SUPER BIJT|
+2478DB| 0| 12|0|D|Move names MAX LENGTH 12!               |SLASH|SNIJ|
+2478E8| 0| 12|0|D|Move names MAX LENGTH 12!               |SUBSTITUTE|VERVANGER|
+2478F5| 0| 12|0|D|Move names MAX LENGTH 12!               |STRUGGLE|WORSTEL|
+247902| 0| 12|0|D|Move names MAX LENGTH 12!               |SKETCH|TEKEN|
+24790F| 0| 12|0|D|Move names MAX LENGTH 12!               |TRIPLE KICK|DRIE SCHOP|
+24791C| 0| 12|0|D|Move names MAX LENGTH 12!               |THIEF|DIEF|
+247929| 0| 12|0|D|Move names MAX LENGTH 12!               |SPIDER WEB|SPINNENWEB|
+247936| 0| 12|0|D|Move names MAX LENGTH 12!               |MIND READER|GEDACHTLEES|
+247943| 0| 12|0|D|Move names MAX LENGTH 12!               |NIGHTMARE|NACHTMERRIE|
+247950| 0| 12|0|D|Move names MAX LENGTH 12!               |FLAME WHEEL|VLAMMENWIEL|
+24795D| 0| 12|0|D|Move names MAX LENGTH 12!               |SNORE|SNURK|
+24796A| 0| 12|0|D|Move names MAX LENGTH 12!               |CURSE|VLOEK|
+247977| 0| 12|0|D|Move names MAX LENGTH 12!               |FLAIL|ZWAAI|
+247984| 0| 12|0|D|Move names MAX LENGTH 12!               |CONVERSION 2|AANPASSING 2|
+247991| 0| 12|0|D|Move names MAX LENGTH 12!               |AEROBLAST|LUCHTSTOOT|
+24799E| 0| 12|0|D|Move names MAX LENGTH 12!               |COTTON SPORE|KATOENBOLLEN|
+2479AB| 0| 12|0|D|Move names MAX LENGTH 12!               |REVERSAL|OMMEKEER|
+2479B8| 0| 12|0|D|Move names MAX LENGTH 12!               |SPITE|WRAAK|
+2479C5| 0| 12|0|D|Move names MAX LENGTH 12!               |POWDER SNOW|POEDERSNEEUW|
+2479D2| 0| 12|0|D|Move names MAX LENGTH 12!               |PROTECT|BESCHERM|
+2479DF| 0| 12|0|D|Move names MAX LENGTH 12!               |MACH PUNCH|MACH KLOP|
+2479EC| 0| 12|0|D|Move names MAX LENGTH 12!               |SCARY FACE|ENG GEZICHT|
+2479F9| 0| 12|0|D|Move names MAX LENGTH 12!               |FAINT ATTACK|SLAPAANVAL|
+247A06| 0| 12|0|D|Move names MAX LENGTH 12!               |SWEET KISS|ZOETE ZOEN|
+247A13| 0| 12|0|D|Move names MAX LENGTH 12!               |BELLY DRUM|BUIKTROM|
+247A20| 0| 12|0|D|Move names MAX LENGTH 12!               |SLUDGE BOMB|SLIJKBOM|
+247A2D| 0| 12|0|D|Move names MAX LENGTH 12!               |MUD-SLAP|MODDERSLAG|
+247A3A| 0| 12|0|D|Move names MAX LENGTH 12!               |OCTAZOOKA|ACHTKANON|
+247A47| 0| 12|0|D|Move names MAX LENGTH 12!               |SPIKES|PINNEN|
+247A54| 0| 12|0|D|Move names MAX LENGTH 12!               |ZAP CANNON|ZAP KANON|
+247A61| 0| 12|0|D|Move names MAX LENGTH 12!               |FORESIGHT|VOORUITZICHT|
+247A6E| 0| 12|0|D|Move names MAX LENGTH 12!               |DESTINY BOND|LOTKOPPELING|
+247A7B| 0| 12|0|D|Move names MAX LENGTH 12!               |PERISH SONG|VERGANGLIED|
+247A88| 0| 12|0|D|Move names MAX LENGTH 12!               |ICY WIND|IJSWIND|
+247A95| 0| 12|0|D|Move names MAX LENGTH 12!               |DETECT|ONTDEK|
+247AA2| 0| 12|0|D|Move names MAX LENGTH 12!               |BONE RUSH|BEEN HAAST|
+247AAF| 0| 12|0|D|Move names MAX LENGTH 12!               |LOCK-ON|MIKPUNT|
+247ABC| 0| 12|0|D|Move names MAX LENGTH 12!               |OUTRAGE|RAZERNIJ|
+247AC9| 0| 12|0|D|Move names MAX LENGTH 12!               |SANDSTORM|ZANDSTORM|
+247AD6| 0| 12|0|D|Move names MAX LENGTH 12!               |GIGA DRAIN|GIGA OPZUIG|
+247AE3| 0| 12|0|D|Move names MAX LENGTH 12!               |ENDURE|DOORSTA|
+247AF0| 0| 12|0|D|Move names MAX LENGTH 12!               |CHARM|CHARME|
+247AFD| 0| 12|0|D|Move names MAX LENGTH 12!               |ROLLOUT|UITROL|
+247B0A| 0| 12|0|D|Move names MAX LENGTH 12!               |FALSE SWIPE|VALSE SLAG|
+247B17| 0| 12|0|D|Move names MAX LENGTH 12!               |SWAGGER|ZWIER|
+247B24| 1| 12|0|D|Move names MAX LENGTH 12!               |MILK DRINK|MELKDRANK|1,45A6F0
+247B31| 0| 12|0|D|Move names MAX LENGTH 12!               |SPARK|VONK|
+247B3E| 0| 12|0|D|Move names MAX LENGTH 12!               |FURY CUTTER|WOEDE SNEDES|
+247B4B| 0| 12|0|D|Move names MAX LENGTH 12!               |STEEL WING|STAALVLEUGEL|
+247B58| 0| 12|0|D|Move names MAX LENGTH 12!               |MEAN LOOK|GEMENE BLIK|
+247B65| 0| 12|0|D|Move names MAX LENGTH 12!               |ATTRACT|LOK|
+247B72| 0| 12|0|D|Move names MAX LENGTH 12!               |SLEEP TALK|SLAAP PRAAT|
+247B7F| 0| 12|0|D|Move names MAX LENGTH 12!               |HEAL BELL|GENEES BEL|
+247B8C| 0| 12|0|D|Move names MAX LENGTH 12!               |RETURN|KEER TERUG|
+247B99| 0| 12|0|D|Move names MAX LENGTH 12!               |PRESENT|CADEAU|
+247BA6| 0| 12|0|D|Move names MAX LENGTH 12!               |FRUSTRATION|FRUSTRATIE|
+247BB3| 0| 12|0|D|Move names MAX LENGTH 12!               |SAFEGUARD|BESCHERMING|
+247BC0| 0| 12|0|D|Move names MAX LENGTH 12!               |PAIN SPLIT|DEEL PIJN|
+247BCD| 0| 12|0|D|Move names MAX LENGTH 12!               |SACRED FIRE|HEILIG VUUR|
+247BDA| 0| 12|0|D|Move names MAX LENGTH 12!               |MAGNITUDE|BEVING|
+247BE7| 0| 12|0|D|Move names MAX LENGTH 12!               |DYNAMICPUNCH|VARIABELSLAG|
+247BF4| 0| 12|0|D|Move names MAX LENGTH 12!               |MEGAHORN|MEGA HOORN|
+247C01| 0| 12|0|D|Move names MAX LENGTH 12!               |DRAGONBREATH|DRAKEN ADEM|
+247C0E| 0| 12|0|D|Move names MAX LENGTH 12!               |BATON PASS|AFLOSSING|
+247C1B| 0| 12|0|D|Move names MAX LENGTH 12!               |ENCORE|HERHALING|
+247C28| 0| 12|0|D|Move names MAX LENGTH 12!               |PURSUIT|ACHTERVOLG|
+247C35| 0| 12|0|D|Move names MAX LENGTH 12!               |RAPID SPIN|SNELDRAAI|
+247C42| 1| 12|0|D|Move names MAX LENGTH 12!               |SWEET SCENT|ZOETE GEUR|1,45A700
+247C4F| 0| 12|0|D|Move names MAX LENGTH 12!               |IRON TAIL|IJZER STAART|
+247C5C| 0| 12|0|D|Move names MAX LENGTH 12!               |METAL CLAW|METAAL KLAUW|
+247C69| 0| 12|0|D|Move names MAX LENGTH 12!               |VITAL THROW|VITALE WORP|
+247C76| 0| 12|0|D|Move names MAX LENGTH 12!               |MORNING SUN|OCHTENDZON|
+247C83| 0| 12|0|D|Move names MAX LENGTH 12!               |SYNTHESIS|SAMENVATTING|
+247C90| 0| 12|0|D|Move names MAX LENGTH 12!               |MOONLIGHT|MAANLICHT|
+247C9D| 0| 12|0|D|Move names MAX LENGTH 12!               |HIDDEN POWER|OCCULTKRACHT|
+247CAA| 0| 12|0|D|Move names MAX LENGTH 12!               |CROSS CHOP|KRUIS SLAG|
+247CB7| 0| 12|0|D|Move names MAX LENGTH 12!               |TWISTER|DRAAIER|
+247CC4| 0| 12|0|D|Move names MAX LENGTH 12!               |RAIN DANCE|REGENDANS|
+247CD1| 0| 12|0|D|Move names MAX LENGTH 12!               |SUNNY DAY|ZONNIGE DAG|
+247CDE| 0| 12|0|D|Move names MAX LENGTH 12!               |CRUNCH|KRAAK|
+247CEB| 0| 12|0|D|Move names MAX LENGTH 12!               |MIRROR COAT|SPIEGEL CAPE|
+247CF8| 0| 12|0|D|Move names MAX LENGTH 12!               |PSYCH UP|PSY STIJG|
+247D05| 0| 12|0|D|Move names MAX LENGTH 12!               |EXTREMESPEED|EXTREEM SNEL|
+247D12| 0| 12|0|D|Move names MAX LENGTH 12!               |ANCIENTPOWER|OUDE KRACHT|
+247D1F| 0| 12|0|D|Move names MAX LENGTH 12!               |SHADOW BALL|SCHADUW BAL|
+247D2C| 0| 12|0|D|Move names MAX LENGTH 12!               |FUTURE SIGHT|VOORUITZICHT|
+247D39| 1| 12|0|D|Move names MAX LENGTH 12!               |ROCK SMASH|ROTS BREEK|1,45A6D0
+247D46| 0| 12|0|D|Move names MAX LENGTH 12!               |WHIRLPOOL|DRAAIKOLK|
+247D53| 0| 12|0|D|Move names MAX LENGTH 12!               |BEAT UP|SLA INELKAAR|
+247D60| 0| 12|0|D|Move names MAX LENGTH 12!               |FAKE OUT|DOE ALSOF|
+247D6D| 0| 12|0|D|Move names MAX LENGTH 12!               |UPROAR|KABAAL|
+247D7A| 0| 12|0|D|Move names MAX LENGTH 12!               |STOCKPILE|VERZAMEL|
+247D87| 0| 12|0|D|Move names MAX LENGTH 12!               |SPIT UP|SPUUG UIT|
+247D94| 0| 12|0|D|Move names MAX LENGTH 12!               |SWALLOW|SLIK IN|
+247DA1| 0| 12|0|D|Move names MAX LENGTH 12!               |HEAT WAVE|HITTEGOLF|
+247DAE| 0| 12|0|D|Move names MAX LENGTH 12!               |HAIL|HAGEL|
+247DBB| 0| 12|0|D|Move names MAX LENGTH 12!               |TORMENT|KWELLING|
+247DC8| 0| 12|0|D|Move names MAX LENGTH 12!               |FLATTER|VLEI|
+247DD5| 0| 12|0|D|Move names MAX LENGTH 12!               |WILL-O-WISP|DWAALLICHT|
+247DE2| 0| 12|0|D|Move names MAX LENGTH 12!               |MEMENTO|AANDENKEN|
+247DEF| 0| 12|0|D|Move names MAX LENGTH 12!               |FACADE|SCHIJN|
+247DFC| 0| 12|0|D|Move names MAX LENGTH 12!               |FOCUS PUNCH|FOCUS SLAG|
+247E09| 0| 12|0|D|Move names MAX LENGTH 12!               |SMELLINGSALT|REUKZOUT|
+247E16| 0| 12|0|D|Move names MAX LENGTH 12!               |FOLLOW ME|VOLG MIJ|
+247E23| 0| 12|0|D|Move names MAX LENGTH 12!               |NATURE POWER|NATUURKRACHT|
+247E30| 0| 12|0|D|Move names MAX LENGTH 12!               |CHARGE|TEN AANVAL|
+247E3D| 0| 12|0|D|Move names MAX LENGTH 12!               |TAUNT|SPOT|
+247E4A| 0| 12|0|D|Move names MAX LENGTH 12!               |HELPING HAND|HELPHAND|
+247E57| 0| 12|0|D|Move names MAX LENGTH 12!               |TRICK|TRUC|
+247E64| 0| 12|0|D|Move names MAX LENGTH 12!               |ROLE PLAY|ROLLENSPEL|
+247E71| 0| 12|0|D|Move names MAX LENGTH 12!               |WISH|WENS|
+247E7E| 0| 12|0|D|Move names MAX LENGTH 12!               |ASSIST|ASSISTEREN|
+247E8B| 0| 12|0|D|Move names MAX LENGTH 12!               |INGRAIN|VERSTERK|
+247E98| 0| 12|0|D|Move names MAX LENGTH 12!               |SUPERPOWER|SUPERKRACHT|
+247EA5| 0| 12|0|D|Move names MAX LENGTH 12!               |MAGIC COAT|MAGIEMANTEL|
+247EB2| 0| 12|0|D|Move names MAX LENGTH 12!               |RECYCLE|RECYCLEER|
+247EBF| 0| 12|0|D|Move names MAX LENGTH 12!               |REVENGE|VERGELDING|
+247ECC| 0| 12|0|D|Move names MAX LENGTH 12!               |BRICK BREAK|STREEN BREEK|
+247ED9| 0| 12|0|D|Move names MAX LENGTH 12!               |YAWN|GEEUW|
+247EE6| 0| 12|0|D|Move names MAX LENGTH 12!               |KNOCK OFF|SLA AF|
+247EF3| 0| 12|0|D|Move names MAX LENGTH 12!               |ENDEAVOR|ONDERNEMING|
+247F00| 0| 12|0|D|Move names MAX LENGTH 12!               |ERUPTION|UITBARSTING|
+247F0D| 0| 12|0|D|Move names MAX LENGTH 12!               |SKILL SWAP|TECHNIEKRUIL|
+247F1A| 0| 12|0|D|Move names MAX LENGTH 12!               |IMPRISON|SLUIT OP|
+247F27| 0| 12|0|D|Move names MAX LENGTH 12!               |REFRESH|VERVERS|
+247F34| 0| 12|0|D|Move names MAX LENGTH 12!               |GRUDGE|WROK|
+247F41| 0| 12|0|D|Move names MAX LENGTH 12!               |SNATCH|GRIJP|
+247F4E| 0| 12|0|D|Move names MAX LENGTH 12!               |SECRET POWER|GEHEIMKRACHT|
+247F5B| 0| 12|0|D|Move names MAX LENGTH 12!               |DIVE|DUIK|
+247F68| 0| 12|0|D|Move names MAX LENGTH 12!               |ARM THRUST|ARMSTOOT|
+247F75| 0| 12|0|D|Move names MAX LENGTH 12!               |CAMOUFLAGE||
+247F82| 0| 12|0|D|Move names MAX LENGTH 12!               |TAIL GLOW|STAARTGLOEI|
+247F8F| 0| 12|0|D|Move names MAX LENGTH 12!               |LUSTER PURGE|GLANS WEG|
+247F9C| 0| 12|0|D|Move names MAX LENGTH 12!               |MIST BALL|MIST BAL|
+247FA9| 0| 12|0|D|Move names MAX LENGTH 12!               |FEATHERDANCE|VERENDANS|
+247FB6| 0| 12|0|D|Move names MAX LENGTH 12!               |TEETER DANCE|SCHOMMELDANS|
+247FC3| 0| 12|0|D|Move names MAX LENGTH 12!               |BLAZE KICK|VUUR SCHOP|
+247FD0| 0| 12|0|D|Move names MAX LENGTH 12!               |MUD SPORT|MODDERWORP|
+247FDD| 0| 12|0|D|Move names MAX LENGTH 12!               |ICE BALL|IJSBAL|
+247FEA| 0| 12|0|D|Move names MAX LENGTH 12!               |NEEDLE ARM|NAALD ARM|
+247FF7| 0| 12|0|D|Move names MAX LENGTH 12!               |SLACK OFF|RUSTIG AAN|
+248004| 0| 12|0|D|Move names MAX LENGTH 12!               |HYPER VOICE|HYPER STEM|
+248011| 0| 12|0|D|Move names MAX LENGTH 12!               |POISON FANG|GIFBEET|
+24801E| 0| 12|0|D|Move names MAX LENGTH 12!               |CRUSH CLAW|PERSKLAUW|
+24802B| 1| 12|0|D|Move names MAX LENGTH 12!               |BLAST BURN|BRANDBOM|1,0CCC50
+248038| 1| 12|0|D|Move names MAX LENGTH 12!               |HYDRO CANNON|WATERKANON|1,0CCC84
+248045| 0| 12|0|D|Move names MAX LENGTH 12!               |METEOR MASH|METEOORSLAG|
+248052| 0| 12|0|D|Move names MAX LENGTH 12!               |ASTONISH|VERBAAS|
+24805F| 0| 12|0|D|Move names MAX LENGTH 12!               |WEATHER BALL|WEERBAL|
+24806C| 0| 12|0|D|Move names MAX LENGTH 12!               |AROMATHERAPY|REUKTHERAPIE|
+248079| 0| 12|0|D|Move names MAX LENGTH 12!               |FAKE TEARS|VALSE TRANEN|
+248086| 0| 12|0|D|Move names MAX LENGTH 12!               |AIR CUTTER|LUCHTSNIJDER|
+248093| 0| 12|0|D|Move names MAX LENGTH 12!               |OVERHEAT|OVERHIT|
+2480A0| 0| 12|0|D|Move names MAX LENGTH 12!               |ODOR SLEUTH|SPEURNEUS|
+2480AD| 0| 12|0|D|Move names MAX LENGTH 12!               |ROCK TOMB|STENEN GRAF|
+2480BA| 0| 12|0|D|Move names MAX LENGTH 12!               |SILVER WIND|ZILVERWIND|
+2480C7| 0| 12|0|D|Move names MAX LENGTH 12!               |METAL SOUND|METAALGELUID|
+2480D4| 0| 12|0|D|Move names MAX LENGTH 12!               |GRASSWHISTLE|GRASFLUIT|
+2480E1| 0| 12|0|D|Move names MAX LENGTH 12!               |TICKLE|KIETEL|
+2480EE| 0| 12|0|D|Move names MAX LENGTH 12!               |COSMIC POWER|KOSMOSKRACHT|
+2480FB| 0| 12|0|D|Move names MAX LENGTH 12!               |WATER SPOUT|WATERSPUIT|
+248108| 0| 12|0|D|Move names MAX LENGTH 12!               |SIGNAL BEAM|SEINSTRAAL|
+248115| 0| 12|0|D|Move names MAX LENGTH 12!               |SHADOW PUNCH|SCHADUWKLOP|
+248122| 0| 12|0|D|Move names MAX LENGTH 12!               |EXTRASENSORY|PARANORMAAL|
+24812F| 0| 12|0|D|Move names MAX LENGTH 12!               |SKY UPPERCUT|LUCHT SLAG|
+24813C| 0| 12|0|D|Move names MAX LENGTH 12!               |SAND TOMB|ZANDGRAF|
+248149| 0| 12|0|D|Move names MAX LENGTH 12!               |SHEER COLD|PURE KOU|
+248156| 0| 12|0|D|Move names MAX LENGTH 12!               |MUDDY WATER|MODDERWATER|
+248163| 0| 12|0|D|Move names MAX LENGTH 12!               |BULLET SEED|KOGELZAAD|
+248170| 0| 12|0|D|Move names MAX LENGTH 12!               |AERIAL ACE|LUCHTVECHTER|
+24817D| 0| 12|0|D|Move names MAX LENGTH 12!               |ICICLE SPEAR|IJS SPEER|
+24818A| 0| 12|0|D|Move names MAX LENGTH 12!               |IRON DEFENSE|IJZER AFWEER|
+248197| 0| 12|0|D|Move names MAX LENGTH 12!               |BLOCK|BLOKKEER|
+2481A4| 0| 12|0|D|Move names MAX LENGTH 12!               |HOWL|HUIL|
+2481B1| 0| 12|0|D|Move names MAX LENGTH 12!               |DRAGON CLAW|DRAKENKLAUW|
+2481BE| 1| 12|0|D|Move names MAX LENGTH 12!               |FRENZY PLANT|WOESTE PLANT|1,0CCC28
+2481CB| 0| 12|0|D|Move names MAX LENGTH 12!               |BULK UP|MEER SPIEREN|
+2481D8| 0| 12|0|D|Move names MAX LENGTH 12!               |BOUNCE|STUITER|
+2481E5| 0| 12|0|D|Move names MAX LENGTH 12!               |MUD SHOT|MODDERSCHOT|
+2481F2| 0| 12|0|D|Move names MAX LENGTH 12!               |POISON TAIL|GIFSTAART|
+2481FF| 0| 12|0|D|Move names MAX LENGTH 12!               |COVET|BEGEER|
+24820C| 0| 12|0|D|Move names MAX LENGTH 12!               |VOLT TACKLE||
+248219| 0| 12|0|D|Move names MAX LENGTH 12!               |MAGICAL LEAF|MAGISCH BLAD|
+248226| 0| 12|0|D|Move names MAX LENGTH 12!               |WATER SPORT|WATERSPORT|
+248233| 0| 12|0|D|Move names MAX LENGTH 12!               |CALM MIND|KALM HOOFD|
+248240| 0| 12|0|D|Move names MAX LENGTH 12!               |LEAF BLADE|BLADMES|
+24824D| 0| 12|0|D|Move names MAX LENGTH 12!               |DRAGON DANCE|DRAKENDANS|
+24825A| 0| 12|0|D|Move names MAX LENGTH 12!               |ROCK BLAST|ROTSEXPLOSIE|
+248267| 0| 12|0|D|Move names MAX LENGTH 12!               |SHOCK WAVE|SCHOKGOLF|
+248274| 0| 12|0|D|Move names MAX LENGTH 12!               |WATER PULSE|WATERSTOOT|
+248281| 0| 12|0|D|Move names MAX LENGTH 12!               |DOOM DESIRE|ONHEIL|
+24828E| 0| 12|0|D|Move names MAX LENGTH 12!               |PSYCHO BOOST|PSY BOOST|
 24F1A0| 5|  6|0|D|                                        |NORMAL||1,0309C8;1,0D8510;1,11972C;1,11977C;1,456E74
 24F1A7| 1|  5|0|D|                                        |FIGHT||1,456EC4
 24F1AE| 1|  6|0|D|                                        |FLYING||1,456EB4
@@ -5094,380 +5094,380 @@
 3DAF52| 1| 58|0|I|Inventory flavor text (max 3 lines)     |A jar for storing BERRY POWDER[br]made using a BERRY CRUSHER.|Een pot om BESSENPOEDER, gemaakt[br]met de BESSENSTAMPER, te bewaren.|1,3DF02C
 3DAF8D| 1| 72|0|I|Inventory flavor text (max 3 lines)     |An exquisitely beautiful gem that[br]has a red glow.[br]It symbolizes passion.|Een fabuleus mooie diamant met[br]een rode gloed.[br]Het vertegenwoordigt passie.|1,3DF058
 3DAFD6| 1| 73|0|I|Inventory flavor text (max 3 lines)     |An exquisitely beautiful gem that[br]has a blue glow.[br]It symbolizes honesty.|Een fabuleus mooie diamant met[br]een blauwe gloed.[br]Het vertegenwoordigt eerlijkheid.|1,3DF084
-3DB054| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MASTER BALL|MEESTER BAL|
-3DB080| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ULTRA BALL|ULTRA BAL|
-3DB0AC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GREAT BALL|GROTE BAL|
-3DB0D8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POKÈ BALL|POKÈ BAL|
-3DB104| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SAFARI BALL|SAFARI BAL|
-3DB130| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NET BALL|NET BAL|
-3DB15C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DIVE BALL|DUIK BAL|
-3DB188| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NEST BALL|NEST BAL|
-3DB1B4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |REPEAT BALL|HERHAAL BAL|
-3DB1E0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TIMER BALL|TIJDSBAL|
-3DB20C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LUXURY BALL|LUXE BAL|
-3DB238| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PREMIER BALL|PRESIDENTBAL|
-3DB264| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POTION|DRANKJE|
-3DB290| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ANTIDOTE|ANTIGIF|
-3DB2BC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BURN HEAL|BRAND GENEES|
-3DB2E8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ICE HEAL|IJS GENEES|
-3DB314| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |AWAKENING|WAKKERDRANK|
-3DB340| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PARLYZ HEAL|VERLAMGENEES|
-3DB36C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FULL RESTORE|VOL HERSTEL|
-3DB398| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAX POTION|MAX DRANK|
-3DB3C4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HYPER POTION|HYPERDRANK|
-3DB3F0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SUPER POTION|SUPER DRANK|
-3DB41C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FULL HEAL|VOL GENEES|
-3DB448| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |REVIVE|HERLEEF|
-3DB474| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAX REVIVE|MAX HERLEEF|
-3DB4A0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FRESH WATER|VERS WATER|
-3DB4CC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SODA POP|SODA POP|
-3DB4F8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LEMONADE|LIMONADE|
-3DB524| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MOOMOO MILK|MOOMOO MELK|
-3DB550| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ENERGYPOWDER|ENERGIEPOEDER|
-3DB57C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ENERGY ROOT|ENERGIE ROOT|
-3DB5A8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HEAL POWDER|GENEESPOEDER|
-3DB5D4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |REVIVAL HERB|HERSTEL KRUID|
-3DB600| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ETHER||
-3DB62C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAX ETHER||
-3DB658| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ELIXIR||
-3DB684| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAX ELIXIR||
-3DB6B0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LAVA COOKIE|LAVA KOEKJE|
-3DB6DC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLUE FLUTE|BLAUWE FLUIT|
-3DB708| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |YELLOW FLUTE|GELE FLUIT|
-3DB734| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RED FLUTE|RODE FLUIT|
-3DB760| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLACK FLUTE|ZWARTE FLUIT|
-3DB78C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WHITE FLUTE|WITTE FLUIT|
-3DB7B8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BERRY JUICE|BESSENSAP|
-3DB7E4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SACRED ASH|HEILIGE AS|
-3DB810| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SHOAL SALT|ZEEZOUT|
-3DB83C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SHOAL SHELL|ZEESCHELP|
-3DB868| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RED SHARD|RODE SCHERF|
-3DB894| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLUE SHARD|BLAUWE SCHERF|
-3DB8C0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |YELLOW SHARD|GELE SCHERF|
-3DB8EC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GREEN SHARD|GROENE SCHERF|
-3DB918| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DB944| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DB970| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DB99C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DB9C8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DB9F4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DBA20| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DBA4C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DBA78| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DBAA4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DBAD0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DBAFC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HP UP|HP OMHOOG|
-3DBB28| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PROTEIN|EIWIT|
-3DBB54| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |IRON|IJZER|
-3DBB80| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CARBOS|CARBOS|
-3DBBAC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CALCIUM|KALK|
-3DBBD8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RARE CANDY|UNIEKE SNOEP|
-3DBC04| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PP UP|PP OMHOOG|
-3DBC30| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ZINC|ZINK|
-3DBC5C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PP MAX||
-3DBC88| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DBCB4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GUARD SPEC.|BSCHERM EIG.|
-3DBCE0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DIRE HIT|ZWARE SLAG|
-3DBD0C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |X ATTACK|X AANVAL|
-3DBD38| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |X DEFEND|X AFWEER|
-3DBD64| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |X SPEED|X RAPHEID|
-3DBD90| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |X ACCURACY|X PRECISIE|
-3DBDBC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |X SPECIAL|X SPECIAAL|
-3DBDE8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POKÈ DOLL|POKÈMON POP|
-3DBE14| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FLUFFY TAIL|PLUIS STAART|
-3DBE40| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DBE6C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SUPER REPEL|MEGA VERJAAG|
-3DBE98| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAX REPEL|MAX VERJAAG|
-3DBEC4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ESCAPE ROPE|ONTSNAPTOUW|
-3DBEF0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |REPEL|VERJAAG|
-3DBF1C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DBF48| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DBF74| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DBFA0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DBFCC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DBFF8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DC024| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SUN STONE|ZONNESTEEN|
-3DC050| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MOON STONE|MAANSTEEN|
-3DC07C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FIRE STONE|VUURSTEEN|
-3DC0A8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |THUNDERSTONE|DONDERSTEEN|
-3DC0D4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WATER STONE|WATER STEEN|
-3DC100| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LEAF STONE|BLAD STEEN|
-3DC12C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DC158| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DC184| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DC1B0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DC1DC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TINYMUSHROOM|KLEINE ZWAM|
-3DC208| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BIG MUSHROOM|GROTE ZWAM|
-3DC234| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DC260| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PEARL|PAREL|
-3DC28C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BIG PEARL|GROTE PAREL|
-3DC2B8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |STARDUST|STERRENSTOF|
-3DC2E4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |STAR PIECE|STERRENSTUK|
-3DC310| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NUGGET|NUGGET|
-3DC33C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HEART SCALE|HART SCHUB|
-3DC368| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DC394| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DC3C0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DC3EC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DC418| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DC444| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DC470| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DC49C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DC4C8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DC4F4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ORANGE MAIL|ORANJE BRIEF|
-3DC520| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HARBOR MAIL|HAVEN POST|
-3DC54C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GLITTER MAIL|GLITTERBRIEF|
-3DC578| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MECH MAIL|MECH BRIEF|
-3DC5A4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WOOD MAIL|HOUTEN BRIEF|
-3DC5D0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WAVE MAIL|GOLF BRIEF|
-3DC5FC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BEAD MAIL|PAREL BRIEF|
-3DC628| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SHADOW MAIL|SCHADUW BRIEF|
-3DC654| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TROPIC MAIL|TROPIC BRIEF|
-3DC680| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DREAM MAIL|DROOM BRIEF|
-3DC6AC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FAB MAIL|FAN BRIEF|
-3DC6D8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RETRO MAIL|RETRO BRIEF|
-3DC704| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CHERI BERRY|CHERI BES|
-3DC730| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CHESTO BERRY|CHESTO BES|
-3DC75C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PECHA BERRY|PECHA BES|
-3DC788| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RAWST BERRY|RAWST BES|
-3DC7B4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ASPEAR BERRY|ASPEAR BES|
-3DC7E0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LEPPA BERRY|LEPPA BES|
-3DC80C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ORAN BERRY|ORAN BES|
-3DC838| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PERSIM BERRY|PERSIM BES|
-3DC864| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LUM BERRY|LUM BES|
-3DC890| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SITRUS BERRY|SITRUS BES|
-3DC8BC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FIGY BERRY|FIGY BES|
-3DC8E8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WIKI BERRY|WIKI BES|
-3DC914| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAGO BERRY|MAGO BES|
-3DC940| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |AGUAV BERRY|AGUAV BES|
-3DC96C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |IAPAPA BERRY|IAPAPA BES|
-3DC998| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RAZZ BERRY|RAZZ BES|
-3DC9C4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLUK BERRY|BLUK BES|
-3DC9F0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NANAB BERRY|NANAB BES|
-3DCA1C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WEPEAR BERRY|WEPEAR BES|
-3DCA48| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PINAP BERRY|PINAP BES|
-3DCA74| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POMEG BERRY|POMEG BES|
-3DCAA0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |KELPSY BERRY|KELPSY BES|
-3DCACC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |QUALOT BERRY|QUALOT BES|
-3DCAF8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HONDEW BERRY|HONDEW BES|
-3DCB24| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GREPA BERRY|GREPA BES|
-3DCB50| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TAMATO BERRY|TAMATO BES|
-3DCB7C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CORNN BERRY|CORNN BES|
-3DCBA8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAGOST BERRY|MAGOST BES|
-3DCBD4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RABUTA BERRY|RABUTA BES|
-3DCC00| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NOMEL BERRY|NOMEL BES|
-3DCC2C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SPELON BERRY|SPELON BES|
-3DCC58| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PAMTRE BERRY|PAMTRE BES|
-3DCC84| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WATMEL BERRY|WATMEL BES|
-3DCCB0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DURIN BERRY|DURIN BES|
-3DCCDC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BELUE BERRY|BELUE BES|
-3DCD08| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LIECHI BERRY|LIECHI BES|
-3DCD34| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GANLON BERRY|GANLON BES|
-3DCD60| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SALAC BERRY|SALAC BES|
-3DCD8C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PETAYA BERRY|PETAYA BES|
-3DCDB8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |APICOT BERRY|APICOT BES|
-3DCDE4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LANSAT BERRY|LANSAT BES|
-3DCE10| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |STARF BERRY|STARF BES|
-3DCE3C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ENIGMA BERRY|ENIGMA BES|
-3DCE68| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DCE94| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DCEC0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DCEEC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BRIGHTPOWDER|HELDERPOEDER|
-3DCF18| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WHITE HERB|WIT KRUID|
-3DCF44| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MACHO BRACE|MACHO RIEM|
-3DCF70| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |EXP. SHARE|EXP. DEEL|
-3DCF9C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |QUICK CLAW|SNELLE KLAUW|
-3DCFC8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SOOTHE BELL|ZACHTE BEL|
-3DCFF4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MENTAL HERB|HERSEN KRUID|
-3DD020| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CHOICE BAND|KEUZEBAND|
-3DD04C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |KING'S ROCK|KONINGSTEEN|
-3DD078| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SILVERPOWDER|ZILVERPOEDER|
-3DD0A4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |AMULET COIN|AMULET MUNT|
-3DD0D0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CLEANSE TAG|ZUIVERTEKEN|
-3DD0FC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SOUL DEW|ZIELSDRUPPEL|
-3DD128| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DEEPSEATOOTH|DIEPZEETAND|
-3DD154| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DEEPSEASCALE|DIEPZEESCHUB|
-3DD180| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SMOKE BALL|ROOK BAL|
-3DD1AC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |EVERSTONE||
-3DD1D8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FOCUS BAND||
-3DD204| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LUCKY EGG|GELUKSEI|
-3DD230| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SCOPE LENS|KIJKGLAS|
-3DD25C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |METAL COAT||
-3DD288| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LEFTOVERS|OVERSCHOTJES|
-3DD2B4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DRAGON SCALE|DRAKENSCHUB|
-3DD2E0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LIGHT BALL|LICHTBAL|
-3DD30C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SOFT SAND|ZACHT ZAND|
-3DD338| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HARD STONE|HARDE STEEN|
-3DD364| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MIRACLE SEED|MIRAKELZAAD|
-3DD390| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLACKGLASSES|ZWARTE BRIL|
-3DD3BC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLACK BELT|ZWARTE RIEM|
-3DD3E8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MAGNET|MAGNEET|
-3DD414| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MYSTIC WATER|MYSTERIEWATER|
-3DD440| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SHARP BEAK|SCHERPE BEK|
-3DD46C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POISON BARB|GIFANGEL|
-3DD498| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |NEVERMELTICE|NOOITSMELTIJS|
-3DD4C4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SPELL TAG||
-3DD4F0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TWISTEDSPOON|GEBOGEN LEPEL|
-3DD51C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CHARCOAL|HOUTSKOOL|
-3DD548| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DRAGON FANG|DRAKENTAND|
-3DD574| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SILK SCARF||
-3DD5A0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |UP-GRADE||
-3DD5CC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SHELL BELL||
-3DD5F8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SEA INCENSE||
-3DD624| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LAX INCENSE||
-3DD650| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LUCKY PUNCH||
-3DD67C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |METAL POWDER|METAALPOEDER|
-3DD6A8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |THICK CLUB|DIKKE STOK|
-3DD6D4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |STICK|STOK|
-3DD700| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD72C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD758| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD784| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD7B0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD7DC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD808| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD834| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD860| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD88C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD8B8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD8E4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD910| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD93C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD968| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD994| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD9C0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DD9EC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DDA18| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DDA44| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DDA70| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DDA9C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DDAC8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DDAF4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DDB20| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DDB4C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DDB78| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DDBA4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DDBD0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RED SCARF|RODE SJAAL|
-3DDBFC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLUE SCARF|BLAUWE SJAAL|
-3DDC28| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |PINK SCARF|ROZE SJAAL|
-3DDC54| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GREEN SCARF|GROENE SJAAL|
-3DDC80| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |YELLOW SCARF|GELE SJAAL|
-3DDCAC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MACH BIKE|MACH FIETS|
-3DDCD8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |COIN CASE|MUNTENZAK|
-3DDD04| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ITEMFINDER|ITEMZOEKER|
-3DDD30| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |OLD ROD|OUDE HENGEL|
-3DDD5C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GOOD ROD|GOEDE HENGEL|
-3DDD88| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SUPER ROD|SUPER HENGEL|
-3DDDB4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |S.S. TICKET|S.S. TICKET|
-3DDDE0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CONTEST PASS|WEDSTRIJD PAS|
-3DDE0C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DDE38| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |WAILMER PAIL||
-3DDE64| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DEVON GOODS|DEVON DINGEN|
-3DDE90| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SOOT SACK||
-3DDEBC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BASEMENT KEY|KELDER KEY|
-3DDEE8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ACRO BIKE|ACRO FIETS|
-3DDF14| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |[po][kÈ][bl][oc][k] CASE|[po][kÈ][bl][oc][k] DOOS|
-3DDF40| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LETTER|BRIEF|
-3DDF6C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |EON TICKET||
-3DDF98| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RED ORB||
-3DDFC4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BLUE ORB||
-3DDFF0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SCANNER||
-3DE01C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GO-GOGGLES|GO-BRIL|
-3DE048| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |METEORITE|METEORIET|
-3DE074| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RM. 1 KEY|RM. 1 SLEUTEL|
-3DE0A0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RM. 2 KEY|RM. 2 SLEUTEL|
-3DE0CC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RM. 4 KEY|RM. 4 SLEUTEL|
-3DE0F8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RM. 6 KEY|RM. 6 SLEUTEL|
-3DE124| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |STORAGE KEY|OPSLAG KEY|
-3DE150| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |ROOT FOSSIL|ROOT FOSSIEL|
-3DE17C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CLAW FOSSIL|CLAW FOSSIEL|
-3DE1A8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DEVON SCOPE|DEVON KIJKER|
-3DE1D4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM01|TM01|
-3DE200| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM02|TM02|
-3DE22C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM03|TM03|
-3DE258| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM04|TM04|
-3DE284| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM05|TM05|
-3DE2B0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM06|TM06|
-3DE2DC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM07|TM07|
-3DE308| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM08|TM08|
-3DE334| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM09|TM09|
-3DE360| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM10|TM10|
-3DE38C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM11|TM11|
-3DE3B8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM12|TM12|
-3DE3E4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM13|TM13|
-3DE410| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM14|TM14|
-3DE43C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM15|TM15|
-3DE468| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM16|TM16|
-3DE494| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM17|TM17|
-3DE4C0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM18|TM18|
-3DE4EC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM19|TM19|
-3DE518| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM20|TM20|
-3DE544| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM21|TM21|
-3DE570| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM22|TM22|
-3DE59C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM23|TM23|
-3DE5C8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM24|TM24|
-3DE5F4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM25|TM25|
-3DE620| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM26|TM26|
-3DE64C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM27|TM27|
-3DE678| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM28|TM28|
-3DE6A4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM29|TM29|
-3DE6D0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM30|TM30|
-3DE6FC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM31|TM31|
-3DE728| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM32|TM32|
-3DE754| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM33|TM33|
-3DE780| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM34|TM34|
-3DE7AC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM35|TM35|
-3DE7D8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM36|TM36|
-3DE804| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM37|TM37|
-3DE830| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM38|TM38|
-3DE85C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM39|TM39|
-3DE888| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM40|TM40|
-3DE8B4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM41|TM41|
-3DE8E0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM42|TM42|
-3DE90C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM43|TM43|
-3DE938| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM44|TM44|
-3DE964| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM45|TM45|
-3DE990| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM46|TM46|
-3DE9BC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM47|TM47|
-3DE9E8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM48|TM48|
-3DEA14| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM49|TM49|
-3DEA40| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM50|TM50|
-3DEA6C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM01|HM01|
-3DEA98| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM02|HM02|
-3DEAC4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM03|HM03|
-3DEAF0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM04|HM04|
-3DEB1C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM05|HM05|
-3DEB48| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM06|HM06|
-3DEB74| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM07|HM07|
-3DEBA0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HM08|HM08|
-3DEBCC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DEBF8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |????????|????????|
-3DEC24| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |OAK'S PARCEL|OAK's PAKJE|
-3DEC50| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POKÈ FLUTE|POKÈ FLUIT|
-3DEC7C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SECRET KEY|GEHEIME KEY|
-3DECA8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BIKE VOUCHER|FIETS BON|
-3DECD4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |GOLD TEETH|VALS GEBIT|
-3DED00| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |OLD AMBER|OUD AMBER|
-3DED2C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |CARD KEY|SLEUTELKAART|
-3DED58| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |LIFT KEY|LIFT SLEUTEL|
-3DED84| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |HELIX FOSSIL|HELIX FOSSIEL|
-3DEDB0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |DOME FOSSIL|DOME FOSSIEL|
-3DEDDC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SILPH SCOPE|SILPH KIJKER|
-3DEE08| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BICYCLE|FIETS|
-3DEE34| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TOWN MAP|KAART|
-3DEE60| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |VS SEEKER|VS ZOEKER|
-3DEE8C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |FAME CHECKER|ROEM CHECKER|
-3DEEB8| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TM CASE|TM DOOS|
-3DEEE4| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |BERRY POUCH|BESSENZAK|
-3DEF10| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TEACHY TV|LEER TV|
-3DEF3C| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TRI-PASS|TRI-PAS|
-3DEF68| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RAINBOW PASS|REGENBOOGPAS|
-3DEF94| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |TEA|THEE|
-3DEFC0| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |MYSTICTICKET||
-3DEFEC| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |AURORATICKET||
-3DF018| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |POWDER JAR|POEDERPOT|
-3DF044| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |RUBY|ROBIJN|
-3DF070| 0| 13|0|D|Item descriptions MAX LENGTH 13!        |SAPPHIRE|SAFFIER|
+3DB054| 0| 12|0|D|Item names MAX LENGTH 12!               |MASTER BALL|MEESTER BAL|
+3DB080| 0| 12|0|D|Item names MAX LENGTH 12!               |ULTRA BALL|ULTRA BAL|
+3DB0AC| 0| 12|0|D|Item names MAX LENGTH 12!               |GREAT BALL|GROTE BAL|
+3DB0D8| 0| 12|0|D|Item names MAX LENGTH 12!               |POKÈ BALL|POKÈ BAL|
+3DB104| 0| 12|0|D|Item names MAX LENGTH 12!               |SAFARI BALL|SAFARI BAL|
+3DB130| 0| 12|0|D|Item names MAX LENGTH 12!               |NET BALL|NET BAL|
+3DB15C| 0| 12|0|D|Item names MAX LENGTH 12!               |DIVE BALL|DUIK BAL|
+3DB188| 0| 12|0|D|Item names MAX LENGTH 12!               |NEST BALL|NEST BAL|
+3DB1B4| 0| 12|0|D|Item names MAX LENGTH 12!               |REPEAT BALL|HERHAAL BAL|
+3DB1E0| 0| 12|0|D|Item names MAX LENGTH 12!               |TIMER BALL|TIJDSBAL|
+3DB20C| 0| 12|0|D|Item names MAX LENGTH 12!               |LUXURY BALL|LUXE BAL|
+3DB238| 0| 12|0|D|Item names MAX LENGTH 12!               |PREMIER BALL|PRESIDENTBAL|
+3DB264| 0| 12|0|D|Item names MAX LENGTH 12!               |POTION|DRANKJE|
+3DB290| 0| 12|0|D|Item names MAX LENGTH 12!               |ANTIDOTE|ANTIGIF|
+3DB2BC| 0| 12|0|D|Item names MAX LENGTH 12!               |BURN HEAL|BRAND GENEES|
+3DB2E8| 0| 12|0|D|Item names MAX LENGTH 12!               |ICE HEAL|IJS GENEES|
+3DB314| 0| 12|0|D|Item names MAX LENGTH 12!               |AWAKENING|WAKKERDRANK|
+3DB340| 0| 12|0|D|Item names MAX LENGTH 12!               |PARLYZ HEAL|VERLAMGENEES|
+3DB36C| 0| 12|0|D|Item names MAX LENGTH 12!               |FULL RESTORE|VOL HERSTEL|
+3DB398| 0| 12|0|D|Item names MAX LENGTH 12!               |MAX POTION|MAX DRANK|
+3DB3C4| 0| 12|0|D|Item names MAX LENGTH 12!               |HYPER POTION|HYPERDRANK|
+3DB3F0| 0| 12|0|D|Item names MAX LENGTH 12!               |SUPER POTION|SUPER DRANK|
+3DB41C| 0| 12|0|D|Item names MAX LENGTH 12!               |FULL HEAL|VOL GENEES|
+3DB448| 0| 12|0|D|Item names MAX LENGTH 12!               |REVIVE|HERLEEF|
+3DB474| 0| 12|0|D|Item names MAX LENGTH 12!               |MAX REVIVE|MAX HERLEEF|
+3DB4A0| 0| 12|0|D|Item names MAX LENGTH 12!               |FRESH WATER|VERS WATER|
+3DB4CC| 0| 12|0|D|Item names MAX LENGTH 12!               |SODA POP|SODA POP|
+3DB4F8| 0| 12|0|D|Item names MAX LENGTH 12!               |LEMONADE|LIMONADE|
+3DB524| 0| 12|0|D|Item names MAX LENGTH 12!               |MOOMOO MILK|MOOMOO MELK|
+3DB550| 0| 12|0|D|Item names MAX LENGTH 12!               |ENERGYPOWDER|KRACHTPOEDER|
+3DB57C| 0| 12|0|D|Item names MAX LENGTH 12!               |ENERGY ROOT|ENERGIE ROOT|
+3DB5A8| 0| 12|0|D|Item names MAX LENGTH 12!               |HEAL POWDER|GENEESPOEDER|
+3DB5D4| 0| 12|0|D|Item names MAX LENGTH 12!               |REVIVAL HERB|HERLEEFKRUID|
+3DB600| 0| 12|0|D|Item names MAX LENGTH 12!               |ETHER||
+3DB62C| 0| 12|0|D|Item names MAX LENGTH 12!               |MAX ETHER||
+3DB658| 0| 12|0|D|Item names MAX LENGTH 12!               |ELIXIR||
+3DB684| 0| 12|0|D|Item names MAX LENGTH 12!               |MAX ELIXIR||
+3DB6B0| 0| 12|0|D|Item names MAX LENGTH 12!               |LAVA COOKIE|LAVA KOEKJE|
+3DB6DC| 0| 12|0|D|Item names MAX LENGTH 12!               |BLUE FLUTE|BLAUWE FLUIT|
+3DB708| 0| 12|0|D|Item names MAX LENGTH 12!               |YELLOW FLUTE|GELE FLUIT|
+3DB734| 0| 12|0|D|Item names MAX LENGTH 12!               |RED FLUTE|RODE FLUIT|
+3DB760| 0| 12|0|D|Item names MAX LENGTH 12!               |BLACK FLUTE|ZWARTE FLUIT|
+3DB78C| 0| 12|0|D|Item names MAX LENGTH 12!               |WHITE FLUTE|WITTE FLUIT|
+3DB7B8| 0| 12|0|D|Item names MAX LENGTH 12!               |BERRY JUICE|BESSENSAP|
+3DB7E4| 0| 12|0|D|Item names MAX LENGTH 12!               |SACRED ASH|HEILIGE AS|
+3DB810| 0| 12|0|D|Item names MAX LENGTH 12!               |SHOAL SALT|ZEEZOUT|
+3DB83C| 0| 12|0|D|Item names MAX LENGTH 12!               |SHOAL SHELL|ZEESCHELP|
+3DB868| 0| 12|0|D|Item names MAX LENGTH 12!               |RED SHARD|RODE SCHERF|
+3DB894| 0| 12|0|D|Item names MAX LENGTH 12!               |BLUE SHARD|BLAUW SCHERF|
+3DB8C0| 0| 12|0|D|Item names MAX LENGTH 12!               |YELLOW SHARD|GELE SCHERF|
+3DB8EC| 0| 12|0|D|Item names MAX LENGTH 12!               |GREEN SHARD|GROEN SCHERF|
+3DB918| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DB944| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DB970| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DB99C| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DB9C8| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DB9F4| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DBA20| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DBA4C| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DBA78| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DBAA4| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DBAD0| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DBAFC| 0| 12|0|D|Item names MAX LENGTH 12!               |HP UP|HP OMHOOG|
+3DBB28| 0| 12|0|D|Item names MAX LENGTH 12!               |PROTEIN|EIWIT|
+3DBB54| 0| 12|0|D|Item names MAX LENGTH 12!               |IRON|IJZER|
+3DBB80| 0| 12|0|D|Item names MAX LENGTH 12!               |CARBOS|CARBOS|
+3DBBAC| 0| 12|0|D|Item names MAX LENGTH 12!               |CALCIUM|KALK|
+3DBBD8| 0| 12|0|D|Item names MAX LENGTH 12!               |RARE CANDY|UNIEKE SNOEP|
+3DBC04| 0| 12|0|D|Item names MAX LENGTH 12!               |PP UP|PP OMHOOG|
+3DBC30| 0| 12|0|D|Item names MAX LENGTH 12!               |ZINC|ZINK|
+3DBC5C| 0| 12|0|D|Item names MAX LENGTH 12!               |PP MAX||
+3DBC88| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DBCB4| 0| 12|0|D|Item names MAX LENGTH 12!               |GUARD SPEC.|BSCHERM EIG.|
+3DBCE0| 0| 12|0|D|Item names MAX LENGTH 12!               |DIRE HIT|ZWARE SLAG|
+3DBD0C| 0| 12|0|D|Item names MAX LENGTH 12!               |X ATTACK|X AANVAL|
+3DBD38| 0| 12|0|D|Item names MAX LENGTH 12!               |X DEFEND|X AFWEER|
+3DBD64| 0| 12|0|D|Item names MAX LENGTH 12!               |X SPEED|X RAPHEID|
+3DBD90| 0| 12|0|D|Item names MAX LENGTH 12!               |X ACCURACY|X PRECISIE|
+3DBDBC| 0| 12|0|D|Item names MAX LENGTH 12!               |X SPECIAL|X SPECIAAL|
+3DBDE8| 0| 12|0|D|Item names MAX LENGTH 12!               |POKÈ DOLL|POKÈMON POP|
+3DBE14| 0| 12|0|D|Item names MAX LENGTH 12!               |FLUFFY TAIL|PLUIS STAART|
+3DBE40| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DBE6C| 0| 12|0|D|Item names MAX LENGTH 12!               |SUPER REPEL|MEGA VERJAAG|
+3DBE98| 0| 12|0|D|Item names MAX LENGTH 12!               |MAX REPEL|MAX VERJAAG|
+3DBEC4| 0| 12|0|D|Item names MAX LENGTH 12!               |ESCAPE ROPE|ONTSNAPTOUW|
+3DBEF0| 0| 12|0|D|Item names MAX LENGTH 12!               |REPEL|VERJAAG|
+3DBF1C| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DBF48| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DBF74| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DBFA0| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DBFCC| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DBFF8| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DC024| 0| 12|0|D|Item names MAX LENGTH 12!               |SUN STONE|ZONNESTEEN|
+3DC050| 0| 12|0|D|Item names MAX LENGTH 12!               |MOON STONE|MAANSTEEN|
+3DC07C| 0| 12|0|D|Item names MAX LENGTH 12!               |FIRE STONE|VUURSTEEN|
+3DC0A8| 0| 12|0|D|Item names MAX LENGTH 12!               |THUNDERSTONE|DONDERSTEEN|
+3DC0D4| 0| 12|0|D|Item names MAX LENGTH 12!               |WATER STONE|WATER STEEN|
+3DC100| 0| 12|0|D|Item names MAX LENGTH 12!               |LEAF STONE|BLAD STEEN|
+3DC12C| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DC158| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DC184| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DC1B0| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DC1DC| 0| 12|0|D|Item names MAX LENGTH 12!               |TINYMUSHROOM|KLEINE ZWAM|
+3DC208| 0| 12|0|D|Item names MAX LENGTH 12!               |BIG MUSHROOM|GROTE ZWAM|
+3DC234| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DC260| 0| 12|0|D|Item names MAX LENGTH 12!               |PEARL|PAREL|
+3DC28C| 0| 12|0|D|Item names MAX LENGTH 12!               |BIG PEARL|GROTE PAREL|
+3DC2B8| 0| 12|0|D|Item names MAX LENGTH 12!               |STARDUST|STERRENSTOF|
+3DC2E4| 0| 12|0|D|Item names MAX LENGTH 12!               |STAR PIECE|STERRENSTUK|
+3DC310| 0| 12|0|D|Item names MAX LENGTH 12!               |NUGGET|NUGGET|
+3DC33C| 0| 12|0|D|Item names MAX LENGTH 12!               |HEART SCALE|HART SCHUB|
+3DC368| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DC394| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DC3C0| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DC3EC| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DC418| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DC444| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DC470| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DC49C| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DC4C8| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DC4F4| 0| 12|0|D|Item names MAX LENGTH 12!               |ORANGE MAIL|ORANJE BRIEF|
+3DC520| 0| 12|0|D|Item names MAX LENGTH 12!               |HARBOR MAIL|HAVEN POST|
+3DC54C| 0| 12|0|D|Item names MAX LENGTH 12!               |GLITTER MAIL|GLITTERBRIEF|
+3DC578| 0| 12|0|D|Item names MAX LENGTH 12!               |MECH MAIL|MECH BRIEF|
+3DC5A4| 0| 12|0|D|Item names MAX LENGTH 12!               |WOOD MAIL|HOUTEN BRIEF|
+3DC5D0| 0| 12|0|D|Item names MAX LENGTH 12!               |WAVE MAIL|GOLF BRIEF|
+3DC5FC| 0| 12|0|D|Item names MAX LENGTH 12!               |BEAD MAIL|PAREL BRIEF|
+3DC628| 0| 12|0|D|Item names MAX LENGTH 12!               |SHADOW MAIL|SCHADUWBRIEF|
+3DC654| 0| 12|0|D|Item names MAX LENGTH 12!               |TROPIC MAIL|TROPIC BRIEF|
+3DC680| 0| 12|0|D|Item names MAX LENGTH 12!               |DREAM MAIL|DROOM BRIEF|
+3DC6AC| 0| 12|0|D|Item names MAX LENGTH 12!               |FAB MAIL|FAN BRIEF|
+3DC6D8| 0| 12|0|D|Item names MAX LENGTH 12!               |RETRO MAIL|RETRO BRIEF|
+3DC704| 0| 12|0|D|Item names MAX LENGTH 12!               |CHERI BERRY|CHERI BES|
+3DC730| 0| 12|0|D|Item names MAX LENGTH 12!               |CHESTO BERRY|CHESTO BES|
+3DC75C| 0| 12|0|D|Item names MAX LENGTH 12!               |PECHA BERRY|PECHA BES|
+3DC788| 0| 12|0|D|Item names MAX LENGTH 12!               |RAWST BERRY|RAWST BES|
+3DC7B4| 0| 12|0|D|Item names MAX LENGTH 12!               |ASPEAR BERRY|ASPEAR BES|
+3DC7E0| 0| 12|0|D|Item names MAX LENGTH 12!               |LEPPA BERRY|LEPPA BES|
+3DC80C| 0| 12|0|D|Item names MAX LENGTH 12!               |ORAN BERRY|ORAN BES|
+3DC838| 0| 12|0|D|Item names MAX LENGTH 12!               |PERSIM BERRY|PERSIM BES|
+3DC864| 0| 12|0|D|Item names MAX LENGTH 12!               |LUM BERRY|LUM BES|
+3DC890| 0| 12|0|D|Item names MAX LENGTH 12!               |SITRUS BERRY|SITRUS BES|
+3DC8BC| 0| 12|0|D|Item names MAX LENGTH 12!               |FIGY BERRY|FIGY BES|
+3DC8E8| 0| 12|0|D|Item names MAX LENGTH 12!               |WIKI BERRY|WIKI BES|
+3DC914| 0| 12|0|D|Item names MAX LENGTH 12!               |MAGO BERRY|MAGO BES|
+3DC940| 0| 12|0|D|Item names MAX LENGTH 12!               |AGUAV BERRY|AGUAV BES|
+3DC96C| 0| 12|0|D|Item names MAX LENGTH 12!               |IAPAPA BERRY|IAPAPA BES|
+3DC998| 0| 12|0|D|Item names MAX LENGTH 12!               |RAZZ BERRY|RAZZ BES|
+3DC9C4| 0| 12|0|D|Item names MAX LENGTH 12!               |BLUK BERRY|BLUK BES|
+3DC9F0| 0| 12|0|D|Item names MAX LENGTH 12!               |NANAB BERRY|NANAB BES|
+3DCA1C| 0| 12|0|D|Item names MAX LENGTH 12!               |WEPEAR BERRY|WEPEAR BES|
+3DCA48| 0| 12|0|D|Item names MAX LENGTH 12!               |PINAP BERRY|PINAP BES|
+3DCA74| 0| 12|0|D|Item names MAX LENGTH 12!               |POMEG BERRY|POMEG BES|
+3DCAA0| 0| 12|0|D|Item names MAX LENGTH 12!               |KELPSY BERRY|KELPSY BES|
+3DCACC| 0| 12|0|D|Item names MAX LENGTH 12!               |QUALOT BERRY|QUALOT BES|
+3DCAF8| 0| 12|0|D|Item names MAX LENGTH 12!               |HONDEW BERRY|HONDEW BES|
+3DCB24| 0| 12|0|D|Item names MAX LENGTH 12!               |GREPA BERRY|GREPA BES|
+3DCB50| 0| 12|0|D|Item names MAX LENGTH 12!               |TAMATO BERRY|TAMATO BES|
+3DCB7C| 0| 12|0|D|Item names MAX LENGTH 12!               |CORNN BERRY|CORNN BES|
+3DCBA8| 0| 12|0|D|Item names MAX LENGTH 12!               |MAGOST BERRY|MAGOST BES|
+3DCBD4| 0| 12|0|D|Item names MAX LENGTH 12!               |RABUTA BERRY|RABUTA BES|
+3DCC00| 0| 12|0|D|Item names MAX LENGTH 12!               |NOMEL BERRY|NOMEL BES|
+3DCC2C| 0| 12|0|D|Item names MAX LENGTH 12!               |SPELON BERRY|SPELON BES|
+3DCC58| 0| 12|0|D|Item names MAX LENGTH 12!               |PAMTRE BERRY|PAMTRE BES|
+3DCC84| 0| 12|0|D|Item names MAX LENGTH 12!               |WATMEL BERRY|WATMEL BES|
+3DCCB0| 0| 12|0|D|Item names MAX LENGTH 12!               |DURIN BERRY|DURIN BES|
+3DCCDC| 0| 12|0|D|Item names MAX LENGTH 12!               |BELUE BERRY|BELUE BES|
+3DCD08| 0| 12|0|D|Item names MAX LENGTH 12!               |LIECHI BERRY|LIECHI BES|
+3DCD34| 0| 12|0|D|Item names MAX LENGTH 12!               |GANLON BERRY|GANLON BES|
+3DCD60| 0| 12|0|D|Item names MAX LENGTH 12!               |SALAC BERRY|SALAC BES|
+3DCD8C| 0| 12|0|D|Item names MAX LENGTH 12!               |PETAYA BERRY|PETAYA BES|
+3DCDB8| 0| 12|0|D|Item names MAX LENGTH 12!               |APICOT BERRY|APICOT BES|
+3DCDE4| 0| 12|0|D|Item names MAX LENGTH 12!               |LANSAT BERRY|LANSAT BES|
+3DCE10| 0| 12|0|D|Item names MAX LENGTH 12!               |STARF BERRY|STARF BES|
+3DCE3C| 0| 12|0|D|Item names MAX LENGTH 12!               |ENIGMA BERRY|ENIGMA BES|
+3DCE68| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DCE94| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DCEC0| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DCEEC| 0| 12|0|D|Item names MAX LENGTH 12!               |BRIGHTPOWDER|HELDERPOEDER|
+3DCF18| 0| 12|0|D|Item names MAX LENGTH 12!               |WHITE HERB|WIT KRUID|
+3DCF44| 0| 12|0|D|Item names MAX LENGTH 12!               |MACHO BRACE|MACHO RIEM|
+3DCF70| 0| 12|0|D|Item names MAX LENGTH 12!               |EXP. SHARE|EXP. DEEL|
+3DCF9C| 0| 12|0|D|Item names MAX LENGTH 12!               |QUICK CLAW|SNELLE KLAUW|
+3DCFC8| 0| 12|0|D|Item names MAX LENGTH 12!               |SOOTHE BELL|ZACHTE BEL|
+3DCFF4| 0| 12|0|D|Item names MAX LENGTH 12!               |MENTAL HERB|HERSEN KRUID|
+3DD020| 0| 12|0|D|Item names MAX LENGTH 12!               |CHOICE BAND|KEUZEBAND|
+3DD04C| 0| 12|0|D|Item names MAX LENGTH 12!               |KING'S ROCK|KONINGSTEEN|
+3DD078| 0| 12|0|D|Item names MAX LENGTH 12!               |SILVERPOWDER|ZILVERPOEDER|
+3DD0A4| 0| 12|0|D|Item names MAX LENGTH 12!               |AMULET COIN|AMULET MUNT|
+3DD0D0| 0| 12|0|D|Item names MAX LENGTH 12!               |CLEANSE TAG|ZUIVERTEKEN|
+3DD0FC| 0| 12|0|D|Item names MAX LENGTH 12!               |SOUL DEW|ZIELSDRUPPEL|
+3DD128| 0| 12|0|D|Item names MAX LENGTH 12!               |DEEPSEATOOTH|DIEPZEETAND|
+3DD154| 0| 12|0|D|Item names MAX LENGTH 12!               |DEEPSEASCALE|DIEPZEESCHUB|
+3DD180| 0| 12|0|D|Item names MAX LENGTH 12!               |SMOKE BALL|ROOK BAL|
+3DD1AC| 0| 12|0|D|Item names MAX LENGTH 12!               |EVERSTONE||
+3DD1D8| 0| 12|0|D|Item names MAX LENGTH 12!               |FOCUS BAND||
+3DD204| 0| 12|0|D|Item names MAX LENGTH 12!               |LUCKY EGG|GELUKSEI|
+3DD230| 0| 12|0|D|Item names MAX LENGTH 12!               |SCOPE LENS|KIJKGLAS|
+3DD25C| 0| 12|0|D|Item names MAX LENGTH 12!               |METAL COAT||
+3DD288| 0| 12|0|D|Item names MAX LENGTH 12!               |LEFTOVERS|OVERSCHOTJES|
+3DD2B4| 0| 12|0|D|Item names MAX LENGTH 12!               |DRAGON SCALE|DRAKENSCHUB|
+3DD2E0| 0| 12|0|D|Item names MAX LENGTH 12!               |LIGHT BALL|LICHTBAL|
+3DD30C| 0| 12|0|D|Item names MAX LENGTH 12!               |SOFT SAND|ZACHT ZAND|
+3DD338| 0| 12|0|D|Item names MAX LENGTH 12!               |HARD STONE|HARDE STEEN|
+3DD364| 0| 12|0|D|Item names MAX LENGTH 12!               |MIRACLE SEED|MIRAKELZAAD|
+3DD390| 0| 12|0|D|Item names MAX LENGTH 12!               |BLACKGLASSES|ZWARTE BRIL|
+3DD3BC| 0| 12|0|D|Item names MAX LENGTH 12!               |BLACK BELT|ZWARTE RIEM|
+3DD3E8| 0| 12|0|D|Item names MAX LENGTH 12!               |MAGNET|MAGNEET|
+3DD414| 0| 12|0|D|Item names MAX LENGTH 12!               |MYSTIC WATER|RAADSELWATER|
+3DD440| 0| 12|0|D|Item names MAX LENGTH 12!               |SHARP BEAK|SCHERPE BEK|
+3DD46C| 0| 12|0|D|Item names MAX LENGTH 12!               |POISON BARB|GIFANGEL|
+3DD498| 0| 12|0|D|Item names MAX LENGTH 12!               |NEVERMELTICE|NIETSMELTIJS|
+3DD4C4| 0| 12|0|D|Item names MAX LENGTH 12!               |SPELL TAG||
+3DD4F0| 0| 12|0|D|Item names MAX LENGTH 12!               |TWISTEDSPOON|GEBOGENLEPEL|
+3DD51C| 0| 12|0|D|Item names MAX LENGTH 12!               |CHARCOAL|HOUTSKOOL|
+3DD548| 0| 12|0|D|Item names MAX LENGTH 12!               |DRAGON FANG|DRAKENTAND|
+3DD574| 0| 12|0|D|Item names MAX LENGTH 12!               |SILK SCARF||
+3DD5A0| 0| 12|0|D|Item names MAX LENGTH 12!               |UP-GRADE||
+3DD5CC| 0| 12|0|D|Item names MAX LENGTH 12!               |SHELL BELL||
+3DD5F8| 0| 12|0|D|Item names MAX LENGTH 12!               |SEA INCENSE||
+3DD624| 0| 12|0|D|Item names MAX LENGTH 12!               |LAX INCENSE||
+3DD650| 0| 12|0|D|Item names MAX LENGTH 12!               |LUCKY PUNCH||
+3DD67C| 0| 12|0|D|Item names MAX LENGTH 12!               |METAL POWDER|METAALPOEDER|
+3DD6A8| 0| 12|0|D|Item names MAX LENGTH 12!               |THICK CLUB|DIKKE STOK|
+3DD6D4| 0| 12|0|D|Item names MAX LENGTH 12!               |STICK|STOK|
+3DD700| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD72C| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD758| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD784| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD7B0| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD7DC| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD808| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD834| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD860| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD88C| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD8B8| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD8E4| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD910| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD93C| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD968| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD994| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD9C0| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DD9EC| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DDA18| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DDA44| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DDA70| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DDA9C| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DDAC8| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DDAF4| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DDB20| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DDB4C| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DDB78| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DDBA4| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DDBD0| 0| 12|0|D|Item names MAX LENGTH 12!               |RED SCARF|RODE SJAAL|
+3DDBFC| 0| 12|0|D|Item names MAX LENGTH 12!               |BLUE SCARF|BLAUWE SJAAL|
+3DDC28| 0| 12|0|D|Item names MAX LENGTH 12!               |PINK SCARF|ROZE SJAAL|
+3DDC54| 0| 12|0|D|Item names MAX LENGTH 12!               |GREEN SCARF|GROENE SJAAL|
+3DDC80| 0| 12|0|D|Item names MAX LENGTH 12!               |YELLOW SCARF|GELE SJAAL|
+3DDCAC| 0| 12|0|D|Item names MAX LENGTH 12!               |MACH BIKE|MACH FIETS|
+3DDCD8| 0| 12|0|D|Item names MAX LENGTH 12!               |COIN CASE|MUNTENZAK|
+3DDD04| 0| 12|0|D|Item names MAX LENGTH 12!               |ITEMFINDER|ITEMZOEKER|
+3DDD30| 0| 12|0|D|Item names MAX LENGTH 12!               |OLD ROD|OUDE HENGEL|
+3DDD5C| 0| 12|0|D|Item names MAX LENGTH 12!               |GOOD ROD|GOEDE HENGEL|
+3DDD88| 0| 12|0|D|Item names MAX LENGTH 12!               |SUPER ROD|SUPER HENGEL|
+3DDDB4| 0| 12|0|D|Item names MAX LENGTH 12!               |S.S. TICKET|S.S. TICKET|
+3DDDE0| 0| 12|0|D|Item names MAX LENGTH 12!               |CONTEST PASS|WEDSTRIJDPAS|
+3DDE0C| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DDE38| 0| 12|0|D|Item names MAX LENGTH 12!               |WAILMER PAIL||
+3DDE64| 0| 12|0|D|Item names MAX LENGTH 12!               |DEVON GOODS|DEVON DINGEN|
+3DDE90| 0| 12|0|D|Item names MAX LENGTH 12!               |SOOT SACK||
+3DDEBC| 0| 12|0|D|Item names MAX LENGTH 12!               |BASEMENT KEY|KELDER KEY|
+3DDEE8| 0| 12|0|D|Item names MAX LENGTH 12!               |ACRO BIKE|ACRO FIETS|
+3DDF14| 0| 12|0|D|Item names MAX LENGTH 12!               |[po][kÈ][bl][oc][k] CASE|[po][kÈ][bl][oc][k] DOOS|
+3DDF40| 0| 12|0|D|Item names MAX LENGTH 12!               |LETTER|BRIEF|
+3DDF6C| 0| 12|0|D|Item names MAX LENGTH 12!               |EON TICKET||
+3DDF98| 0| 12|0|D|Item names MAX LENGTH 12!               |RED ORB||
+3DDFC4| 0| 12|0|D|Item names MAX LENGTH 12!               |BLUE ORB||
+3DDFF0| 0| 12|0|D|Item names MAX LENGTH 12!               |SCANNER||
+3DE01C| 0| 12|0|D|Item names MAX LENGTH 12!               |GO-GOGGLES|GO-BRIL|
+3DE048| 0| 12|0|D|Item names MAX LENGTH 12!               |METEORITE|METEORIET|
+3DE074| 0| 12|0|D|Item names MAX LENGTH 12!               |RM. 1 KEY|RM.1 SLEUTEL|
+3DE0A0| 0| 12|0|D|Item names MAX LENGTH 12!               |RM. 2 KEY|RM.2 SLEUTEL|
+3DE0CC| 0| 12|0|D|Item names MAX LENGTH 12!               |RM. 4 KEY|RM.4 SLEUTEL|
+3DE0F8| 0| 12|0|D|Item names MAX LENGTH 12!               |RM. 6 KEY|RM.6 SLEUTEL|
+3DE124| 0| 12|0|D|Item names MAX LENGTH 12!               |STORAGE KEY|OPSLAG KEY|
+3DE150| 0| 12|0|D|Item names MAX LENGTH 12!               |ROOT FOSSIL|ROOT FOSSIEL|
+3DE17C| 0| 12|0|D|Item names MAX LENGTH 12!               |CLAW FOSSIL|CLAW FOSSIEL|
+3DE1A8| 0| 12|0|D|Item names MAX LENGTH 12!               |DEVON SCOPE|DEVON KIJKER|
+3DE1D4| 0| 12|0|D|Item names MAX LENGTH 12!               |TM01|TM01|
+3DE200| 0| 12|0|D|Item names MAX LENGTH 12!               |TM02|TM02|
+3DE22C| 0| 12|0|D|Item names MAX LENGTH 12!               |TM03|TM03|
+3DE258| 0| 12|0|D|Item names MAX LENGTH 12!               |TM04|TM04|
+3DE284| 0| 12|0|D|Item names MAX LENGTH 12!               |TM05|TM05|
+3DE2B0| 0| 12|0|D|Item names MAX LENGTH 12!               |TM06|TM06|
+3DE2DC| 0| 12|0|D|Item names MAX LENGTH 12!               |TM07|TM07|
+3DE308| 0| 12|0|D|Item names MAX LENGTH 12!               |TM08|TM08|
+3DE334| 0| 12|0|D|Item names MAX LENGTH 12!               |TM09|TM09|
+3DE360| 0| 12|0|D|Item names MAX LENGTH 12!               |TM10|TM10|
+3DE38C| 0| 12|0|D|Item names MAX LENGTH 12!               |TM11|TM11|
+3DE3B8| 0| 12|0|D|Item names MAX LENGTH 12!               |TM12|TM12|
+3DE3E4| 0| 12|0|D|Item names MAX LENGTH 12!               |TM13|TM13|
+3DE410| 0| 12|0|D|Item names MAX LENGTH 12!               |TM14|TM14|
+3DE43C| 0| 12|0|D|Item names MAX LENGTH 12!               |TM15|TM15|
+3DE468| 0| 12|0|D|Item names MAX LENGTH 12!               |TM16|TM16|
+3DE494| 0| 12|0|D|Item names MAX LENGTH 12!               |TM17|TM17|
+3DE4C0| 0| 12|0|D|Item names MAX LENGTH 12!               |TM18|TM18|
+3DE4EC| 0| 12|0|D|Item names MAX LENGTH 12!               |TM19|TM19|
+3DE518| 0| 12|0|D|Item names MAX LENGTH 12!               |TM20|TM20|
+3DE544| 0| 12|0|D|Item names MAX LENGTH 12!               |TM21|TM21|
+3DE570| 0| 12|0|D|Item names MAX LENGTH 12!               |TM22|TM22|
+3DE59C| 0| 12|0|D|Item names MAX LENGTH 12!               |TM23|TM23|
+3DE5C8| 0| 12|0|D|Item names MAX LENGTH 12!               |TM24|TM24|
+3DE5F4| 0| 12|0|D|Item names MAX LENGTH 12!               |TM25|TM25|
+3DE620| 0| 12|0|D|Item names MAX LENGTH 12!               |TM26|TM26|
+3DE64C| 0| 12|0|D|Item names MAX LENGTH 12!               |TM27|TM27|
+3DE678| 0| 12|0|D|Item names MAX LENGTH 12!               |TM28|TM28|
+3DE6A4| 0| 12|0|D|Item names MAX LENGTH 12!               |TM29|TM29|
+3DE6D0| 0| 12|0|D|Item names MAX LENGTH 12!               |TM30|TM30|
+3DE6FC| 0| 12|0|D|Item names MAX LENGTH 12!               |TM31|TM31|
+3DE728| 0| 12|0|D|Item names MAX LENGTH 12!               |TM32|TM32|
+3DE754| 0| 12|0|D|Item names MAX LENGTH 12!               |TM33|TM33|
+3DE780| 0| 12|0|D|Item names MAX LENGTH 12!               |TM34|TM34|
+3DE7AC| 0| 12|0|D|Item names MAX LENGTH 12!               |TM35|TM35|
+3DE7D8| 0| 12|0|D|Item names MAX LENGTH 12!               |TM36|TM36|
+3DE804| 0| 12|0|D|Item names MAX LENGTH 12!               |TM37|TM37|
+3DE830| 0| 12|0|D|Item names MAX LENGTH 12!               |TM38|TM38|
+3DE85C| 0| 12|0|D|Item names MAX LENGTH 12!               |TM39|TM39|
+3DE888| 0| 12|0|D|Item names MAX LENGTH 12!               |TM40|TM40|
+3DE8B4| 0| 12|0|D|Item names MAX LENGTH 12!               |TM41|TM41|
+3DE8E0| 0| 12|0|D|Item names MAX LENGTH 12!               |TM42|TM42|
+3DE90C| 0| 12|0|D|Item names MAX LENGTH 12!               |TM43|TM43|
+3DE938| 0| 12|0|D|Item names MAX LENGTH 12!               |TM44|TM44|
+3DE964| 0| 12|0|D|Item names MAX LENGTH 12!               |TM45|TM45|
+3DE990| 0| 12|0|D|Item names MAX LENGTH 12!               |TM46|TM46|
+3DE9BC| 0| 12|0|D|Item names MAX LENGTH 12!               |TM47|TM47|
+3DE9E8| 0| 12|0|D|Item names MAX LENGTH 12!               |TM48|TM48|
+3DEA14| 0| 12|0|D|Item names MAX LENGTH 12!               |TM49|TM49|
+3DEA40| 0| 12|0|D|Item names MAX LENGTH 12!               |TM50|TM50|
+3DEA6C| 0| 12|0|D|Item names MAX LENGTH 12!               |HM01|HM01|
+3DEA98| 0| 12|0|D|Item names MAX LENGTH 12!               |HM02|HM02|
+3DEAC4| 0| 12|0|D|Item names MAX LENGTH 12!               |HM03|HM03|
+3DEAF0| 0| 12|0|D|Item names MAX LENGTH 12!               |HM04|HM04|
+3DEB1C| 0| 12|0|D|Item names MAX LENGTH 12!               |HM05|HM05|
+3DEB48| 0| 12|0|D|Item names MAX LENGTH 12!               |HM06|HM06|
+3DEB74| 0| 12|0|D|Item names MAX LENGTH 12!               |HM07|HM07|
+3DEBA0| 0| 12|0|D|Item names MAX LENGTH 12!               |HM08|HM08|
+3DEBCC| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DEBF8| 0| 12|0|D|Item names MAX LENGTH 12!               |????????|????????|
+3DEC24| 0| 12|0|D|Item names MAX LENGTH 12!               |OAK'S PARCEL|OAK's PAKJE|
+3DEC50| 0| 12|0|D|Item names MAX LENGTH 12!               |POKÈ FLUTE|POKÈ FLUIT|
+3DEC7C| 0| 12|0|D|Item names MAX LENGTH 12!               |SECRET KEY|GEHEIME KEY|
+3DECA8| 0| 12|0|D|Item names MAX LENGTH 12!               |BIKE VOUCHER|FIETS BON|
+3DECD4| 0| 12|0|D|Item names MAX LENGTH 12!               |GOLD TEETH|VALS GEBIT|
+3DED00| 0| 12|0|D|Item names MAX LENGTH 12!               |OLD AMBER|OUD AMBER|
+3DED2C| 0| 12|0|D|Item names MAX LENGTH 12!               |CARD KEY|SLEUTELKAART|
+3DED58| 0| 12|0|D|Item names MAX LENGTH 12!               |LIFT KEY|LIFT SLEUTEL|
+3DED84| 0| 12|0|D|Item names MAX LENGTH 12!               |HELIX FOSSIL|HELIXFOSSIEL|
+3DEDB0| 0| 12|0|D|Item names MAX LENGTH 12!               |DOME FOSSIL|DOME FOSSIEL|
+3DEDDC| 0| 12|0|D|Item names MAX LENGTH 12!               |SILPH SCOPE|SILPH KIJKER|
+3DEE08| 0| 12|0|D|Item names MAX LENGTH 12!               |BICYCLE|FIETS|
+3DEE34| 0| 12|0|D|Item names MAX LENGTH 12!               |TOWN MAP|KAART|
+3DEE60| 0| 12|0|D|Item names MAX LENGTH 12!               |VS SEEKER|VS ZOEKER|
+3DEE8C| 0| 12|0|D|Item names MAX LENGTH 12!               |FAME CHECKER|ROEM CHECKER|
+3DEEB8| 0| 12|0|D|Item names MAX LENGTH 12!               |TM CASE|TM DOOS|
+3DEEE4| 0| 12|0|D|Item names MAX LENGTH 12!               |BERRY POUCH|BESSENZAK|
+3DEF10| 0| 12|0|D|Item names MAX LENGTH 12!               |TEACHY TV|LEER TV|
+3DEF3C| 0| 12|0|D|Item names MAX LENGTH 12!               |TRI-PASS|TRI-PAS|
+3DEF68| 0| 12|0|D|Item names MAX LENGTH 12!               |RAINBOW PASS|REGENBOOGPAS|
+3DEF94| 0| 12|0|D|Item names MAX LENGTH 12!               |TEA|THEE|
+3DEFC0| 0| 12|0|D|Item names MAX LENGTH 12!               |MYSTICTICKET||
+3DEFEC| 0| 12|0|D|Item names MAX LENGTH 12!               |AURORATICKET||
+3DF018| 0| 12|0|D|Item names MAX LENGTH 12!               |POWDER JAR|POEDERPOT|
+3DF044| 0| 12|0|D|Item names MAX LENGTH 12!               |RUBY|ROBIJN|
+3DF070| 0| 12|0|D|Item names MAX LENGTH 12!               |SAPPHIRE|SAFFIER|
 3E7F28| 1| 12|0|D|Profile keywords                        |I CHOOSE YOU||1,3E7FE0
 3E7F35| 1|  6|0|D|Profile keywords                        |GOTCHA||1,3E7FEC
 3E7F3C| 1|  5|0|D|Profile keywords                        |TRADE||1,3E7FF8
@@ -6868,7 +6868,7 @@
 3FCDF2| 1| 21|0|D|Battle 10                               |But nothing happened!|Maar er gebeurde niets!|1,3FE29C
 3FCE08| 1| 14|0|D|Battle 10                               |But it failed!|Maar het mislukte!|1,3FE2A0
 3FCE17| 1| 32|0|D|Battle 10                               |It hurt itself in its[br]confusion!|Hij verwondde zichzelf in[br]zijn verwarring!|1,3FE2A4
-3FCE38| 1| 23|0|D|Battle 10                               |The MIRROR MOVE failed!|De SPIEGEL ACTIE is mislukt!|1,3FE2A8
+3FCE38| 1| 23|0|D|Battle 10                               |The MIRROR MOVE failed!|De SPIEGELACTIE is mislukt!|1,3FE2A8
 3FCE50| 1| 19|0|D|Battle 10                               |It started to rain!|Het begon te regenen!|1,3FE2AC
 3FCE64| 1| 19|0|D|Battle 10                               |A downpour started!|Een stortbui!|1,3FE2B0
 3FCE78| 1| 23|0|D|Battle 10                               |Rain continues to fall.|Het blijft regenen.|1,3FE2B4
@@ -7417,10 +7417,10 @@
 4179D6| 1| 22|0|D|                                        |[smllat]500 COINS[FC]€[x40]$10,000|[smllat]500 MUNTEN[FC]€[x40]$10,000|1,3DFFB8
 4179ED| 1|  9|0|D|                                        |Excellent||1,3DFFC8
 4179F7| 1| 10|0|D|                                        |Not so bad||1,3DFFD0
-417A02| 4|  9|0|D|                                        |RED SHARD||1,3E00C0;1,3E00F0;1,3E0128;1,3E0168
-417A0C| 4| 12|0|D|                                        |YELLOW SHARD||1,3E00D8;1,3E00F8;1,3E0148;1,3E0170
-417A19| 4| 10|0|D|                                        |BLUE SHARD||1,3E0110;1,3E0130;1,3E0150;1,3E0178
-417A24| 8| 11|0|D|                                        |GREEN SHARD||1,3E00B0;1,3E00C8;1,3E00E0;1,3E0100;1,3E0118;1,3E0138;1,3E0158;1,3E0180
+417A02| 4|  9|0|D|                                        |RED SHARD|RODE SCHERF|1,3E00C0;1,3E00F0;1,3E0128;1,3E0168
+417A0C| 4| 12|0|D|                                        |YELLOW SHARD|GELE SCHERF|1,3E00D8;1,3E00F8;1,3E0148;1,3E0170
+417A19| 4| 10|0|D|                                        |BLUE SHARD|BLAUW SCHERF|1,3E0110;1,3E0130;1,3E0150;1,3E0178
+417A24| 8| 11|0|D|                                        |GREEN SHARD|GROEN SCHERF|1,3E00B0;1,3E00C8;1,3E00E0;1,3E0100;1,3E0118;1,3E0138;1,3E0158;1,3E0180
 417A37| 1|  5|0|D|                                        |Right||1,3DFFD8
 417A3D| 1|  4|0|D|                                        |Left||1,3DFFE0
 417A42| 1| 21|0|D|                                        |TM13[FC]€[x48][smllat]4,000 COINS|TM13[FC]€[x48][smllat]4,000 MUNTEN|1,3DFF50
@@ -7483,7 +7483,7 @@
 417C9D| 1| 25|0|D|                                        |SCYTHER[FC]€[x4B][smllat] 5,500 COINS|SCYTHER[FC]€[x4B][smllat] 5,500 MUNTEN|1,3E01E0
 417CB7| 1| 25|0|D|                                        |PORYGON[FC]€[x4B][smllat] 9,999 COINS|PORYGON[FC]€[x4B][smllat] 9,999 MUNTEN|1,3E01E8
 417D4C| 3|  9|0|D|                                        |NO THANKS|NEE BEDANKT|1,3DFF78;1,3DFFA8;1,3E01F0
-417D56| 2| 12|0|D|                                        |HELIX FOSSIL|HELIX FOSSIEL|1,3DFED0;1,3DFF00
+417D56| 2| 12|0|D|                                        |HELIX FOSSIL|HELIXFOSSIEL|1,3DFED0;1,3DFF00
 417D63| 2| 11|0|D|                                        |DOME FOSSIL|DOME FOSSIEL|1,3DFEE0;1,3DFF18
 417D6F| 3|  9|0|D|                                        |OLD AMBER|OUD AMBER|1,3DFEF0;1,3DFF08;1,3DFF20
 417D79| 5| 12|0|D|                                        |TRADE CENTER||1,3E01F8;1,3E02B0;1,3E02E8;1,3E0328;1,3E0350
@@ -7515,7 +7515,7 @@
 417ECC| 2| 12|0|D|                                        |BIRTH ISLAND|BIRTH EILAND|1,3E0390;1,3E03B0
 417ED9| 1| 29|0|D|                                        |MIRACLE SEED[FC]€[x50][smllat]1,000 COINS|MIRAKELZAAD[FC]€[x50][smllat]1,000 MUNTEN|1,3DFF88
 417EF7| 1| 25|0|D|                                        |CHARCOAL[FC]€[x50][smllat]1,000 COINS|HOUTSKOOL[FC]€[x50][smllat]1,000 MUNTEN|1,3DFF90
-417F11| 1| 29|0|D|                                        |MYSTIC WATER[FC]€[x50][smllat]1,000 COINS|MYSTERIEWATER[FC]€[x50][smllat]1,000 MUNTEN|1,3DFF98
+417F11| 1| 29|0|D|                                        |MYSTIC WATER[FC]€[x50][smllat]1,000 COINS|RAADSELWATER[FC]€[x50][smllat]1,000 MUNTEN|1,3DFF98
 417F2F| 1| 29|0|D|                                        |YELLOW FLUTE[FC]€[x50][smllat]1,600 COINS|GELE FLUIT[FC]€[x50][smllat]1,600 MUNTEN|1,3DFFA0
 417F4D| 1| 25|0|D|                                        |SMOKE BALL[FC]€Õ[smllat]800 COINS|ROOK BAL[FC]€Õ[smllat]800 MUNTEN|1,3DFF80
 417F69| 1| 13|0|D|                                        |BECOME LEADER||1,3E0470
@@ -7556,10 +7556,10 @@
 41807D| 2| 16|0|D|                                        |LINKED GAME PLAY||1,3E0248;1,3F5C8C
 41808E| 2| 13|0|D|                                        |DIRECT CORNER||1,3E0250;1,3F5C90
 41809C| 2| 10|0|D|                                        |UNION ROOM||1,3E0258;1,3F5C94
-4180A7| 1| 20|0|D|                                        |ENERGYPOWDER[FC]€[x74][smllat]50|ENERGIEPOEDER[FC]€[x74][smllat]50|1,3F5CBC
+4180A7| 1| 20|0|D|                                        |ENERGYPOWDER[FC]€[x74][smllat]50|KRACHTPOEDER[FC]€[x74][smllat]50|1,3F5CBC
 4180BC| 1| 19|0|D|                                        |ENERGY ROOT[FC]€[x74][smllat]80|ENERGY ROOT[FC]€[x74][smllat]80|1,3F5CC0
 4180D0| 1| 19|0|D|                                        |HEAL POWDER[FC]€[x74][smllat]50|GENEESPOEDER[FC]€[x74][smllat]50|1,3F5CC4
-4180E4| 1| 21|0|D|                                        |REVIVAL HERB[FC]€Ì[smllat]300|HERSTEL KRUID[FC]€Ì[smllat]300|1,3F5CC8
+4180E4| 1| 21|0|D|                                        |REVIVAL HERB[FC]€Ì[smllat]300|HERLEEFKRUID[FC]€Ì[smllat]300|1,3F5CC8
 4180FA| 1| 18|0|D|                                        |PROTEIN[FC]€[x65][smllat]1,000|EIWIT[FC]€[x65][smllat]1,000|1,3F5CCC
 41810D| 1| 15|0|D|                                        |IRON[FC]€[x65][smllat]1,000|IJZER[FC]€[x65][smllat]1,000|1,3F5CD0
 41811D| 1| 17|0|D|                                        |CARBOS[FC]€[x65][smllat]1,000|CARBOS[FC]€[x65][smllat]1,000|1,3F5CD4
@@ -8238,7 +8238,7 @@
 4453BA| 1|103|0|I|PokÈmon flavor text                     |It spreads its gorgeous wings widely to[br]intimidate enemies. It races through the[br]skies at Mach-2 speed.||1,44EAE8
 445423| 1|107|0|I|PokÈmon flavor text                     |Its fangs are long and very sharp.[br]They grow continuously, so it gnaws on[br]hard things to whittle them down.||1,44EB0C
 445490| 1| 87|0|I|PokÈmon flavor text                     |Its rear feet have three toes each.[br]They are webbed, enabling it to swim[br]across rivers.||1,44EB30
-4454E9| 1|104|0|I|PokÈmon flavor text                     |It busily flits around here and there.[br]Even if it is frail, it can be a tough[br]foe that uses MIRROR MOVE.|Beweegt snel overal heen en weer.[br]Hoe breekbaar het ook lijkt, het is[br]erg sterk met SPIEGEL ACTIE.|1,44EB54
+4454E9| 1|104|0|I|PokÈmon flavor text                     |It busily flits around here and there.[br]Even if it is frail, it can be a tough[br]foe that uses MIRROR MOVE.|Beweegt snel overal heen en weer.[br]Hoe breekbaar het ook lijkt, het is[br]erg sterk met SPIEGELACTIE.|1,44EB54
 445553| 1|110|0|I|PokÈmon flavor text                     |Its huge and magnificent wings can keep it[br]aloft in the sky. It can remain flying a[br]whole day without landing.||1,44EB78
 4455C3| 1|107|0|I|PokÈmon flavor text                     |A very common sight in grassland, etc.[br]It flicks its tongue in and out to sense[br]danger in its surroundings.||1,44EB9C
 445630| 1|112|0|I|PokÈmon flavor text                     |The pattern on its belly appears to be a[br]frightening face. Weak foes will flee just[br]at the sight of the pattern.||1,44EBC0
