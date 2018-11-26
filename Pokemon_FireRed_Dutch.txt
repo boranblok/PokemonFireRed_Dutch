@@ -57,7 +57,7 @@
 172D51| 1| 48|0|D|Mt. Moon                                |Darn it all![br]My associates won't stand for this!|Verdomme![br]Mijn vrienden laten het hier niet bij!|1,16080B
 172D82| 1| 44|0|D|Mt. Moon                                |We're pulling a big job here![br]Get lost, kid!|We zijn hier bezig met een grote[br]opdracht. Ga uit onze weg!|1,160818
 172DAF| 1| 17|0|D|Mt. Moon                                |So, you are good[...]|Dus je bent wel goed[...]|1,16081C
-172DC1| 1| 46|0|D|Mt. Moon                                |If you find a fossil, give it to me[br]and scram!|Als je een fossiel vindt[br]geef het aan mij en ga dan weg!|1,160822
+172DC1| 1| 46|0|D|Mt. Moon                                |If you find a fossil, give it to me[br]and scram!|Als je een fossiel vind[br]geef het aan mij en ga dan weg!|1,160822
 172DF0| 1| 77|0|D|Mt. Moon                                |Little kids shouldn't be messing[br]around with grown-ups![nb2]It could be bad news!|Kleine kindjes moeten volwassenen[br]met rust laten.[nb2]Het zou wel eens gevaarlijk worden!|1,16082F
 172E3E| 1| 12|0|D|Mt. Moon                                |I'm steamed!|Ik ben geroosterd!|1,160833
 172E4B| 1| 43|0|D|Mt. Moon                                |POKÈMON lived here long before[br]people came.|Er leefden hier POKÈMON[br]lang voor er mensen waren.|1,160839
@@ -128,7 +128,7 @@
 173E04| 1| 53|0|D|S.S. Anne                               |Party?[nb2]The cruise ship's party should be[br]over by now.|Feest?[nb2]Het feest zal nu wel[br]bijna gedaan zijn.|1,160CC1
 173E3A| 1| 64|0|D|S.S. Anne                               |Ah, yes, I have seen some POKÈMON[br]ferry people across the water!|Ah, ja, ik heb al POKÈMON mensen[br]zien vervoeren over het water!|1,160CE2
 173E7B| 1|139|0|D|S.S. Anne                               |Small trees can be chopped down[br]using the move CUT.[nb2]But remember this![br]CUT is an HM technique.[nb2]Once learned, it is not so easily[br]discarded.|Kleine bomen kunnen geveld worden[br]met de KAP techniek.[nb2]Maar onthou![br]KAP is een HM techniek.[nb2]Eenmaal geleerd kan je het niet[br]gemakkelijk vergeten.|1,160CEB
-173F07| 1| 58|0|D|S.S. Anne                               |Which do you find more worthy,[br]a strong or a rare POKÈMON?|Wat vindt je beter, een sterke[br]of zeldzame POKÈMON?|1,160CF9
+173F07| 1| 58|0|D|S.S. Anne                               |Which do you find more worthy,[br]a strong or a rare POKÈMON?|Wat vind je beter, een sterke[br]of zeldzame POKÈMON?|1,160CF9
 173F42| 1| 18|0|D|S.S. Anne                               |I must salute you!|Ik moet je feliciteren!|1,160CFD
 173F55| 1| 45|0|D|S.S. Anne                               |Personally, I prefer strong and[br]rare POKÈMON.|Persoonlijk verkies ik zeldzame[br]sterke POKÈMON.|1,160D03
 173F83| 1| 39|0|D|S.S. Anne                               |I don't believe I saw you at the[br]party?|Ik denk dat ik je nog niet op het[br]feest gezien heb?|1,160D10
@@ -263,7 +263,7 @@
 1756AD| 1| 42|0|D|Silph Co. 2F                            |Hey, kid![br]What are you wandering here for?|Hey kleine![br]Wat loop jij hier rond?|1,1616B4
 1756D8| 1|  9|0|D|Silph Co. 2F                            |I goofed!|Ik verloor!|1,1616B8
 1756E2| 1| 46|0|D|Silph Co. 2F                            |SILPH CO. will be associated with[br]TEAM ROCKET!|SILPH CO. gaat werken voor[br]TEAM ROCKET!|1,1616BE
-175711| 1|139|0|D|Silph Co. 2F                            |Eeek![br]No! Stop! Help![nb2]Oh, you're not with TEAM ROCKET.[br]I'm sorry, I thought[...][nb2]Will you forgive me if I teach[br]you the THUNDER WAVE technique?|Aaah![br]Nee! Stop! Help![nb2]Oh, je bent niet bij TEAM ROCKET.[br]Sorry, ik dacht[...][nb2]Wil je me vergeven als ik je de[br]THUNDER WAVE techniek leer?|1,1C4823
+175711| 1|139|0|D|Silph Co. 2F                            |Eeek![br]No! Stop! Help![nb2]Oh, you're not with TEAM ROCKET.[br]I'm sorry, I thought[...][nb2]Will you forgive me if I teach[br]you the THUNDER WAVE technique?|Aaah![br]Nee! Stop! Help![nb2]Oh, je bent niet bij TEAM ROCKET.[br]Sorry, ik dacht[...][nb2]Wil je me vergeven als ik je de[br]DONDERGOLF techniek leer?|1,1C4823
 17579D| 1| 35|0|D|Silph Co. 2F                            |Oh[...][br]But THUNDER WAVE is convenient[...]|O[...][br]Maar DONDERGOLF is handig[...]|1,1C486C
 1757C1| 1| 42|0|D|Silph Co. 2F                            |Which POKÈMON should I teach[br]THUNDER WAVE?|Welke POKÈMON moet ik[br]DONDERGOLF leren?|1,1C4846
 1757EC| 1|167|0|D|Silph Co. 2F                            |THUNDER WAVE causes paralysis in[br]the target POKÈMON.[nb2]A paralyzed POKÈMON may be unable[br]to move in battle.[nb2]It's an ELECTRIC-type move, so it[br]won't work on some POKÈMON.|DONDERGOLF veroorzaakt verlamming[br]bij het doelwit.[nb2]De verlamde POKÈMON kan bijna[br]niet meer bewegen in het gevecht.[nb2]Het is een ELECTRIC-type techniek,[br]dus het gaat niet werken op sommige[nb]POKÈMON.|1,1C4876
@@ -275,7 +275,7 @@
 17591C| 1| 43|0|D|Silph Co. 3F                            |A hint? You can open doors with[br]a CARD KEY!|Een tip? Je kan deuren openen met[br]een SLEUTELKAART!|1,16172F
 175948| 1| 52|0|D|Silph Co. 3F                            |I support TEAM ROCKET more than[br]I support SILPH CO.!|Ik steun TEAM ROCKET meer dan[br]SILPH CO.!|1,16170E
 17597D| 1| 18|0|D|Silph Co. 3F                            |You really got me!|Je hebt me te pakken!|1,161712
-175990| 1| 75|0|D|Silph Co. 3F                            |Humph[...][nb2]TEAM ROCKET said that if I helped[br]them, they'd let me study POKÈMON.|Pfft[...][nb2]TEAM ROCKET zei dat als ik ze hiele[br]ik meer POKÈMON kon bestuderen.|1,161718
+175990| 1| 75|0|D|Silph Co. 3F                            |Humph[...][nb2]TEAM ROCKET said that if I helped[br]them, they'd let me study POKÈMON.|Pfft[...][nb2]TEAM ROCKET zei dat als ik ze hielp[br]ik meer POKÈMON kon bestuderen.|1,161718
 1759DC| 1| 24|0|D|Silph Co. 3F                            |SILPH CO. HEAD OFFICE[br]3F|SILPH CO. HOOFDKANTOOR[br]3e|1,161701
 1759F5| 1| 31|0|D|Silph Co. 4F                            |Sssh![br]Can't you see I'm hiding?|Ssst![br]Zie je niet dat ik me verstop?|1,16175E
 175A15| 1| 25|0|D|Silph Co. 4F                            |Huh?[br]TEAM ROCKET is gone?|Huh?[br]TEAM ROCKET is weg?|1,161768
@@ -296,7 +296,7 @@
 175C0F| 1| 48|0|D|Silph Co. 5F                            |It's not smart to pick a fight with[br]TEAM ROCKET!|Het is niet slim om ruzie te zoeken[br]met TEAM ROCKET!|1,16184C
 175C40| 1| 44|0|D|Silph Co. 5F                            |We study POKÈ BALL technology on[br]this floor.|Op deze verdieping bestuderen we[br]POKÈ BAL technologie.|1,16182B
 175C6D| 1| 15|0|D|Silph Co. 5F                            |Dang![br]Blast it!|Jammer![br]Verloren!|1,16182F
-175C7D| 1| 63|0|D|Silph Co. 5F                            |We worked on the ultimate POKÈ[br]BALL which would catch anything.|We waren bezig de ultieme POKÈ[br]BALL te maken die alles kan vangen.|1,161835
+175C7D| 1| 63|0|D|Silph Co. 5F                            |We worked on the ultimate POKÈ[br]BALL which would catch anything.|We waren bezig de ultieme POKÈ[br]BAL te maken die alles kan vangen.|1,161835
 175CBD| 1| 45|0|D|Silph Co. 5F                            |Whaaat?[nb2]There shouldn't be any children[br]here!|Waaat?[nb2]Er zouden hier geen kinderen mogen[br]zijn!|1,161870
 175CEB| 1| 13|0|D|Silph Co. 5F                            |Oh, goodness!|Oeioei!|1,161874
 175CF9| 1| 46|0|D|Silph Co. 5F                            |You're only on 5F.[br]It's a long way to my BOSS!|Je bent nog maar op het 5e.[br]Het is nog ver tot aan mijn BAAS!|1,16187A
@@ -316,7 +316,7 @@
 175FD3| 1| 62|0|D|Silph Co. 6F                            |He's so helpless, he needed[br]someone like me to look after him.|Hij is zo hulpeloos dat hij iemand zoals[br]ik nodig had om op hem te passen.|1,16190D
 176012| 1| 56|0|D|Silph Co. 6F                            |TEAM ROCKET is trying to conquer[br]the world with POKÈMON.|TEAM ROCKET wil de wereld[br]veroveren met POKÈMON.|1,161924
 17604B| 1| 50|0|D|Silph Co. 6F                            |TEAM ROCKET ran away, and it's all[br]because of you!|TEAM ROCKET is weggelopen, en[br]dat is allemaal dankzij jou!|1,16192E
-17607E| 1| 55|0|D|Silph Co. 6F                            |They must have targeted SILPH for[br]our POKÈMON products.|Ze zijn waarschijnlijk achter onze[br]POKÈMON producten,|1,1618A0
+17607E| 1| 55|0|D|Silph Co. 6F                            |They must have targeted SILPH for[br]our POKÈMON products.|Ze zijn waarschijnlijk uit op onze[br]POKÈMON producten,|1,1618A0
 1760B6| 1| 39|0|D|Silph Co. 6F                            |Come work for SILPH when you[br]get older.|Kom voor SILPH werken als je[br]wat ouder bent.|1,1618AA
 1760DE| 1| 37|0|D|Silph Co. 6F                            |I am one of the four ROCKET[br]BROTHERS!|Ik ben een van de vier ROCKET[br]BROERS!|1,16195C
 176104| 1| 10|0|D|Silph Co. 6F                            |Flame out!|Uitgedoofd!|1,161960
@@ -353,7 +353,7 @@
 176710| 1| 22|0|D|Silph Co. 7F                            |[RIVAL]: What kept you, [PLAYER]?|[RIVAL]: Waar bleef je, [PLAYER]?|1,1619F7
 176727| 1|168|0|D|Silph Co. 7F                            |[RIVAL]: Hahaha! I thought you'd[br]turn up if I waited here![nb2]I guess TEAM ROCKET slowed you[br]down! Not that I care![nb2]I saw you in SAFFRON, so I decided[br]to see if you got better!|[RIVAL]: Hahaha! Ik dacht dat als ik[br]hier wachtte je wel ging komen![nb2]Ik zie dat TEAM ROCKET je wat[br]gehinderd heeft. Niet dat het me[nb]wat kan schelen![nb2]Ik zag je in SAFFRON dus ik besloot[br]even te zien of je al beter bent!|1,161A15
 1767D0| 3| 43|0|D|Silph Co. 7F                            |Oh, man![br]So, you are ready for BOSS[nb]ROCKET!|O, man![br]Ok, je ben klaar voor BAAS[nb]RAKET!|1,161A86;1,161A91;1,161A9C
-176827| 1|300|0|D|Silph Co. 7F                            |Well, [PLAYER]![br]I'm moving on up and ahead![nb2]By checking my POKÈDEX, I'm[br]starting to see what's strong and[nb]how they evolve![nb2]Am I a genius or what?[nb2]I'm going to the POKÈMON LEAGUE to[br]boot out the ELITE FOUR.[nb2]I'll become the world's most[br]powerful TRAINER![nb2][PLAYER], well, good luck to you![br]Don't sweat it![nb]Smell ya!|Wel, [PLAYER]![br]Ik ben weg naar betere plaatsen![nb2]Door mijn POKÈDEX te controleren[br]begin ik te zien wat sterk is en hoe[nb]ze evolueren![nb2]Ben ik slim of wat?[nb2]Ik ga naar de POKÈMON LEAGUE om[br]de ELITE VIER te verslaan.[nb2]Ik wordt werelds sterkste TRAINER![nb2][PLAYER], trek je niet aan[br]dat ik beter ben![nb]Daag!|1,161A43
+176827| 1|300|0|D|Silph Co. 7F                            |Well, [PLAYER]![br]I'm moving on up and ahead![nb2]By checking my POKÈDEX, I'm[br]starting to see what's strong and[nb]how they evolve![nb2]Am I a genius or what?[nb2]I'm going to the POKÈMON LEAGUE to[br]boot out the ELITE FOUR.[nb2]I'll become the world's most[br]powerful TRAINER![nb2][PLAYER], well, good luck to you![br]Don't sweat it![nb]Smell ya!|Wel, [PLAYER]![br]Ik ben op weg naar betere plaatsen![nb2]Door mijn POKÈDEX te controleren[br]begin ik te zien wat sterk is en[nb]hoe ze evolueren![nb2]Ben ik slim of wat?[nb2]Ik ga naar de POKÈMON LEAGUE om[br]de ELITE VIER te verslaan.[nb2]Ik wordt werelds sterkste TRAINER![nb2][PLAYER], trek je niet aan[br]dat ik beter ben![nb]Daag!|1,161A43
 176954| 1| 24|0|D|Silph Co. 7F                            |SILPH CO. HEAD OFFICE[br]7F|SILPH CO. HOOFDKANTOOR[br]7e|1,161BFC
 17696D| 1| 30|0|D|Silph Co. 8F                            |I wonder if SILPH is finished[...]|Ik vraag me af of het gedaan[br]is met SILPH[...]|1,161C7E
 17698C| 1| 21|0|D|Silph Co. 8F                            |Thanks for saving us!|Bedankt om ons te redden!|1,161C88
@@ -383,7 +383,7 @@
 176CD4| 1| 24|0|D|Silph Co. 9F                            |SILPH CO. HEAD OFFICE[br]9F|SILPH CO. HOOFDKANTOOR[br]9e|1,161D3A
 176CED| 1| 42|0|D|Silph Co. 10F                           |Welcome to 10F![br]So good of you to join me!|Welkom op het 10e verdiep![br]Zo leuk dat je er bent!|1,161DDD
 176D18| 1| 12|0|D|Silph Co. 10F                           |I'm stunned!|Ik ben geschokt!|1,161DE1
-176D25| 1| 49|0|D|Silph Co. 10F                           |Nice try, but the boardroom is up[br]one more floor.|Goed geprobeerd maar de directiekamer[br]is nog een verdiep hoger.|1,161DE7
+176D25| 1| 49|0|D|Silph Co. 10F                           |Nice try, but the boardroom is up[br]one more floor.|Goed geprobeerd maar de directie-[br]kamer is nog een verdiep hoger.|1,161DE7
 176D57| 1| 27|0|D|Silph Co. 10F                           |Enough of your silly games!|Gedaan met idiote spelletjes!|1,161DC6
 176D73| 1| 18|0|D|Silph Co. 10F                           |No continues left!|Gedaan met spelen!|1,161DCA
 176D86| 1| 51|0|D|Silph Co. 10F                           |Are you satisfied with beating me?[br]Then go on home!|Ben je blij dat je me verslaan hebt?[br]Ga dan terug naar huis!|1,161DD0
@@ -393,7 +393,7 @@
 176E12| 1|212|0|D|Silph Co. 11F                           |PRESIDENT: Oh, dear boy![br]Thank you for saving SILPH.[nb2]I will never forget you saved us in[br]our moment of peril.[nb2]I have to thank you in some way.[nb2]Because I am rich, I can give you[br]anything.[nb2]Here, maybe this will do.|PRESIDENT: Oh, dank je jongen![br]Dank je om SILPH te redden.[nb2]Ik ga nooit vergeten dat je[br]ons geholpen hebt.[nb2]Ik moet je bedanken.[nb2]Omdat ik rijk ben kan ik je alles[br]geven.[nb2]Hier, misschien is dit goed.|1,161E5B
 176EE7| 1|213|0|D|Silph Co. 11F                           |PRESIDENT: Oh, dear girl![br]Thank you for saving SILPH.[nb2]I will never forget you saved us in[br]our moment of peril.[nb2]I have to thank you in some way.[nb2]Because I am rich, I can give you[br]anything.[nb2]Here, maybe this will do.|PRESIDENT: Oh, dank je meisje![br]Dank je om SILPH te redden.[nb2]Ik ga nooit vergeten dat je[br]ons geholpen hebt.[nb2]Ik moet je bedanken.[nb2]Omdat ik rijk ben kan ik je alles[br]geven.[nb2]Hier, misschien is dit goed.|1,161E64
 176FBD| 1| 45|0|D|Silph Co. 11F                           |[PLAYER] obtained a MASTER BALL[br]from the PRESIDENT!|[PLAYER] heeft een MEESTER BAL[br]gekregen van de PRESIDENT!|1,161E37
-176FEB| 2|162|0|D|Silph Co. 11F                           |PRESIDENT: You can't buy that[br]anywhere.[nb2]It's our secret prototype MASTER[br]BALL.[nb2]It will catch any POKÈMON without[br]fail![nb2]You should be quiet about using it,[br]though.|PRESIDENT: dat kan je nog nergens[br]kopen.[nb2]Het is onze allereerste MEESTER BAL.[nb2]Het vangt elke POKÈMON zonder[br]problemen![nb2]Vertel het wel niet verder dat je[br]dat hebt.|1,161E4E;1,161E77
+176FEB| 2|162|0|D|Silph Co. 11F                           |PRESIDENT: You can't buy that[br]anywhere.[nb2]It's our secret prototype MASTER[br]BALL.[nb2]It will catch any POKÈMON without[br]fail![nb2]You should be quiet about using it,[br]though.|PRESIDENT: dat kan je nog nergens[br]kopen.[nb2]Het is onze allereerste[br]MEESTER BAL.[nb2]Het vangt elke POKÈMON zonder[br]problemen![nb2]Vertel het wel niet verder dat je[br]dat hebt.|1,161E4E;1,161E77
 17708E| 1| 26|0|D|Silph Co. 11F                           |You have no room for this.|Je hebt hier geen plaats voor.|1,161E6D
 1770A9| 1| 94|0|D|Silph Co. 11F                           |SECRETARY: Thank you for rescuing[br]all of us.[nb2]We, from the PRESIDENT down,[br]are indebted to you.|SECRETARIS: Dank je om[br]ons allemaal te redden.[nb2]Iedereen hier staat[br]bij je in het krijt.|1,161E81
 177108| 2|162|0|D|Silph Co. 11F                           |Ah, [PLAYER]![br]So we meet again![nb2]The PRESIDENT and I are discussing[br]a vital business proposition.[nb2]Keep your nose out of grown-up[br]matters[...][nb2]Or, experience a world of pain!|Ah, [PLAYER]![br]Dus we ontmoeten opnieuw.[nb2]De PRESIDENT en ik zijn net iets[br]belangrijks aan het bespreken.[nb2]Hou je neus uit zaken voor[br]groten[...][nb2]Of ervaar een heleboel pijn!|1,15FD73;1,161EB1
@@ -433,7 +433,7 @@
 1776DE| 1| 65|0|D|PokÈmon Mansion                         |You can find stuff lying around.[br]The residents must've left them.|Er slingert hier vanalles rond.[br]De bewoners hebben dat[nb]waarschijnlijk achtergelaten.|1,162339
 177720| 1| 54|0|D|PokÈmon Mansion                         |This place is ideal for a lab.[br]Look at all this space.|Deze plaats is perfect voor een labo.[br]Kijk eens wat een plaats ik heb.|1,162346
 177757| 1| 18|0|D|PokÈmon Mansion                         |What was that for?|Waar was dat voor?|1,16234A
-17776A| 1| 45|0|D|PokÈmon Mansion                         |I like it here.[br]It's conducive to my studies.|Ik vindt het hier leuk.[br]Ik kan hier goed studeren.|1,162350
+17776A| 1| 45|0|D|PokÈmon Mansion                         |I like it here.[br]It's conducive to my studies.|Ik vind het hier leuk.[br]Ik kan hier goed studeren.|1,162350
 177798| 1| 89|0|D|PokÈmon Mansion                         |Diary: Sept. 1[br]MEWTWO is far too powerful.[nb2]We have failed to curb its vicious[br]tendencies[...]|Logboek: 1 Sept.[br]MEWTWO is veel te sterk.[nb2]We zijn er niet in geslaagd zijn[br]bloeddorstige eigenschappen[nb]in te tomen[...]|1,162322
 1777F2| 1| 10|0|D|Safari Zone Central Area                |REST HOUSE|RUST HUIS|1,162363
 1777FD| 1| 49|0|D|Safari Zone Central Area                |TRAINER TIPS[nb2]Press START to check[br]remaining time.|TRAINER TIPS[nb2]Druk op START om de[br]resterende tijd te controleren.|1,16236C
@@ -768,7 +768,7 @@
 17D8BF| 1|101|0|D|Pallet Town                             |OAK: Ah, [PLAYER]![br]You're back, are you?[nb2]How much have you filled in your[br]POKÈDEX?[nb2]May I see it?[nb2]Let's see[...]|OAK: Ah, [PLAYER]![br]Ben je al terug?[nb2]Hoeveel POKÈMON heb je al in je[br]POKÈDEX?[nb2]Mag ik eens kijken?[nb2]Eens zien[...]|1,1654FE
 17D925| 1|132|0|D|Pallet Town                             |You've caught [var2][...][nb2]Hm, it looks as if you're putting[br]in an honest effort.[nb2]When you manage to fill it some[br]more, come show me, please.|Je hebt [var2] gevangen[...][nb2]Het ziet er naar uit dat je echt[br]je best doet.[nb2]Als je er nog wat meer gevangen[br]hebt kom me nog maar eens zien.|1,165595
 17D9AA| 1|107|0|D|Pallet Town                             |You've caught[...] [var2]!?[br]Now, this is impressive![nb2]There's something I wanted to ask[br]of you, [PLAYER].[nb2]Come.[br]Follow me.|Je hebt [var2] gevangen!?[br]Dat is fantastisch![nb2]Er is iets wat ik wou vragen[br]aan jou [PLAYER].[nb2]Kom.[br]Volg me.|1,16552D
-17DA16| 1|164|0|D|Pallet Town                             |OAK: Ah, [PLAYER]![br]You seem to be enjoying traveling.[nb2]Knowing you, [PLAYER], I can easily[br]imagine you going out to even more[nb]exotic locales.[nb2]Good for you, good for you.[br]Hohoho.|OAK: Ah, [PLAYER]! Het ziet[br]er naar uit dat je graag reist.[nb2]Jou kennende, [PLAYER], kan ik me[br]inbeelden dat je zelfs nog[nb]exotischere plaatsen gaat bezoeken.[nb2]Ik vindt dat heel leuk voor jou.|1,1655A3
+17DA16| 1|164|0|D|Pallet Town                             |OAK: Ah, [PLAYER]![br]You seem to be enjoying traveling.[nb2]Knowing you, [PLAYER], I can easily[br]imagine you going out to even more[nb]exotic locales.[nb2]Good for you, good for you.[br]Hohoho.|OAK: Ah, [PLAYER]! Het ziet[br]er naar uit dat je graag reist.[nb2]Jou kennende, [PLAYER], kan ik me[br]inbeelden dat je zelfs nog[nb]exotischere plaatsen gaat bezoeken.[nb2]Ik vind dat heel leuk voor jou.|1,1655A3
 17DABB| 1|125|0|D|Viridian City                           |Those POKÈ BALLS at your waist![br]You have POKÈMON, don't you?[nb2]It's great that you can carry and[br]use POKÈMON anytime, anywhere.|POKÈ BALLEN aan je riem![br]jij hebt POKÈMON, nietwaar?[nb2]Het is leuk dat je POKÈMON kan[br]dragen en gebruiken op elk moment.|1,1659C3
 17DB39| 1| 62|0|D|Viridian City                           |This POKÈMON GYM is always closed.[nb2]I wonder who the LEADER is?|deze POKÈMON GYM is altijd dicht.[nb2]Ik vraag me af wie de LEIDER is?|1,1659D9
 17DB78| 1| 31|0|D|Viridian City                           |VIRIDIAN GYM's LEADER returned!|De VIRIDIAN GYM LEIDER is terug!|1,1659EE
@@ -820,7 +820,7 @@
 17EAD7| 1|153|0|D|Cerulean City                           |[RIVAL]: Yo! [PLAYER]![nb2]You're still struggling along back[br]here?[nb2]I'm doing great! I caught a bunch[br]of strong and smart POKÈMON![nb2]Here, let me see what you caught,[br][PLAYER]!|[RIVAL]: Jo! [PLAYER]![nb2]Zit je nog maar hier?[nb2]Ik ben goed bezig! Ik heb enkele[br]sterke en slimme POKÈMON gevangen![nb2]HÈ, laat me eens zien wat jij [br]gevangen hebt [PLAYER]!|1,1664E6
 17EB71| 3| 35|0|D|Cerulean City                           |Hey![br]Take it easy![nb]You won already!|HÈ![br]Kalm aan![nb]Je hebt al gewonnen!|1,166588;1,166593;1,16659E
 17EB95| 1|318|0|D|Cerulean City                           |[RIVAL]: Hey, guess what?[nb2]I went to BILL's and got him to[br]show me his rare POKÈMON.[nb2]That added a lot of pages to my[br]POKÈDEX![nb2]After all, BILL's world famous as a[br]POKÈMANIAC.[nb2]He invented the POKÈMON Storage[br]System on PC, too.[nb2]Since you're using his system,[br]you should go thank him.[nb2]Well, I better get rolling![br]Smell ya later!|[RIVAL]: HÈ, raad eens?[nb2]Ik ben naar BILL gegaan, hij heeft[br]me zijn zeldzame POKÈMON getoond.[nb2]Dat heeft veel paginas in mijn[br]POKÈDEX opgevuld![nb2]Bill is tenslotte een wereldberoemde[br]POKÈMON maniak.[nb2]Hij heeft ook het POKÈMON opslag[br]systeem op de PC uitgevonden.[nb2]Als je dat gebruikt[br]moet je hem zeker bedanken.[nb2]Tot later!|1,166521
-17ECD4| 1|136|0|D|Cerulean City                           |Oh, yeah, right.[nb2]I feel sorry for you. No, really.[br]You're always plodding behind me.[nb2]So here, I'll give you a little[br]present as a favor.|Oh ja,[nb2]Omdat ik het zo zielig vindt dat je[br]altijd achter me aan moet hollen.[nb2]Heb ik hier een kleine[br]troostprijs voor je.|1,16654F
+17ECD4| 1|136|0|D|Cerulean City                           |Oh, yeah, right.[nb2]I feel sorry for you. No, really.[br]You're always plodding behind me.[nb2]So here, I'll give you a little[br]present as a favor.|Oh ja,[nb2]Omdat ik het zo zielig vind dat je[br]altijd achter me aan moet hollen.[nb2]Heb ik hier een kleine[br]troostprijs voor je.|1,16654F
 17ED5D| 1|154|0|D|Cerulean City                           |A chatty gossip like you[...][br]That thing's perfect.[nb2]I don't need it because I don't[br]give a hoot about others.[nb2]All right, this time I really am[br]gone. Smell ya!|Voor een babbelkous zoals jij[...][br]Is dit ding perfect.[nb2]Ik heb het niet nodig, want ik geef[br]geen sikkepit om anderen.[nb2]Ok, nu ben ik echt weg.[br]Tot later!|1,16656B
 17EE0E| 2| 97|0|D|Cerulean City                           |Hey! Stay out![br]It's not your yard![nb2][...]Huh?[br]Me?[nb2]I'm an innocent bystander![br]Don't you believe me?[FC]ŒÈ¿|HÈ![br]Dit is niet jouw tuin![nb2][...]Um?[br]Ik?[nb2]Ik ben een onschuldige toeschouwer![br]Geloof je me niet?[FC]ŒÈ¿|1,16660F;1,1666C7
 17EE70| 2| 43|0|D|Cerulean City                           |GRUNT: Stop! I give up![br]I'll leave quietly!|SOLDAAT: Stop! Ik geef op![br]Ik zal weg gaan!|1,16661F;1,1666D8
@@ -897,7 +897,7 @@
 1801A2| 1| 66|0|D|Celadon City                            |CELADON CITY POKÈMON GYM[br]LEADER: ERIKA[nb]The Nature-Loving Princess!|CELADON STAD POKÈMON GYM[br]LEIDER: ERIKA[nb]De natuurlievende prinses!|1,166D40
 1801E5| 1| 15|0|D|Celadon City                            |CELADON MANSION|CELADON VILLA|1,166D4A
 1801F5| 1| 46|0|D|Celadon City                            |Find what you need at the[br]CELADON DEPT. STORE!|Vind wat je zoekt in de[br]CELADON SUPERMARKT!|1,166D53
-180224| 1|127|0|D|Celadon City                            |TRAINER TIPS[nb2]GUARD SPEC. protects POKÈMON[br]from status-reduction moves during[nb]battle.[nb2]Get your items at the[br]CELADON DEPT. STORE!|TRAINER TIPS[nb2]GUARD SPEC. beschermt POKÈMON[br]tegen statusverlies tijdens gevechten.[nb2]Je vindt het in je[br]CELADON SUPERMARKT!|1,166D5C
+180224| 1|127|0|D|Celadon City                            |TRAINER TIPS[nb2]GUARD SPEC. protects POKÈMON[br]from status-reduction moves during[nb]battle.[nb2]Get your items at the[br]CELADON DEPT. STORE!|TRAINER TIPS[nb2]GUARD SPEC. beschermt POKÈMON[br]tegen statusverlies tijdens gevechten.[nb2]Je vind het in je[br]CELADON SUPERMARKT!|1,166D5C
 1802A4| 1| 42|0|D|Celadon City                            |COINS exchanged for prizes![br]PRIZE EXCHANGE|MUNTEN omgeruild voor prijzen![br]PRIJZENRUIL|1,166D65
 1802CF| 1| 48|0|D|Celadon City                            |ROCKET GAME CORNER[br]The playground for grown-ups!|ROCKET GAME CORNER[br]De speeltuin voor volwassenen!|1,166D6E
 180300| 2|135|0|D|Celadon City                            |Aaaagh, ow[...][br]I scalded my tongue![nb2]This nice old lady in the MANSION[br]gave me some TEA.[nb2]But it was boiling hot![br]Gotta cool it to drink it.|Aaagh, ow[...][br]Ik heb mijn tong verbrand![nb2]Een oude dame in de VILLA[br]heeft me THEE gegeven.[nb2]Maar die was kokend heet![br]Te warm om te drinken.|1,166D0E;1,E01DEE
@@ -909,7 +909,7 @@
 18056E| 1| 87|0|D|Fuchsia City                            |Did you try the SAFARI GAME?[nb2]There are some rare POKÈMON that[br]can only be caught there.|Heb je het SAFARI SPEL gespeeld?[nb2]Er zijn enkel zeldzame POKÈMON die[br]enkel daar gevangen kunnen worden.|1,166D9F
 1805C6| 1|101|0|D|Fuchsia City                            |The SAFARI ZONE has a zoo in front[br]of the entrance.[nb2]Out back is the SAFARI GAME for[br]catching POKÈMON.|De SAFARI ZONE heeft een zoo[br]voor de ingang.[nb2]Achteraan is het SAFARI SPEL[br]om POKÈMON te vangen.|1,166DA8
 18062C| 1| 45|0|D|Fuchsia City                            |ERIK: Where's SARA?[br]I said I'd meet her here.|ERIK: Waar is SARA?[br]Ik had hier afgesproken.|1,166DB1
-18065A| 1| 80|0|D|Fuchsia City                            |That item ball in there[...][br]Were you wanting that?[nb2]Me, too![br][...]Huh? That's a POKÈMON?|Die item ball daar[...][br]Wou je die hebben?[nb2]Ik ook![br][...]Huh? Dat is een POKÈMON?|1,166DBA
+18065A| 1| 80|0|D|Fuchsia City                            |That item ball in there[...][br]Were you wanting that?[nb2]Me, too![br][...]Huh? That's a POKÈMON?|Die item bal daar[...][br]Wou je die hebben?[nb2]Ik ook![br][...]Huh? Dat is een POKÈMON?|1,166DBA
 1806AB| 1| 39|0|D|Fuchsia City                            |FUCHSIA CITY[br]Behold! It's Passion Pink!|FUCHSIA STAD[br]Aanzie! Het is knalroze!|1,166DDC
 1806D3| 1| 28|0|D|Fuchsia City                            |POKÈMON PARADISE[br]SAFARI ZONE|POKÈMON PARADIJS[br]SAFARI ZONE|1,166DE5
 1806F0| 1| 28|0|D|Fuchsia City                            |SAFARI GAME[br]POKÈMON-U-CATCH!|SAFARI GAME[br]POKÈMON-VANG!|1,166DEE
@@ -959,7 +959,7 @@
 181354| 1| 13|0|D|Saffron City                            |FIGHTING DOJO|VECHT DOJO|1,16742E
 181362| 1| 71|0|D|Saffron City                            |SAFFRON CITY POKÈMON GYM[br]LEADER: SABRINA[nb]The Master of PSYCHIC POKÈMON!|SAFFRON STAD POKÈMON GYM[br]LEIDER: SABRINA[nb]De meester van PSYCHIC POKÈMON!|1,167445
 1813AA| 1|167|0|D|Saffron City                            |TRAINER TIPS[nb2]FULL HEAL cures all ailments like[br]burns, paralysis, poisoning,[nb]freezing, and sleep.[nb2]It costs a bit more, but it's more[br]convenient than buying other items.|TRAINER TIPS[nb2]VOL GENEES geneest alle aandoeningen[br]zoals brandwonden, verlamming, gif,[nb]bevriezing en slaap.[nb2]Het kost wat meer, maar het is[br]gemakkelijker dan afzonderlijke items.|1,16744F
-181452| 1|102|0|D|Saffron City                            |TRAINER TIPS[nb2]The new GREAT BALL offers improved[br]catching rates.[nb2]Try it on those hard-to-catch[br]POKÈMON.|TRAINER TIPS[nb2]De nieuwe GROTE BAL heeft een[br]hogere kans om POKÈMON te vangen.[nb2]Gebruik hem voor de moeilijker te[br]vangen POKÈMON.|1,167458
+181452| 1|102|0|D|Saffron City                            |TRAINER TIPS[nb2]The new GREAT BALL offers improved[br]catching rates.[nb2]Try it on those hard-to-catch[br]POKÈMON.|TRAINER TIPS[nb2]De nieuwe GROOTSE BAL heeft een[br]hogere kans om POKÈMON te vangen.[nb2]Gebruik hem voor de moeilijker te[br]vangen POKÈMON.|1,167458
 1814B9| 1| 25|0|D|Saffron City                            |SILPH CO. OFFICE BUILDING|SILPH CO. KANTOOR GEBOUW|1,167461
 1814D3| 1| 19|0|D|Saffron City                            |MR. PSYCHIC'S HOUSE|MR. PSYCHIC'S HUIS|1,16746A
 1814E7| 1| 49|0|D|Saffron City                            |SILPH's latest product![br]Release to be determined[...]|Het volgende product van SILPH![br]Binnenkort te koop[...]|1,167473
@@ -1048,7 +1048,7 @@
 183491| 1| 84|0|D|Route 3                                 |Whew[...] I better take a rest[...][br]Groan[...][nb2]That tunnel from CERULEAN takes a[br]lot out of you!|Zucht[...] Ik rust beter even[...][br]Amai[...][nb2]Die tunnel van uit CERULIAN is een[br]zware tocht!|1,167F7A
 1834E6| 1| 34|0|D|Route 3                                 |Hey![br]I saw you in VIRIDIAN FOREST!|HÈ![br]Ik heb je gezien in VIRIDIAN BOS!|1,1A944B
 183509| 2| 18|0|D|Route 3                                 |You beat me again!|Je hebt me opnieuw verslagen!|1,1A944F;1,1A9476
-18351C| 2| 67|0|D|Route 3                                 |There are other kinds of POKÈMON[br]than the ones you find in forests.|Er zijn andere soorten POKÈMON dan[br]diegene die je vindt in bossen.|1,1A9465;1,1A947C
+18351C| 2| 67|0|D|Route 3                                 |There are other kinds of POKÈMON[br]than the ones you find in forests.|Er zijn andere soorten POKÈMON dan[br]diegene die je vind in bossen.|1,1A9465;1,1A947C
 183560| 1| 63|0|D|Route 3                                 |Hi![br]I like shorts![nb2]They're delightfully comfy and[br]easy to wear!|Hallo![br]Ik hou van korte broeken![nb2]Ze zijn comfortabel [br]en gemakkelijk te dragen!|1,1A93CF
 1835A0| 2| 19|0|D|Route 3                                 |I don't believe it!|Ik kan het niet geloven!|1,1A93D3;1,1A93FA
 1835B4| 2| 97|0|D|Route 3                                 |Are you using a POKÈMON CENTER's[br]PC for storing your POKÈMON?[nb2]Each BOX can hold up to[br]30 POKÈMON.|Gebruik je de PC in de POKÈMON[br]CENTERS om je POKÈMON op te slaan?[nb2]Elke BAK kan tot 30 POKÈMON[br]bevatten.|1,1A93E9;1,1A9400
@@ -1124,10 +1124,10 @@
 1842B3| 2|109|0|D|Route 8                                 |I was planning on getting some[br]fresh air for a change, but[...][nb2]We're stuck here because of the[br]gates at SAFFRON.|Ik was van plan een frisse neus[br]te gaan halen. Maar[...][nb2]We zitten hier vast omdat de[br]poorten van SAFFRON dicht zijn.|1,1AA2AF;1,1AA2C6
 184321| 1| 36|0|D|Route 8                                 |MEOWTH is so cute, meow, meow,[br]meow!|MEOWTH is zo schatig, miauw, miauw,[br]miauw!|1,1AA15F
 184346| 2|  9|0|D|Route 8                                 |Meeeeyow!|Meeeeyow!|1,1AA163;1,1AA18A
-184350| 2| 41|0|D|Route 8                                 |I think PIDGEY and RATTATA are[br]cute, too!|Ik vindt PIDGEY en RATTATA ook[br]schattig!|1,1AA179;1,1AA190
+184350| 2| 41|0|D|Route 8                                 |I think PIDGEY and RATTATA are[br]cute, too!|Ik vind PIDGEY en RATTATA ook[br]schattig!|1,1AA179;1,1AA190
 18437A| 1| 43|0|D|Route 8                                 |We must look silly standing here[br]like this.|We zien er vast idioot uit[br]zoals we hier staan.|1,1AA19D
 1843A6| 2| 43|0|D|Route 8                                 |Look what you did to my poor, cute[br]POKÈMON!|Kijk wat je mijn arme, schattige[br]POKÈMON aangedaan hebt!|1,1AA1A1;1,1AA1C8
-1843D2| 2| 95|0|D|Route 8                                 |SAFFRON's gatekeeper won't let us[br]go through.[nb2]I know he's doing his job, but I[br]think he's mean.|De wachter van SAFFRON laat ons[br]niet door.[nb2]Ik weet dat hij maar zijn werk doet,[br]maar ik vindt het niet leuk.|1,1AA1B7;1,1AA1CE
+1843D2| 2| 95|0|D|Route 8                                 |SAFFRON's gatekeeper won't let us[br]go through.[nb2]I know he's doing his job, but I[br]think he's mean.|De wachter van SAFFRON laat ons[br]niet door.[nb2]Ik weet dat hij maar zijn werk doet,[br]maar ik vind het niet leuk.|1,1AA1B7;1,1AA1CE
 184432| 1| 28|0|D|Route 8                                 |I'm a rambling, gaming dude!|Ik ben een spelletjesfanaat!|1,1AA311
 18444F| 2| 22|0|D|Route 8                                 |Missed the big chance!|De grote kans gemist!|1,1AA315;1,1AA33C
 184466| 2| 69|0|D|Route 8                                 |Playing games and POKÈMON are like[br]eating peanuts! I just can't stop!|Spelletjes spelen en POKÈMON zijn[br]net als pindanootjes eten![nb]Ik kan er niet mee stoppen!|1,1AA32B;1,1AA342
@@ -1185,7 +1185,7 @@
 184C60| 2| 37|0|D|Route 10                                |Haha-ha-choo![br]Ha-choo![nb]Snort! Snivel!|Haha-ha-tchie![br]Ha-thcie![nb]Sniffel, snuit!|1,1AA0BF;1,1AA0D6
 184C86| 1| 32|0|D|Route 10                                |Hi, kid![br]Want to see my POKÈMON?|HÈ![br]Wil je mijn POKÈMON zien?|1,1AA067
 184CA7| 2| 19|0|D|Route 10                                |Oh, no![br]My POKÈMON!|O, nee![br]Mijn POKÈMON!|1,1AA06B;1,1AA092
-184CBB| 2| 53|0|D|Route 10                                |I don't like you.[br]I don't like anyone better than me!|Ik vindt je niet leuk. Ik vind[br]niemand leuk die beter is dan ik!|1,1AA081;1,1AA098
+184CBB| 2| 53|0|D|Route 10                                |I don't like you.[br]I don't like anyone better than me!|Ik vind je niet leuk. Ik vind[br]niemand leuk die beter is dan ik!|1,1AA081;1,1AA098
 184CF1| 1| 63|0|D|Route 9                                 |I've been out at a POKÈMON GYM[br]a few times.[nb2][...]But I always lose.|Ik ben al een paar keer naar een[br]POKÈMON GYM geweest.[nb2][...]Maar ik verlies altijd.|1,1A9FAD
 184D31| 2| 27|0|D|Route 9                                 |Ohh![br]After all my training!|Oo![br]Na al mijn training!|1,1A9FB1;1,1A9FD8
 184D4D| 2| 92|0|D|Route 9                                 |I noticed some POKÈMANIACS[br]prowling around.[nb2]Can you imagine? Them?[br]Up here in the mountains?|Ik heb wat POKÈMON fanaten[br]rond zien lopen.[nb2]Kan je dat geloven?[br]Hier hoog in de bergen?|1,1A9FC7;1,1A9FDE
@@ -1444,7 +1444,7 @@
 187640| 1| 49|0|D|Route 18                                |I always check every grassy area[br]for new POKÈMON.|Ik controleer altijd[br]elk stukje lang gras.[nb2]Om te kijken of er nieuwe soorten[br]POKÈMON zitten.|1,1AB35D
 187672| 2|  4|0|D|Route 18                                |Tch!|Pff!|1,1AB361;1,1AB388
 187677| 2| 20|0|D|Route 18                                |I wish I had a BIKE!|Ik wou dat ik een FIETS had!|1,1AB377;1,1AB38E
-18768C| 1| 38|0|D|Route 18                                |Kurukkoo![br]How do you like my birdcall?|Koekoek![br]Wat vindt je van mijn vogel imitatie?|1,1AB39B
+18768C| 1| 38|0|D|Route 18                                |Kurukkoo![br]How do you like my birdcall?|Koekoek![br]Wat vind je van mijn vogel imitatie?|1,1AB39B
 1876B3| 2| 17|0|D|Route 18                                |I had to bug you!|Ik moest je lastig vallen!|1,1AB39F;1,1AB3C6
 1876C5| 2| 62|0|D|Route 18                                |I collect sea POKÈMON on weekends[br]because the sea is so close.|In het weekend verzamel ik zee[br]POKÈMON omdat de zee zo dichtbij is.|1,1AB3B5;1,1AB3CC
 187704| 1| 33|0|D|Route 18                                |This is my turf![br]Get out of here!|Dit is mijn terrein![br]Ga weg!|1,1AB3D9
@@ -1705,7 +1705,7 @@
 18A555| 2| 99|0|D|Resort Gorgeous                         |The sky and the sea[...][br]They are so fickle.[nb2]Their changing expressions make[br]them difficult to capture.|De zon en de zee[...][br]Ze zijn zo onvoorspelbaar.[nb2]De constante verandering maken het[br]moeilijk hun echte schoonheid[nb]te vatten.|1,1AC1C3;1,1AC1DA
 18A5B9| 1| 52|0|D|Resort Gorgeous                         |I am visiting my friend's retreat,[br]if you must know.|Ik bezoek het vakantiehuis van mijn[br]vrienden als je het echt wil weten.|1,1AC1E7
 18A5EE| 2| 18|0|D|Resort Gorgeous                         |Oh, my, so strong.|O jee, zo sterk.|1,1AC1EB;1,1AC212
-18A601| 2| 67|0|D|Resort Gorgeous                         |I find it pleasurable to leisurely[br]battle in the gentle sea breeze.|Ik vindt het leuk om te vechten in[br]de koele zeebries.|1,1AC201;1,1AC218
+18A601| 2| 67|0|D|Resort Gorgeous                         |I find it pleasurable to leisurely[br]battle in the gentle sea breeze.|Ik vind het leuk om te vechten in[br]de koele zeebries.|1,1AC201;1,1AC218
 18A645| 1| 57|0|D|Resort Gorgeous                         |I'm thinking of having a pool[br]made specially for POKÈMON.|Ik denk er aan om een zwembad te[br]laten maken speciaal voor POKÈMON.|1,1AC225
 18A67F| 2| 25|0|D|Resort Gorgeous                         |Oh, my goodness gracious!|Oh jeetje!|1,1AC229;1,1AC250
 18A699| 2| 64|0|D|Resort Gorgeous                         |A pool would be nice, but I must[br]say, a sun-room may be sublime.|Een zwembad zou leuk zijn. Maar ik[br]moet toegeven dat een veranda[nb]perfect zou zijn.|1,1AC23F;1,1AC256
@@ -1994,7 +1994,7 @@
 18F103| 1|215|0|D|Oak's Lab                               |Now, [PLAYER] and [RIVAL]![nb2]This time, you really must work[br]towards filling your POKÈDEXES.[nb2]I urge you to make them the best[br]and the most complete of all time![nb2]Truly, this is a monumentally great[br]undertaking in POKÈMON history!|Nu, [PLAYER] en [RIVAL]![nb2]Nu moeten jullie echt beginnen[br]jullie POKÈDEXES te vullen.[nb2]Maak ze de beste en meest[br]ingevulde aller tijden![nb2]Dit is echt een monumentale opdracht[br]in de POKÈMON geschiedenis!|1,16912A
 18F1DB| 1|182|0|D|Oak's Lab                               |[RIVAL]: Gramps, calm down.[br]Don't get so excited.[nb2]I'll get the POKÈDEX completed,[br]don't you worry about a thing.[nb2]I think I'll try looking around[br]ONE ISLAND first[...][nb2]Anyways, I'm outta here!|[RIVAL]: Rustig opie,[br]raak niet zo opgewonden.[nb2]Ik vervolledig de POKÈDEX wel,[br]maak je geen zorgen.[nb2]Ik denk dat ik eerst ga rondkijken[br]op ONE EILAND[...][nb2]In elk geval, tot later!|1,169132
 18F292| 1|124|0|D|Viridian House                          |Coming up with nicknames is fun,[br]but it's not so easy to do.[nb2]Clever names are nice, but simple[br]names are easier to remember.|Koosnaampjes verzinnen is leuk,[br]maar niet zo gemakkelijk.[nb2]Speciale namen zijn cool,[br]maar simpele namen zijn[nb]gemakkelijker te onthouden.|1,169E9D
-18F30F| 1| 28|0|D|Viridian House                          |My daddy loves POKÈMON, too.|Mijn papa vindt POKÈMON ook leuk.|1,169EA6
+18F30F| 1| 28|0|D|Viridian House                          |My daddy loves POKÈMON, too.|Mijn papa vind POKÈMON ook leuk.|1,169EA6
 18F32C| 1| 16|0|D|Viridian House                          |SPEARY: Tetweet!|SPEARY: Tetweet!|1,169EB7
 18F33D| 1| 20|0|D|Viridian House                          |SPEAROW[br]Name: SPEARY|SPEAROW[br]Naam: SPEARY|1,169EC2
 18F352| 1|236|0|D|Viridian Gym                            |Fwahahaha![br]Welcome to my hideout![nb2]It shall be so until I can restore[br]TEAM ROCKET to its former glory.[nb2]But, you have found me again.[br]So be it.[nb]This time, I'm not holding back![nb2]Once more, you shall face[br]GIOVANNI, the greatest TRAINER![FC]ŒÈ¿|Hahahaha![br]Welkom in mijn schuilplaats![nb2]Hier schuil ik tot als ik[br]TEAM ROCKET in ere kan herstellen.[nb2]Maar je hebt me opnieuw gevonden.[br]deze keer ga ik voluit![nb2]Je mag nog eens vechten tegen[br]GIOVANNI, de beste TRAINER ooit![FC]ŒÈ¿|1,169EDD
@@ -2042,7 +2042,7 @@
 18FF28| 1| 34|0|D|Viridian School                         |GIRL: Hey![br]Don't look at my notes!|GIRL: HÈ![br]Niet spieken!|1,16A113
 18FF4B| 1| 60|0|D|Viridian School                         |The blackboard lists POKÈMON[br]STATUS problems during battles.|Het bord omschrijft POKÈMON[br]STATUS problemen bij gevechten.|1,16A120
 18FF88| 1| 32|0|D|Viridian School                         |Which topic do you want to read?|Over welk onderwep wil je lezen?|1,16A12D
-18FFA9| 1|123|0|D|Viridian school missed text             |A POKÈMON can't attack if it's[br]asleep.[nb2]POKÈMON will stay asleep even[br]after battles.[nb2]Use AWAKENING to awaken one[br]from sleep.|een POKÈMON kan niet aanvallen[br]als hij slaapt.[nb2]Een POKÈMON blijft slapen ook[br]na het gevecht.[nb2]Gebruik WAKKERDRANK om hem[br]wakker te maken.|1,16A18D
+18FFA9| 1|123|0|D|Viridian school missed text             |A POKÈMON can't attack if it's[br]asleep.[nb2]POKÈMON will stay asleep even[br]after battles.[nb2]Use AWAKENING to awaken one[br]from sleep.|een POKÈMON kan niet aanvallen[br]als hij slaapt.[nb2]Een POKÈMON blijft slapen ook[br]na het gevecht.[nb2]Gebruik MAAKWAKKER om hem[br]wakker te maken.|1,16A18D
 190025| 1|121|0|D|Viridian school missed text             |A burn reduces ATTACK power.[br]It also causes ongoing HP loss.[nb2]A burn remains after a battle.[br]Use BURN HEAL to cure a burn.|Een brandwonde vermindert[br]AANVAL kracht. Het zorgt er[nb]ook voor continu HP verlies.[nb2]Een brandwonde blijft ook achter[br]na een gevecht.[nb]Gebruik BRAND GENEES om[nb]een brandwonde te genezen.|1,16A19B
 19009F| 1|111|0|D|Viridian school missed text             |When poisoned, a POKÈMON's health[br]steadily drops.[nb2]Poison lingers after battles.[br]Use an ANTIDOTE to cure poison!|Een vergiftigde POKÈMON verliest[br]langzaam gezondheid.[nb2]Vergif blijft actief na een gevecht.[br]Gebruik ANTIGIF om vergif[nb]te genezen!|1,16A1A9
 19010F| 1|137|0|D|Viridian school missed text             |A frozen POKÈMON becomes[br]helplessly immobile.[nb2]It stays frozen even after the[br]battle ends.[nb2]Use ICE HEAL to thaw out the[br]suffering POKÈMON.|Een bevroren POKÈMON kan niet[br]meer bewegen.[nb2]Hij blijft bevroren zelfs als het[br]gevecht afgelopen is.[nb2]Gebruik IJS GENEES om de POKÈMON[br]te ontooien.|1,16A1B7
@@ -2154,7 +2154,7 @@
 1927B2| 1| 46|0|D|Bike Shop                               |Oh, that's[...][nb2]A BIKE VOUCHER![nb2]Okay![br]Here you go!|Oh, dat is[...][nb2]Een FIETS BON[nb2]Ok![br]Alsjeblieft!|1,16AC24
 1927E1| 1| 44|0|D|Bike shop                               |[PLAYER] exchanged the[br]BIKE VOUCHER for a BICYCLE.|[PLAYER] heeft de FIETS BON[br]geruild voor een FIETS.|1,16AC2C
 19280E| 2| 36|0|D|Bike Shop                               |Thank you![br]Come back again sometime!|Dankjewel![br]En tot ziens!|1,16AC17;1,16AC50
-192833| 1|116|0|D|Bike shop                               |How do you like your new BICYCLE?[br]Do you like how it rides?[nb2]You can take it out on CYCLING[br]ROAD and even into caves!|Wat vindt je van je nieuwe FIETS?[br]Rijd hij goed?[nb2]Je kan er mij rijden op de[br]FIETSWEG en zelfs in grotten!|1,16AC5A
+192833| 1|116|0|D|Bike shop                               |How do you like your new BICYCLE?[br]Do you like how it rides?[nb2]You can take it out on CYCLING[br]ROAD and even into caves!|Wat vind je van je nieuwe FIETS?[br]Rijd hij goed?[nb2]Je kan er mij rijden op de[br]FIETSWEG en zelfs in grotten!|1,16AC5A
 1928A8| 1| 38|0|D|Bike shop                               |You better make room for your[br]BICYCLE!|Je maakt best wat plaats voor[br]je FIETS!|1,16AC64
 1928CF| 1|103|0|D|Bike Shop                               |A plain city bike is good enough[br]for me.[nb2]After all, you can't put a shopping[br]basket on a mountain bike.|Een stadsfiets is goed genoeg[br]voor mij[nb2]Je kan tenslotte geen mandje op[br]een mountainbike zetten.|1,16AC6E
 192937| 1| 48|0|D|Bike Shop                               |These bikes are cool, but they're[br]way expensive!|Deze fietsen zijn cool, maar veel[br]te duur!|1,16AC82
@@ -2299,7 +2299,7 @@
 195907| 1| 32|0|D|Celadon dept store                      |Red and Green![br]Both are POKÈMON!|Rood en Groen![br]Beide zijn POKÈMON!|1,16BBE7
 195928| 1|163|0|D|Celadon dept store                      |Oh, hi![br]I finally finished POKÈMON.[nb2]Not done yet? How about I teach[br]you a good move?[nb2]The move I have in mind is[br]COUNTER.[nb2]Not like the one I'm leaning on,[br]mind you!|O, hallo,[br]ik ben eindelijk klaar.[nb2]Jij nog niet? Wat als ik je een[br]goede techniek leer?[nb2]Ik denk aan PAREER.|1,1C4C33
 1959CC| 1| 59|0|D|Celadon dept store                      |You're not interested? Come see[br]me if you change your mind.|Geen interresse? Kom me opzoeken[br]als je van gedacht verandert.|1,1C4C7C
-195A08| 1| 40|0|D|Celadon dept store                      |Which POKÈMON should I teach[br]COUNTER to?|Aan welke POKÈMON moet ik[br]COUNTER leren?|1,1C4C56
+195A08| 1| 40|0|D|Celadon dept store                      |Which POKÈMON should I teach[br]COUNTER to?|Aan welke POKÈMON moet ik[br]PAREER leren?|1,1C4C56
 195A31| 1| 54|0|D|Celadon dept store                      |Are you using that COUNTER move[br]I taught your POKÈMON?|Gebruik je die PAREER techniek die[br]ik je POKÈMON geleerd heb?|1,1C4C86
 195A68| 1| 96|0|D|Department Store                        |I'm getting a present for my[br]girlfriend.[nb2]I guess a POKÈ DOLL will be it.[br]It's the popular thing.|Ik zoek een cadeau voor mijn[br]vriendin.[nb2]Een POKÈMON POP zal ze wel leuk[br]vinden denk ik.|1,16BBF1
 195AC9| 1|145|0|D|Department Store                        |I heard something useful.[nb2]If a wild POKÈMON appears, you can[br]distract it with a POKÈ DOLL.[nb2]You can run away while the wild[br]POKÈMON is distracted.|Ik heb iets nuttigs gehoord.[nb2]Als een wilde POKÈMON verschijnt kan[br]je hem afleiden met een POKÈMON POP[nb2]Dan kan je weglopen[br]als hij afgeleid is.|1,16BBFA
@@ -2311,7 +2311,7 @@
 195D5F| 1| 21|0|D|Celadon dept store                      |Give her which drink?|Welk drankje ga je geven?|1,16BD54
 195D75| 1| 55|0|D|Department Store                        |Yay![nb2]FRESH WATER![nb2]Thank you![br]You can have this from me!|Jeuj![nb2]VERS WATER![nb2]Dank je![br]Je krijgt dit van mij!|1,16BF2E
 195DAD| 1| 38|0|D|Celadon dept store                      |[PLAYER] received a [var2][br]from the little girl.|[PLAYER] heeft een [var2][br]van het kleine meisje gekregenl.|1,16BFA4
-195DD4| 1| 94|0|D|Celadon dept store                      |TM16 contains LIGHT SCREEN.[nb2]It's a move that weakens the power[br]of special attacks by your foe.|TM16 bevat LICHTSCHERM.[nb2]Het is een techniek die speciale[br]aanvallen van je tegenstanderverzwakt.|1,16BFE3
+195DD4| 1| 94|0|D|Celadon dept store                      |TM16 contains LIGHT SCREEN.[nb2]It's a move that weakens the power[br]of special attacks by your foe.|TM16 bevat LICHTSCHERM.[nb2]Het is een techniek die speciale[br]aanvallen van je tegenstander[nb]verzwakt.|1,16BFE3
 195E33| 1| 52|0|D|Department Store                        |Yay![nb2]SODA POP![nb2]Thank you![br]You can have this from me!|Jeuj![nb2]SODA POP![nb2]Dank je![br]Je krijgt dit van mij!|1,16BF4F
 195E68| 1| 86|0|D|Celadon dept store                      |TM20 contains SAFEGUARD.[nb2]It's a move that prevents status[br]problems among your POKÈMON.|TM20 bevat BESCHERMING.[nb2]Het is een techniek die status[br]problemen bij jouw POKÈMON voorkomt.|1,16BFEF
 195EBF| 1| 52|0|D|Department Store                        |Yay![nb2]LEMONADE![nb2]Thank you![br]You can have this from me!|Jeuj![nb2]LIMONADE![nb2]Dank je![br]Je krijgt dit van mij!|1,16BF70
@@ -2337,7 +2337,7 @@
 1962A7| 1| 23|0|D|Celadon Mansion                         |GAME FREAK Meeting Room|GAME FREAK Vergaderruimte.|1,16C3D3
 1962BF| 1| 23|0|D|Celadon Mansion                         |Me?[br]I'm the programmer!|Ik?[br]Ik ben de programmeur!|1,16C3DD
 1962D7| 1| 35|0|D|Celadon Mansion                         |I'm the graphic artist![br]I drew you!|Ik ben de tekenaar![br]Ik heb jou getekend!|1,16C3E6
-1962FB| 1| 90|0|D|Celadon Mansion                         |I wrote the story![br]Isn't ERIKA cute?[nb2]I like MISTY a lot, too![br]Oh, and SABRINA, I like her!|Ik heb het verhaal geschreven![br]Is ERIKA niet schattig?[nb2]Ik vindt MISTY ook heel leuk![nb2]Oh, en ook SABRINA!|1,16C3EF
+1962FB| 1| 90|0|D|Celadon Mansion                         |I wrote the story![br]Isn't ERIKA cute?[nb2]I like MISTY a lot, too![br]Oh, and SABRINA, I like her!|Ik heb het verhaal geschreven![br]Is ERIKA niet schattig?[nb2]Ik vind MISTY ook heel leuk![nb2]Oh, en ook SABRINA!|1,16C3EF
 196356| 1|118|0|D|Celadon Mansion                         |Is that right?[nb2]I'm the game designer![nb2]Filling up your POKÈDEX is tough,[br]but don't quit![nb2]When you finish, come tell me!|Is dat zo?[nb2]Ik ben de ontwerper van het spel![nb2]Je POKÈDEX vullen is niet[br]gemakkelijk, maar geef niet op![nb2]Als je klaar bent kom het me tonen!|1,16C40A
 1963CD| 1| 62|0|D|Celadon mansion                         |Wow! Excellent![br]You completed your POKÈDEX![nb]Congratulations![nb][...]|Wow! Fantastisch![br]Je POKÈDEX is helemaal compleet![nb]Gefeliciteerd![nb][...]|1,16C419
 19640C| 1| 62|0|D|Celadon Mansion                         |It's the game program! Messing with[br]it could bug out the game!|Het is het spelprogramma! Als ik hier[br]aan pruts kan ik het spel kapot maken!|1,16C440
@@ -2594,14 +2594,14 @@
 19A725| 1| 64|0|D|Cinnabar bill                           |BILL: Hey, you kept me waiting![br]Ready to set sail to ONE ISLAND?|BILL: HÈ, je hebt me laten wachten![br]Klaar om naar ONE EILAND te varen?|1,16E90E
 19A766| 1| 30|0|D|Cinnabar bill                           |Oh, you're still not done yet?|O, je bent nog steeds niet klaar?|1,16E9A7
 19A785| 1| 26|0|D|Cinnabar bill                           |Well, that's it.[br]Let's go!|Ok, dat is het.[br]Laten we gaan!|1,16E921
-19A7A0| 1| 80|0|D|Cinnabar Mart                           |Don't they have X ATTACK?[nb2]I like it because it raises the[br]ATTACK stat in battle.|Hebben ze hier geen X AANVAL?[nb2]Ik vindt dat leuk, want het verhoogt[br]de AANVAL status in gevechten.|1,16EA12
+19A7A0| 1| 80|0|D|Cinnabar Mart                           |Don't they have X ATTACK?[nb2]I like it because it raises the[br]ATTACK stat in battle.|Hebben ze hier geen X AANVAL?[nb2]Ik vind dat leuk, want het verhoogt[br]de AANVAL status in gevechten.|1,16EA12
 19A7F1| 1| 69|0|D|Cinnabar Mart                           |It never hurts to have extra items.[br]You never know what might happen.|Het kan nooit kwaad om wat extra[br]items op zak te hebben.[nb]Je weet nooit wat er kan gebeuren.|1,16EA1B
 19A837| 1|160|0|D|Indigo Plateau                          |Yo![br]Champ in the making![nb2]At the POKÈMON LEAGUE, you will[br]face the ELITE FOUR all in a row.[nb2]If you lose, you have to start all[br]over again![nb2]This is it![br]Go for it!|Jo![br]Toekomstig Kampioen![nb2]In de POKÈMON LEAGUE ga je de[br]ELITE VIER ÈÈn na een[nb]voor je krijgen.[nb2]Als je verliest moet je helemaal[br]terug van het begin beginnen![nb2]Dit is het![br]Ga er voor!|1,16EAC5
 19A8D8| 2|106|0|D|Indigo Plateau                          |From here on, you face the[br]ELITE FOUR one by one.[nb2]If you win, a door opens to the[br]next TRAINER. Good luck!|Vanaf hier ga je de ELITE VIER[br]ÈÈn voor ÈÈn uitdagen.[nb2]Als je wint opent de deur naar de[br]volgene TRAINER. Veel geluk!|1,16EA9E;1,16EABB
 19A943| 1|163|0|D|Indigo plateau                          |I am so sorry, but you've wasted[br]your time coming here.[nb2]LORELEI of the ELITE FOUR is[br]absent, you see.[nb2]As a result, the POKÈMON LEAGUE is[br]closed for the time being.|Het spijt me erg, maar je hebt je[br]tijd verspild met hier te komen.[nb2]LORELEI van de ELITE VIER is[br]namelijk afwezig.[nb2]Daarom is de POKÈMON LEAGUE[br]tijdelijk gesloten.|1,16EAB1
 19A9E7| 1|302|0|D|Indigo plateau                          |AGATHA's GHOST-type POKÈMON are[br]horrifically terrifying in toughness.[nb2]I took my FIGHTING-type POKÈMON[br]and raised them to the max.[nb2]I went at AGATHA feeling pretty[br]confident, but she whupped us.[nb2]That old lady's also got a really[br]short fuse, too.[nb2]It doesn't take anything to get[br]that scary lady hollering.|De SPOOK-type POKÈMON van[br]AGATHA zijn akelig sterk.[nb2]Ik had mijn VECHT-type POKÈMON[br]volledig getraind.[nb2]Ik ging vol goede moed naar AGATHA[br]maar ze heeft met ons de vloer[nb]aangeveegd.[nb2]Die oude vrouw heeft ook een erg[br]kort lontje.[nb2]Ze heeft niet veel nodig om boos[br]te worden.|1,1ACFCC
 19AB16| 1|132|0|D|Indigo plateau                          |Maybe becoming an ELITE FOUR[br]member is in the blood.[nb2]From what I've heard, LANCE has[br]a cousin who's a GYM LEADER[nb]somewhere far away.|Misschien is lid worden van de[br]ELITE VIER wel erfelijk.[nb2]Ik heb gehoord dat een neefje van[br]LANCE GYM LEIDER is in een ver land.|1,1AD098
-19AB9B| 1| 59|0|D|Copycat's House                         |My daughter is so self-centered.[br]She has but a few friends.|Mij dochter is zo op zichzwel.[br]Ze heeft maar weinig vrienden.|1,16EB39
+19AB9B| 1| 59|0|D|Copycat's House                         |My daughter is so self-centered.[br]She has but a few friends.|Mij dochter is zo op zichzelf.[br]Ze heeft maar weinig vrienden.|1,16EB39
 19ABD7| 1|115|0|D|Copycat's House                         |My daughter likes to mimic people.[br]It's rather vexing.[nb2]Her mimicry has earned her the[br]nickname COPYCAT around here.|Mijn dochter bootst graag mensen na.[br]Het is nogal vervelend.[nb2]Al dat nadoen heeft haar de bijnaam[br]COPYCAT opgeleverd.|1,16EB42
 19AC4B| 1| 20|0|D|Copycat's House                         |CHANSEY: Chaan! Sii!|CHANSEY: Chaan! Sii!|1,16EB53
 19AC60| 1|144|0|D|Copycat house                           |[PLAYER]: Hi![br]Do you like POKÈMON?[nb2][PLAYER]: Uh, no, I just asked you.[nb2][PLAYER]: Huh?[br]You're strange![nb2]COPYCAT: Hmm? Quit mimicking?[br]But, that's my favorite hobby!|[PLAYER]: Hallo![br]Hou jij van POKÈMON?[nb2][PLAYER]: Uh, nee, ik heb dat[br]net aan jou gevraagd.[nb2][PLAYER]: Huh?[br]Jij bent raar![nb2]COPYCAT: Hmm? Stop met nadoen?[br]Maar dat is mijn favoriete hobby!|1,16EBB9
@@ -2641,7 +2641,7 @@
 19B53C| 1|197|0|D|Saffron Gym                             |I had a vision of your arrival.[nb2]I have had psychic powers since[br]I was a child.[nb2]It started when a spoon I[br]carelessly tossed, bent.[nb2]I dislike battling, but if you wish,[br]I will show you my powers![FC]Œ[kÈ]¿|Ik wist al dat je ging komen.[nb2]Ik heb al psychische krachten van[br]toen ik klein was.[nb2]Het begon toen ik plots lepels[br]begon om te buigen.[nb2]Ik hou niet van vechten, maar als[br]je wenst toon ik je mijn krachten![FC]Œ[kÈ]¿|1,16EDEB
 19B602| 1|130|0|D|Saffron gym                             |This loss shocks me![br]But, a loss is a loss.[nb2]I admit, I didn't work hard enough[br]to win.[nb2]Your victory has earned you the[br]MARSHBADGE.|Dit verlies schokt mij![br]Maar verlies is verlies.[nb2]Ik geef toe dat ik niet hard genoeg[br]gewerkt heb om te winnen.[nb2]Jouw overwinning geeft je recht[br]op de MARSHBADGE.|1,16EDEF
 19B685| 1|116|0|D|Saffron Gym                             |Psychic power isn't something that[br]only a few people have.[nb2]Everyone has psychic power.[br]People just don't realize it.|Psychisch krachten is niet iets wat[br]slechts enkelen hebben.[nb2]Idereen heeft psychische krachten,[br]de mensen beseffen het gewoon niet.|1,16EE76
-19B6FA| 1|216|0|D|Saffron Gym                             |The MARSHBADGE makes POKÈMON up[br]to Lv. 70 obey you.[nb2]Stronger POKÈMON will become wild,[br]ignoring your orders in battle.[nb2]Just don't raise your POKÈMON too[br]much to avoid that problem.[nb2]Wait, please take this TM with you.|De MARSHBADGE zorgt dat POKÈMON[br]tot Lv. 70 je gehoorzamen.[nb2]Sterkere POKÈMON worden wild in een[br]gevecht en gaan je bevelen negeren.[nb2]Level je POKÈMON niet teveel op[br]om dit te voorkomen.[nb2]Wacht, neem ook deze TM mee.|1,16EE3F
+19B6FA| 1|216|0|D|Saffron Gym                             |The MARSHBADGE makes POKÈMON up[br]to Lv. 70 obey you.[nb2]Stronger POKÈMON will become wild,[br]ignoring your orders in battle.[nb2]Just don't raise your POKÈMON too[br]much to avoid that problem.[nb2]Wait, please take this TM with you.|De MARSHBADGE zorgt dat POKÈMON[br]tot Lv. 70 je gehoorzamen.[nb2]Sterkere POKÈMON worden wild in een[br]gevecht en gaan bevelen negeren.[nb2]Level je POKÈMON niet teveel op[br]om dit te voorkomen.[nb2]Wacht, neem ook deze TM mee.|1,16EE3F
 19B7D3| 1| 30|0|D|Saffron gym                             |[PLAYER] received TM04 from[br]SABRINA.|[PLAYER] heeft TM04 van[br]SABRINA gekregen.|1,16EE5C
 19B7F2| 1| 86|0|D|Saffron Gym                             |TM04 is CALM MIND.[nb2]It makes the POKÈMON concentrate[br]to raise both SP. ATK and SP. DEF.|TM04 is KALM HOOFD.[nb2]Het verhoogt de concentratie van je[br]POKÈMON zodat zowel SP. AANV[nb]als SP. AFW stijgt.|1,16EE02
 19B849| 1| 32|0|D|Saffron gym                             |Your BAG is full of other items.|Je ZAK zit vol met andere dingen.|1,16EE80
@@ -2690,7 +2690,7 @@
 19C3BD| 1| 98|0|D|Trainer Fan Club                        |I'll always believe in you,[br][PLAYER].[nb2]Please show the others what you're[br]like when you battle seriously.|Ik zal altijd in jou geloven,[br][PLAYER].[nb2]Toon alsjeblieft wat je allemaal[br]kan in je gevechten.|1,16F2DC
 19C420| 1|132|0|D|Trainer Fan Club                        |I'm sorry.[br]I was your fan before.[nb2]But now, you seem to have lost[br]the drive you had before.[nb2]Lately, I think [var1] has been[br]a lot cooler.|Het spijt me.[br]Ik was vroeger jouw fan.[nb2]Maar nu heb je blijkbaar[br]je motivatie verloren.[nb2]De laatste tijd vind ik [var1][br]veel cooler.|1,16F2B8
 19C4A5| 1|182|0|D|Trainer Fan Club                        |Oh![br][PLAYER]![nb2]Everyone's been all excited about[br]you recently.[nb2]I can understand why.[br]I know that you're strong.[nb2]But, do you know what?[nb2]Once I became [var1]'s fan,[br]I can't just stop being a fan.|O![br][PLAYER]![nb2]Iedereen is erg enthousiast[br]over jou de laatste tijd.[nb2]Ik kan verstaan waarom.[br]Ik weet dat je sterk bent.[nb2]Maar weet je wat?[nb2]Eenmaal ik fan geworden was van[br][var1] kon ik niet zomaar stoppen.|1,16F2E6
-19C55C| 1| 76|0|D|Trainer Fan Club                        |I think TRAINERS are so cool when[br]they're battling.[nb2]Don't you think so, too?|Ik vindt TRAINERS zo cool als[br]ze vechten.[nb2]Vindt jij dat ook?|1,16F2F0
+19C55C| 1| 76|0|D|Trainer Fan Club                        |I think TRAINERS are so cool when[br]they're battling.[nb2]Don't you think so, too?|Ik vind TRAINERS zo cool als[br]ze vechten.[nb2]Vind jij dat ook?|1,16F2F0
 19C5A9| 1| 86|0|D|Trainer Fan Club                        |Oh! It's [PLAYER]![br]Too cool![nb2]Oh![br]Oh, yeah![nb2]Can you autograph something?[br]How about my shorts?|O, het is [PLAYER]![br]Te gek![nb2]O![br]O, ja![nb2]Krijg ik een handtekening?[br]Hier op mijn shorts bijvoorbeeld?|1,16F3C0
 19C600| 1|185|0|D|Trainer Fan Club                        |However hot it's been[...][nb2]And however cold it may get[...][nb2]I've always believed in, and worn,[br]shorts![nb2]I'm counting on you to keep[br]winning![nb2]I believe in you just as much as[br]I believe in shorts!|Hoe warm het ook was[...][nb2]En hoe koud het ook mag worden[...][nb2]Ik draag enkel en alleen shorts![nb2]Ik reken op jou om te blijven winnen![nb2]Ik geloof evenveel in jou[br]als in shorts!|1,16F3CA
 19C6BA| 1|127|0|D|Trainer Fan Club                        |BROCK's my hero![br]He's a man among men![nb2]Heheh, I got my mom to do[br]something for me.[nb2]I got her to embroider ´BROCKª[br]on my shorts!|BROCK is mijn held![br]Hij is een held tussen de mensen![nb2]Hehehe, ik heb mijn moeder iets laten[br]doen voor mij.[nb2]Ik heb haar ´BROCKª laten stikken[br]op mijn shorts!|1,16F3A6
@@ -2852,7 +2852,7 @@
 1A01E4| 1|169|0|D|Sea Cottage                             |BILL: Yeehah![br]Thanks, lady! I owe you one![nb2]So, did you come to see my[br]POKÈMON collection?[nb2]You didn't?[br]That's a bummer.[nb2]I've got to thank you[...][br]Oh, here, maybe this'll do.|BILL: Hoera![br]Danjewel meisje![nb]Ik sta bij je in het krijt![nb2]Zo, kwam jij naar mijn POKÈMON[br]collectie kijken?[nb2]Nee?[br]Dat is jammer.[nb2]Ik moet je wel bedanken[...][br]Ah, hier heb ik iets.|1,1706B7
 1A028E| 1| 37|0|D|Sea Cottage                             |[PLAYER] received an S.S. TICKET[br]from BILL.|[PLAYER] heeft een S.S. TICKET[br]gekregen van BILL.|1,170685
 1A02B4| 1| 26|0|D|Sea Cottage                             |You've got too much stuff!|Je hebt te veel dingen!|1,1706C0
-1A02CF| 1|219|0|D|Sea Cottage                             |That cruise ship S.S. ANNE is in[br]VERMILION CITY.[nb2]I hear there are lots of TRAINERS[br]on board, too.[nb2]They invited me to their party, but[br]I can't stand fancy do's.[nb2]Why don't you go instead of me?[br]Go on and have a good time.|De boot S.S ANNE is in[br]VERMILION STAD.[nb2]Ik heb gehoord dat er veel[br]TRAINERS aan boord zijn.[nb2]Ze hebben me uitgenodigd[br]op hun feest, maar ik vindt[nb]dat allemaal maar niets.[nb2]Waarom ga jij niet in mijn plaats?[br]Ga maar en amuseer je.|1,170642
+1A02CF| 1|219|0|D|Sea Cottage                             |That cruise ship S.S. ANNE is in[br]VERMILION CITY.[nb2]I hear there are lots of TRAINERS[br]on board, too.[nb2]They invited me to their party, but[br]I can't stand fancy do's.[nb2]Why don't you go instead of me?[br]Go on and have a good time.|De boot S.S ANNE is in[br]VERMILION STAD.[nb2]Ik heb gehoord dat er veel[br]TRAINERS aan boord zijn.[nb2]Ze hebben me uitgenodigd[br]op hun feest, maar ik vind[nb]dat allemaal maar niets.[nb2]Waarom ga jij niet in mijn plaats?[br]Ga maar en amuseer je.|1,170642
 1A03AB| 1| 86|0|D|Sea Cottage                             |BILL: Feel like checking out some[br]of my rare POKÈMON on my PC?[nb2]Go on, check out my PC.|BILL: Wil je wat van mijn zeldzame[br]POKÈMON op mijn PC zien?[nb2]Doe maar, kijk op mijn PC.|1,1706CA
 1A0402| 1| 42|0|D|Sea Cottage                             |TELEPORTER is displayed on the PC[br]monitor.|TELEPORTER staat er op[br]het PC scherm.|1,1706F2
 1A042D| 1| 45|0|D|Sea Cottage                             |[PLAYER] initiated the TELEPORTER's[br]Cell Separator.|[PLAYER] startte [br]het splitsingsprogramma.|1,1706FE
@@ -3093,7 +3093,7 @@
 1A579D| 3| 35|0|D|Viridian Gym                            |Oh! That is the [var1]![br]Go right ahead.|Oh! dat is de [var1]![br]Ga maar verder.|1,1A77ED;1,1A794E;1,1A7A97
 1A57C1| 2|119|0|D|Route 23                                |You can pass here only if you have[br]the [var1].[nb2]You don't have the [var1][br]yet.[nb2]You have to have it to get to[br]the POKÈMON LEAGUE.|Je kan hier enkel passeren[br]als je de [var1] hebt.[nb2]Je hebt de [var1][br]nog niet.[nb2]Je moet die hebben om binnen te[br]mogen in de POKÈMON LEAGUE.|1,1A77DF;1,1A7A78
 1A5839| 3|109|0|D|Route 23                                |You can pass here only if you have[br]the [var1].[nb2]Oh! That is the [var1]![pMus][FC]Œ¿¿[pausTim][x60][rMus][nb2]Okay, then.[br]Please, go right ahead.|Je kan hier enkel passeren als je de[br][var1] hebt.[nb2]O! Dat is de [var1]![pMus][FC]Œ¿¿[pausTim][x60][rMus][nb2]Ok dan.[br]Ga maar verder.|1,1A77FB;1,1A7961;1,1A7AAA
-1A58A7| 1| 97|0|D|Missed text                             |Let's see[...][br]Uh-oh! You have caught only[nb][var3] kinds of POKÈMON![nb2]You need [var1] kinds[br]if you want the [var2].|Laat eens zien[...][br]O! Je hebt slechts[nb][var3] soorten POKÈMON gevangen![nb2]Je hebt [var1] soorten nodig[br]als je de[var2] wilt.|1,1A7ABF
+1A58A7| 1| 97|0|D|Missed text                             |Let's see[...][br]Uh-oh! You have caught only[nb][var3] kinds of POKÈMON![nb2]You need [var1] kinds[br]if you want the [var2].|Laat eens zien[...][br]O! Je hebt slechts[nb][var3] soorten POKÈMON gevangen![nb2]Je hebt [var1] soorten nodig[br]als je de [var2] wilt.|1,1A7ABF
 1A5909| 1| 67|0|D|Missed text                             |[...]Oh. I see.[nb2]When you get [var1] kinds of POKÈMON,[br]come back for the [var2].|[...]O, ik zie het.[nb2]Als je [var1] verschillende soorten[br]POKÈMON hebt, kom maar terug[nb]voor de [var2].|1,1A7AD3
 1A594D| 1| 45|0|D|Missed text                             |Oh! I see you don't have any[br]room for the [var2].|O, je hebt niet genoeg plaats[br]voor de [var2].|1,1A7AC9
 1A597B| 4| 58|0|D|Trading                                 |I'm looking for the POKÈMON[br][var1]![nb2]Wanna trade one for my[br][var2]?|Ik ben op zoek naar een[br][var1]![nb2]Wil je ruilen voor mijn[br][var2]?|1,16E418;1,16F619;1,16FD73;1,170495
@@ -3108,7 +3108,7 @@
 1A5AA5| 2| 48|0|D|Trading                                 |The [var2] that I traded you,[br]has it grown stronger?|Is de [var2] die ik met jou[br]geruild heb al sterker geworden?|1,16AA25;1,16E336
 1A5AD6| 2| 49|0|D|Trading                                 |Hi![br]Do you have a [var1]?[nb2]Want to trade it for my[br][var2]?|Hallo![br]Heb jij een [var1]?[nb2]Wil je die ruilen voor mijn[br][var2]?|1,160E50;1,16E35F
 1A5B08| 2| 15|0|D|Trading                                 |That's too bad.|dat is jammer.|1,160E95;1,16E3BE
-1A5B18| 2| 49|0|D|Trading                                 |[...]This is no [var1].[nb2]If you get one, trade it with me.|[...]Dit is geen [var1].[nb2]Als je er een vindt, ruil met mij.|1,160EA3;1,16E3CC
+1A5B18| 2| 49|0|D|Trading                                 |[...]This is no [var1].[nb2]If you get one, trade it with me.|[...]Dit is geen [var1].[nb2]Als je er een vind, ruil met mij.|1,160EA3;1,16E3CC
 1A5B4A| 2| 21|0|D|Trading                                 |Thanks, you're a pal!|Bedankt, je bent een toffe!|1,160E88;1,16E3B1
 1A5B60| 2| 39|0|D|Trading                                 |How is my old [var2]?[br]My [var1] is doing great!|Hoe is het met mijn oude [var2]?[br]Mijn [var1] heeft het goed!|1,160EAD;1,16E3D6
 1A5B88| 1| 36|0|D|Missed text 2                           |Bingo![br]The CARD KEY opened the door!|Jaaa![br]De SLEUTELKAART opent de deur!|1,1A8B37
@@ -4063,7 +4063,7 @@
 1C10C1| 1| 58|0|D|Secret House                            |It's all complicated words and[br]numbers that make no sense[...]|Het zijn allemaal ingewikkelde[br]woorden en nummers[...]|1,1A762C
 1C10FC| 1| 55|0|D|misc missed text                        |It's an advertising poster about[br]all kinds of products.|Het is een reclamebord voor[br]allerlei producten.|1,1A7698
 1C1134| 1| 57|0|D|S.S. Anne                               |Oh, that smells tasty![br]It might get the stomach growling!|Oh, dat ruikt lekker.[br]Ik krijg er honger van!|1,1A76A1
-1C116E| 1| 37|0|D|S.S. Anne                               |Inside this[...][br][...][...][nb2]There's nothing here!|Hierin[...][br][...][...][nb2]Vindt ik niets!|1,1A76AA
+1C116E| 1| 37|0|D|S.S. Anne                               |Inside this[...][br][...][...][nb2]There's nothing here!|Hierin[...][br][...][...][nb2]Vind ik niets!|1,1A76AA
 1C1194| 1| 37|0|D|Celadon Diner                           |It's a cup with a POKÈMON mark[br]on it.|Het is een tas met een POKÈMON[br]logo op gedrukt.|1,1A76B3
 1C11BA| 1| 33|0|D|misc missed text                        |The window is very well polished.|Het venster is erg proper.|1,1A76BC
 1C11DC| 1| 58|0|D|misc missed text                        |Outside the window[...][nb2]The sky looks fantastically[br]beautiful.|Buiten door het venster[...][nb2]Ziet de lucht er fantastisch uit.|1,1A76C5
@@ -4486,7 +4486,7 @@
 2474E5| 0| 12|0|D|Move names MAX LENGTH 12!               |THUNDERBOLT|BLIKSEM|
 2474F2| 0| 12|0|D|Move names MAX LENGTH 12!               |THUNDER WAVE|DONDERGOLF|
 2474FF| 0| 12|0|D|Move names MAX LENGTH 12!               |THUNDER|DONDER|
-24750C| 0| 12|0|D|Move names MAX LENGTH 12!               |ROCK THROW|GOOI ROTS|
+24750C| 0| 12|0|D|Move names MAX LENGTH 12!               |ROCK THROW|ROTS GOOI|
 247519| 0| 12|0|D|Move names MAX LENGTH 12!               |EARTHQUAKE|AARDBEVING|
 247526| 0| 12|0|D|Move names MAX LENGTH 12!               |FISSURE|AFGROND|
 247533| 1| 12|0|D|Move names MAX LENGTH 12!               |DIG|GRAAF|1,45A6E8
@@ -4504,7 +4504,7 @@
 2475CF| 0| 12|0|D|Move names MAX LENGTH 12!               |SCREECH|KRIJS|
 2475DC| 0| 12|0|D|Move names MAX LENGTH 12!               |DOUBLE TEAM|DUBBEL TEAM|
 2475E9| 0| 12|0|D|Move names MAX LENGTH 12!               |RECOVER|HERSTEL|
-2475F6| 0| 12|0|D|Move names MAX LENGTH 12!               |HARDEN|VERARD|
+2475F6| 0| 12|0|D|Move names MAX LENGTH 12!               |HARDEN|VERHARD|
 247603| 0| 12|0|D|Move names MAX LENGTH 12!               |MINIMIZE|VERKLEIN|
 247610| 0| 12|0|D|Move names MAX LENGTH 12!               |SMOKESCREEN|ROOKGORDIJN|
 24761D| 0| 12|0|D|Move names MAX LENGTH 12!               |CONFUSE RAY|VERWARSTRAAL|
@@ -4666,7 +4666,7 @@
 247E09| 0| 12|0|D|Move names MAX LENGTH 12!               |SMELLINGSALT|REUKZOUT|
 247E16| 0| 12|0|D|Move names MAX LENGTH 12!               |FOLLOW ME|VOLG MIJ|
 247E23| 0| 12|0|D|Move names MAX LENGTH 12!               |NATURE POWER|NATUURKRACHT|
-247E30| 0| 12|0|D|Move names MAX LENGTH 12!               |CHARGE|TEN AANVAL|
+247E30| 0| 12|0|D|Move names MAX LENGTH 12!               |CHARGE|LAAD OP|
 247E3D| 0| 12|0|D|Move names MAX LENGTH 12!               |TAUNT|SPOT|
 247E4A| 0| 12|0|D|Move names MAX LENGTH 12!               |HELPING HAND|HELPHAND|
 247E57| 0| 12|0|D|Move names MAX LENGTH 12!               |TRICK|TRUC|
@@ -4843,18 +4843,18 @@
 24FABE| 1| 21|0|D|Inventory Pkmn Items                    |Blocks critical hits.|Blokkeert super slagen.|1,24FC34
 24FAD4| 1| 25|0|D|Inventory Pkmn Items                    |Avoids sound-based moves.|Vermijd geluids aanvallen.|1,24FC38
 24FAEE| 1| 24|0|D|Inventory Pkmn Items                    |Negates weather effects.|Doet weer effecten teniet.|1,24FC3C
-3D4ECC| 1| 89|0|I|Inventory flavor text (max 3 lines)     |The best BALL with the ultimate[br]performance. It will catch any wild[br]POKÈMON without fail.|De beste BALL met de ultieme[br]kracht. Het vangt zonder problemen[br]elke wilde POKÈMON.|1,3DB068
-3D4F26| 1| 81|0|I|Inventory flavor text (max 3 lines)     |A very high-grade BALL that offers[br]a higher POKÈMON catch rate than[br]a GREAT BALL.|Een heel erg dure BAL die meer[br]kans geeft om een POKÈMON te[br]vangen dan een GROTE BAL.|1,3DB094
+3D4ECC| 1| 89|0|I|Inventory flavor text (max 3 lines)     |The best BALL with the ultimate[br]performance. It will catch any wild[br]POKÈMON without fail.|De beste BAL met de ultieme[br]kracht. Het vangt zonder problemen[br]elke wilde POKÈMON.|1,3DB068
+3D4F26| 1| 81|0|I|Inventory flavor text (max 3 lines)     |A very high-grade BALL that offers[br]a higher POKÈMON catch rate than[br]a GREAT BALL.|Een heel erg dure BAL die meer[br]kans geeft om een POKÈMON te[br]vangen dan een GROOTSE BAL.|1,3DB094
 3D4F78| 1| 87|0|I|Inventory flavor text (max 3 lines)     |A good, quality BALL that offers[br]a higher POKÈMON catch rate than[br]a standard POKÈ BALL.|Een goede kwaliteits BAL die[br]meer kans geeft POKÈMON te vangen[br]dan een gewone POKÈ BAL.|1,3DB0C0
-3D4FD0| 1| 73|0|I|Inventory flavor text (max 3 lines)     |A BALL thrown to catch a wild[br]POKÈMON. It is designed in a[br]capsule style.|Een BALL die gegooid word om[br]wilde POKÈMON te vangen. Het[br]is ontworpen als een capsule.|1,3DB0EC
-3D501A| 1| 92|0|I|Inventory flavor text (max 3 lines)     |A special BALL that is used only in[br]the SAFARI ZONE. It is finished in[br]a camouflage pattern.|Een speciale BALL die enkel gebruikt[br]word in de SAFARI ZONE. Het heeft[br]een camouflage opdruk.|1,3DB118
-3D5077| 1| 84|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on WATER- and[br]BUG-type POKÈMON.|Een speciale BALL die heel goed[br]werkt op WATER- en BUG-type[br]POKÈMON.|1,3DB144
-3D50CC| 1| 80|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on POKÈMON[br]deep in the sea.|Een speciale BALL die heel goed[br]werkt op POKÈMON die diep in[br]de zee wonen.|1,3DB170
-3D511D| 1| 71|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on weaker[br]POKÈMON.|Een speciale BALL die heel goed[br]werkt op zwakkere POKÈMON.|1,3DB19C
-3D5165| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on POKÈMON[br]caught before.|Een speciale BALL die heel goed[br]werkt op POKÈMON die je al eens[br]eerder gevangen hebt.|1,3DB1C8
-3D51B4| 1| 97|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]becomes progressively better the[br]more turns there are in a battle.|Een speciale BALL die beter werkt[br]hoe meer rondes het gevecht telt.|1,3DB1F4
-3D5216| 1| 76|0|I|Inventory flavor text (max 3 lines)     |A comfortable BALL that makes a[br]captured wild POKÈMON quickly grow[br]friendly.|Een comfortabele BALL die gevangen[br]POKÈMON sneller vriendelijk maken[br]tegenover de TRAINER.|1,3DB220
-3D5263| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A rare BALL that has been[br]specially made to commemorate an[br]event of some sort.|Een zeldzame BALL gemaakt voor[br]een speciale gelegenheid of[br]iets gelijkaardig.|1,3DB24C
+3D4FD0| 1| 73|0|I|Inventory flavor text (max 3 lines)     |A BALL thrown to catch a wild[br]POKÈMON. It is designed in a[br]capsule style.|Een BAL die gegooid word om[br]wilde POKÈMON te vangen. Het[br]is ontworpen als een capsule.|1,3DB0EC
+3D501A| 1| 92|0|I|Inventory flavor text (max 3 lines)     |A special BALL that is used only in[br]the SAFARI ZONE. It is finished in[br]a camouflage pattern.|Een speciale BAL die enkel gebruikt[br]word in de SAFARI ZONE. Het heeft[br]een camouflage opdruk.|1,3DB118
+3D5077| 1| 84|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on WATER- and[br]BUG-type POKÈMON.|Een speciale BAL die heel goed[br]werkt op WATER- en BUG-type[br]POKÈMON.|1,3DB144
+3D50CC| 1| 80|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on POKÈMON[br]deep in the sea.|Een speciale BAL die heel goed[br]werkt op POKÈMON die diep in[br]de zee wonen.|1,3DB170
+3D511D| 1| 71|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on weaker[br]POKÈMON.|Een speciale BAL die heel goed[br]werkt op zwakkere POKÈMON.|1,3DB19C
+3D5165| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]works especially well on POKÈMON[br]caught before.|Een speciale BAL die heel goed[br]werkt op POKÈMON die je al eens[br]eerder gevangen hebt.|1,3DB1C8
+3D51B4| 1| 97|0|I|Inventory flavor text (max 3 lines)     |A somewhat different BALL that[br]becomes progressively better the[br]more turns there are in a battle.|Een speciale BAL die beter werkt[br]hoe meer rondes het gevecht telt.|1,3DB1F4
+3D5216| 1| 76|0|I|Inventory flavor text (max 3 lines)     |A comfortable BALL that makes a[br]captured wild POKÈMON quickly grow[br]friendly.|Een comfortabele BAL die gevangen[br]POKÈMON sneller vriendelijk maken[br]tegenover de TRAINER.|1,3DB220
+3D5263| 1| 78|0|I|Inventory flavor text (max 3 lines)     |A rare BALL that has been[br]specially made to commemorate an[br]event of some sort.|Een zeldzame BAL gemaakt voor[br]een speciale gelegenheid of[br]iets gelijkaardig.|1,3DB24C
 3D52B2| 1| 76|0|I|Inventory flavor text (max 3 lines)     |A spray-type wound medicine.[br]It restores the HP of one POKÈMON[br]by 20 points.|Een spuitbus medicijn.[br]Het herstelt de HP van een POKÈMON[br]met 20 punten.|1,3DB278
 3D52FF| 1| 61|0|I|Inventory flavor text (max 3 lines)     |A spray-type medicine.[br]It heals one POKÈMON from a[br]poisoning.|Een spuitbus medicijn.[br]Het geneest een vergiftigde[br]POKÈMON.|1,3DB2A4
 3D533D| 1| 54|0|I|Inventory flavor text (max 3 lines)     |A spray-type medicine.[br]It heals one POKÈMON of a burn.|Een spuitbus medicijn.[br]Het geneest de brandwonde[br]van een POKÈMON|1,3DB2D0
@@ -4921,7 +4921,7 @@
 3D648D| 1| 84|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It is colored orange.|Een speciale steen die een bepaalde[br]soort POKÈMON doet evolueren.[br]Het is oranje gekleurd.|1,3DC090
 3D64E2| 1| 92|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It has a thunderbolt pattern.|Een speciale steen die een bepaalde[br]soort POKÈMON doet evolueren.[br]Er staat een bliksemschicht op.|1,3DC0BC
 3D653F| 1| 88|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It is a clear light blue.|Een speciale steen die een bepaalde[br]soort POKÈMON doet evolueren.[br]Het is helder lichtblauw.|1,3DC0E8
-3D6598| 1| 85|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It has a leaf pattern.|Een speciale steen die een bepaalde[br]soort POKÈMON doet evolueren.[br]Er staan bladeren op getekend.|1,3DC114
+3D6598| 1| 85|0|I|Inventory flavor text (max 3 lines)     |A peculiar stone that makes certain[br]species of POKÈMON evolve.[br]It has a leaf pattern.|Een speciale steen die een bepaalde[br]soort POKÈMON doet evolueren.[br]Er staat een blad op getekend.|1,3DC114
 3D65EE| 1| 68|0|I|Inventory flavor text (max 3 lines)     |A small and rare mushroom.[br]It is quite popular among certain[br]people.|Een kleine zeldzame paddestoel.[br]Erg populair bij sommige mensen.|1,3DC1F0
 3D6633| 1| 67|0|I|Inventory flavor text (max 3 lines)     |A large and rare mushroom.[br]It is very popular among certain[br]people.|Een grote zeldzame paddestoel.[br]Erg populair bij sommige mensen.|1,3DC21C
 3D6677| 1| 88|0|I|Inventory flavor text (max 3 lines)     |A relatively small pearl that[br]sparkles in a pretty silver color.[br]It can be sold cheaply.|Een relatief kleine parel die[br]mooi blinkt als zilver. Het kan voor[br]weinig geld verkocht worden.|1,3DC274
@@ -5096,7 +5096,7 @@
 3DAFD6| 1| 73|0|I|Inventory flavor text (max 3 lines)     |An exquisitely beautiful gem that[br]has a blue glow.[br]It symbolizes honesty.|Een fabuleus mooie diamant met[br]een blauwe gloed.[br]Het vertegenwoordigt eerlijkheid.|1,3DF084
 3DB054| 0| 12|0|D|Item names MAX LENGTH 12!               |MASTER BALL|MEESTER BAL|
 3DB080| 0| 12|0|D|Item names MAX LENGTH 12!               |ULTRA BALL|ULTRA BAL|
-3DB0AC| 0| 12|0|D|Item names MAX LENGTH 12!               |GREAT BALL|GROTE BAL|
+3DB0AC| 0| 12|0|D|Item names MAX LENGTH 12!               |GREAT BALL|GROOTSE BAL|
 3DB0D8| 0| 12|0|D|Item names MAX LENGTH 12!               |POKÈ BALL|POKÈ BAL|
 3DB104| 0| 12|0|D|Item names MAX LENGTH 12!               |SAFARI BALL|SAFARI BAL|
 3DB130| 0| 12|0|D|Item names MAX LENGTH 12!               |NET BALL|NET BAL|
@@ -5110,7 +5110,7 @@
 3DB290| 0| 12|0|D|Item names MAX LENGTH 12!               |ANTIDOTE|ANTIGIF|
 3DB2BC| 0| 12|0|D|Item names MAX LENGTH 12!               |BURN HEAL|BRAND GENEES|
 3DB2E8| 0| 12|0|D|Item names MAX LENGTH 12!               |ICE HEAL|IJS GENEES|
-3DB314| 0| 12|0|D|Item names MAX LENGTH 12!               |AWAKENING|WAKKERDRANK|
+3DB314| 0| 12|0|D|Item names MAX LENGTH 12!               |AWAKENING|MAAKWAKKER|
 3DB340| 0| 12|0|D|Item names MAX LENGTH 12!               |PARLYZ HEAL|VERLAMGENEES|
 3DB36C| 0| 12|0|D|Item names MAX LENGTH 12!               |FULL RESTORE|VOL HERSTEL|
 3DB398| 0| 12|0|D|Item names MAX LENGTH 12!               |MAX POTION|MAX DRANK|
@@ -7024,7 +7024,7 @@
 3FE6FA| 1| 25|0|D|Evolving                                |What will the[br]old man do?|Wat gaat de[br]oude man doen?|1,0EA784
 3FE714| 1| 16|0|D|Evolving                                |[pausTim]åLink standby[...]|[pausTim]åLink klaar[...]|1,030B8C
 3FE725| 3| 33|0|D|                                        |[FC]»»[clrTH]“”‘FIGHT[FC]€[x38]BAG[br]POKÈMON[FC]€[x38]RUN|[FC]»»[clrTH]“”‘VECHT[FC]€[x38]ZAK[br]POKÈMON[FC]€[x38]LOOP|1,032C38;1,0EA760;1,158BCC
-3FE747| 1| 30|0|D|                                        |[FC]»»[clrTH]“”‘BALL[FC]€[x38]BAIT[br]ROCK[FC]€[x38]RUN|[FC]»»[clrTH]“”‘BALL[FC]€[x38]AAS[br]STEEN[FC]€[x38]LOOP|1,0DDCDC
+3FE747| 1| 30|0|D|                                        |[FC]»»[clrTH]“”‘BALL[FC]€[x38]BAIT[br]ROCK[FC]€[x38]RUN|[FC]»»[clrTH]“”‘BAL[FC]€[x38]AAS[br]STEEN[FC]€[x38]LOOP|1,0DDCDC
 3FE766| 1|  3|0|D|                                        |PP ||1,0308C8
 3FE76A| 1|  5|0|D|                                        |TYPE/||1,0309B8
 3FE770| 2|  8|0|D|                                        |[FC]»»[clrTH]“”‘||1,0308A0;1,0309BC
@@ -7233,7 +7233,7 @@
 416716| 1| 33|0|D|                                        |The BERRY POUCH will be[br]put away.|De BESSENZAK wordt[br]opgeborgen.|1,13D590
 416738| 1|  3|0|D|POKE MART                               |BUY|Koop|1,3DF09C
 41673C| 1|  4|0|D|POKE MART                               |SELL|Verkoop|1,3DF0A4
-416741| 1|  7|0|D|POKE MART                               |SEE YA!|Daag!|1,3DF0AC
+416741| 1|  7|0|D|POKE MART                               |SEE YA!|Tot later!|1,3DF0AC
 416749| 1| 13|0|D|POKE MART                               |IN BAG:[smllat] [var1]|IN ZAK:[smllat] [var1]|1,09BD4C
 416757| 1| 14|0|D|POKE MART                               |Quit shopping.|Stop winkelen.|1,09B384
 416766| 1| 39|0|D|POKE MART                               |[var1]? Certainly.[br]How many would you like?|[var1]? Zeker, hoeveel[br]zou je er willen?|1,09BC98
@@ -7350,7 +7350,7 @@
 417457| 1| 60|0|D|Oak's Lab                               |OAK: It's important to get to know[br]your POKÈMON thoroughly.[nb2]|OAK: Je moet je POKÈMON [br]grondig leren kennen.[nb2]|1,12210C
 417494| 1|158|0|D|Oak's Lab                               |This is a list of your POKÈMON,[br][PLAYER].[nb2]Open this to check the skills[br]and moves of your POKÈMON.[nb2]You also choose POKÈMON here if[br]you want to use an item on one.[pausBtn]|Hier is een lijst van je POKÈMON,[br][PLAYER].[nb2]Open dit om de vaardigheden[br]van je POKÈMON te zien.[nb2]Je kan hier ook een POKÈMON kiezen[br]om een item op te gebruiken.[pausBtn]|1,120DD8
 417533| 1| 20|0|D|                                        |Cut a tree or grass.|Kap een boom of gras.|1,45A380
-417548| 1| 20|0|D|                                        |Fly to a known town.|Vlieg naar een gekende stad.|1,45A384
+417548| 1| 20|0|D|                                        |Fly to a known town.|Vlieg naar gekende stad.|1,45A384
 41755D| 1| 16|0|D|                                        |Travel on water.||1,45A38C
 41756E| 1| 20|0|D|                                        |Move heavy boulders.||1,45A388
 417583| 1| 18|0|D|                                        |Light up darkness.||1,45A37C
@@ -8298,7 +8298,7 @@
 446C23| 1|103|0|I|PokÈmon flavor text                     |It can gallop at a top speed of 150[br]miles per hour. It can race as fast as a[br]bullet train while ablaze.||1,44F358
 446C8C| 1|119|0|I|PokÈmon flavor text                     |It is always vacantly lost in thought, but[br]no one knows what it is thinking about.[br]It is good at fishing with its tail.||1,44F37C
 446D05| 1|109|0|I|PokÈmon flavor text                     |When a SLOWPOKE went hunting in the sea,[br]its tail was bitten by a SHELLDER. That[br]made it evolve into SLOWBRO.||1,44F3A0
-446D74| 1|101|0|I|PokÈmon flavor text                     |It moves while constantly hovering.[br]It discharges THUNDER WAVE and so on[br]from the units at its sides.||1,44F3C4
+446D74| 1|101|0|I|PokÈmon flavor text                     |It moves while constantly hovering.[br]It discharges THUNDER WAVE and so on[br]from the units at its sides.|Zweeft continu rond.[br]Vuurt af en toe een DONDERGOLF af[br]van de units aan zijn zijkant.|1,44F3C4
 446DDB| 1|100|0|I|PokÈmon flavor text                     |A linked cluster formed of several[br]MAGNEMITE. It discharges powerful[br]magnetic waves at high voltage.||1,44F3E8
 446E41| 1|102|0|I|PokÈmon flavor text                     |It always walks about with a plant stalk[br]clamped in its beak. The stalk is used for[br]building its nest.||1,44F40C
 446EA9| 1|107|0|I|PokÈmon flavor text                     |A two-headed POKÈMON that was discovered[br]as a sudden mutation. It runs at a pace[br]of over 60 miles per hour.||1,44F430
@@ -8955,7 +8955,7 @@
 484123| 1| 65|0|I|Move Desc. (4 half lines)               |The user meditates[br]to awaken its power[br]and raise its[br]ATTACK stat.|Meditatie om de[br]AANVAL te verhogen.|1,488864
 484165| 1| 66|0|I|Move Desc. (4 half lines)               |The user relaxes[br]and lightens its[br]body to sharply[br]boost its SPEED.|De gebruiker[br]kalmeert en maakt[br]zichzelf lichter voor[br]veel meer RAPHEID.|1,488868
 4841A8| 1| 64|0|I|Move Desc. (4 half lines)               |An almost invisibly[br]fast attack that[br]is certain to strike[br]first.|Bijna onzichtbare[br]aanval die zeker[br]als eerste toeslaat.|1,48886C
-4841E9| 1| 68|0|I|Move Desc. (4 half lines)               |An attack that[br]becomes stronger[br]each time the user[br]is hit in battle.|Aanval die sterker[br]wordt elke keer dat[br]de gebruiker geraakt[br]wordt in het gevecht.|1,488870
+4841E9| 1| 68|0|I|Move Desc. (4 half lines)               |An attack that[br]becomes stronger[br]each time the user[br]is hit in battle.|Aanval die sterker[br]wordt elke keer de[br]gebruiker geraakt[br]is in het gevecht.|1,488870
 48422E| 1| 73|0|I|Move Desc. (4 half lines)               |Use it to flee from[br]any wild POKÈMON.[br]Also warps to the[br]last POKÈ CENTER.|Vlucht weg van een[br]wilde POKÈMON.[br]Keert ook terug naar[br]vorig POKÈ CENTER.|1,488874
 484278| 1| 71|0|I|Move Desc. (4 half lines)               |An attack with a[br]mirage that inflicts[br]damage matching[br]the user's level.|Aanval met een[br]illusie. Schade is[br]afhankelijk van de[br]gebruiker zijn level.|1,488878
 4842C0| 1| 73|0|I|Move Desc. (4 half lines)               |The user copies the[br]move last used by[br]the foe for the[br]rest of the battle.|Kopieert de laatst[br]gebruikte actie van[br]de vijand voor de[br]rest van het gevecht.|1,48887C
@@ -9065,7 +9065,7 @@
 485EE1| 1| 66|0|I|Move Desc. (4 half lines)               |A restrained attack[br]that always leaves[br]the foe with at[br]least 1 HP.|Ingehouden aanval[br]die de vijand met[br]zeker 1 HP over[br]laat.|1,488A1C
 485F24| 1| 71|0|I|Move Desc. (4 half lines)               |A move that makes[br]the foe confused,[br]but also sharply[br]raises its ATTACK.|Maakt de vijand[br]verward, maar[br]verhoogt ook zijn[br]AANVAL heel erg.|1,488A20
 485F6C| 1| 73|0|I|Move Desc. (4 half lines)               |Heals the user by[br]up to half its full[br]HP. It can be used[br]to heal an ally.|Geneest tot de helft[br]van de HP. Kan[br]gebruikt worden op[br]een teamgenoot.|1,488A24
-485FB6| 1| 62|0|I|Move Desc. (4 half lines)               |An electrically[br]charged tackle that[br]may also paralyze[br]the foe.|Electrische lichaams-[br]aanval die de vijand[br]kan verlammen.|1,488A28
+485FB6| 1| 62|0|I|Move Desc. (4 half lines)               |An electrically[br]charged tackle that[br]may also paralyze[br]the foe.|Electrische[br]lichaamsaanval[br]die de vijand kan[br]verlammen.|1,488A28
 485FF5| 1| 53|0|I|Move Desc. (4 half lines)               |An attack that[br]grows stronger on[br]each successive[br]hit.|Deze aanval word[br]sterker elke keer[br]hij achtereenvolgend[br]raakt.|1,488A2C
 48602B| 2| 73|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]wings of steel.[br]It may also raise[br]the user's DEFENSE.|Raakt de vijand met[br]stalen vleugls.[br]Kan de gebruiker's[br]AFWEER verhogen.|1,3DE9D0;1,488A30
 486075| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is fixed[br]with a mean look[br]that prevents it[br]from escaping.|Een gemene blik[br]die voorkomt dat[br]de vijand ontsnapt.|1,488A34
