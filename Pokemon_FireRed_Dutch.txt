@@ -447,7 +447,7 @@
 1778DD| 1| 87|0|D|Safari Zone Area 2                      |TRAINER TIPS[nb2]POKÈMON hide in tall grass.[nb2]Zigzag through grassy areas to[br]flush them out.|TRAINER TIPS[nb2]POKÈMON verbergen zich in het[br]hoge gras.[nb2]Zigzag doorhet gras om ze[br]te vinden.|1,1623B6
 177935| 1| 56|0|D|Safari Zone Area 2                      |TRAINER TIPS[nb2]Win a free HM for finding the[br]SECRET HOUSE.|TRAINER TIPS[nb2]Win een HM als je het[br]GEHEIME HUIS kan vinden.|1,1623BF
 17796E| 1| 10|0|D|Safari Zone Area 3                      |REST HOUSE|RUST HUIS|1,1623C9
-177979| 1|126|0|D|Safari Zone Area 3                      |REQUEST NOTICE[nb2]Please find the SAFARI WARDEN's[br]lost GOLD TEETH.[nb]They're around here somewhere.[nb2]Reward offered![br]Contact: WARDEN|AANDACHT[nb2]De SAFARI BEHEERDER is zijn[br]VALS GEBIT kwijt.[nb]Ze liggen hier ergens in de buurt.[nb2]Er is een beloning![br]Contact: BEHEERDER|1,1623D2
+177979| 1|126|0|D|Safari Zone Area 3                      |REQUEST NOTICE[nb2]Please find the SAFARI WARDEN's[br]lost GOLD TEETH.[nb]They're around here somewhere.[nb2]Reward offered![br]Contact: WARDEN|AANDACHT[nb2]De SAFARI BEHEERDER is zijn[br]VALS GEBIT kwijt.[nb]Het ligt hier ergens in de buurt.[nb2]Er is een beloning![br]Contact: BEHEERDER|1,1623D2
 1779F8| 1| 72|0|D|Safari Zone Area 3                      |TRAINER TIPS[nb2]Zone Exploration Campaign![br]The Search for the SECRET HOUSE!|TRAINER TIPS[nb2]Promotie actie![br]De zoektocht naar het GEHEIME HUIS!|1,1623DB
 177A41| 1| 24|0|D|Safari Zone Area 3                      |AREA 3[br]EAST: CENTER AREA|ZONE 3[br]OOST: CENTRALE ZONE|1,1623E4
 177A5A| 1| 39|0|D|Central Area Rest House                 |SARA: Where did my boyfriend,[br]ERIK, go?|SARA: Waar is ERIK, mijn vriendje,[br]nu naartoe?|1,1623EE
@@ -458,7 +458,7 @@
 177B38| 1|114|0|D|Area 2 Rest House                       |You can keep any item you find in[br]the SAFARI ZONE.[nb2]But, you'll run out of time if you[br]try for all of them at once.|Je kan alle items houden die je[br]vind in de SAFARI ZONE.[nb2]Maar je gaat zonder tijd komen als[br]je ze allemaal probeert op te rapen.|1,162426
 177BAB| 1| 64|0|D|Area 2 Rest House                       |Go to the deepest part of the[br]SAFARI ZONE. You will win a prize!|Als je aan het verste punt in de[br]SAFARI ZONE geraakt win je een prijs!|1,16241D
 177BEC| 1| 90|0|D|Area 2 Rest House                       |My EEVEE evolved into FLAREON.[nb2]But, a friend's EEVEE turned into a[br]VAPOREON. I wonder why?|Mijn EEVEE evolueerde in een FLAREON.[nb2]Maar de EEVEE van mijn vriend[br]evolueerde in een VAPOREON.[nb]Ik vraag me af waarom?|1,16242F
-177C47| 1|163|0|D|Area 2 Rest House                       |The SAFARI ZONE's huge, wouldn't[br]you say?[nb2]FUCHSIA's GYM LEADER, KOGA, [br]patrols the grounds every so often.[nb2]Thanks to him, we can play here[br]knowing that we're safe.|De SAFARI ZONE is erg groot hÈ?[nb2]De GYM LEIDER van FUCHSIA, KOGA[br]doet hier af en toe zijn ronde.[nb2]Dankzij hem kunnen we hier spelen[br]met de wetenschap dat alles veilig is.|1,1ACEE4
+177C47| 1|163|0|D|Area 2 Rest House                       |The SAFARI ZONE's huge, wouldn't[br]you say?[nb2]FUCHSIA's GYM LEADER, KOGA, [br]patrols the grounds every so often.[nb2]Thanks to him, we can play here[br]knowing that we're safe.|De SAFARI ZONE is erg groot hÈ?[nb2]De GYM LEIDER van FUCHSIA, KOGA[br]doet hier af en toe zijn ronde.[nb2]Dankzij hem kunnen we hier[br]spelen en is alles veilig.|1,1ACEE4
 177CEB| 1| 77|0|D|Safari Zone Area 3                      |Tossing ROCKS at POKÈMON might[br]make them run, but they'll be[nb]easier to catch.|STENEN gooien naar POKÈMON[br]doet ze weglopen, maar ze zijn[nb]gemakkelijker te vangen.|1,162442
 177D39| 1| 81|0|D|Safari Zone Area 3                      |Using BAIT will make POKÈMON more[br]likely to stick around if they get[nb]busy eating.|Als je AAS gebruikt blijven POKÈMON[br]langer in de buurt om het AAS op[nb]te eten.|1,162439
 177D8B| 1| 53|0|D|Safari Zone Area 3                      |I hiked a lot, but I didn't see any[br]POKÈMON I wanted.|Ik heb veel rond gewandeld, maar ik[br]heb geen POKÈMON gezien die ik wou.|1,16244B
@@ -906,7 +906,7 @@
 180484| 1| 63|0|D|Celadon City                            |So, who's the POKÈMON that gets[br]the chance to learn SOFTBOILED?|Dus, welke POKÈMON gaat de[br]kans krijgen om ZACHTGEKOOKT te[nb]leren?|1,1C4AB6
 1804C4| 1| 28|0|D|Celadon City                            |I wish you the best of luck!|Ik wens je veel geluk!|1,1C4AE6
 1804E1| 1|140|0|D|Celadon City                            |Oh, what am I to do[...][nb2]Someone stole our SILPH SCOPE.[nb2]The thief came running this way,[br]I'm sure of it.[nb2]But I lost sight of him![br]Where'd he go?|Wat moet ik toch doen[...][nb2]Iemand heeft onze SILPH KIJKER[br]gestolen.[nb2]De dief kwam van hier, ik ben[br]er zeker van.[nb2]Maar ik ben hem kwijt geraakt![br]Waar is hij toch?|1,166D17
-18056E| 1| 87|0|D|Fuchsia City                            |Did you try the SAFARI GAME?[nb2]There are some rare POKÈMON that[br]can only be caught there.|Heb je het SAFARI SPEL gespeeld?[nb2]Er zijn enkel zeldzame POKÈMON die[br]enkel daar gevangen kunnen worden.|1,166D9F
+18056E| 1| 87|0|D|Fuchsia City                            |Did you try the SAFARI GAME?[nb2]There are some rare POKÈMON that[br]can only be caught there.|Heb je het SAFARI SPEL gespeeld?[nb2]Er zijn enkele zeldzame POKÈMON die[br]enkel daar gevangen kunnen worden.|1,166D9F
 1805C6| 1|101|0|D|Fuchsia City                            |The SAFARI ZONE has a zoo in front[br]of the entrance.[nb2]Out back is the SAFARI GAME for[br]catching POKÈMON.|De SAFARI ZONE heeft een zoo[br]voor de ingang.[nb2]Achteraan is het SAFARI SPEL[br]om POKÈMON te vangen.|1,166DA8
 18062C| 1| 45|0|D|Fuchsia City                            |ERIK: Where's SARA?[br]I said I'd meet her here.|ERIK: Waar is SARA?[br]Ik had hier afgesproken.|1,166DB1
 18065A| 1| 80|0|D|Fuchsia City                            |That item ball in there[...][br]Were you wanting that?[nb2]Me, too![br][...]Huh? That's a POKÈMON?|Die item bal daar[...][br]Wou je die hebben?[nb2]Ik ook![br][...]Huh? Dat is een POKÈMON?|1,166DBA
@@ -2460,7 +2460,7 @@
 19809E| 1| 29|0|D|Safari Zone Entrance                    |Sorry, you're a regular here!|Ah, dan heb je de uitleg al gehad.|1,16D4CE
 1980BC| 1|119|0|D|Fuchsia Mart                            |Don't they have any pennants[br]promoting the SAFARI ZONE?[nb2]How about some paper lanterns?[br]Aren't there even any calendars?|Hebben ze geen stickers van[br]de SAFARI ZONE?[nb2]Of wat kalenders of postkaarten?|1,16D4EC
 198134| 1| 54|0|D|Fuchsia Mart                            |Did you try X SPEED?[br]It speeds up a POKÈMON in battle.|Heb je X RAPHEID al geprobeerd?[br]Het maak je POKÈMON sneller[nb]in een gevecht.|1,16D4E3
-19816B| 1| 86|0|D|Safari Zone Office                      |We nicknamed the WARDEN[br]´SLOWPOKE.ª[nb2]You know, he has that vacant look[br]like a SLOWPOKE.|We hebben de BEHEERDER de[br]bijnaam  SLOWPOKE  gegeven.[nb2]Omdat hij dezelfde lege blik heeft[br]als een SLOWPOKE.|1,16D52B
+19816B| 1| 86|0|D|Safari Zone Office                      |We nicknamed the WARDEN[br]´SLOWPOKE.ª[nb2]You know, he has that vacant look[br]like a SLOWPOKE.|We hebben de BEHEERDER de[br]bijnaam ´SLOWPOKEª gegeven.[nb2]Omdat hij dezelfde lege blik heeft[br]als een SLOWPOKE.|1,16D52B
 1981C2| 1|103|0|D|Safari Zone Office                      |WARDEN SLOWPOKE is very[br]knowledgeable about POKÈMON.[nb2]He even has some fossils of rare,[br]extinct POKÈMON.|BEHEERDER SLOWPOKE weet[br]heel veel van POKÈMON.[nb2]Hij heeft zelfs enkele fossielen[br]van uitgestorven POKÈMON.|1,16D534
 19822A| 1| 90|0|D|Safari Zone Office                      |WARDEN SLOWPOKE came in, but[br]I couldn't understand him.[nb2]I think he's got a speech problem!|BEHEERDER SLOWPOKE kwam langs[br]maar ik kon hem niet verstaan.[nb2]Ik denk dat hij een spraakprobleem[br]heeft!|1,16D53D
 198285| 1|168|0|D|Safari Zone Office                      |WARDEN SLOWPOKE is running a[br]promotion campaign right now.[nb2]Try to get to the farthest corner[br]of the SAFARI ZONE.[nb2]If you can make it, you'll win a[br]very convenient prize.|BEHEERDER SLOWPOKE is nu bezig[br]met een promotie actie.[nb2]Probeer tot aan de verste hoek[br]van de SAFARI ZONE te komen.[nb2]Als je daar kan komen krijg je[br]een mooie prijs.|1,16D546
@@ -2494,11 +2494,11 @@
 198B4B| 1| 53|0|D|Fuchsia Gym                             |FUCHSIA POKÈMON GYM[br]LEADER: KOGA[nb2]WINNING TRAINERS:[br][RIVAL]|FUCHSIA POKÈMON GYM[br]LEIDER: KOGA[nb2]WINNENDE TRAINERS:[br][RIVAL]|1,16D6B3
 198B81| 1| 57|0|D|Fuchsia Gym                             |FUCHSIA POKÈMON GYM[br]LEADER: KOGA[nb2]WINNING TRAINERS:[br][RIVAL], [PLAYER]|FUCHSIA POKÈMON GYM[br]LEIDER: KOGA[nb2]WINNENDE TRAINERS:[br][RIVAL], [PLAYER]|1,16D6BD
 198BBB| 1| 99|0|D|Fuchsia House 2                         |The SAFARI ZONE's WARDEN is old, [br]but he's still very much active.[nb2]All his teeth are false, though.|De BEHEERDER van de SAFARI ZONE[br]is oud, maar nog steeds erg actief.[nb2]Al zijn tanden zijn wel vals.|1,16D6C8
-198C1F| 1| 91|0|D|Fuchsia House 2                         |Hmm?[br]You've met BILL?[nb2]He's my grandson![nb2]He always liked collecting things,[br]even as a child!|Hm?[br]Je hebt BILL ontmoet?[nb2]Dat is mijn kleinzoon![nb2]Hij vondt het altijd al leuk[br]om dingen te verzamelen.|1,16D6E0
+198C1F| 1| 91|0|D|Fuchsia House 2                         |Hmm?[br]You've met BILL?[nb2]He's my grandson![nb2]He always liked collecting things,[br]even as a child!|Hm?[br]Je hebt BILL ontmoet?[nb2]Dat is mijn kleinzoon![nb2]Hij vond het altijd al leuk[br]om dingen te verzamelen.|1,16D6E0
 198C7B| 1| 59|0|D|Fuchsia House 2                         |BILL files his own POKÈMON data on[br]his PC.[nb2]Did he show you?|BILL steekt al zijn POKÈMON data[br]op zijn PC.[nb2]Heeft hij je dat getoond?|1,16D6EA
 198CB7| 1|118|0|D|Fuchsia Center                          |You can't become a good TRAINER[br]with just one strong POKÈMON.[nb2]But raising many POKÈMON evenly[br]is no easy task, either.|Je kan geen goede TRAINER worden[br]met maar ÈÈn sterke POKÈMON.[nb2]Maar een heleboel POKÈMON tergelijk[br]trainen is ook niet gemakkelijk.|1,16D70B
 198D2E| 1|108|0|D|Fuchsia Center                          |There's a narrow trail west of[br]VIRIDIAN CITY.[nb2]It goes to the POKÈMON LEAGUE HQ.[br]The HQ governs all TRAINERS.|Er is een smal pad ten westen van[br]VIRIDIAN STAD.[nb2]Het gaat naar het[br]POKÈMON LEAGUE HQ.[nb2]Het HQ overziet alle TRAINERS.|1,16D714
-198D9B| 1| 93|0|D|Fuchsia Center                          |If you're working on a POKÈDEX,[br]visit the SAFARI ZONE.[nb2]All sorts of rare POKÈMON breed[br]there.|Bezoek zeker de SAFARI ZONE[br]als je bezig bent een POKÈDEX.[nb2]Daar leven allerlei zeldzame[br]POKÈMON.|1,16D71D
+198D9B| 1| 93|0|D|Fuchsia Center                          |If you're working on a POKÈDEX,[br]visit the SAFARI ZONE.[nb2]All sorts of rare POKÈMON breed[br]there.|Bezoek zeker de SAFARI ZONE als[br]je bezig bent met een POKÈDEX.[nb2]Daar leven allerlei zeldzame[br]POKÈMON.|1,16D71D
 198DF9| 1| 69|0|D|Warden's House                          |WARDEN: Hif fuff hefifoo![nb2]Ha lof ha feef ee hafahi ho.[br]Heff hee fwee!|BEHEERDER: Hif fuff hefifoo![nb2]Ha lof ha feef ee hafahi ho.[br]Heff hee fwee!|1,16D762
 198E3F| 1| 35|0|D|Warden's House                          |Ah howhee ho hoo![br]Eef ee hafahi ho!|Ah howhee ho hoo![br]Eef ee hafahi ho!|1,16D7EA
 198E63| 1| 32|0|D|Warden's House                          |Ha?[br]He ohay heh ha hoo ee haheh!|Ha?[br]He ohay heh ha hoo ee haheh!|1,16D7F3
@@ -2513,7 +2513,7 @@
 19918E| 1|120|0|D|Fuchsia House 3                         |I'm the FISHING GURU's older[br]brother.[nb2]I simply looove fishing![br]I can't bear to go without.[nb2]Tell me, do you like to fish?|Ik ben de oudere broer van de[br]FISHING GURU.[nb2]Ik ben verzot op vissen![br]Ik ga elke dag gaan vissen.[nb2]Vertel eens, hou jij van vissen?|1,16D824
 199207| 1| 86|0|D|Fuchsia House 3                         |Grand! I like your style.[br]I think we can be friends.[nb2]Take this and fish, young friend!|Goed! Ik hou van je enthousiasme.[br]Ik denk dat we dikke vrienden[nb]kunnen worden.[nb2]Neem dit, en ga maar vissen vriend!|1,16D84B
 19925E| 1| 55|0|D|Fuchsia House 3                         |[PLAYER] received a GOOD ROD from[br]the FISHING GURU's brother.|[PLAYER] heeft een GOEDE HENGEL[br]gekregen van de broer van de[nb]VIS EXPERT.|1,16D868
-199296| 1|160|0|D|Fuchsia House 3                         |Fishing is a way of life![br]It is like the finest poetry.[nb2]A crummy OLD ROD could only catch[br]MAGIKARP, yes?[nb2]But with a GOOD ROD, you can[br]catch much better POKÈMON.|Vissen is een manier van leven![br]Het is als verfijnde poÎzie.[nb2]Een krakemikkige OUDE HENGEL kan[br]enkel maar magikarp vangen he?[nb2]Maar met een HOEDE HENGEL kan je[br]veel betere POKÈMON vangen.|1,16D87F
+199296| 1|160|0|D|Fuchsia House 3                         |Fishing is a way of life![br]It is like the finest poetry.[nb2]A crummy OLD ROD could only catch[br]MAGIKARP, yes?[nb2]But with a GOOD ROD, you can[br]catch much better POKÈMON.|Vissen is een manier van leven![br]Het is als verfijnde poÎzie.[nb2]Een krakemikkige OUDE HENGEL kan[br]enkel maar magikarp vangen he?[nb2]Maar met een GOEDE HENGEL kan je[br]veel betere POKÈMON vangen.|1,16D87F
 199337| 1| 28|0|D|Fuchsia House 3                         |Oh[...][br]That's so disappointing[...]|O[...][br]Dat is zo teleurstellend[...]|1,16D837
 199354| 1| 41|0|D|Fuchsia House 3                         |Hello there, [PLAYER]![nb2]How are the fish biting?|Hallo daar, [PLAYER]![nb2]Bijten de vissen een beetje?|1,16D841
 19937E| 1| 58|0|D|Fuchsia House 3                         |Oh, no![nb2]I had a gift for you, but you have[br]no room for it!|O, nee![nb2]Ik had een gift voor jou, maar je[br]hebt er geen plaats voor!|1,16D88C
@@ -6904,7 +6904,7 @@
 3FD186| 1| 49|0|D|Battle 11                               |[FD1C] [FD1D] is[br]about to use [PLAYER].[nb2]Will [FD23] change[br]POKÈMON?|[FD1C] [FD1D] gaat[br][PLAYER] gebruiken.[nb2]Gaat [FD23] van POKÈMON[br]veranderen?|1,3FE374
 3FD1B8| 1| 14|0|D|Battle 11                               |[FD0F] learned[br][FD00]!|[FD0F] leerde[br][FD00]!|1,3FDF64
 3FD1C7| 2| 23|0|D|Battle 11                               |Player defeated[br][FD1C] [FD1D]![nb2]|Speler versloeg[br][FD1C] [FD1D]![nb2]|1,0D776C;1,3FE410
-3FD1DF| 1| 26|0|D|Battle 12                               |[FD23] threw a ROCK[br]at the [RIVAL]!|[FD23] gooide een ROTS[br]naar de [RIVAL]!|1,3FE378
+3FD1DF| 1| 26|0|D|Battle 12                               |[FD23] threw a ROCK[br]at the [RIVAL]!|[FD23] gooide een STEEN[br]naar de [RIVAL]!|1,3FE378
 3FD1FA| 1| 29|0|D|Battle 12                               |[FD23] threw some BAIT[br]at the [RIVAL]!|[FD23] gooide wat AAS[br]naar de [RIVAL]!|1,3FE37C
 3FD218| 1| 25|0|D|Battle 12                               |[RIVAL] is watching[br]carefully!|[RIVAL] kijkt[br]aandachtig!|1,3FE380
 3FD232| 1| 12|0|D|Battle 12                               |[RIVAL] is angry!|[RIVAL] is boos!|1,3FE384
@@ -7187,8 +7187,8 @@
 416291| 1|  4|0|D|                                        |SAVE|BEWAAR|1,3A7364
 416296| 1|  6|0|D|                                        |OPTION|OPTIES|1,3A736C
 41629D| 1|  4|0|D|                                        |EXIT|SLUITEN|1,3A7374
-4162A2| 1|  6|0|D|                                        |RETIRE|AFTREDEN|1,3A737C
-4162A9| 1| 15|0|D|                                        |[var1]/[var2][br]BALLS  [var3]||1,06EF14
+4162A2| 1|  6|0|D|                                        |RETIRE|STOP|1,3A737C
+4162A9| 1| 15|0|D|                                        |[var1]/[var2][br]BALLS  [var3]|[var1]/[var2][br]BALLEN [var3]|1,06EF14
 4162BD| 1|  6|0|D|                                        | BERRY| BES|1,099EB4
 4162C4| 2|  8|0|D|                                        |[var1] COINS|[var1] MUNTEN|1,0D0670;1,0D0724
 4162CD| 1|  5|0|D|                                        |ITEMS||1,452CFC
@@ -8066,7 +8066,7 @@
 41D124| 1| 23|0|D|                                        |Pressing-Speed Rankings||1,14EA04
 41D13C| 1| 10|0|D|                                        |[var1] PLAYERS|[var1] SPELERS|1,14EA10
 41D148| 3|  5|0|D|                                        |GHOST||1,044940;1,07F864;1,07F994
-41D14E| 1| 26|0|D|                                        |A POKÈMON's on the hook![pausBtn]||1,05D6C4
+41D14E| 1| 26|0|D|                                        |A POKÈMON's on the hook![pausBtn]|Een POKÈMON hangt aan de haak![pausBtn]|1,05D6C4
 41D169| 1| 20|0|D|                                        |Not even a nibble[...][pausBtn]|Zelfs geen hapje[...][pausBtn]|1,05D834
 41D17E| 1| 14|0|D|                                        |It got away[...][pausBtn]||1,05D8A8
 41D18D| 1|  7|0|D|                                        |ROOFTOP||1,0984A0
