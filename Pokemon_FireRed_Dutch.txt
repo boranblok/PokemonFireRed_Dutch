@@ -284,7 +284,7 @@
 175A62| 1| 45|0|D|Silph Co. 4F                            |Fwahahaha![br]My BOSS has been after this place!|Hahahaha![br]Mijn BAAS was al lang op zoek naar[nb]deze plaats!|1,1617A0
 175A90| 1| 31|0|D|Silph Co. 4F                            |My POKÈMON is my loyal servant.|Mijn POKÈMON is mijn trouwe dienaar.|1,16177F
 175AB0| 1| 23|0|D|Silph Co. 4F                            |Darn![br]You weak POKÈMON!|Verdomme![br]Zwakke POKÈMON!|1,161783
-175AC8| 1| 80|0|D|Silph Co. 4F                            |The doors are electronically[br]locked.[nb2]It takes a CARD KEY to open the[br]doors here.|De deuren zijn electronisch[br]gesloten.[nb2]Je hebt een SLEUTELKAART nodig om[br]ze te openen.|1,161789
+175AC8| 1| 80|0|D|Silph Co. 4F                            |The doors are electronically[br]locked.[nb2]It takes a CARD KEY to open the[br]doors here.|De deuren zijn elektronisch[br]gesloten.[nb2]Je hebt een SLEUTELKAART nodig om[br]ze te openen.|1,161789
 175B19| 1| 17|0|D|Silph Co. 4F                            |Intruder spotted!|Indringer gezien!|1,1617AD
 175B2B| 1| 12|0|D|Silph Co. 4F                            |Who are you?|Wie ben jij?|1,1617B1
 175B38| 1| 30|0|D|Silph Co. 4F                            |I better tell the BOSS on 11F!|Ik zeg het beter tegen de BAAS op[br]het 11e!|1,1617B7
@@ -1139,7 +1139,7 @@
 1845D0| 2| 33|0|D|Route 8                                 |ELI: But[...][br]We used our twin power[...]|ELI: Maar[...] We hebben[br]onze tweelingkracht gebruikt[...]|1,1AA353;1,1AA37E
 1845F2| 2| 35|0|D|Route 8                                 |ELI: I caught my POKÈMON with[br]ANNE!|ELI: Ik ving mijn POKÈMON samen[br]met ANNE!|1,1AA36D;1,1AA388
 184616| 2| 51|0|D|Route 8                                 |ELI: We can't battle if you don't[br]have two POKÈMON.|ELI: We kunnen niet vechten als[br]je geen twee POKÈMON bij je hebt.|1,1AA357;1,1AA382
-18464A| 1| 42|0|D|Route 8                                 |ANNE: We'll shock you with our twin[br]power!|ANNE: We gaan je electrocuteren met[br]onze tweelingkracht!|1,1AA395
+18464A| 1| 42|0|D|Route 8                                 |ANNE: We'll shock you with our twin[br]power!|ANNE: We gaan je elektrocuteren met[br]onze tweelingkracht!|1,1AA395
 184675| 2| 21|0|D|Route 8                                 |ANNE: Our twin power[...]|ANNE: Onze tweelingkracht[...]|1,1AA399;1,1AA3C4
 18468B| 2| 35|0|D|Route 8                                 |ANNE: I'm raising POKÈMON with[br]ELI.|ANNE: Ik train POKÈMON samen[br]met ELI.|1,1AA3B3;1,1AA3CE
 1846AF| 2| 50|0|D|Route 8                                 |ANNE: Hi, hi! Let's battle![br]But bring two POKÈMON.|ANNE: Hallo! Laten we vechten![br]Maar breng twee POKÈMON.|1,1AA39D;1,1AA3C8
@@ -1231,7 +1231,7 @@
 185308| 1| 14|0|D|Route 11                                |DIGLETT'S CAVE|DIGLETT'S GROT|1,167FF9
 185317| 1| 60|0|D|Route 12                                |A POKÈMON is sprawled out in[br]a deep and comfortable slumber.|Een POKÈMON ligt lang uitgestrekt[br]in slaap.|1,16809B
 185354| 1| 46|0|D|Route 12                                |SNORLAX woke up![nb2]It attacked in a grumpy rage!|SNORLAX werd wakker![nb2]Hij heeft een serieus ochtendhumeur!|1,1A9257
-185383| 2| 72|0|D|Route 12                                |SNORLAX calmed down.[br]It gave a huge yawn[...][nb]And returned to the mountains.|SNORLAX kalmeerde.[br]Geewude eens goed[...][nb]En keerde terug naar de bergen.|1,168091;1,16819B
+185383| 2| 72|0|D|Route 12                                |SNORLAX calmed down.[br]It gave a huge yawn[...][nb]And returned to the mountains.|SNORLAX kalmeerde.[br]Geeuwde eens goed[...][nb]En keerde terug naar de bergen.|1,168091;1,16819B
 1853CC| 2| 27|0|D|Route 12                                |Want to use the POKÈ FLUTE?|Wil je de POKÈ FLUIT gebruiken?|1,168032;1,16813F
 1853E8| 1| 25|0|D|Route 12                                |[PLAYER] played the POKÈ FLUTE.|[PLAYER] speelde op de POKÈ FLUIT.|1,1A924C
 185402| 1| 24|0|D|Route 12                                |Yeah![br]I got a bite here!|Jaa![br]Ik heb beet!|1,1AA457
@@ -1243,9 +1243,9 @@
 1854B9| 1| 51|0|D|Route 12                                |I'm searching for a MOON STONE.[br]Have you found one?|Ik zoek naar een MAANSTEEN.[br]Heb je er een gevonden?|1,1AA5CB
 1854ED| 2|  4|0|D|Route 12                                |Oww!|Oww!|1,1AA5CF;1,1AA5F6
 1854F2| 2| 84|0|D|Route 12                                |I could have made my POKÈMON[br]evolve with a MOON STONE.[nb2]I would have won then, I bet.|Ik had mijn POKÈMON kunnen laten[br]evolueren met een MAANSTEEN.[nb2]Dan had ik waarschijnlijk gewonnen.|1,1AA5E5;1,1AA5FC
-185547| 1| 83|0|D|Route 12                                |Electricity is my specialty.[nb2]I don't know a thing about POKÈMON[br]of the sea, though.|Electriciteit is mijn specuialiteit.[nb2]Ik weet wel helemaal niets van[br]zee POKÈMON af.|1,1AA58D
+185547| 1| 83|0|D|Route 12                                |Electricity is my specialty.[nb2]I don't know a thing about POKÈMON[br]of the sea, though.|Elektriciteit is mijn specialiteit.[nb2]Ik weet wel helemaal niets van[br]zee POKÈMON af.|1,1AA58D
 18559B| 2| 10|0|D|Route 12                                |Unplugged!|Uitgetrokken!|1,1AA591;1,1AA5B8
-1855A6| 2| 58|0|D|Route 12                                |Water conducts electricity, so you[br]should zap sea POKÈMON.|Water geleid electriciteit, dus je[br]kan zee POKÈMON electrocuteren.|1,1AA5A7;1,1AA5BE
+1855A6| 2| 58|0|D|Route 12                                |Water conducts electricity, so you[br]should zap sea POKÈMON.|Water geleid elektriciteit, dus je[br]kan zee POKÈMON elektrocuteren.|1,1AA5A7;1,1AA5BE
 1855E1| 1| 36|0|D|Route 12                                |The FISHING FOOL versus POKÈMON[br]KID!|De VIS IDIOOT tegen het POKÈMON[br]KIND!|1,1AA4D3
 185606| 3| 15|0|D|Route 12                                |Touch too much!|Iets te veel!|1,021A31;1,1AA4D7;1,1AA4FE
 185616| 2|107|0|D|Route 12                                |I guess you get to be good at[br]what you like.[nb2]Well, you beat me at POKÈMON,[br]but you can't top me at fishing.|Ik denk dat je goed word in wat je[br]graag doet.[nb2]Jij versloeg me met POKÈMON,[br]maar ik ben beter in het vissen.|1,1AA4ED;1,1AA504
@@ -1254,7 +1254,7 @@
 1856DF| 2| 46|0|D|Route 12                                |It's all right.[br]Losing doesn't bug me anymore.|Het is goed.[br]Ik kan al wat beter tegen verliezen.|1,1AA52B;1,1AA542
 18570E| 1| 53|0|D|Route 12                                |What's catching?[nb2]You never know what you could[br]catch!|Wat vang je?[nb2]Je weet nooit wat je uit het[br]water haalt!|1,1AA54F
 185744| 2|  8|0|D|Route 12                                |Lost it!|Verloren!|1,1AA553;1,1AA57A
-18574D| 2| 73|0|D|Route 12                                |What, MAGIKARP?[nb2]I catch them all the time, sure.[br]But, boy are they wimpy.|Wat, een MAGIKARP?[nb2]Ik van die heel de tijd.[br]Zijn dat een zwakkelingen.|1,1AA569;1,1AA580
+18574D| 2| 73|0|D|Route 12                                |What, MAGIKARP?[nb2]I catch them all the time, sure.[br]But, boy are they wimpy.|Wat, een MAGIKARP?[nb2]Ik vang die heel de tijd.[br]Zijn dat een zwakkelingen.|1,1AA569;1,1AA580
 185797| 1| 27|0|D|Route 12                                |ROUTE 12 [br]North to LAVENDER|ROUTE 12 [br]LAVENDER in het noorden.|1,1680A5
 1857B3| 1| 17|0|D|Route 12                                |SPORTFISHING AREA|VISVIJVER GEBIED|1,1680AE
 1857C5| 1| 43|0|D|Route 12                                |JES: If I win, I'm going to[br]propose to GIA.|JES: Als ik win[br]vraag ik GIA ten huwelijk.|1,1AA609
@@ -1270,7 +1270,7 @@
 1859A2| 2| 44|0|D|Route 13                                |My POKÈMON look happy even though[br]they lost.|Mijn POKÈMON zien er blij uit[br]ondanks dat ze verloren hebben.|1,1AA769;1,1AA780
 1859CF| 1| 28|0|D|Route 13                                |I'm told I'm good for a kid.|Mensen zeggen dat ik goed ben[br]om nog zo jong te zijn.|1,1AA847
 1859EC| 2| 12|0|D|Route 13                                |Ohh![br]I lost!|Oo![br]Ik ben verloren!|1,1AA84B;1,1AA872
-1859F9| 2| 61|0|D|Route 13                                |I want to become a good TRAINER.[br]I'll train hard, just watch.|Ik wil een goede TRAINER worde.[br]Ik ga veel trainen, kijk maar uit.|1,1AA861;1,1AA878
+1859F9| 2| 61|0|D|Route 13                                |I want to become a good TRAINER.[br]I'll train hard, just watch.|Ik wil een goede TRAINER worden.[br]Ik ga veel trainen, kijk maar uit.|1,1AA861;1,1AA878
 185A37| 1| 30|0|D|Route 13                                |Wow![br]Your BADGES are too cool!|Wow![br]Jouw BADGES zijn cool!|1,1AA885
 185A56| 2| 11|0|D|Route 13                                |Not enough!|Niet genoeg!|1,1AA889;1,1AA8B0
 185A62| 2| 46|0|D|Route 13                                |You got those BADGES from GYM[br]LEADERS. I know!|Ik weet het! Je hebt die BADGES[br]van GYM LEIDERS gekregen.|1,1AA89F;1,1AA8B6
@@ -1282,7 +1282,7 @@
 185B67| 2| 39|0|D|Route 13                                |CARBOS boosted the SPEED of my[br]POKÈMON.|CARBOS verhoogde de[br]RAPHEID van mijn POKÈMON.|1,1AA823;1,1AA83A
 185B8F| 1| 58|0|D|Route 13                                |I'm not going to lose.[br]Not when the wind's blowing my way!|Ik ga niet verliezen.[br]Zeker niet nu de wind gunstig is!|1,1AA78D
 185BCA| 2| 16|0|D|Route 13                                |The wind turned!|De wind is gedraaid!|1,1AA791;1,1AA7B8
-185BDB| 2| 32|0|D|Route 13                                |I'm beat.[br]I guess I'll FLY home.|Ik ben moe.[br]Ik denk dat ik maar naar huis FLY.|1,1AA7A7;1,1AA7BE
+185BDB| 2| 32|0|D|Route 13                                |I'm beat.[br]I guess I'll FLY home.|Ik ben moe.[br]Ik denk dat ik maar naar huis VLIEG.|1,1AA7A7;1,1AA7BE
 185BFC| 1| 34|0|D|Route 13                                |Sure, I'll play with you, sweetie.|Ik wil zeker wel met je spelen zoetje.|1,1AA6D3
 185C1F| 2| 21|0|D|Route 13                                |Oh![br]You little beast!|O![br]Jij klein beest!|1,1AA6D7;1,1AA6FE
 185C35| 2| 51|0|D|Route 13                                |I wonder which is stronger, male or[br]female POKÈMON?|Ik vraag mij af wie sterker is,[br]mannelijke of vrouwelijke POKÈMON?|1,1AA6ED;1,1AA704
@@ -1306,7 +1306,7 @@
 185F1A| 2| 43|0|D|Route 14                                |My bird POKÈMON need to learn[br]better moves.|Mijn vogel POKÈMON moeten[br]betere technieken leren.|1,1AAACD;1,1AAAE4
 185F46| 1|103|0|D|Route 14                                |They have TMs on sale at the[br]CELADON DEPT. STORE.[nb2]TMs aren't really rare, but not[br]many people have HMs.|Ze verkopen TM's in de[br]CELADON SUPERMARKT.[nb2]TM's zijn niet echt zeldzaam, maar[br]niet veel mensen hebben HM's|1,1AAAF1
 185FAE| 2| 12|0|D|Route 14                                |Aww, bummer!|Aah, jammer!|1,1AAAF5;1,1AAB1C
-185FBB| 2|101|0|D|Route 14                                |Try teaching POKÈMON a move that's[br]the same type as it.[nb2]That apparently boosts the power[br]of the move.|Je leert POKÈMON best technieken[br]van hetzelfde type als hun.[nb2]Dat zorgt er voor dat de techniek[br]krachtiger wordt.|1,1AAB0B;1,1AAB22
+185FBB| 2|101|0|D|Route 14                                |Try teaching POKÈMON a move that's[br]the same type as it.[nb2]That apparently boosts the power[br]of the move.|Je leert POKÈMON best technieken[br]van hun eigen type.[nb2]Dat zorgt er voor dat de techniek[br]krachtiger wordt.|1,1AAB0B;1,1AAB22
 186021| 1| 90|0|D|Route 14                                |Have you taught your bird POKÈMON[br]how to FLY?[nb2]You'll be able to soar with it into[br]the sky!|Heb je je vogel POKÈMON al de[br]VLIEG techniek geleerd?[nb2]Als ze dat kunnen kan je mee met[br]hen in de lucht!|1,1AAB2F
 18607C| 2| 20|0|D|Route 14                                |Shot down in flames!|Neergeschoten!|1,1AAB33;1,1AAB5A
 186091| 2| 71|0|D|Route 14                                |Bird POKÈMON are my one true love.[br]I don't want to raise anything else.|Vogel POKÈMON zijn mijn ware liefde[br]ik wil niets anders trainen.|1,1AAB49;1,1AAB60
@@ -1340,13 +1340,13 @@
 18650B| 1| 61|0|D|Route 15                                |I just got some POKÈMON in trades.[br]Can I try them out on you?|Ik heb net wat POKÈMON geruild.[br]Mag ik ze testen met jou?|1,1AADAB
 186549| 2| 16|0|D|Route 15                                |Not good enough!|Niet genoeg!|1,1AADAF;1,1AADD6
 18655A| 2|120|0|D|Route 15                                |You can't change the nickname of[br]any POKÈMON you get in a trade.[nb2]Only the Original TRAINER can get[br]the nickname changed.|Je kan de naam van geruilde[br]POKÈMON niet aanpassen.[nb2]Enkel de oorspronkelijke TRAINER[br]kan de naam laten veranderen.|1,1AADC5;1,1AADDC
-1865D3| 1| 62|0|D|Route 15                                |You look gentle, so I think I can[br]beat you.[nb2]I'll give it a go!|Je ziet er lief uit, dus ik denk dat ik[br]je wel kan verslaan.[nb2]Ik daag je uit!|1,1AADE9
+1865D3| 1| 62|0|D|Route 15                                |You look gentle, so I think I can[br]beat you.[nb2]I'll give it a go!|Je ziet er lief uit, dus ik denk[br]dat ik je wel kan verslaan.[nb2]Ik daag je uit!|1,1AADE9
 186612| 2| 10|0|D|Route 15                                |No, wrong!|Nee, verkeerd!|1,1AADED;1,1AAE14
 18661D| 2| 49|0|D|Route 15                                |I'm afraid of BIKERS. They look so[br]ugly and mean!|Ik ben bang van MOTORIJDERS.[br]Ze zien er zo akelig en gemeen uit!|1,1AAE03;1,1AAE1A
 18664F| 1| 42|0|D|Route 15                                |When I whistle, I can summon bird[br]POKÈMON.|Als ik fluit komen er vogel POKÈMON[br]tevoorschijn.|1,1AACF1
 18667A| 2| 18|0|D|Route 15                                |Ow![br]That's tragic!|Oo![br]Dat is jammer!|1,1AACF5;1,1AAD1C
 18668D| 2| 67|0|D|Route 15                                |Maybe I'm not cut out for battles.[br]I'm not the right type, I guess.|Misschien zijn POKÈMON gevechten[br]niet voor mij weggelegd.|1,1AAD0B;1,1AAD22
-1866D1| 1| 53|0|D|Route 15                                |Hmm? My birds are shivering![br]You're good, aren't you?|HÈ? Mijn vogens zitten te bibberen![br]Jij ben zeker een sterke TRAINER?|1,1AAD2F
+1866D1| 1| 53|0|D|Route 15                                |Hmm? My birds are shivering![br]You're good, aren't you?|HÈ? Mijn vogels zitten te bibberen![br]Jij ben zeker een sterke TRAINER?|1,1AAD2F
 186707| 2| 18|0|D|Route 15                                |Just as I thought!|Zoals ik al dacht!|1,1AAD33;1,1AAD5A
 18671A| 2|112|0|D|Route 15                                |This is so obvious, you should know[br]this, but[...][nb2]Moves like EARTHQUAKE and FISSURE[br]have no effect on bird POKÈMON.|Je zou dit wel al moeten weten,[br]maar[...][nb2]Technieken zoals AARDBEVING en [br]AFGROND hebben geen effect op[nb]vogel POKÈMON.|1,1AAD49;1,1AAD60
 18678B| 1| 53|0|D|Route 15                                |Oh, you're a little cutie![br]So like a darling POKÈMON!|Oh, wat ben jij schattig![br]Net een kleine POKÈMON!|1,1AAC75
@@ -1466,7 +1466,7 @@
 1878FE| 2| 38|0|D|Route 19                                |I see a couple of islands over[br]yonder!|Ik zie daar nog een paar eilandjes!|1,1AB4EB;1,1AB502
 187925| 1| 47|0|D|Route 19                                |I tried diving for POKÈMON, but it[br]was a no-go.|Ik heb geprobeerd om te duiken[br]achter POKÈMON, maar dat ging niet.|1,1AB50F
 187955| 2|  5|0|D|Route 19                                |Help!|Help!|1,1AB513;1,1AB53A
-18795B| 2| 41|0|D|Route 19                                |I guess you have to fish for sea[br]POKÈMON.|Ik denk dat je moet vissen voor[br]zee POKÈMON te vangen.|1,1AB529;1,1AB540
+18795B| 2| 41|0|D|Route 19                                |I guess you have to fish for sea[br]POKÈMON.|Ik denk dat je moet vissen om[br]zee POKÈMON te vangen.|1,1AB529;1,1AB540
 187985| 1| 61|0|D|Route 19                                |I look at the sea to forget all[br]the bad things that happened.|Ik kijk naar de zee om alle slechte[br]dingen te vergeten!|1,1AB54D
 1879C3| 2| 15|0|D|Route 19                                |Ooh![br]Traumatic!|Oo![br]Helaas!|1,1AB551;1,1AB578
 1879D3| 2| 61|0|D|Route 19                                |I'm looking at the sea to forget[br]the bad thing that happened!|Ik kijk naar de zee om dit slechte[br]ding te vergeten!|1,1AB567;1,1AB57E
@@ -2251,8 +2251,8 @@
 194A4F| 1| 39|0|D|PokÈmon fan club                        |How is my old [var2]?[nb2]My [var1] is doing great!|Hoe is het met mijn oude[br][var2]?[nb2]Mijn [var1] doet het goed!|1,16B64B
 194A77| 1|237|0|D|Vermilion Mart                          |There are wicked people who will[br]use POKÈMON for criminal acts.[nb2]TEAM ROCKET traffics in rare[br]POKÈMON, for example.[nb2]They also abandon POKÈMON that[br]they consider unpopular or useless.[nb2]That's the sort of horrid people[br]they are, TEAM ROCKET.|Er zijn stoute mensen die POKÈMON[br]gebruiken voor misdaad.[nb2]TEAM ROCKET verhandelt bijvoorbeeld[br]zeldzame POKÈMON.[nb2]Ze laten ook POKÈMON achter[br]die ze niet goed meer vinden.[nb2]Dat is het soort slechte mensen in[br]TEAM ROCKET.|1,16B65F
 194B65| 1| 62|0|D|Vermilion Mart                          |I think POKÈMON can be good or[br]bad. It depends on the TRAINER.|Ik denk dat POKÈMON goed of[br]slecht kunnen zijn. Het hangt[nb]af van de TRAINER.|1,16B656
-194BA4| 1|233|0|D|Vermilion Gym                           |Hey, kid! What do you think you're[br]doing here?[nb2]You won't live long in combat![br]Not with your puny power![nb2]I tell you, kid, electric POKÈMON[br]saved me during the war![nb2]They zapped my enemies into[br]paralysis![nb2]The same as I'll do to you![FC]Œ[kÈ]¿|Hey, wat doe jij hier!?[nb2]Zo zwak jij bent ga je het niet[br]lang uithouden in een gevecht![nb2]Vroeger hebben electrische[br]POKÈMON me vaak gered.[nb2]Ze verlamden mijn tegenstanders.[nb2]En dat ga ik nu met jou ook doen![FC]Œ[kÈ]¿|1,16B95D
-194C8E| 1|107|0|D|Vermilion Gym                           |A little word of advice, kid![nb2]Electricity is sure powerful![nb2]But, it's useless against GROUND-[br]type POKÈMON!|Een woordje advies.[nb2]Electriciteit is heel krachtig![nb2]Maar nutteloos tegen[br]GROUND-type POKÈMON.|1,16B974
+194BA4| 1|233|0|D|Vermilion Gym                           |Hey, kid! What do you think you're[br]doing here?[nb2]You won't live long in combat![br]Not with your puny power![nb2]I tell you, kid, electric POKÈMON[br]saved me during the war![nb2]They zapped my enemies into[br]paralysis![nb2]The same as I'll do to you![FC]Œ[kÈ]¿|Hey, wat doe jij hier!?[nb2]Zo zwak jij bent ga je het niet[br]lang uithouden in een gevecht![nb2]Vroeger hebben elektrische[br]POKÈMON me vaak gered.[nb2]Ze verlamden mijn tegenstanders.[nb2]En dat ga ik nu met jou ook doen![FC]Œ[kÈ]¿|1,16B95D
+194C8E| 1|107|0|D|Vermilion Gym                           |A little word of advice, kid![nb2]Electricity is sure powerful![nb2]But, it's useless against GROUND-[br]type POKÈMON!|Een woordje advies.[nb2]Elektriciteit is heel krachtig![nb2]Maar nutteloos tegen[br]GROUND-type POKÈMON.|1,16B974
 194CFA| 1|140|0|D|Vermilion Gym                           |The THUNDERBADGE cranks up your[br]POKÈMON's SPEED![nb2]It also lets your POKÈMON FLY[br]lightning-quick anytime, kid![nb2]You're special, kid![br]Take this!|De THUNDERBADGE verhoogt de[br]RAPHEID van al je POKÈMON![nb2]Het laat je POKÈMON ook toe[br]VLIEG te gebruiken op elk moment![nb2]Je bent echt speciaal![br]Hier, pak dit!|1,16B9B1
 194D87| 1| 32|0|D|Vermillion gym                          |[PLAYER] received TM34[br]from LT. SURGE.|[PLAYER] krijgt TM34[br]van LT. SURGE.|1,16B9CE
 194DA8| 1| 58|0|D|Vermilion Gym                           |TM34 contains SHOCK WAVE![nb2]Teach it to an ELECTRIC POKÈMON!|TM34 bevat SCHOKGOLF![nb2]Leer het aan een ELECTRIC POKÈMON!|1,16B9E8
@@ -2261,20 +2261,20 @@
 194E57| 1| 77|0|D|Vermilion Gym                           |When I was in the Army, LT. SURGE[br]was my strict CO.[nb2]He was a hard taskmaster.|Toen ik in het leger zat was[br]LT. SURGE mijn commandant.[nb2]Hij was erg strict.|1,16BA3B
 194EA5| 1| 23|0|D|Vermillion gym                          |Stop![br]You're very good!|Stop![br]Jij bent heel goed!|1,16BA3F
 194EBD| 1| 97|0|D|Vermilion Gym                           |It's not easy opening that door.[nb2]LT. SURGE was always famous for[br]his cautious nature in the Army.|Die deur is niet gemakkelijk te openen.[nb2]LT. SURGE was altijd al voorzichtig[br]ook in het leger.|1,16BA56
-194F1F| 1| 79|0|D|Vermilion Gym                           |I'm a lightweight, but I'm good[br]with electricity![nb2]That's why I joined this GYM.|Ik ben niet sterk, maar ik ben goed[br]met electriciteit![nb2]Dat is waarom ik bij deze GYM ben.|1,16BA24
+194F1F| 1| 79|0|D|Vermilion Gym                           |I'm a lightweight, but I'm good[br]with electricity![nb2]That's why I joined this GYM.|Ik ben niet sterk, maar ik ben goed[br]met elektriciteit![nb2]Dat is waarom ik bij deze GYM ben.|1,16BA24
 194F6F| 1|  6|0|D|Vermillion gym                          |Fried!|Gefrituurd!|1,16BA28
 194F76| 1| 70|0|D|Vermilion Gym                           |Okay, I'll talk![nb2]LT. SURGE said he hid door[br]switches inside something.|Ok, ik geef op![nb2]LT. SURGE heeft de deur[br]schakelaars in iets verstopt.|1,16BA2E
 194FBD| 1| 51|0|D|Vermilion Gym                           |This is no place for kids![br]Not even if you're good!|Dit is geen plaats voor kinderen![br]Zelfs als je flink bent!|1,16BA00
 194FF1| 1| 18|0|D|Vermillion gym                          |Wow![br]Surprised me!|Wow![br]Dat was een verassing!|1,16BA04
 195004| 1|175|0|D|Vermilion Gym                           |LT. SURGE installed the traps in[br]the GYM himself.[nb2]He set up double locks everywhere.[br]Let me give you a hint.[nb2]When you open the first lock, the[br]second lock is right next to it.|LT. SURGE heeft de vallen in de[br]GYM zelf geplaatst.[nb2]Overal dubbele sloten.[br]Laat me je een hint geven.[nb2]Als je de eerste opent is de tweede[br]er vlak naast.|1,16BA17
-1950B4| 1|311|0|D|Vermilion Gym                           |Yo![br]Champ in the making![nb2]LT. SURGE has a nickname.[nb2]People refer to him as the[br]Lightning American![nb2]He's an expert on electric[br]POKÈMON.[nb2]BIRD/WATER-type POKÈMON match[br]poorly against the ELECTRIC type.[nb2]Beware of paralysis, too.[nb2]LT. SURGE is very cautious.[nb2]He's locked himself in, so it won't[br]be easy getting to him.|Jo![br]Toekomstig Kampioen![nb2]LT. SURGE heeft een bijnaam.[nb2]Mensen noemen hem De Bliksem![nb2]Hij is een expect van electrische[br]POKÈMON.[nb2]BIRD/WATER-type POKÈMON zijn[br]erg zwak tegen ELECTRIC-type.[nb2]Pas ook op voor verlamming.[nb2]LT. SURGE is erg voorzichtig.[nb2]Hij heeft zichzelf opgesloten, je[br]gaat er niet vlot bij raken.|1,16BA79
+1950B4| 1|311|0|D|Vermilion Gym                           |Yo![br]Champ in the making![nb2]LT. SURGE has a nickname.[nb2]People refer to him as the[br]Lightning American![nb2]He's an expert on electric[br]POKÈMON.[nb2]BIRD/WATER-type POKÈMON match[br]poorly against the ELECTRIC type.[nb2]Beware of paralysis, too.[nb2]LT. SURGE is very cautious.[nb2]He's locked himself in, so it won't[br]be easy getting to him.|Jo![br]Toekomstig Kampioen![nb2]LT. SURGE heeft een bijnaam.[nb2]Mensen noemen hem De Bliksem![nb2]Hij is een expect van elektrische[br]POKÈMON.[nb2]BIRD/WATER-type POKÈMON zijn[br]erg zwak tegen ELECTRIC-type.[nb2]Pas ook op voor verlamming.[nb2]LT. SURGE is erg voorzichtig.[nb2]Hij heeft zichzelf opgesloten, je[br]gaat er niet vlot bij raken.|1,16BA79
 1951EC| 1| 30|0|D|Vermilion Gym                           |Whew![br]That match was electric!|Amai![br]Wat een schokkende wedstrijd!|1,16BA83
 19520B| 1| 60|0|D|Vermilion Gym                           |VERMILION POKÈMON GYM[br]LEADER: LT. SURGE[nb2]WINNING TRAINERS:[br][RIVAL]|VERMILION POKÈMON GYM[br]LEIDER: LT. SURGE[nb2]WINNENDE TRAINERS:[br][RIVAL]|1,16BA97
 195248| 1| 64|0|D|Vermilion Gym                           |VERMILION POKÈMON GYM[br]LEADER: LT. SURGE[nb2]WINNING TRAINERS:[br][RIVAL], [PLAYER]|VERMILION POKÈMON GYM[br]LEIDER: LT. SURGE[nb2]WINNENDE TRAINERS:[br][RIVAL], [PLAYER]|1,16BAA1
 195289| 2| 30|0|D|Vermilion Gym                           |Nope![br]There's only trash here.|Neen![br]Alleen afval hier.|1,16B87D;1,16B8E7
 1952A8| 1| 82|0|D|Vermilion Gym                           |Hey! There's a switch under the[br]trash! Turn it on![nb2]The first electric lock opened!|HÈ, er zit een schakelaar onder[br]het afval! zet het aan![nb2]Het eerste slot is geopend!|1,16B887
 195330| 1| 59|0|D|Vermilion Gym                           |The second electric lock opened![br]The motorized door opened!|Het tweede slot is geopend.[br]De deur is vanzelf open gegaan!|1,16B8CD
-19536C| 1| 66|0|D|Vermillion gym                          |Nope![br]There's only trash here.[nb2]Hey![br]The electric locks were reset!|Neen![br]Er is enkel vuilnis hier.[nb2]HÈ! De electrische sloten[br]zijn terug gezet!|1,16B8AB
+19536C| 1| 66|0|D|Vermillion gym                          |Nope![br]There's only trash here.[nb2]Hey![br]The electric locks were reset!|Neen![br]Er is enkel vuilnis hier.[nb2]HÈ! De elektrische sloten[br]zijn terug gezet!|1,16B8AB
 1953AF| 1| 62|0|D|Vermilion House 2                       |I'm getting my PIDGEY to fly a[br]letter to SAFFRON in the north.|Mijn PIDGEY vliegt een brief naar[br]SAFFRON in het noorden.|1,16BAAC
 1953EE| 1| 17|0|D|Vermilion House 2                       |PIDGEY: Kurukkoo!|PIDGEY: Kurukkoo!|1,16BAC6
 195400| 1|112|0|D|Vermilion House 2                       |Dear PIPPI,[br]I hope to see you soon.[nb2]I heard SAFFRON has problems with[br]TEAM ROCKET.[nb2]VERMILION appears to be safe.|Dag PIPPI,[br]Ik hoop dat ik je snel kan zien.[nb2]Ik heb gehoord dat SAFFRON[br]problemen heeft met TEAM ROCKET.[nb2]Het lijkt veilig in VERMILION.|1,16BAD1
@@ -2561,7 +2561,7 @@
 199D5A| 1| 30|0|D|Cinnabar Gym                            |CATERPIE evolves into METAPOD?|Evolueert CATERPIE in METAPOD?|1,16DC0A
 199D79| 1| 47|0|D|Cinnabar Gym                            |There are nine certified POKÈMON[br]LEAGUE BADGES?|Zijn er negen echte POKÈMON[br]LEAGUE BADGES?|1,16DCFF
 199DA9| 1| 28|0|D|Cinnabar Gym                            |POLIWAG evolves three times?|Evolueert PLIWAG drie keer?|1,16DDDD
-199DC6| 1| 57|0|D|Cinnabar Gym                            |Are electric moves effective[br]against GROUND-type POKÈMON?|Zijn electrische acties goed tegen[br]GROUND-type POKÈMON?|1,16DEB4
+199DC6| 1| 57|0|D|Cinnabar Gym                            |Are electric moves effective[br]against GROUND-type POKÈMON?|Zijn elektrische acties goed tegen[br]GROUND-type POKÈMON?|1,16DEB4
 199E00| 1| 53|0|D|Cinnabar Gym                            |POKÈMON of the same kind and level[br]are not identical?|Zijn POKÈMON van hetzelfde type[br]en level identiek?|1,16DF8B
 199E36| 1| 24|0|D|Cinnabar Gym                            |TM28 contains TOMBSTONY?|bevat TM28 TOMBSTONY?|1,16E062
 199E4F| 1| 41|0|D|Cinnabar Gym                            |You're absolutely correct![nb2]Go on through!|Je bent helemaal juist![nb2]Ga maar verder!|1,16DC2D
@@ -2799,7 +2799,7 @@
 19EF3F| 1| 29|0|D|Route 12                                |You don't have room for this.|Je hebt hier geen plaats voor.|1,16FEF9
 19EF5D| 1| 66|0|D|Route 12                                |Let's see what the binoculars have[br]to show[...][nb2]There's a man fishing!|Laten we eens door de verrekijker[br]kijken[...][nb2]Daar is iemand aan het vissen!|1,16FE7A
 19EFA0| 1| 63|0|D|Route 12                                |Let's see what the binoculars have[br]to show[...][nb2]It's POKÈMON TOWER!|Laten we eens door de verrekijker[br]kijken[...][nb2]Het is de POKÈMON TOREN!|1,16FE83
-19EFE0| 1|122|0|D|Route 12                                |I'm the FISHING GURU's younger[br]brother.[nb2]I simply looove fishing![br]I can't bear to go without.[nb2]Tell me, do you like to fish?|Ik ben de jongere broer van de[br]FISHING GURU.[nb2]Ik ben verzot op vissen vangen.[br]Ik kan geen dach zonder.[nb2]Vertel eens, hou je er van te vissen?|1,16FF19
+19EFE0| 1|122|0|D|Route 12                                |I'm the FISHING GURU's younger[br]brother.[nb2]I simply looove fishing![br]I can't bear to go without.[nb2]Tell me, do you like to fish?|Ik ben de jongere broer van de[br]FISHING GURU.[nb2]Ik ben verzot op vissen vangen.[br]Ik kan geen dag zonder.[nb2]Vertel eens, hou je er van te vissen?|1,16FF19
 19F05B| 1| 86|0|D|Route 12                                |Grand! I like your style.[br]I think we can be friends.[nb2]Take this and fish, young friend!|Leuk! Ik hou van je stijl.[br]Ik denk dat we vrienden worden.[nb2]Neem dit, en ga vissen vriend!|1,16FF4B
 19F0B2| 1| 56|0|D|Route 12                                |[PLAYER] received a SUPER ROD from[br]the FISHING GURU's brother.|[PLAYER] heeft de SUPER HENGEL[br]gekregen de VIS EXPERT's broer.|1,16FF53
 19F0EB| 1|270|0|D|Route 12                                |Fishing is a way of life![br]It is like the finest poetry.[nb2]From the seas to rivers, go out[br]and land the big one, my friend.[nb2]Now, I have a request.[nb2]If you catch a big MAGIKARP [br]with that ROD, I want to see it.[nb2]As much as I love to fish, I also[br]love seeing gigantic MAGIKARP.|Vissen is een manier van leven![br]Het is als poezie.[nb2]Van de zee tot op de rivieren,[br]ga, en vang een dikke![nb2]Nu, ik heb een verzoek.[nb2]Als je een grote MAGIKARP vangt[br]met die ROD wil ik hem zien.[nb2]Ik hou veel van vissen, maar ik hou[br]ook heel erg veel van grote MAGIKARP.|1,16FF6D
@@ -4132,7 +4132,7 @@
 1C1F9D| 1| 58|0|D|VS Seeker                               |Yeah![br]I got a bite, here![nb]Th-this might be the real thing!|Ja![br]Ik heb beet![nb]De-deze keer is het echt!|1,1AA47E
 1C1FD8| 1| 47|0|D|VS Seeker                               |You're finally here.[br]Fishing is a waiting game.|Je bent eindelijk gekomen![br]Om te vissen moet je geduld hebben.|1,1AA4BC
 1C2008| 1| 50|0|D|VS Seeker                               |Still can't find a MOON STONE[...][br]Have you found one?|Ik kan nog steeds geen MAANSTEEN[br]vinden[...][nb2]Heb jij een gevonden?|1,1AA5F2
-1C203B| 1| 96|0|D|VS Seeker                               |Electricity has always been my[br]specialty.[nb2]I don't know a thing about POKÈMON[br]of the sea, though.|Electriciteit is al altijd mijn[br]specialiteit geweest.[nb2]Ik weet wel niets van zee[br]POKÈMON.|1,1AA5B4
+1C203B| 1| 96|0|D|VS Seeker                               |Electricity has always been my[br]specialty.[nb2]I don't know a thing about POKÈMON[br]of the sea, though.|Elektriciteit is al altijd mijn[br]specialiteit geweest.[nb2]Ik weet wel niets van zee[br]POKÈMON.|1,1AA5B4
 1C209C| 1| 55|0|D|VS Seeker                               |The FISHING FOOL vs. POKÈMON KID![br]Another round, fight!|De VIS IDIOOT tegen POKÈMON KID![br]Tweede ronde!|1,1AA4FA
 1C20D4| 1| 95|0|D|VS Seeker                               |I love fishing, don't get me wrong.[br]But, I wish I had more work[...][nb][...]It's hard to give up fishing!|Ik hou van vissen maar, ik wou[br]dat ik meer werk had[...][nb2][...]Het is moeilijk om vissen op[br]te geven.|1,1AA538
 1C2134| 2| 54|0|D|VS Seeker                               |What's catching?[nb2]You'll never know unless you beat[br]me!|Vang je iets?[nb2]Je gaat niets vangen tot[br]je me verslaat!|1,14EE83;1,1AA576
@@ -4451,7 +4451,7 @@
 24731E| 0| 12|0|D|Move names MAX LENGTH 12!               |DISABLE|VERGRENDEL|
 24732B| 0| 12|0|D|Move names MAX LENGTH 12!               |ACID|ZUUR|
 247338| 0| 12|0|D|Move names MAX LENGTH 12!               |EMBER|VLAMMETJE|
-247345| 0| 12|0|D|Move names MAX LENGTH 12!               |FLAMETHROWER|VLAMMWERPER|
+247345| 0| 12|0|D|Move names MAX LENGTH 12!               |FLAMETHROWER|VLAMWERPER|
 247352| 0| 12|0|D|Move names MAX LENGTH 12!               |MIST||
 24735F| 0| 12|0|D|Move names MAX LENGTH 12!               |WATER GUN|WATERPISTOOL|
 24736C| 0| 12|0|D|Move names MAX LENGTH 12!               |HYDRO PUMP|WATERPOMP|
@@ -4775,7 +4775,7 @@
 24F46D| 1| 19|0|D|Inventory Pkmn Items                    |Prevents paralysis.|Voorkomt verlamming.|1,24FB24
 24F481| 1| 27|0|D|Inventory Pkmn Items                    |Ups evasion in a sandstorm.|Verhoogt ontwijken in een zandstorm.|1,24FB28
 24F49D| 1| 21|0|D|Inventory Pkmn Items                    |Paralyzes on contact.|Verlamt bij aanraken.|1,24FB2C
-24F4B3| 1| 26|0|D|Inventory Pkmn Items                    |Turns electricity into HP.|Veranderd electriciteit in HP.|1,24FB30
+24F4B3| 1| 26|0|D|Inventory Pkmn Items                    |Turns electricity into HP.|Veranderd elektriciteit in HP.|1,24FB30
 24F4CE| 1| 22|0|D|Inventory Pkmn Items                    |Changes water into HP.|Verandert water in HP.|1,24FB34
 24F4E5| 1| 20|0|D|Inventory Pkmn Items                    |Prevents attraction.|Voorkomt verliefdheid.|1,24FB38
 24F4FA| 1| 24|0|D|Inventory Pkmn Items                    |Negates weather effects.|Doet weer effecten teniet.|1,24FB3C
@@ -4796,7 +4796,7 @@
 24F654| 1| 26|0|D|Inventory Pkmn Items                    |Passes on status problems.|Geeft status problemen door.|1,24FB78
 24F66F| 1| 27|0|D|Inventory Pkmn Items                    |Prevents ability reduction.|Voorkomt eigenschap vermindering.|1,24FB7C
 24F68B| 1| 25|0|D|Inventory Pkmn Items                    |Heals upon switching out.|Geneest bij wisselen.|1,24FB80
-24F6A5| 1| 23|0|D|Inventory Pkmn Items                    |Draws electrical moves.|Haal electrische acties op.|1,24FB84
+24F6A5| 1| 23|0|D|Inventory Pkmn Items                    |Draws electrical moves.|Haal elektrische acties op.|1,24FB84
 24F6BD| 1| 23|0|D|Inventory Pkmn Items                    |Promotes added effects.|Bevorderd bijkomende effecten.|1,24FB88
 24F6D5| 1| 21|0|D|Inventory Pkmn Items                    |Raises SPEED in rain.|verhoogt RAPHEID in de regen.|1,24FB8C
 24F6EB| 1| 25|0|D|Inventory Pkmn Items                    |Raises SPEED in sunshine.|Verhoogt RAPHEID in zonneschijn.|1,24FB90
@@ -4989,7 +4989,7 @@
 3D777C| 1| 98|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It restores any lowered stat in[br]battle. It can be used only once.|Item vast te houden door POKÈMON.[br]Het herstelt een verlaagde eigenschap[br]in een gevecht. Eenmalig gebruik.|1,3DCF2C
 3D77DF| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It promotes strong growth but[br]lowers SPEED while it is held.|Item vast te houden door POKÈMON.[br]Het bevorderd sterke groei, maar[br]verlaagt RAPHEID als vastgehouden.|1,3DCF58
 3D783D| 1| 97|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]The holder gets a share of EXP.[br]points without having to battle.|Item vast te houden door POKÈMON.[br]De houder krijgt altijd een deel[br]van de EXP. punten zonder te vechten.|1,3DCF84
-3D789F| 1| 96|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A light and sharp claw. The holder[br]may be able to strike first.|Item vast te houden door POKÈMON.[br]Een lichte scherpe klauw. De houder[br]heeft meer kans om als eerste te gaan.|1,3DCFB0
+3D789F| 1| 96|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A light and sharp claw. The holder[br]may be able to strike first.|Item vast te houden door POKÈMON.[br]Een lichte scherpe klauw. [br]Meer kans om als eerste te gaan.|1,3DCFB0
 3D7900| 1|104|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]A bell with a comforting chime that[br]makes the holder calm and friendly.|Item vast te houden door POKÈMON.[br]Een bel met een relaxerende ring het[br]maakt de houder kalm en vriendelijk|1,3DCFDC
 3D7969| 1| 93|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It snaps the holder out of[br]infatuation. It can be used once.|Item vast te houden door POKÈMON.[br]Het verhelpt verliefdheid bij de[br]houder. Eenmalig gebruik.|1,3DD008
 3D79C7| 1| 90|0|I|Inventory flavor text (max 3 lines)     |An item to be held by a POKÈMON.[br]It powers up one move, which[br]becomes the only usable one.|Item vast te houden door POKÈMON.[br]Het maakt een techniek sterker. [br]Maar enkel deze kan gebruikt worden.|1,3DD034
@@ -6778,7 +6778,7 @@
 3FC4F0| 1| 39|0|D|Battle7                                 |[FD0F]'s [FD14][br]was bounced back by MAGIC COAT!|[FD0F] zijn [FD14] was[br]teruggekaatst door MAGIEMANTEL!|1,3FE204
 3FC518| 1| 36|0|D|Battle7                                 |[FD0F] waits for its foe[br]to make a move!|[FD0F] wacht op zijn vijand[br]om een beweging te maken!|1,3FE208
 3FC53D| 1| 22|0|D|Battle7                                 |[FD10] SNATCHED[br][FD13]'s move!|[FD10] heeft [FD13][br]zijn actie GEGREPEN!|1,3FE20C
-3FC554| 1| 33|0|D|Battle7                                 |Electricity's power was[br]weakened!|Electriciteit is verzwakt!|1,3FE3F8
+3FC554| 1| 33|0|D|Battle7                                 |Electricity's power was[br]weakened!|Elektriciteit is verzwakt!|1,3FE3F8
 3FC576| 1| 26|0|D|Battle7                                 |Fire's power was[br]weakened!|Vuurkracht is[br]verwzakt!|1,3FE3FC
 3FC591| 1| 16|0|D|Battle7                                 |[FD0F] found[br]one [FD16]!|[FD0F] vond[br]een [FD16]!|1,3FE40C
 3FC5A2| 1| 41|0|D|Battle7                                 |A soothing aroma wafted[br]through the area!|Aen zoete geur waait[br]rond in de omgeving!|1,3FE414
@@ -7711,7 +7711,7 @@
 419201| 1|107|0|I|Location flavor text                    |A pair of islands that is situated[br]on ROUTE 20.[br]The two islands are shaped the[br]same, as if they were twins.|Een paar eilanden op ROUTE 20.[br]De twee eilanden hebben dezelfde[br]vorm, alsof ze tweelingen zijn.|1,3F1B98
 41926D| 1|116|0|I|Location flavor text                    |A tower that houses the graves of[br]countless POKÈMON.[br]Many people visit it daily to pay[br]their respects to the fallen.|Een toren die de graven bevat van[br]ontelbare POKÈMON.[br]Veel mensen bezoeken het dagelijks[br]om te bidden voor overledenen.|1,3F1BA4
 4192E2| 1|120|0|I|Location flavor text                    |A mysterious cave that is filled[br]with terribly tough POKÈMON.[br]It is so dangerous, the POKÈMON[br]LEAGUE is in charge of it.|Een mysterieuze grot vol met erg[br]sterke POKÈMON. Het is zo[br]gevaarlijk dat de POKÈMON LEAGUE[br]er verantwoordelijk voor is.|1,3F1BB0
-41935B| 1|121|0|I|Location flavor text                    |A power plant that was abandoned[br]years ago, though some of the[br]machines still work. It is infested[br]with electric POKÈMON.|Een electriciteitscentrale die jaren[br]geleden verlaten is, hoewel sommige[br]machines nog steeds werken.[br]Zit vol met electrische POKÈMON.|1,3F1BBC
+41935B| 1|121|0|I|Location flavor text                    |A power plant that was abandoned[br]years ago, though some of the[br]machines still work. It is infested[br]with electric POKÈMON.|Een elektriciteitscentrale die jaren[br]geleden verlaten is, hoewel sommige[br]machines nog steeds werken.[br]Zit vol met elektrische POKÈMON.|1,3F1BBC
 4193D5| 1|110|0|I|Location flavor text                    |Supposedly an inactive volcano.[br]However, there are persistent[br]reports that the peak blazes[br]with fire at night.|Een zogenaamd niet actieve[br]vulkaan. Maar er zijn hardnekkige[br]geruchten dat de top in brand[br]staat elke nacht.|1,3F1BC8
 419444| 1|132|0|I|Location flavor text                    |A forest on a small islet off the[br]coast of THREE ISLAND. BERRIES[br]grow wildly in profusion, quickly[br]replenishing those that fall off.|Een bos op een klein eland vlak bij[br]de kust van THREE EILAND. BESSEN[br]groeien er overvloedig in het wild,[br]men kan er blijven plukken.|1,3F1BD4
 4194C9| 1|117|0|I|Location flavor text                    |A cave which is covered by water[br]and ice on FOUR ISLAND.[br]It seems like the end of the cave[br]is connected to the ocean.|Een grot vol met water en ijs[br]op FOUR EILAND.[br]Het lijkt alsof het einde van de[br]grot verbonden is met de oceaan.|1,3F1BE0
@@ -8865,7 +8865,7 @@
 482985| 1| 67|0|I|Move Desc. (4 half lines)               |Numerous coins are[br]hurled at the foe.[br]Money is earned[br]after battle.|Munten worden naar[br]de vijand gegooid.[br]Geld is verzameld[br]na het gevecht.|1,4886FC
 4829C9| 1| 71|0|I|Move Desc. (4 half lines)               |The foe is punched[br]with a fiery fist.[br]It may leave the[br]foe with a burn.|Een klop met een[br]brandende vuist.[br]Kan een brandwonde[br]veroorzaken.|1,488700
 482A11| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is punched[br]with an icy fist.[br]It may leave the[br]foe frozen.|Een klop met een[br]ijskoude vuist.[br]Kan de vijand[br]bevriezen.|1,488704
-482A53| 1| 76|0|I|Move Desc. (4 half lines)               |The foe is punched[br]with an electrified[br]fist. It may leave[br]the foe paralyzed.|Een klop met een[br]electrisch geladen[br]vuist. Kan de vijand[br]verlammen.|1,488708
+482A53| 1| 76|0|I|Move Desc. (4 half lines)               |The foe is punched[br]with an electrified[br]fist. It may leave[br]the foe paralyzed.|Een klop met een[br]elektrisch geladen[br]vuist. Kan de vijand[br]verlammen.|1,488708
 482AA0| 1| 44|0|I|Move Desc. (4 half lines)               |Hard, pointed, and[br]sharp claws rake[br]the foe.|Harde, puntige en[br]scherpe klauwen[br]harken naar de[br]vijand.|1,48870C
 482ACD| 1| 50|0|I|Move Desc. (4 half lines)               |Huge, impressive[br]pincers grip and[br]squeeze the foe.|Gigantische scharen[br]grijpen en knijpen[br]in de tegenstander.|1,488710
 482B00| 1| 69|0|I|Move Desc. (4 half lines)               |A vicious tearing[br]attack with pincers.[br]The foe will faint[br]if it hits.|Een venijnige aanval[br]met scharen. De[br]tegenstander valt[br]flauw indien geraakt.|1,488714
@@ -8940,9 +8940,9 @@
 483D24| 1| 70|0|I|Move Desc. (4 half lines)               |The foe is bound[br]with strings shot[br]from the mouth to[br]reduce its SPEED.|Beschiet de vijand[br]met touwen zodat[br]zijn RAPHEID[br]verlaagt.|1,488828
 483D6B| 1| 68|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]a shock wave that[br]always inflicts 40-[br]HP damage.|Een schokgolf die[br]altijd 40 HP schade[br]doet aan de vijand.|1,48882C
 483DB0| 1| 77|0|I|Move Desc. (4 half lines)               |The foe is trapped[br]in an intense spiral[br]of fire that rages[br]two to five turns.|Vangt de vijand in[br]een wervelwind van[br]vuur voor twee tot[br]vijf beurten.|1,488830
-483DFE| 1| 63|0|I|Move Desc. (4 half lines)               |An electric shock[br]attack that may[br]also leave the foe[br]paralyzed.|Electrische schok[br]die de vijand kan[br]verlammen.|1,488834
-483E3E| 2| 65|0|I|Move Desc. (4 half lines)               |A strong electrical[br]attack that may[br]also leave the foe[br]paralyzed.|Sterke electrische[br]aanval die de[br]vijand kan[br]verlammen.|1,3DE5DC;1,488838
-483E80| 1| 65|0|I|Move Desc. (4 half lines)               |A weak electric[br]shock that is sure[br]to cause paralysis[br]if it hits.|Zwakke electrische[br]schok die de vijand[br]zeker verlamt.|1,48883C
+483DFE| 1| 63|0|I|Move Desc. (4 half lines)               |An electric shock[br]attack that may[br]also leave the foe[br]paralyzed.|Elektrische schok[br]die de vijand kan[br]verlammen.|1,488834
+483E3E| 2| 65|0|I|Move Desc. (4 half lines)               |A strong electrical[br]attack that may[br]also leave the foe[br]paralyzed.|Sterke elektrische[br]aanval die de[br]vijand kan[br]verlammen.|1,3DE5DC;1,488838
+483E80| 1| 65|0|I|Move Desc. (4 half lines)               |A weak electric[br]shock that is sure[br]to cause paralysis[br]if it hits.|Zwakke elektrische[br]schok die de vijand[br]zeker verlamt.|1,48883C
 483EC2| 2| 64|0|I|Move Desc. (4 half lines)               |A brutal lightning[br]attack that may[br]also leave the foe[br]paralyzed.|Een bliksemaanval[br]die de vijand kan[br]verlammen.|1,3DE608;1,488840
 483F03| 1| 64|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with a shower of[br]small, easily[br]thrown rocks.|De vijand wordt[br]bekogeld met een[br]regen van kleine[br]stenen.|1,488844
 483F44| 2| 68|0|I|Move Desc. (4 half lines)               |An earthquake that[br]strikes all POKÈMON[br]in battle excluding[br]the user.|Een aardbeving die[br]alle POKÈMON in het[br]gevecht treft.[br]Behalve de gebruiker.|1,3DE634;1,488848
@@ -9038,7 +9038,7 @@
 485798| 1| 70|0|I|Move Desc. (4 half lines)               |An all-out attack[br]that becomes more[br]powerful the less[br]HP the user has.|Een roekeloze[br]aanval die sterker[br]wordt hoe minder HP[br]de gebruiker heeft.|1,4889B0
 4857DF| 1| 62|0|I|Move Desc. (4 half lines)               |A move that cuts[br]2 to 5 PP from the[br]move last used by[br]the foe.|Doet de vijand[br]2 tot 5 PP verliezen[br]van de techniek die[br]hij laatst gebruikte.|1,4889B4
 48581E| 1| 56|0|I|Move Desc. (4 half lines)               |Blasts the foe with[br]a snowy gust.[br]It may cause[br]freezing.|Schiet de vijand met[br]een wind van sneeuw.[br]Kan de vijand[br]bevriezen.|1,4889B8
-485857| 2| 73|0|I|Move Desc. (4 half lines)               |Enables the user to[br]evade all attacks.[br]It may fail if used[br]in succession.|Alle aanvallen worden[br]ontweken. Kan falen[br]indien meerdere keren[br]gebruikt na elkaar.|1,3DE4A8;1,4889BC
+485857| 2| 73|0|I|Move Desc. (4 half lines)               |Enables the user to[br]evade all attacks.[br]It may fail if used[br]in succession.|Ontwijkt alle[br]aanvallen. Kan falen[br]indien meer keer[br]na elkaargebruikt.|1,3DE4A8;1,4889BC
 4858A1| 1| 64|0|I|Move Desc. (4 half lines)               |A punch thrown at[br]blinding speed.[br]It is certain to[br]strike first.|Een supersnelle slag[br]Raakt zeker als[br]eerste.|1,4889C0
 4858E2| 1| 64|0|I|Move Desc. (4 half lines)               |Frightens the foe[br]with a scary face[br]to sharply reduce[br]its SPEED.|Maakt de vijand[br]bang met een akelig[br]gezicht. Verlaagt[br]zijn RAPHEID veel.|1,4889C4
 485923| 1| 71|0|I|Move Desc. (4 half lines)               |The user draws up[br]close to the foe[br]disarmingly, then[br]hits without fail.|De gebruiker komt[br]heel dicht bij de[br]vijand en raakt[br]hem zeker.|1,4889C8
@@ -9053,7 +9053,7 @@
 485B9C| 1| 65|0|I|Move Desc. (4 half lines)               |If the user faints,[br]the foe delivering[br]the final hit also[br]faints.|Als de gebruiker[br]flauw valt dan[br]valt de vijand die[br]dit veroorzakt ook.|1,4889EC
 485BDE| 1| 69|0|I|Move Desc. (4 half lines)               |Any battler that[br]hears this faints[br]in three turns[br]unless it switches.|Elke vechter die dit[br]hoort moet wisselen[br]binnen drie beurten[br]of hij valt flauw.|1,4889F0
 485C24| 1| 65|0|I|Move Desc. (4 half lines)               |A chilling wind is[br]used to attack.[br]It also lowers the[br]SPEED stat.|Ijskoude wind is[br]gebruikt als aanval.[br]Verlaagt ook de[br]vijand zijn RAPHEID.|1,4889F4
-485C66| 1| 73|0|I|Move Desc. (4 half lines)               |Enables the user to[br]evade all attacks.[br]It may fail if used[br]in succession.|Alle aanvallen worden[br]ontweken. Kan falen[br]indien meerdere keren[br]gebruikt na elkaar.|1,4889F8
+485C66| 1| 73|0|I|Move Desc. (4 half lines)               |Enables the user to[br]evade all attacks.[br]It may fail if used[br]in succession.|Ontwijkt alle[br]aanvallen. Kan falen[br]indien meer keer[br]na elkaargebruikt.|1,4889F8
 485CB0| 1| 63|0|I|Move Desc. (4 half lines)               |The user strikes[br]the foe with a bone[br]in hand two to five[br]times.|Slaat twee tot vijf[br]keer op de vijand[br]met een bot.|1,4889FC
 485CF0| 1| 63|0|I|Move Desc. (4 half lines)               |The user locks on[br]to the foe, making[br]the next move sure[br]to hit.|De gebruiker richt[br]zich helemaal op de[br]vijand. De volgende[br]aanval raakt zeker.|1,488A00
 485D30| 1| 70|0|I|Move Desc. (4 half lines)               |The user thrashes[br]about for two to[br]three turns, then[br]becomes confused.|Slaat maar in het[br]rond voor twee tot[br]drie beurten. Word[br]daarna verward.|1,488A04
@@ -9065,7 +9065,7 @@
 485EE1| 1| 66|0|I|Move Desc. (4 half lines)               |A restrained attack[br]that always leaves[br]the foe with at[br]least 1 HP.|Ingehouden aanval[br]die de vijand met[br]zeker 1 HP over[br]laat.|1,488A1C
 485F24| 1| 71|0|I|Move Desc. (4 half lines)               |A move that makes[br]the foe confused,[br]but also sharply[br]raises its ATTACK.|Maakt de vijand[br]verward, maar[br]verhoogt ook zijn[br]AANVAL heel erg.|1,488A20
 485F6C| 1| 73|0|I|Move Desc. (4 half lines)               |Heals the user by[br]up to half its full[br]HP. It can be used[br]to heal an ally.|Geneest tot de helft[br]van de HP. Kan[br]gebruikt worden op[br]een teamgenoot.|1,488A24
-485FB6| 1| 62|0|I|Move Desc. (4 half lines)               |An electrically[br]charged tackle that[br]may also paralyze[br]the foe.|Electrische[br]lichaamsaanval[br]die de vijand kan[br]verlammen.|1,488A28
+485FB6| 1| 62|0|I|Move Desc. (4 half lines)               |An electrically[br]charged tackle that[br]may also paralyze[br]the foe.|Elektrische[br]lichaamsaanval[br]die de vijand kan[br]verlammen.|1,488A28
 485FF5| 1| 53|0|I|Move Desc. (4 half lines)               |An attack that[br]grows stronger on[br]each successive[br]hit.|Deze aanval word[br]sterker elke keer[br]hij achtereenvolgend[br]raakt.|1,488A2C
 48602B| 2| 73|0|I|Move Desc. (4 half lines)               |The foe is hit with[br]wings of steel.[br]It may also raise[br]the user's DEFENSE.|Raakt de vijand met[br]stalen vleugls.[br]Kan de gebruiker's[br]AFWEER verhogen.|1,3DE9D0;1,488A30
 486075| 1| 65|0|I|Move Desc. (4 half lines)               |The foe is fixed[br]with a mean look[br]that prevents it[br]from escaping.|Een gemene blik[br]die voorkomt dat[br]de vijand ontsnapt.|1,488A34
@@ -9200,14 +9200,14 @@
 488341| 1| 65|0|I|Move Desc. (4 half lines)               |The user attacks by[br]hurling mud.[br]It also reduces the[br]foe's SPEED.|Gooit modder naar[br]de vijand. Zijn[br]RAPHEID word ook[br]verlaagd.|1,488C38
 488383| 1| 69|0|I|Move Desc. (4 half lines)               |An attack with a[br]high critical-hit[br]ratio. It may also[br]poison the foe.|Veel kans op super-[br]slagen. [br]Kan de vijand ook[br]vergiftigen.|1,488C3C
 4883C9| 1| 62|0|I|Move Desc. (4 half lines)               |A cutely executed[br]attack that also[br]steals the foe's[br]hold item.|Schattig uitgevoerde[br]aanval die de vijand[br]zijn vastgehouden[br]item steelt.|1,488C40
-488408| 1| 66|0|I|Move Desc. (4 half lines)               |The user throws an[br]electrified tackle.[br]It hurts the user[br]a little.|Een electrische[br]aanval.[br]Gebruiker krijgt zelf[br]een beetje schade.|1,488C44
+488408| 1| 66|0|I|Move Desc. (4 half lines)               |The user throws an[br]electrified tackle.[br]It hurts the user[br]a little.|Een elektrische[br]aanval.[br]Gebruiker krijgt zelf[br]een beetje schade.|1,488C44
 48844B| 1| 62|0|I|Move Desc. (4 half lines)               |The foe is attacked[br]with a strange leaf[br]that cannot be[br]evaded.|Valt de vijand aan[br]met een raar blad.[br]Het kan niet[br]ontweken worden.|1,488C48
 48848A| 1| 58|0|I|Move Desc. (4 half lines)               |Weakens FIRE-type[br]attacks while the[br]user is in the[br]battle.|Verzwakt FIRE-[br]type aanvallen zo[br]lang de gebruiker[br]in het gevecht zit.|1,488C4C
 4884C5| 2| 65|0|I|Move Desc. (4 half lines)               |The user focuses[br]its mind to raise[br]the SP. ATK and[br]SP. DEF stats.|Concentratie om de[br]SP. AANV en SP. AFW[br]te doen stijgen.|1,3DE26C;1,488C50
 488507| 1| 71|0|I|Move Desc. (4 half lines)               |The foe is slashed[br]with a sharp leaf.[br]It has a high[br]critical-hit ratio.|Raakt de vijand met[br]een scherp blad.[br]Heeft veel kans op[br]een superslag.|1,488C54
 48854F| 1| 71|0|I|Move Desc. (4 half lines)               |A mystic, powerful[br]dance that boosts[br]the user's ATTACK[br]and SPEED stats.|Mysterieuze, sterke,[br]dans die de AANVAL[br]en RAPHEID van de[br]gebruiker verhoogt.|1,488C58
 488597| 1| 59|0|I|Move Desc. (4 half lines)               |The user hurls two[br]to five hard rocks[br]at the foe to[br]attack.|Gooit twee tot vijf[br]harde stenen naar[br]de vijand als aanval.|1,488C5C
-4885D3| 2| 64|0|I|Move Desc. (4 half lines)               |A rapid jolt of[br]electricity strikes[br]the foe. It can't[br]be evaded.|Een snelle flits[br]electriciteit raakt[br]de vijand. Kan niet[br]ontweken worden.|1,3DE794;1,488C60
+4885D3| 2| 64|0|I|Move Desc. (4 half lines)               |A rapid jolt of[br]electricity strikes[br]the foe. It can't[br]be evaded.|Een snelle flits[br]elektriciteit raakt[br]de vijand. Kan niet[br]ontweken worden.|1,3DE794;1,488C60
 488614| 2| 69|0|I|Move Desc. (4 half lines)               |An attack with a[br]pulsing blast of[br]water. It may also[br]confuse the foe.|Aanval met een[br]waterstoot. [br]Kan de vijand[br]ook verwarren.|1,3DE240;1,488C64
 48865A| 1| 70|0|I|Move Desc. (4 half lines)               |A move that attacks[br]the foe with a[br]blast of light two[br]turns after use.|Een techniek die de[br]vijand met een[br]lichtbundel aanvalt 2[br]beurten na gebruik.|1,488C68
 4886A1| 1| 68|0|I|Move Desc. (4 half lines)               |An intense attack[br]that also sharply[br]reduces the user's[br]SP. ATK stat.|Een furieuze aanval[br]die de gebruiker[br]zijn SP. AANV sterk[br]doet dalen.|1,488C6C
